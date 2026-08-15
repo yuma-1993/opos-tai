@@ -2,6 +2,11 @@
 | ---------------------------------------------------------------- | ------ | ------------- | ---------------- | -------------- | -------- | ------ | ----- |
 | Modelo Entidad-Relación (E/R) y Diagrama de Flujo de Datos (DFD) | 3      | 2026-07-27    | 1                | 2026-07-28     | 0        | 1      | 0     |
 | Periféricos, almacenamiento y conectividad                       | 2      | 2026-07-29    | 1                | 2026-07-30     | 0        | 1      | 0     |
+| Administración de Sistemas Operativos — gestión de configuración, almacenamiento, backup, Linux y PowerShell | 4      | 2026-08-15    | 1                | 2026-08-16     | 0        | 0      | 0     |
+| Administración de Sistemas Operativos — SSH (instalación, configuración y comandos) | 4      | 2026-08-15    | 1                | 2026-08-16     | 0        | 0      | 0     |
+| Administración de Sistemas Operativos — Apache HTTP Server (laboratorio) | 4      | 2026-08-15    | 1                | 2026-08-16     | 0        | 0      | 0     |
+| Administración de Sistemas Operativos — Ansible (laboratorio)    | 4      | 2026-08-15    | 1                | 2026-08-16     | 0        | 0      | 0     |
+| Administración de Sistemas Operativos — SaltStack (laboratorio)  | 4      | 2026-08-15    | 1                | 2026-08-16     | 0        | 0      | 0     |
 
 ## Notas de repaso por apartado
 
