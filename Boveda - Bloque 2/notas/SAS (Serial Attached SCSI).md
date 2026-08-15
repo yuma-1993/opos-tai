@@ -25,3 +25,4 @@ Bus de comunicación **serie**, la evolución profesional de **[[SCSI (Small Com
 - [[WWN (World Wide Name)]] — el identificador que sustituye al ID numérico de SCSI.
 - [[SSD (Solid State Drive)]] y [[HDD (Hard Disk Drive)]] — discos físicos que pueden usar esta interfaz.
 - [[Interfaces]] y [[Bus de comunicación]] — panorama y clasificación general.
+- [[B4 - T1.1 ADMON SSOO]] — el WWN que identifica aquí a cada dispositivo es el mismo identificador que usa el HBA en una SAN.

@@ -183,3 +183,4 @@ Disco extra, sin usar, conectado a la controladora. Si un disco activo falla, el
 - [[B2 - T2 PERIFERICOS Y ALMACENAMIENTO]] — versión resumida de examen de este mismo contenido, dentro de la Parte III del tema.
 - [[HDD (Hard Disk Drive)]] y [[SSD (Solid State Drive)]] — los discos físicos que forman cualquier array RAID; el TBW y el *wear leveling* del SSD importan especialmente en RAID 5/6 por la escritura extra que genera la paridad.
 - [[DMA]] — igual que RAID delega trabajo repetitivo (mover datos) en un controlador dedicado para liberar a la CPU, una controladora RAID hardware delega el cálculo de paridad y el reparto de bloques sin intervención del procesador principal.
+- [[B4 - T1.1 ADMON SSOO]] — en administración de sistemas, RAID aparece como la capa física que puede quedar debajo de un LVM (comando `mdadm`), y su callout "RAID no es backup" conecta directamente con las estrategias de backup de ese tema.

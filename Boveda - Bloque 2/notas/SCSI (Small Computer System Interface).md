@@ -13,3 +13,4 @@ Bus de comunicación **paralelo**, orientado a servidores y equipos profesionale
 - [[PATA (Parallel ATA)]] — el equivalente doméstico de la misma generación paralela.
 - [[Interfaces]] — panorama completo de la evolución de interfaces de disco.
 - [[Bus de comunicación]] — clasificación general paralelo/serie.
+- [[B4 - T1.1 ADMON SSOO]] — en SAN, el acceso a la cabina se hace con comandos SCSI a través de la SCSI Layer (protocolos SCSI o FCP).

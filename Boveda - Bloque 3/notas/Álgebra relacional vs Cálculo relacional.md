@@ -9,7 +9,11 @@ Ambos son formas equivalentes de expresar consultas sobre el modelo relacional. 
 > [!important]
 > Ambos formalismos son equivalentes en potencia expresiva (teorema de Codd): todo lo expresable en uno se puede expresar en el otro.
 
+> [!note] Ver también
+> La misma distinción declarativo ("qué quieres") vs procedimental/imperativo ("cómo obtenerlo") aparece fuera de bases de datos: en [[B4 - T1.4 ADMON SSOO - ANSIBLE]], un playbook es declarativo (describe el estado final) frente a los comandos ad-hoc, que son imperativos.
+
 [[Operaciones básicas del álgebra relacional]]
 [[Operaciones derivadas del álgebra relacional]]
 [[Cálculo relacional (tuplas y dominios)]]
 [[B3 - T1.2 DISENO BBDD]]
+[[B4 - T1.5 ADMON SSOO - SALTSTACK]]
