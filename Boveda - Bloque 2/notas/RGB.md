@@ -1,0 +1,2 @@
+El código RGB es un [[modelo de colores]] reconocido a nivel internacional. Este modelo tiene su base en los tres colores primarios rojo (Red), verde (Green), y azul (Blue).  
+Cuando hablamos de RGB estamos hablando de un modelo basado en la **“síntesis aditiva”** o sea: es posible representar cualquier color por medio de la suma de los tres básicos. Sobreponiéndolos todos se obtiene el color blanco.

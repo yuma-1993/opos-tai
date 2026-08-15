@@ -1,0 +1,3 @@
+Es una zona de almacenamiento temporal que se sitúa entre dos partes de un sistema que trabajan a velocidades distintas o de forma no sincronizada (por ejemplo, entre un dispositivo lento y la CPU rápida). Su función es guardar los datos de paso mientras esperan a ser procesados o enviados, de modo que el emisor pueda dejar los datos y seguir con lo suyo, y el receptor los recoja cuando pueda. Así se evita que uno tenga que esperar constantemente al otro y se suaviza el flujo de información, absorbiendo los "baches" entre ambos ritmos.
+
+[[Técnicas de gestión de datos en memoria intermedia]]

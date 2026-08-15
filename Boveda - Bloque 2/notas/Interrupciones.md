@@ -1,0 +1,6 @@
+1. Cuando pulsas una tecla, el [[controlador]] del teclado (un chip físico) detecta la señal eléctrica y guarda el código de la tecla en su registro de datos; 
+2. A continuación lanza una [[IRQ - Interrupt Request]], una señal de aviso vacía, sin el dato, hacia la PIC. 
+3. La [[PIC - Programmable Interrupt Controller]] centraliza las IRQ de todos los controladores del sistema (necesario porque la [[CPU - Central Processing Unit]] tiene muy pocas líneas físicas de interrupción y no puede tener un cable por periférico), arbitra la prioridad si llegan varias a la vez, y traduce la IRQ concreta a un [[offset]] — un índice, no una dirección — que... 
+4. Envía a la CPU junto con la orden de "para, atiende". 
+5. La CPU usa ese offset para localizar, en la [[tabla de vectores de interrupción]] que vive en RAM, la dirección de memoria donde arranca la [[ISR - Interrupt Service Rutine]] (el driver, software). 
+6. Una vez en marcha, es la propia ISR quien va directamente al registro de datos del controlador — la PIC ya no interviene en este paso — y lee ahí el dato real (qué tecla fue), para traducirlo y pasárselo al [[sistema operativo]].

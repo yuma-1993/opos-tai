@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "5274e5e3bec0715c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a20a0d3b801f8ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcdd0152298d1a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/Tutela judicial efectiva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutela judicial efectiva"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47cae15e6df7fe40",
+    "type": "split",
+    "children": [
+      {
+        "id": "655201c804389db6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d51dcdb6cf8071f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6567fd9efae97c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "948b73e0644a2998",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2b53bb9a0ff0cf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ba9642f164d767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6453eac4396a095",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notas/Tutela judicial efectiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "e3990e6e312a639f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas/Tutela judicial efectiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "eb5932c862b0d7d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "87adea9498548606",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7c0e3d53eabfef96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notas/Tutela judicial efectiva.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "dcdd0152298d1a09",
+  "lastOpenFiles": [
+    "notas/Recurso de amparo.md",
+    "notas/Principios rectores de la política social y económica.md",
+    "notas/La Regencia.md",
+    "notas/La Corona - El Rey.md",
+    "notas/Defensor del Pueblo.md",
+    "Bloque 1/B1 - T1 CONSTITUCION.md",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.c11c5fb4d030",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.194d93c3fbcc",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.1d0d2097e492",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.22f1ccaad2e2",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.8716d44df821",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.52f4d7b58a0b",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.81e5087d17d7",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.b2c258c32a73",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.b57e051e41ff",
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.307d873fbd3d",
+    "notas/Estado de sitio.md",
+    "notas/Estado de excepción.md",
+    "notas/Estado de alarma.md",
+    "notas/Reforma constitucional.md",
+    "notas/La Tutela del Rey.md",
+    "notas/Suspensión de derechos y libertades.md",
+    "notas/Derechos y deberes de los ciudadanos (Sección 2ª).md",
+    "notas/Objeción de conciencia.md",
+    "notas/Recurso de inconstitucionalidad.md",
+    "notas/Tutela judicial efectiva.md",
+    "notas/Libertad de expresión e información.md",
+    "notas/Derecho al honor, la intimidad y la propia imagen.md",
+    "notas/Habeas corpus.md",
+    "notas/Igualdad ante la ley.md",
+    "notas/Título Preliminar.md",
+    "Sin título.md"
+  ]
+}

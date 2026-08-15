@@ -1,0 +1,4 @@
+El modelo HSB se basa en la percepción humana del color y describe tres características fundamentales del color, que son:
+- Tono es el color reflejado o transmitido a través de un objeto. Se mide como una posición en la rueda de colores estándar y se expresa en grados, entre 0° y 360°. Normalmente, el tono se identifica por el nombre del color, como rojo, naranja o verde.
+- Saturación, también denominada cromatismo, es la fuerza o pureza del color. La saturación representa la cantidad de gris que existe en proporción al tono y se mide como porcentaje comprendido entre 0% (gris) y 100% (saturación completa). En la rueda de colores estándar, la saturación aumenta a medida que nos aproximamos al borde de la misma y disminuye a medida que nos acercamos al centro.
+- Brillo es la luminosidad u oscuridad relativa del color y se suele medir como un porcentaje comprendido entre 0% (negro) y 100% (blanco).

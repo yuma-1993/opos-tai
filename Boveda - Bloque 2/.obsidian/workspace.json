@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "de1976bb04f6d4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5f2743e77f3af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440afe9ba8fb6c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bus de dirección.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bus de dirección"
+            }
+          },
+          {
+            "id": "5ad279d006557e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UEFI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UEFI"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "487eb038131dac1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84ed889688e71147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b17cc9548ba682cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a7b2a9d51574b2da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5b905e8c84cffa9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d20e22cd08f15b2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7721819dd4b04fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011e33770aa8846f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bloque 3/B3 - T1.1 ENTIDAD RELACION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de B3 - T1.1 ENTIDAD RELACION"
+            }
+          },
+          {
+            "id": "0711f5e23465a5b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bloque 3/B3 - T1.1 ENTIDAD RELACION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de B3 - T1.1 ENTIDAD RELACION"
+            }
+          },
+          {
+            "id": "76be6306559cf15d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1b12f482c0ab4048",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "b34cd1b371aaa13d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bloque 3/B3 - T1.1 ENTIDAD RELACION.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de B3 - T1.1 ENTIDAD RELACION"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5ad279d006557e3f",
+  "lastOpenFiles": [
+    "Placa base.md.tmp.14544.27e1db057aff",
+    "UEFI.md.tmp.14544.9e4d23207fab",
+    "BIOS.md.tmp.14544.bf12776fa36b",
+    "Bloque 2/B2 - T1 INFORMATICA BASICA.md",
+    "UEFI.md",
+    "BIOS.md",
+    "Memoria RAM.md.tmp.14544.2606bf442d72",
+    "Memoria RAM.md.tmp.14544.4175d11792d6",
+    "Memoria RAM.md.tmp.14544.8541809ad224",
+    "Memoria RAM.md.tmp.14544.a1c39569c071",
+    "Memoria RAM.md.tmp.14544.eb5ffe0ede31",
+    "Placa base.md.tmp.14544.766b199094c6",
+    "Placa base.md.tmp.14544.0e2f91f1eb70",
+    "Registros clave.md.tmp.14544.14a83d82bde0",
+    "Jerarquía de memoria.md",
+    "Bloque 3/B3 - T1.1 ENTIDAD RELACION.md",
+    "Memoria RAM.md",
+    "notas/Memoria Caché.md",
+    "Placa base.md",
+    "Modos de direccionamiento.md",
+    "Bloque 2/B2 - T2 PERIFERICOS Y ALMACENAMIENTO.md",
+    "notas/Direccionamiento.md",
+    "RISC-V.md",
+    "CISC vs RISC.md",
+    "SoC vs APU.md",
+    "Pipeline.md",
+    "Registros clave.md",
+    "Buses de expansión internos (ISA, PCI, AGP).md",
+    "Buses.md",
+    "Bus de comunicación.md",
+    "FSB (Front-Side Bus).md",
+    "Bus de datos.md",
+    "Bus de control.md",
+    "Reloj.md",
+    "notas/SAS (Serial Attached SCSI).md",
+    "notas/SATA (Serial ATA).md"
+  ]
+}
