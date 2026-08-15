@@ -83,9 +83,11 @@ Ver `.claude/commands/socratico.md` para el detalle completo de reglas.
 
 Orquestador del sistema de estudio: repasar, testear, examen tipo
 test, auditar la bóveda, completar/crear un tema a partir de recuerdo
-activo (`opos-sintesis`), o importar un PDF externo de golpe
-ampliándolo y enlazándolo con el resto de la bóveda (`opos-importar`).
-Ver `.claude/commands/opos.md` y los agentes en `.claude/agents/`.
+activo (`opos-sintesis`), importar un PDF externo de golpe
+ampliándolo y enlazándolo con el resto de la bóveda (`opos-importar`),
+o trocear un tema ya escrito en conceptos sueltos enlazables dentro de
+`notas/` (`opos-conceptos`). Ver `.claude/commands/opos.md` y los
+agentes en `.claude/agents/`.
 
 ## Pendiente / próximos pasos
 

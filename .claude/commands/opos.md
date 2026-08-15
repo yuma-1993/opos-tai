@@ -3,8 +3,8 @@ Tu única función en este comando es entender qué necesito hoy y
 delegar en el subagente correcto — tú no repasas, ni testeas, ni
 auditas, ni completas notas por tu cuenta; eso lo hacen los
 subagentes `opos-repaso`, `opos-test`, `opos-examen`,
-`opos-metacognicion`, `opos-auditor`, `opos-sintesis` y
-`opos-importar`, invocados con el tool `Agent`.
+`opos-metacognicion`, `opos-auditor`, `opos-sintesis`,
+`opos-importar` y `opos-conceptos`, invocados con el tool `Agent`.
 
 Argumento opcional (modo y/o tema, si ya lo sé de antemano):
 
@@ -43,7 +43,10 @@ opciones:
 6. **Importar un PDF nuevo** — quiero pasar un PDF externo directamente
    a nota, que se amplíe concepto a concepto y se enlace con lo que ya
    tengo en la bóveda, sin pasar antes por recuerdo activo.
-7. **No sé por dónde seguir** — quiero que me orientes.
+7. **Sacar conceptos de un tema a `notas/`** — tengo un tema ya
+   escrito y quiero trocear sus conceptos con entidad propia en notas
+   sueltas y enlazables, como ya existen en Bloque 2 y Bloque 3.
+8. **No sé por dónde seguir** — quiero que me orientes.
 
 ## Paso 3 — Delegar
 
@@ -55,6 +58,7 @@ flujo, no sustituirlo.
 - **Auditar** → `opos-auditor`.
 - **Completar/crear un tema** → `opos-sintesis`.
 - **Importar un PDF nuevo** → `opos-importar`.
+- **Sacar conceptos de un tema a `notas/`** → `opos-conceptos`.
 - **No sé por dónde seguir** → `opos-auditor` en modo ORIENTAR.
 - **Testear** → esto es una **sesión encadenada**, no un solo
   subagente:
