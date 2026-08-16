@@ -29,12 +29,12 @@ estado: por-repasar
 
 ### 1. Definición
 
-**SQL**: lenguaje de 4ª generación (4GL) declarativo, con una extensión procedural para escribir lógica de negocio (procedimientos almacenados). Esa extensión se llama **SQL/PSM** (SQL / Persistent Stored Modules), y cada fabricante la implementa con su propio dialecto: **PL/SQL** (Oracle) y **Transact-SQL** (SQL Server).
+**SQL**: lenguaje de 4ª generación (4GL) declarativo, con una extensión procedural para escribir lógica de negocio (procedimientos almacenados). Esa extensión se llama **[[SQL-PSM, PL-SQL y Transact-SQL|SQL/PSM]]** (SQL / Persistent Stored Modules), y cada fabricante la implementa con su propio dialecto: **PL/SQL** (Oracle) y **Transact-SQL** (SQL Server).
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Un lenguaje **declarativo** describe *qué* resultado se quiere, no *cómo* obtenerlo paso a paso (a diferencia de un lenguaje imperativo/procedural como C o Java, donde se detalla cada paso). SQL es declarativo en su núcleo de consulta, pero como hay lógica que no se puede expresar en una sola sentencia declarativa (bucles, condicionales, variables), se añadió una capa procedural (PL/SQL, T-SQL) para cubrir ese hueco.
 
-### 2. Estándares
+### 2. [[Estándares SQL (ANSI, ISO 9075)|Estándares]]
 
 | Estándar | Novedad principal |
 |---|---|
@@ -50,14 +50,14 @@ estado: por-repasar
 
 Oracle, Microsoft SQL Server, MySQL/MariaDB, Informix, IBM Db2, PostgreSQL, MaxDB.
 
-### 4. SQLite: un caso especial (RDBMS no cliente/servidor)
+### 4. [[SQLite]]: un caso especial (RDBMS no cliente/servidor)
 
 - No es un gestor de BD, sino un **formato de fichero**.
 - Es **local**, no se usa por red.
 - Muy usado en Android.
 - Es una **librería** (compatible ACID): permite realizar transacciones.
 
-### 5. ACID y transacción
+### 5. [[ACID (transacciones)|ACID]] y transacción
 
 > [!important] ACID
 > **A**tomicidad · **C**onsistencia · **A**islamiento · **D**urabilidad.
@@ -69,7 +69,7 @@ Oracle, Microsoft SQL Server, MySQL/MariaDB, Informix, IBM Db2, PostgreSQL, MaxD
 
 ---
 
-## Parte II — Los sublenguajes de SQL
+## Parte II — Los [[Sublenguajes SQL (DDL, DML, DCL, TCL)|sublenguajes]] de SQL
 
 ### 1. Vista general
 
@@ -102,7 +102,7 @@ Descripción de los objetos:
 |---|---|
 | Table | Los objetos (tablas) en sí |
 | Index | Estructura de datos que sirve para agilizar búsquedas mediante el uso de **[[Árbol B, B+ y B-estrella|árboles B]]** |
-| Domain | Dominio de valores |
+| Domain | [[Dominio]] de valores |
 | Procedure y Function | SQL/PSM |
 | Triggers | Procedimientos que se ejecutan a partir de un evento |
 | Schema | Forma de agrupar tablas |
@@ -192,7 +192,7 @@ REVOKE <privilegios> ON <objeto> FROM <grantee>
 
 ### 1. Locales vs distribuidas
 
-Las transacciones pueden ser **locales** (1 solo SGBD) o **distribuidas** (two-phase commit, entre varios sistemas).
+Las transacciones pueden ser **locales** (1 solo SGBD) o **distribuidas** ([[Transacciones distribuidas (Two-Phase Commit, Monitor Transaccional)|two-phase commit]], entre varios sistemas).
 
 - **Monitor Transaccional**: CICS y Tuxedo.
 - En **JEE** el monitor transaccional está dentro del servidor de aplicaciones (JBoss, WebLogic, WebSphere). La API de Java para hablar con el monitor transaccional es **JTA**.
@@ -200,7 +200,7 @@ Las transacciones pueden ser **locales** (1 solo SGBD) o **distribuidas** (two-p
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > El **two-phase commit** (commit en dos fases) es el protocolo típico para coordinar una transacción distribuida: en la fase de *preparación* el coordinador pregunta a todos los participantes si pueden confirmar su parte; solo si todos responden que sí, el coordinador ordena el *commit* definitivo a todos (si alguno falla, se ordena rollback a todos). Así se garantiza atomicidad aunque la transacción abarque varios sistemas.
 
-### 2. Niveles de aislamiento y bloqueos (SET TRANSACTION)
+### 2. [[Niveles de aislamiento y lecturas anómalas (SQL)|Niveles de aislamiento]] y bloqueos (SET TRANSACTION)
 
 | Isolation Level | Lectura sucia | Lectura no repetible | Lectura fantasma |
 |---|---|---|---|
@@ -261,7 +261,7 @@ UPDATE <tabla> SET col1 = val1, col2 = val2 WHERE <condicion>
 DELETE FROM <tabla> WHERE <condicion>
 ```
 
-### 3. Subconsultas (dentro del WHERE)
+### 3. [[Subconsultas SQL (correlacionada, IN, ANY-SOME-ALL)|Subconsultas]] (dentro del WHERE)
 
 ```sql
 SELECT ... FROM tabla1 WHERE EXISTS (subquery)
@@ -282,7 +282,7 @@ WHERE col1 <operador> ALL (SELECT col2 FROM ...)
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Ejemplo de subconsulta correlacionada usando las tablas del apartado de JOINs (más abajo): `SELECT nombre FROM Autor a WHERE EXISTS (SELECT 1 FROM Libro l WHERE l.id_autor = a.id)` → devuelve los autores que tienen al menos un libro. Es "correlacionada" porque la subconsulta interna (`l.id_autor = a.id`) depende de la fila actual de la consulta externa (`a`), así que se re-evalúa por cada fila.
 
-### 4. JOINs
+### 4. [[Tipos de JOIN (CROSS, INNER, LEFT, RIGHT, FULL, NATURAL)|JOINs]]
 
 ```
 ... <tipo_join> JOIN <tabla> ON <condiciones>
@@ -323,7 +323,7 @@ Ejemplo usado como referencia (Autor 1:N Libro):
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Los JOIN son la razón de ser de un modelo normalizado: al separar los datos en varias tablas para evitar redundancia ([[Normalización]]), es necesario recomponerlos en tiempo de consulta uniendo tablas por sus claves foráneas — es el coste que se paga a cambio de eliminar la redundancia.
 
-### 5. Operadores de conjuntos (UNION / INTERSECT / EXCEPT)
+### 5. [[Operadores de conjuntos SQL (UNION, INTERSECT, EXCEPT)|Operadores de conjuntos]] (UNION / INTERSECT / EXCEPT)
 
 ```sql
 <select lista_cols>
@@ -338,7 +338,7 @@ UNION [ALL]
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > `UNION ALL` suele ser más rápido que `UNION` precisamente porque no tiene que hacer el paso extra de comprobar y eliminar duplicados.
 
-### 6. MERGE
+### 6. [[MERGE (UPSERT)|MERGE]]
 
 Fusiona una tabla origen (**source**) sobre una tabla destino (**target**) en base a una condición de búsqueda:
 
@@ -360,7 +360,7 @@ WHEN NOT MATCHED
 
 ---
 
-## Parte V — TRUNCATE en profundidad
+## Parte V — [[TRUNCATE]] en profundidad
 
 > [!important] TRUNCATE — puntos clave del PDF
 > - No se borra la tabla para después crearla (según el último examen de GSI oficial referenciado en el PDF).
@@ -380,7 +380,7 @@ WHEN NOT MATCHED
 
 ---
 
-## Parte VI — Triggers (disparadores)
+## Parte VI — [[Trigger (disparador) SQL|Triggers]] (disparadores)
 
 **Triggers**: lógica de negocio con 1 o N sentencias que se ejecuta a partir de un evento sobre determinados objetos.
 
@@ -418,7 +418,7 @@ Tipos: de fila o de sentencia. ¿Cuándo se disparan?
 
 ---
 
-## Parte VII — Procedimientos almacenados y cursores
+## Parte VII — [[Procedimiento almacenado (Stored Procedure)|Procedimientos almacenados]] y [[Cursor (SQL)|cursores]]
 
 **PROCEDURES**: son scripts de base de datos. Lógica de negocio que se ejecuta (`CALL`) en el ámbito del SGBD. Aceptan parámetros de entrada, salida y entrada/salida, pero **a diferencia de las funciones, los procedimientos no retornan valor**.
 
@@ -458,7 +458,7 @@ Cuando se hacen operaciones de inserción, actualización o borrado, se pueden h
 ```sql
 EXPLAIN PLAN
 ```
-→ Sentencia que muestra el **plan de ejecución** que va a seguir el SGBD, para sentencias SELECT, INSERT, UPDATE y DELETE. Es la secuencia de operaciones que realiza el SGBD.
+→ [[EXPLAIN PLAN|Sentencia]] que muestra el **plan de ejecución** que va a seguir el SGBD, para sentencias SELECT, INSERT, UPDATE y DELETE. Es la secuencia de operaciones que realiza el SGBD.
 
 ```sql
 CREATE INDEX <nom_indice> ON <nom_tabla> (<nom_campo1>, <nom_campo2>);
@@ -475,7 +475,7 @@ EXEC <nom_procedure> <lista_params>        -- separador de parámetros: ","
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > La sintaxis de `EXPLAIN PLAN` varía por SGBD: MySQL y PostgreSQL usan `EXPLAIN <sentencia>`; Oracle usa `EXPLAIN PLAN FOR <sentencia>` y luego consulta el resultado con `DBMS_XPLAN`.
 >
-> Ejemplo de `WITH CHECK OPTION`: si `CREATE VIEW empleados_madrid AS SELECT * FROM empleados WHERE ciudad = 'Madrid' WITH CHECK OPTION`, un `INSERT` a través de esa vista con `ciudad = 'Barcelona'` sería rechazado, porque no cumpliría la condición `WHERE` que define la vista.
+> Ejemplo de [[Vista (VIEW) SQL|WITH CHECK OPTION]]: si `CREATE VIEW empleados_madrid AS SELECT * FROM empleados WHERE ciudad = 'Madrid' WITH CHECK OPTION`, un `INSERT` a través de esa vista con `ciudad = 'Barcelona'` sería rechazado, porque no cumpliría la condición `WHERE` que define la vista.
 
 ---
 
