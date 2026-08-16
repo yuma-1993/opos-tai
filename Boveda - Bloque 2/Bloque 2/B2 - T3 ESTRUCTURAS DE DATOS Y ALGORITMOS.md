@@ -28,7 +28,7 @@ estado: por-repasar
 
 ### 1. TAD vs EEDD: la distinción de fondo
 
-- **TAD (Tipo Abstracto de Dato)**: modelo matemático para definir tipos de datos (primitivas, comportamiento). Es **puro**: define el **qué** (qué operaciones existen y qué hacen), no el cómo.
+- **[[TAD vs EEDD|TAD (Tipo Abstracto de Dato)]]**: modelo matemático para definir tipos de datos (primitivas, comportamiento). Es **puro**: define el **qué** (qué operaciones existen y qué hacen), no el cómo.
 - **EEDD (Estructura de Datos)**: concepto más concreto, orientado a la implementación. Son las herramientas que nos ayudan a implementar los TAD: definen el **cómo**.
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
@@ -39,19 +39,19 @@ estado: por-repasar
 | Tipo Abstracto de Datos | Estructura de Datos |
 |---|---|
 | List (secuencia) | Array, Lista enlazada |
-| Set (conjunto) / Multiset (multiconjunto con repetidos) | Árbol rojo-negro, tabla Hash |
+| Set (conjunto) / Multiset (multiconjunto con repetidos) | Árbol rojo-negro, [[Tabla Hash]] |
 | Queue (cola) / Double-ended queue (bicola) | Array, Lista [doble] enlazada |
 | Stack (pila) | Array, Lista enlazada |
-| Priority Queue (Heap) | Montículo (propiedad) |
+| Priority Queue (Heap) | [[Montículo (Heap)|Montículo]] (propiedad) |
 | Tree | Árbol. Algunos con arrays |
 | Graph | Matriz, Array de listas enlazadas |
 | Associative Array (Diccionario, mapa). Key-value | Tabla Hash |
 
 ### 3. Primitivas de los TAD principales
 
-- **Stack / Pila**: `push`, `pop`, `isEmpty`, `peek`/`top`. ≈ **LIFO** (Last In, First Out).
-- **Queue / Cola**: `enqueue`, `dequeue`, `isEmpty`, `peek`/`top`. ≈ **FIFO** (First In, First Out).
-- **List / Lista**: `isEmpty`, `insertarDelante`, `insertarDetras`, `head`, `tail`. `tail` quita la cabeza y devuelve el resto de la lista. Una lista **no es posicional**, por eso no hay primitiva para recuperar directamente el elemento N.
+- **[[Pila (Stack)|Stack / Pila]]**: `push`, `pop`, `isEmpty`, `peek`/`top`. ≈ **LIFO** (Last In, First Out).
+- **[[Cola (Queue)|Queue / Cola]]**: `enqueue`, `dequeue`, `isEmpty`, `peek`/`top`. ≈ **FIFO** (First In, First Out).
+- **[[Lista enlazada (TAD)|List / Lista]]**: `isEmpty`, `insertarDelante`, `insertarDetras`, `head`, `tail`. `tail` quita la cabeza y devuelve el resto de la lista. Una lista **no es posicional**, por eso no hay primitiva para recuperar directamente el elemento N.
   - Ejemplo del propio PDF: el 3º elemento se obtiene como `head(tail(tail(Lista)))`.
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
@@ -76,7 +76,7 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 - **Max-heap**: la raíz es mayor o igual que todos los elementos que hay debajo.
 
 > [!important] Conexión con el resto del tema
-> El montículo es la EEDD que implementa la **Priority Queue** (ver tabla del punto 2) y es también la base de **HeapSort** (Parte VI) y del algoritmo de **Dijkstra** (Parte III), que internamente usa una cola de prioridad para elegir siempre el nodo más cercano aún no visitado.
+> El montículo es la EEDD que implementa la **Priority Queue** (ver tabla del punto 2) y es también la base de **HeapSort** (Parte VI) y del algoritmo de **[[Algoritmo de Dijkstra|Dijkstra]]** (Parte III), que internamente usa una cola de prioridad para elegir siempre el nodo más cercano aún no visitado.
 
 ---
 
@@ -84,7 +84,7 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 
 ### 1. Conceptos básicos de árbol
 
-- Los árboles **siempre tienen raíz**.
+- Los **[[Árbol (conceptos básicos)|árboles]]** siempre tienen raíz.
 - **Hoja**: nodo sin hijos.
 - El **nivel** del nodo raíz puede tomar como convención 0 (+) o 1 (-) según la fuente. El árbol vacío tiene 0 niveles.
 - **Orden**: número máximo de hijos que puede tener un nodo. Es el máximo **potencial, teórico** — no podemos saberlo si no lo dan explícitamente. Árbol binario: orden 2.
@@ -92,7 +92,7 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 - **Peso**: número total de nodos del árbol.
 - **Profundidad de un nodo**: número de aristas desde el nodo hasta la raíz. Profundidad del nodo raíz = 0. Se mira **desde abajo hacia arriba**.
 - **Altura de un nodo**: trayectoria más larga desde ese nodo hasta una hoja. Se mira **desde arriba hacia abajo**. Altura de las hojas = 0.
-- **Factor de equilibrio (FE)**: diferencia de altura entre el subárbol izquierdo y el derecho. Valores 0, +1 y -1 definen un **árbol equilibrado o autobalanceable (AVL)**. Los reequilibrios se producen mediante **rotaciones**.
+- **Factor de equilibrio (FE)**: diferencia de altura entre el subárbol izquierdo y el derecho. Valores 0, +1 y -1 definen un **[[Árbol AVL|árbol equilibrado o autobalanceable (AVL)]]**. Los reequilibrios se producen mediante **rotaciones**.
 
 > [!important] Profundidad vs altura — confusión típica de examen
 > Profundidad se mide **de un nodo hacia la raíz** (hacia arriba), altura se mide **de un nodo hacia la hoja más lejana** (hacia abajo). La raíz tiene profundidad 0 pero su altura es la altura total del árbol; una hoja tiene altura 0 pero su profundidad depende de cuántos niveles baja desde la raíz.
@@ -102,7 +102,7 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 
 ### 2. Recorridos en profundidad
 
-Son **recursivos**. Cada vez que se llega a un nodo, se vuelve a aplicar la misma regla (Preorden, Inorden o Postorden) sobre él.
+Los **[[Recorridos de árbol (Preorden, Inorden, Postorden)|recorridos en profundidad]]** son **recursivos**. Cada vez que se llega a un nodo, se vuelve a aplicar la misma regla (Preorden, Inorden o Postorden) sobre él.
 
 | Recorrido | Orden | Regla mnemotécnica |
 |---|---|---|
@@ -118,10 +118,10 @@ Son **recursivos**. Cada vez que se llega a un nodo, se vuelve a aplicar la mism
 ### 3. Tipos de árboles
 
 - **Árboles binarios**:
-  - **Árbol Binario de Búsqueda (ABB)**: su recorrido **inorden (IRD)** devuelve los elementos **ordenados**.
+  - **[[Árbol Binario de Búsqueda (ABB)]]**: su recorrido **inorden (IRD)** devuelve los elementos **ordenados**.
   - **Árbol de Fibonacci**: es un caso particular de AVL.
 - **Árboles equilibrados (autobalanceables)**: FE es -1, 0 o +1. Ejemplos: **AVL, AA, Rojo-Negro, Splay, Árbol B o multicamino**.
-- **Árbol B**: muy usado en **bases de datos y sistemas de ficheros**.
+- **[[Árbol B, B+ y B-estrella|Árbol B]]**: muy usado en **bases de datos y sistemas de ficheros**.
   - Cada nodo puede tener **más de 2 hijos**. Orden M: cada nodo tiene como máximo M hijos.
   - Mantiene los datos **ordenados**.
   - Inserciones y borrados en tiempo **log(n)** para las reestructuraciones de los nodos.
@@ -142,7 +142,7 @@ Son **recursivos**. Cada vez que se llega a un nodo, se vuelve a aplicar la mism
 
 ### 1. Conceptos básicos
 
-Un **grafo** es una red de nodos. **No hay raíz** como en los árboles. Pueden ser:
+Un **[[Grafo (conceptos básicos)|grafo]]** es una red de nodos. **No hay raíz** como en los árboles. Pueden ser:
 
 - **Dirigidos** (dígrafos) / **no dirigidos**.
 - **Conexos** / **inconexos**.
@@ -191,7 +191,7 @@ A partir de un grafo conexo ponderado se calcula la forma de llegar de un nodo a
 
 | Algoritmo |
 |---|
-| PRIM |
+| [[Prim y Kruskal (árbol de expansión mínima)|PRIM]] |
 | KRUSKAL |
 
 #### 3.3 Otros
@@ -210,7 +210,7 @@ A partir de un grafo conexo ponderado se calcula la forma de llegar de un nodo a
 
 | Tipo de acceso | Descripción |
 |---|---|
-| **Secuencial** | Ejemplo: cinta. Búsqueda desde el inicio. Borrado **lógico**, ya que no puede hacerse físicamente. Se añade al final. |
+| **[[Tipos de acceso a ficheros (secuencial, directo, indexado, ISAM)|Secuencial]]** | Ejemplo: cinta. Búsqueda desde el inicio. Borrado **lógico**, ya que no puede hacerse físicamente. Se añade al final. |
 | **Directo** | Se accede directamente a los registros. Una clave del registro, o una función sobre la clave, nos posiciona en el archivo. |
 | **Indexado** | Es lo más novedoso. Un fichero para el **índice** y otro para los **datos**. Se busca la clave en el índice y este nos da la posición en el archivo de datos. |
 | **Híbrido o ISAM** | Acceso **indexado** para el índice y **secuencial** para los datos. Ejemplo: MyISAM de MySQL. |
@@ -243,19 +243,19 @@ La ordenación externa (cuando los datos no caben en memoria, hay que ordenar en
 
 | Técnica | Descripción |
 |---|---|
-| **Divide y vencerás** | Top-Down: divide el problema en subproblemas más pequeños del mismo tipo. |
-| **Voraces (Greedy)** | Utilizan la opción óptima en cada paso, sin reconsiderar decisiones pasadas. |
+| **[[Divide y vencerás]]** | Top-Down: divide el problema en subproblemas más pequeños del mismo tipo. |
+| **[[Algoritmos voraces (Greedy)|Voraces (Greedy)]]** | Utilizan la opción óptima en cada paso, sin reconsiderar decisiones pasadas. |
 | **Probabilísticos** | Montecarlo, Las Vegas. |
-| **Backtracking** | Explora el árbol de soluciones. Prueba **todas** las posibilidades. Tarda mucho. |
+| **[[Backtracking]]** | Explora el árbol de soluciones. Prueba **todas** las posibilidades. Tarda mucho. |
 | **Ramificación y poda** | Optimización de Backtracking: recuerda resultados anteriores para no repetir pasos. |
-| **Programación dinámica** | Combina subproblemas óptimos. "Bottom-Up" o "Top-Down" + **memoización** (cachear resultados parciales para resolver ese subproblema en el futuro). |
+| **[[Programación dinámica]]** | Combina subproblemas óptimos. "Bottom-Up" o "Top-Down" + **memoización** (cachear resultados parciales para resolver ese subproblema en el futuro). |
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Un ejemplo clásico para distinguir Backtracking de Programación Dinámica es el cálculo de Fibonacci: calculado de forma **recursiva ingenua** repite el cálculo de los mismos subproblemas una y otra vez (equivalente al "prueba todo" de Backtracking); con **memoización** (guardar en una tabla/caché cada resultado ya calculado) se evita recalcular, bajando la complejidad de exponencial a lineal. El concepto de memoización aquí es el mismo mecanismo de fondo que el [[Caching]]: guardar un resultado ya obtenido para no tener que recalcularlo/releerlo.
 
 ### 4. Complejidad espacial y temporal — Big O Notation
 
-Representa la complejidad de un algoritmo. **Big O** es la **cota superior asintótica**.
+Representa la complejidad de un algoritmo. **[[Big O (notación de complejidad algorítmica)|Big O]]** es la **cota superior asintótica**.
 
 De menor a mayor complejidad:
 
@@ -298,7 +298,7 @@ De menor a mayor complejidad:
 |---|---|---|---|---|
 | **Quicksort** | O(n log(n)) | O(n log(n)) | O(n²) | O(log(n)) |
 | **Mergesort** | O(n log(n)) | O(n log(n)) | O(n log(n)) | O(n) |
-| **Timsort** | O(n) | O(n log(n)) | O(n log(n)) | O(n) |
+| **[[Timsort]]** | O(n) | O(n log(n)) | O(n log(n)) | O(n) |
 | **Bubble Sort** | O(n) | O(n²) | O(n²) | O(1) |
 | **Insertion Sort** | O(n) | O(n²) | O(n²) | O(1) |
 | **Selection Sort** | O(n²) | O(n²) | O(n²) | O(1) |
@@ -311,34 +311,34 @@ De menor a mayor complejidad:
 
 ## Parte VI — Algoritmos de ordenación en detalle
 
-### Burbuja
+### [[Bubble Sort (Burbuja)|Burbuja]]
 
 **O(n²)**. Va desplazando el número más grande a base de comparaciones e intercambios entre elementos **adyacentes**. En el mejor caso tarda O(n), haciendo un algoritmo **natural** que detecte que la secuencia de datos ya está ordenada y así no hacer intercambios.
 
-### Inserción Directa
+### [[Inserción Directa (Insertion Sort)|Inserción Directa]]
 
 **O(n²)**. Busca el lugar donde insertar el dato y desplaza los siguientes elementos para hacer hueco. Si en lugar de buscar secuencialmente hace una **búsqueda binaria**, entonces se conoce como **Inserción binaria**. La complejidad de la búsqueda en un árbol binario de búsqueda es O(log(n)).
 
-### MergeSort
+### [[MergeSort]]
 
 **O(n log(n))**. Es **recursivo**. Primero divide la lista en sublistas hasta llegar al **caso trivial** (el más sencillo, que se puede resolver directamente por comparación). Luego mezcla las sublistas para obtener una lista ordenada: **particiona, particiona, particiona... y fusiona, fusiona**.
 
-### QuickSort
+### [[QuickSort]]
 
 **O(n log(n))**. Es **recursivo**. Se elige un **pivote**. En la primera pasada, los menores del pivote se colocan a la izquierda y los mayores a la derecha. En la segunda pasada se hacen 2 llamadas de T(n/2). El **peor caso** sería O(n²) si el pivote es el menor o el mayor de los valores. Ejemplo de técnica para elegir el pivote (del propio PDF): se suman todos los valores y se obtiene el valor medio.
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > El caso más habitual en el que QuickSort cae en su peor caso O(n²) es cuando la entrada **ya viene ordenada (o casi)** y el pivote elegido es siempre el primer o el último elemento — porque entonces cada partición deja un lado vacío. Por eso las implementaciones reales suelen elegir el pivote de forma aleatoria o mediante la técnica "mediana de tres", para evitar ese escenario adversario.
 
-### HeapSort (o Montículos)
+### [[HeapSort]] (o Montículos)
 
 **O(n log(n))**. Consiste en meter todos los datos en un montículo **Max-Heap** y luego se realizan N llamadas a `EliminarMax()`, dando como resultado un montículo menor que el elemento extraído en cada paso. La construcción y la reconstrucción del montículo es bastante eficiente.
 
-### Selección
+### [[Selección (Selection Sort)|Selección]]
 
 **Siempre O(n²)**. Primero busca el mínimo y lo coloca el primero. Luego busca el siguiente mínimo y lo coloca después. "Busco y coloco."
 
-### RadixSort
+### [[RadixSort]]
 
 **O(n·K)** (K = número de cifras). Se basa en el número de cifras de los números a ordenar.
 
@@ -347,7 +347,7 @@ De menor a mayor complejidad:
 
 Cuando los números se meten en los casilleros/*buckets*, se insertan ordenados. Primero se distribuyen en base a un dígito y luego el siguiente.
 
-### BucketSort o BinSort
+### [[BucketSort o BinSort]]
 
 **O(n)**. Distribuye los números en casilleros y, dentro de cada casillero, se aplica el criterio que sea, dividiendo en más casilleros recursivamente o usando algoritmos de ordenación.
 
@@ -386,7 +386,7 @@ Cuando los números se meten en los casilleros/*buckets*, se insertan ordenados.
 | **swf** | Fichero con "película" Flash |
 | **epub** | Libro electrónico |
 
-> [!important] Certificado con o sin clave privada
+> [!important] [[p12-pfx vs cer (certificado con-sin clave privada)|Certificado con o sin clave privada]]
 > `p12`/`pfx` **incluye** la clave privada (hay que protegerlo, es sensible), `cer` **no la incluye** (es la parte pública, se puede compartir sin riesgo).
 
 ### 3. Ofimática
@@ -394,7 +394,7 @@ Cuando los números se meten en los casilleros/*buckets*, se insertan ordenados.
 | Suite | Extensiones |
 |---|---|
 | **Microsoft (< 2007)** | `.xls`, `.doc`/`.dot` — formato propietario **OLE** |
-| **Microsoft (>= 2007, OOXML)** | `.docx`/`.docm`/`.dotx`/`.dotm` (t = template; m = macro), `.xlsx`/`.xlsm`/`.xlsb`, `.pptx`/`.pptm`/`.potx`/`.potm`/`.ppsx`/`.ppsm` — formato **OOXML** (Office Open XML), estándar **ECMA 376**. Es un **.zip** con muchos ficheros XML dentro |
+| **Microsoft (>= 2007, OOXML)** | `.docx`/`.docm`/`.dotx`/`.dotm` (t = template; m = macro), `.xlsx`/`.xlsm`/`.xlsb`, `.pptx`/`.pptm`/`.potx`/`.potm`/`.ppsx`/`.ppsm` — formato **[[OOXML (Office Open XML)|OOXML]]** (Office Open XML), estándar **ECMA 376**. Es un **.zip** con muchos ficheros XML dentro |
 | **Open Office** | `.odt`/`.ott`/`.ods`/`.odp`/`.odg`/`.odc`/`.odf`/`.odi`/`.odh`/`.odb` |
 | **PDF** | Estándar **ISO 32000-1:2008**. **PDF/A**: archivo a largo plazo. **PDF/UA**: accesibilidad universal. **PDF/X**: para impresoras. Relacionados: **PS** (PostScript), **PCL** |
 
@@ -413,12 +413,12 @@ Cuando los números se meten en los casilleros/*buckets*, se insertan ordenados.
 | **svg** | Scalable Vector Graphics. Tipo MIME `image/svg+xml`. Herramienta: InkScape. En HTML5 se incrusta dentro del HTML de forma nativa |
 | **webp** | Con y sin pérdida. Desarrollado por Google |
 
-> [!note] Tipo MIME
+> [!note] [[Tipo MIME]]
 > Formato `tipo/subtipo`. Ejemplos del PDF: `image/gif`, `text/html`, `application/javascript`, `video/mpeg`, `application/pdf`. Lo usan los navegadores para identificar qué se está procesando.
 
 ### 5. Ficheros binarios y detección de tipo
 
-- **Fichero binario**: la *signature* o **magic number** son los N primeros bytes que identifican qué tipo de fichero es.
+- **Fichero binario**: la *signature* o **[[Magic number (signature de fichero)|magic number]]** son los N primeros bytes que identifican qué tipo de fichero es.
 - **Apache Tika**: librería de Java que detecta y extrae los metadatos de los ficheros mediante la detección del *magic number*.
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
@@ -453,7 +453,7 @@ Cuando los números se meten en los casilleros/*buckets*, se insertan ordenados.
 **Codecs**: DIVX, XDIV, AVC (H.264), HEVC (H.265), VVC (H.266), WMV, VP8, VP9, AV1.
 
 > [!important] Contenedor vs codec — distinción clave de examen
-> Un **contenedor** (MP4, MKV, AVI...) es el formato con "cajones" para meter el audio y el vídeo — como una caja que agrupa pistas. El **codec** (H.264, VP9, AAC...) es el algoritmo que realmente comprime/descomprime esas pistas dentro del cajón. Un mismo contenedor (ej. MKV) puede llevar dentro distintos codecs de vídeo y audio.
+> Un **[[Contenedor vs Codec (audio-vídeo)|contenedor]]** (MP4, MKV, AVI...) es el formato con "cajones" para meter el audio y el vídeo — como una caja que agrupa pistas. El **codec** (H.264, VP9, AAC...) es el algoritmo que realmente comprime/descomprime esas pistas dentro del cajón. Un mismo contenedor (ej. MKV) puede llevar dentro distintos codecs de vídeo y audio.
 
 ---
 
