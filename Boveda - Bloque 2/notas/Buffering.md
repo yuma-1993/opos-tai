@@ -5,3 +5,4 @@
 **Buffer circular (circular/ring buffer):** un buffer tratado como si fuera un anillo: cuando se llega al final, se vuelve al principio. Tiene un puntero que indica dónde se escribe y otro dónde se lee, persiguiéndose el uno al otro. Es muy útil para flujos continuos de datos (audio, streaming, teclado), porque permite escribir y leer al mismo tiempo sin reorganizar nada.
 
 [[Técnicas de gestión de datos en memoria intermedia]]
+[[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]] (la función Hash usa buffers circulares)

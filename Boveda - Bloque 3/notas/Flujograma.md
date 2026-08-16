@@ -14,3 +14,4 @@ Representación gráfica de un algoritmo paso a paso (secuencia, condicionales, 
 > Todos estos métodos son formas alternativas de dibujar "lo mismo" que un flujograma — la lógica de un algoritmo — solo cambia la notación gráfica.
 
 [[B3 - T1.1 ENTIDAD RELACION]]
+[[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]] (un medio de expresión de algoritmos)
