@@ -14,3 +14,4 @@ Toda operación del [[Álgebra relacional vs Cálculo relacional|álgebra relaci
 Todas las [[Operaciones derivadas del álgebra relacional|operaciones derivadas]] (intersección, join, división...) se construyen combinando estas cinco básicas.
 
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T3 SQL]]

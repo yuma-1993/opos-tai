@@ -22,3 +22,4 @@ Las 13 reglas (0 a 12) que definen qué debe cumplir un SGBD para considerarse v
 Las reglas 8 y 9 (independencia física y lógica) son precisamente lo que materializa la [[Arquitectura ANSI-SPARC]].
 
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T3 SQL]]

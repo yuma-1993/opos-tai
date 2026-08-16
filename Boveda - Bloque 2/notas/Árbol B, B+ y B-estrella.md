@@ -7,3 +7,4 @@ Un **árbol B** es un árbol **equilibrado** en el que cada nodo puede tener **m
 
 [[Árbol (conceptos básicos)]]
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+[[B3 - T3 SQL]]

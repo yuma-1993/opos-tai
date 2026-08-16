@@ -8,3 +8,4 @@ Hay cuatro formas clásicas de acceder a los registros de un fichero:
 El índice de un acceso indexado o ISAM se implementa típicamente con un **[[Árbol B, B+ y B-estrella|árbol B o B+]]**, que están pensados justo para minimizar lecturas de disco.
 
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+[[B3 - T3 SQL]]

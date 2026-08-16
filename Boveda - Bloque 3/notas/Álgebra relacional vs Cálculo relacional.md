@@ -17,3 +17,4 @@ Ambos son formas equivalentes de expresar consultas sobre el modelo relacional. 
 [[Cálculo relacional (tuplas y dominios)]]
 [[B3 - T1.2 DISENO BBDD]]
 [[B4 - T1.5 ADMON SSOO - SALTSTACK]]
+[[B3 - T3 SQL]]

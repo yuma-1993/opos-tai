@@ -11,3 +11,4 @@
 La PK nunca puede tener valores nulos (ver [[Restricciones de integridad (relacional)]]), y es lo que garantiza la propiedad de "no repetición de tuplas" de toda [[Relación (modelo relacional) - esquema y propiedades|relación]].
 
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T3 SQL]]

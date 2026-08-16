@@ -13,3 +13,4 @@ Técnica que se aplica en el modelo lógico, después del [[Tipo de Entidad y En
 El resultado práctico de aplicar normalización son las [[Formas normales (1FN a 6FN)]], una escala acumulativa de niveles de "limpieza" del esquema.
 
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T3 SQL]]

@@ -8,3 +8,4 @@ Tres reglas que garantizan la coherencia de una base de datos relacional:
 > La asimetría es la clave para no confundirlas: la PK nunca puede ser nula (integridad de entidad); la FK sí puede serlo, siempre que cuando tenga valor, ese valor exista en la tabla referenciada (integridad referencial).
 
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T3 SQL]]
