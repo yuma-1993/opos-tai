@@ -1,0 +1,9 @@
+**Polimorfismo**: capacidad de que objetos de distintas clases se hagan pasar por un mismo tipo, de forma que un mismo mensaje enviado sobre objetos de clases distintas produzca comportamientos distintos. Es uno de los pilares de la POO (junto a abstracción, encapsulamiento y herencia) e implica **ligadura dinámica** (*late binding*): hasta el último momento no se sabe a qué método de qué clase se va a llamar — en Java, por ejemplo, es en tiempo de ejecución cuando se determina de qué tipo es realmente el objeto/mensaje pasado, para decidir qué método ejecutar.
+
+El polimorfismo persigue **código más genérico**, lo que se traduce en mejor mantenimiento — pero "código genérico" significa que la *codificación* sea genérica, no que el *uso* del código lo sea (llevar la genericidad demasiado lejos, por ejemplo recibiendo `Object` en vez del tipo concreto, puede hacer perder la capacidad de invocar directamente los métodos que interesan).
+
+Dos ideas de fondo sostienen el polimorfismo: la **teoría de tipos** (los tipos están relacionados entre sí y a veces son intercambiables — la misma idea de fondo que el principio [[Liskov Substitution Principle (LSP)|Liskov]] de SOLID: una subclase debe poder sustituir a su clase base) y la existencia de **dos actores siempre presentes**, Cliente y Proveedor (la técnica *Polymorphism* de [[GRASP (técnicas de asignación de responsabilidades)|GRASP]] aplica esta misma idea a la asignación de responsabilidades).
+
+No confundir con la [[Sobrecarga (overloading) vs Sobreescritura (overriding)|sobrecarga]] (*overloading*): la sobrecarga se resuelve en tiempo de compilación según el número/tipo de parámetros, mientras que el polimorfismo por herencia con *late binding* se resuelve en tiempo de ejecución según el tipo real del objeto.
+
+[[B3 - T4.2 UML]]
