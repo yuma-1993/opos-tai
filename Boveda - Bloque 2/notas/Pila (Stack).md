@@ -6,3 +6,5 @@ Se puede implementar con un **array** o con una **lista enlazada**, indistintame
 
 [[TAD vs EEDD]]
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+
+Ejemplo de diseño OO que usa esta idea (composición, no herencia): [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]] — `Pila` reutiliza `Lista` guardándola como atributo interno, sin heredar de ella.

@@ -6,3 +6,5 @@ Se implementa típicamente como **array** o como **lista enlazada** propiamente 
 
 [[TAD vs EEDD]]
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+
+Aparece como ejemplo de colección concreta en el patrón Iterator y en el ejemplo de composición vs. herencia: [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]].

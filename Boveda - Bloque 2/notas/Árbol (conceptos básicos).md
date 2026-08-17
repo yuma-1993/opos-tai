@@ -8,3 +8,5 @@ Un **árbol** es una EEDD que **siempre tiene raíz** (a diferencia de un [[Graf
 **Profundidad vs altura — confusión típica de examen**: profundidad se mide de un nodo hacia la raíz (hacia arriba); altura se mide de un nodo hacia la hoja más lejana (hacia abajo). La raíz tiene profundidad 0, pero su altura es la altura total del árbol; una hoja tiene altura 0, pero su profundidad depende de cuántos niveles baja desde la raíz.
 
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+
+Aparece como ejemplo de colección concreta en el patrón Iterator: [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]].

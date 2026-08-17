@@ -8,3 +8,5 @@ Un **grafo** es una red de nodos (vértices) unidos por aristas — a diferencia
 Se puede representar como **lista de adyacencia** (array de vértices + listas enlazadas de vecinos — eficiente en memoria si el grafo es poco denso) o como **matriz de adyacencia** (matriz N×N que indica si hay arista entre cada par de vértices — consulta en O(1) pero desperdicia memoria si hay muchos nodos y pocas aristas).
 
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+
+Aparece como ejemplo de colección concreta en el patrón Iterator: [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]].
