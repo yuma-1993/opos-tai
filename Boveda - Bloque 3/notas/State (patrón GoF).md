@@ -3,3 +3,4 @@ Patrón de **comportamiento** que convierte los estados de un objeto en clases p
 **Strategy vs. State vs. Template Method**: ver [[Strategy (patrón GoF)]].
 
 [[B3 - T4.1 PATRONES DE DISENO Y SOLID]]
+[[B3 - T4.2 UML]] (diagrama de transición de estados / máquina de estados)

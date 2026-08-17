@@ -5,3 +5,4 @@ En una jerarquía donde `Clase B` y `Clase C` heredan de `Clase A` (redefiniendo
 Es la misma idea de fondo que el principio de [[Composición sobre herencia]]: si dos clases no cumplen una relación "es un/a" verdadera, no deben estar unidas por herencia.
 
 [[B3 - T4.1 PATRONES DE DISENO Y SOLID]]
+[[B3 - T4.2 UML]] (polimorfismo)

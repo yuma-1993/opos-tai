@@ -15,3 +15,4 @@ Representación gráfica de un algoritmo paso a paso (secuencia, condicionales, 
 
 [[B3 - T1.1 ENTIDAD RELACION]]
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]] (un medio de expresión de algoritmos)
+[[B3 - T4.2 UML]] (diagrama de actividad)

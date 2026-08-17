@@ -16,3 +16,4 @@ Mientras el modelo [[Tipo de Entidad y Entidad|Entidad-Relación]] hace **análi
 [[Tipos de flujo de datos (DFD)]]
 [[Reglas de construcción y balanceo (DFD)]]
 [[B3 - T1.1 ENTIDAD RELACION]]
+[[B3 - T4.2 UML]] (contraste con el diagrama de casos de uso: los casos de uso no "explotan" en niveles como el DFD)

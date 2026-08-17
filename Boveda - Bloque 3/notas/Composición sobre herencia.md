@@ -7,3 +7,4 @@ La herencia crea un acoplamiento muy fuerte (la clase hija depende de los detall
 *(Nota: la explicación del acoplamiento herencia/composición y su relación con Strategy y Liskov procede de una ampliación de conocimiento general añadida sobre la fuente original, no del PDF importado.)*
 
 [[B3 - T4.1 PATRONES DE DISENO Y SOLID]]
+[[B3 - T4.2 UML]]

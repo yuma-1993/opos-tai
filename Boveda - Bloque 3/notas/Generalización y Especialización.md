@@ -17,3 +17,4 @@ Cuando este esquema se transforma al modelo relacional (Tema 1.2), hay tres estr
 [[Entidad fuerte y entidad débil]]
 [[B3 - T1.1 ENTIDAD RELACION]]
 [[B3 - T1.2 DISENO BBDD]]
+[[B3 - T4.2 UML]] (misma relación en el diagrama de clases)

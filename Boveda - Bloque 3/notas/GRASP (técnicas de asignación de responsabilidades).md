@@ -12,3 +12,4 @@
 *(Nota: Creator, Indirection, Polymorphism, Protected variations y Pure fabrication proceden de una ampliación de conocimiento general añadida sobre la fuente original, no del PDF importado; el resto sí viene desarrollado en la fuente.)*
 
 [[B3 - T4.1 PATRONES DE DISENO Y SOLID]]
+[[B3 - T4.2 UML]] (técnica Polymorphism)

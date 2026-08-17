@@ -7,3 +7,4 @@ Está directamente relacionado con [[Factory Method (patrón GoF)|Factory Method
 *(Nota: la explicación de `@Autowired` como aplicación práctica de este principio procede de una ampliación de conocimiento general añadida sobre la fuente original, no del PDF importado.)*
 
 [[B3 - T4.1 PATRONES DE DISENO Y SOLID]]
+[[B3 - T4.2 UML]] (relación de realización: clase que implementa una interface)
