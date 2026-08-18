@@ -7,3 +7,4 @@ Es la unidad básica de comando en PowerShell, organizada en **módulos** (gesti
 > En Linux, la tubería (`|`) pasa **texto**. En PowerShell, la tubería pasa **objetos**, con sus propiedades y métodos.
 
 [[B4 - T1.1 ADMON SSOO]]
+[[B2 - T4.2 WINDOWS Y SISTEMAS OPERATIVOS MOVILES]] — PowerShell y los cmdlets como herramienta de administración también de Windows, no solo de Linux.

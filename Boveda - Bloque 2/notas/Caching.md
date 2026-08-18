@@ -3,3 +3,4 @@ Es la técnica que consiste en guardar una **copia temporal de los datos que se 
 [[Técnicas de gestión de datos en memoria intermedia]]
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]] (mismo mecanismo de fondo que la memoización en programación dinámica)
 [[B2 - T4.1 SISTEMAS OPERATIVOS]] (la TLB de la MMU cachea la tabla de páginas con esta misma idea)
+[[B2 - T4.2 WINDOWS Y SISTEMAS OPERATIVOS MOVILES]] (la caché ARP y la caché DNS de `arp`/`ipconfig` son el mismo mecanismo aplicado a resoluciones de red)

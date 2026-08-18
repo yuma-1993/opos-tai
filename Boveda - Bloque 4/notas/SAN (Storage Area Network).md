@@ -10,3 +10,4 @@ El servidor "cree" que el disco es local (accede en bloque, como si lo tuviera p
 - [[LUN y LUN Masking]] y [[Zoning (SAN)]] — los dos mecanismos de control de acceso dentro de una SAN.
 - [[iSCSI]] y [[FCP, FCIP y FCoE (protocolos Fibre Channel)]] — los protocolos que llevan los comandos SCSI a través de la red de la SAN.
 - [[DAS (Direct Attached Storage)]] y [[NAS (Network Attached Storage)]] — las otras dos formas de almacenamiento compartido/directo.
+- [[B2 - T4.2 WINDOWS Y SISTEMAS OPERATIVOS MOVILES]] — diagrama de un Windows Server con rol File Services que monta el almacenamiento real desde una SAN por Fibre Channel.

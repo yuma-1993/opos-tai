@@ -6,3 +6,4 @@ Por debajo usa el mismo mecanismo de [[Criptografía asimétrica (clave pública
 
 [[B4 - T1.3 ADMON SSOO - APACHE]]
 [[B4 - T1.2 ADMON SSOO - SSH]]
+[[B2 - T4.2 WINDOWS Y SISTEMAS OPERATIVOS MOVILES]] — gestión de estos certificados en Windows con `certutil` y con `netsh http add sslcert`.

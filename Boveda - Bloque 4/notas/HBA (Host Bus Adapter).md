@@ -8,3 +8,4 @@ Se puede obtener información de una tarjeta HBA con comandos como `syminq hba`,
 - [[WWN (World Wide Name)]] — el identificador único que lleva grabado el HBA.
 - [[SAN (Storage Area Network)]] — la red a la que conecta el HBA.
 - [[Zoning (SAN)]] — usa el WWN del HBA para definir qué hosts pueden verse entre sí en el switch FC.
+- [[B2 - T4.2 WINDOWS Y SISTEMAS OPERATIVOS MOVILES]] — diagrama de un Windows Server con rol File Services que usa una tarjeta HBA para acceder a una SAN.

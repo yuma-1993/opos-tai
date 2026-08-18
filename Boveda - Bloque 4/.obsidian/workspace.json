@@ -188,8 +188,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0aed3613465f9d79",
+  "active": "21a7d0f93acedcc9",
   "lastOpenFiles": [
+    "notas/Gestores de paquetes (apt, yum, dpkg, rpm).md.tmp.36640.727b281f2abe",
     "Bloque 4/B4 - T1.4 ADMON SSOO - ANSIBLE.md",
     "notas/Ficheros de configuración de Ansible (ansible.cfg, inventario, group_vars).md",
     "notas/Comandos ad-hoc SaltStack (salt, salt-cp).md",
