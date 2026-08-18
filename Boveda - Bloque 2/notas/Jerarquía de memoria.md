@@ -20,3 +20,4 @@ De más rápida/cara/pequeña a más lenta/barata/grande, todo lo que "recuerda 
 - [[HDD (Hard Disk Drive)]], [[SSD (Solid State Drive)]] — el escalón de almacenamiento secundario.
 - [[Caching]] — el principio general que conecta cada nivel con el siguiente.
 - [[B2 - T1 INFORMATICA BASICA]] — versión resumen de examen (§12).
+- [[B2 - T4.1 SISTEMAS OPERATIVOS]] — la TLB, dentro de la MMU, aplica esta misma lógica de jerarquía para cachear la tabla de páginas.

@@ -64,3 +64,5 @@ Los datos se alojan en distintos niveles de caché según la frecuencia de uso, 
 - [[B2 - T1 INFORMATICA BASICA]] — políticas de sustitución y actualización (FIFO/LRU/LFU, write-through/write-back).
 - [[Caching]] — la técnica general de la que la caché de CPU es un caso particular.
 - [[HDD (Hard Disk Drive)]], [[SSD (Solid State Drive)]] — beneficiarios de la caché de disco.
+
+- [[B2 - T4.1 SISTEMAS OPERATIVOS]] — la TLB de la MMU aplica el mismo principio de caché a la tabla de páginas.

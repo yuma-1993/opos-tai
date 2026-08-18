@@ -8,3 +8,4 @@ Es la rutina que la CPU ejecuta al atender la interrupción. Su trabajo es recog
 [[offset]]
 [[tabla de vectores de interrupción]]
 [[controlador]]
+[[B2 - T4.1 SISTEMAS OPERATIVOS]]

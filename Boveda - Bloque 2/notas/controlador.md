@@ -10,3 +10,4 @@ El _driver_ (software) es el programa que permite al sistema operativo dialogar 
 [[IRQ - Interrupt Request]]
 [[ISR - Interrupt Service Rutine]]
 [[PIC - Programmable Interrupt Controller]]
+[[B2 - T4.1 SISTEMAS OPERATIVOS]]

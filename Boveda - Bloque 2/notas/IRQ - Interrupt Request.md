@@ -9,3 +9,4 @@ Es la señal con la que el periférico avisa de que tiene datos listos o de que 
 [[ISR - Interrupt Service Rutine]]
 [[offset]]
 [[tabla de vectores de interrupción]]
+[[B2 - T4.1 SISTEMAS OPERATIVOS]]

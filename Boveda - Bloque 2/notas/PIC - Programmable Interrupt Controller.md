@@ -8,3 +8,4 @@ Es el chip que centraliza las [[IRQ - Interrupt Request]] de todos los periféri
 [[offset]]
 [[tabla de vectores de interrupción]]
 [[controlador]]
+[[B2 - T4.1 SISTEMAS OPERATIVOS]]

@@ -144,3 +144,4 @@ Una celda de DRAM se localiza como una casilla dentro de una rejilla (**tablero*
 - [[Jerarquía de memoria]] y [[Memoria Caché]] — el escalón inmediatamente más rápido que la RAM.
 - [[Reloj]] — las latencias RAS/CAS/ACTIVE/PRECHARGE se cuentan en ciclos de esa misma señal.
 - [[PCI Express (PCIe)]] y [[B2 - T2 PERIFERICOS Y ALMACENAMIENTO]] — el mismo patrón de "cada generación dobla la velocidad" que en las generaciones DDR.
+- [[B2 - T4.1 SISTEMAS OPERATIVOS]] — qué hace el SO cuando la RAM se llena: memoria virtual, page fault y algoritmos de reemplazo de página.

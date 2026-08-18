@@ -9,3 +9,4 @@ El índice de un acceso indexado o ISAM se implementa típicamente con un **[[Á
 
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
 [[B3 - T3 SQL]]
+[[B2 - T4.1 SISTEMAS OPERATIVOS]] (distinto de la asignación de espacio por i-nodos, aunque comparten la palabra "indexado")

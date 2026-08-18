@@ -4,3 +4,5 @@
 4. Envía a la CPU junto con la orden de "para, atiende". 
 5. La CPU usa ese offset para localizar, en la [[tabla de vectores de interrupción]] que vive en RAM, la dirección de memoria donde arranca la [[ISR - Interrupt Service Rutine]] (el driver, software). 
 6. Una vez en marcha, es la propia ISR quien va directamente al registro de datos del controlador — la PIC ya no interviene en este paso — y lee ahí el dato real (qué tecla fue), para traducirlo y pasárselo al [[sistema operativo]].
+
+[[B2 - T4.1 SISTEMAS OPERATIVOS]]
