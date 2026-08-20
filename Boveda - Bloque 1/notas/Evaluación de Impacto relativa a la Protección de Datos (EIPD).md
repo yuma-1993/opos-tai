@@ -1,0 +1,5 @@
+Cuando es probable que un tipo de tratamiento (en particular por usar nuevas tecnologías) entrañe un **alto riesgo** para los derechos y libertades de las personas físicas, el responsable debe realizar, **antes del tratamiento**, una evaluación de impacto, recabando el asesoramiento del [[Delegado de Protección de Datos (DPO)|DPO]]. Debe incluir como mínimo: descripción de las operaciones de tratamiento, sus fines y el interés legítimo perseguido; evaluación de la necesidad y proporcionalidad respecto a su finalidad; evaluación de los riesgos para los derechos y libertades de los interesados; y las medidas previstas para afrontar esos riesgos y demostrar la conformidad con el Reglamento.
+
+Si, pese a esa evaluación, persiste un alto riesgo sin adoptar medidas, el responsable debe hacer una **consulta previa** a la autoridad de control antes de tratar los datos. Si la autoridad considera que el tratamiento previsto podría infringir el Reglamento, debe asesorar por escrito al responsable o encargado en un plazo de **8 semanas** desde la solicitud, pudiendo utilizar cualquiera de sus poderes.
+
+[[B1 - T7 PROTECCION DE DATOS]]
