@@ -9,3 +9,7 @@ La función Hash se usa también en [[Buffering|buffers circulares]].
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
 
 Aparece como ejemplo de colección concreta en el patrón Iterator: [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]].
+
+El modelo clave-valor de las bases de datos NoSQL (ej. REDIS) es, en esencia, una tabla hash distribuida: [[B2 - T5 NOSQL Y BIG DATA]].
+
+[[Redis]] — el producto que ejemplifica este modelo clave-valor.

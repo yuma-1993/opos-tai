@@ -5,3 +5,5 @@
 Se diferencia de **[[Prim y Kruskal (árbol de expansión mínima)|Prim/Kruskal]]** en el problema que resuelve: Dijkstra busca el camino más corto **entre dos nodos concretos**, mientras que Prim/Kruskal buscan el coste global mínimo para conectar **todos** los nodos entre sí.
 
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
+
+Es uno de los algoritmos que suelen venir implementados en las **[[Bases de datos de grafos (NoSQL)|bases de datos de grafos]]**, para calcular el *shortest path*: [[B2 - T5 NOSQL Y BIG DATA]].

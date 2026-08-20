@@ -502,4 +502,7 @@ EXEC <nom_procedure> <lista_params>        -- separador de parámetros: ","
 - Triggers: BEFORE/AFTER/INSTEAD OF + INSERT/UPDATE/DELETE, FOR EACH ROW/STATEMENT. No aceptan parámetros ni pueden gestionar transacciones. INSTEAD OF anula la sentencia original.
 - Procedimientos: no retornan valor (a diferencia de funciones), parámetros IN/OUT/INOUT, se invocan con CALL. Cursores recorren resultados fila a fila (DataReader/ResultSet por debajo).
 - EXPLAIN PLAN: plan de ejecución del SGBD. CREATE VIEW ... WITH CHECK OPTION: bloquea inserts/updates que no cumplan el filtro de la vista.
+
+**Conexiones con otros conceptos TAI:**
+- [[B2 - T5 NOSQL Y BIG DATA]] — el modelo relacional (SQL, ACID) frente al que se definen por contraste las bases de datos NoSQL (BASE, teorema CAP).
 </content>

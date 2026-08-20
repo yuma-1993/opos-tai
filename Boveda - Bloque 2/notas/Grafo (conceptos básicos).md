@@ -10,3 +10,5 @@ Se puede representar como **lista de adyacencia** (array de vértices + listas e
 [[B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS]]
 
 Aparece como ejemplo de colección concreta en el patrón Iterator: [[B3 - T4.1 PATRONES DE DISENO Y SOLID|Patrones de diseño y SOLID]].
+
+Las **[[Bases de datos de grafos (NoSQL)]]** (Neo4J, OrientDB...) son un modelo NoSQL construido directamente sobre esta idea: [[B2 - T5 NOSQL Y BIG DATA]].

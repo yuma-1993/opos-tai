@@ -26,3 +26,5 @@ Las tres **lecturas anómalas** que estos niveles evitan (o permiten):
 Estos niveles existen para proteger la propiedad de **Aislamiento** de [[ACID (transacciones)|ACID]].
 
 [[B3 - T3 SQL]]
+
+Frente al modelo [[BASE (Basically Available, Soft State, Eventually Consistent)|BASE]] (consistencia eventual) de las bases de datos NoSQL: [[B2 - T5 NOSQL Y BIG DATA]].

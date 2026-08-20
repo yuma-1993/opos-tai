@@ -8,3 +8,5 @@ Una **transacción** es un conjunto de sentencias SQL que se ejecutan como un pr
 - **Durabilidad**: una vez confirmada (COMMIT), la transacción sobrevive a un fallo posterior del sistema.
 
 [[B3 - T3 SQL]]
+
+Contraste con la consistencia eventual de NoSQL: [[BASE (Basically Available, Soft State, Eventually Consistent)|BASE]] ([[B2 - T5 NOSQL Y BIG DATA]]).
