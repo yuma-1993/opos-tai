@@ -41,7 +41,9 @@ Y añade la **soberanía nacional** ("reside en el pueblo español, del que eman
 También añade el art. 9.2, que es la base doctrinal del "Estado social" del art. 1: corresponde a los poderes públicos promover las condiciones para que la libertad e igualdad del individuo y los grupos sean reales y efectivas, remover los obstáculos que impidan su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
 
 [[Igualdad ante la ley]]
 [[Principios rectores de la política social y económica]]
 [[Reforma constitucional]]
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — la Ley 15/2022 desarrolla la igualdad de trato en sus dos niveles: valor superior del art. 1 y derecho fundamental del art. 14.

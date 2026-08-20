@@ -10,6 +10,11 @@ Su regulación de detalle no está en la Constitución sino en una **ley orgáni
 > Esto lo convierte en el único órgano que aparece legitimado en **ambos** recursos a la vez — ni el Presidente del Gobierno ni los 50 Diputados/Senadores pueden interponer amparo, y ningún particular puede interponer inconstitucionalidad. El Defensor del Pueblo es el puente entre las dos vías.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
+[[B1 - T7 PROTECCION DE DATOS]]
 
 [[Recurso de amparo]]
 [[Recurso de inconstitucionalidad]]
+[[B1 - T4.2 LEY DE TRANSPARENCIA]] — el Consejo de Transparencia y Buen Gobierno incluye un representante del Defensor del Pueblo, y su Presidente le comunica las resoluciones de reclamación.
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — la Autoridad Independiente para la Igualdad de Trato y la No Discriminación (Ley 15/2022) colabora con el Defensor del Pueblo y le remite su informe anual.
+[[B1 - T4.1 TREBEP]] — el TREBEP excluye de su aplicación directa al personal funcionario de los Órganos Constitucionales dependientes de las Cortes, entre ellos el Defensor del Pueblo, que se rige por su legislación específica.

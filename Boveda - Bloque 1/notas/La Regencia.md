@@ -14,6 +14,7 @@ La nota de tema ya resume la Regencia en dos "formas", pero el texto literal del
 **59.5**: la Regencia se ejerce **por mandato constitucional** y **siempre en nombre del Rey** — nunca en nombre propio del Regente. Esto es lo que la nota de tema resume como "suple, no sustituye": jurídicamente, los actos de gobierno siguen siendo actos de la Corona, solo que firmados por otra persona en su lugar mientras dure la causa.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
 
 [[La Corona - El Rey]]
 [[La Tutela del Rey]]

@@ -18,7 +18,10 @@ El resto del artículo despliega **garantías instrumentales** al servicio de es
 Diferencia práctica entre 18.2 y 18.3: el domicilio protege un **espacio físico**; el secreto de las comunicaciones protege un **flujo de información**, con independencia de dónde esté físicamente cada interlocutor. Por eso intervenir un teléfono no es "allanar" nada en sentido literal, pero exige la misma garantía — resolución judicial — que entrar en una casa.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T7 PROTECCION DE DATOS]]
 
 [[Igualdad ante la ley]]
 [[Libertad de expresión e información]]
 [[Suspensión de derechos y libertades]]
+[[B1 - T4.2 LEY DE TRANSPARENCIA]] — el art. 15 de la Ley de Transparencia pondera este derecho (protección de datos personales) frente al derecho de acceso a la información pública.
+[[B1 - T6.2 AGENDA DIGITAL 2026|Agenda Digital 2026]] — el eje 10 (Derechos digitales) de la Agenda enlaza con la LO 3/2018 aquí citada.

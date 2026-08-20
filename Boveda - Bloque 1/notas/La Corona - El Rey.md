@@ -29,6 +29,8 @@ Si se extinguieran todas las líneas con derecho a suceder, **las Cortes General
 **Artículo 65 — la Casa Real**: el Rey recibe de los Presupuestos Generales del Estado una cantidad global para el sostenimiento de su Familia y Casa, y **la distribuye libremente** — no rinde cuentas partida por partida de ese presupuesto asignado. Además, nombra y releva libremente a los miembros civiles y militares de su Casa, sin necesidad de refrendo ni intervención del Gobierno para esos nombramientos internos.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
+[[B1 - T3 EL GOBIERNO]]
 
 [[La Regencia]]
 [[La Tutela del Rey]]

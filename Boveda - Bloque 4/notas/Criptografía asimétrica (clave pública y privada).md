@@ -10,3 +10,6 @@ En SSH, la capacidad de securizar el canal se apoya en este mecanismo: al instal
 
 **Conexiones con otros conceptos TAI:**
 - [[Claves de host vs claves de usuario (SSH)]] — SSH aplica este mismo mecanismo dos veces, con roles distintos: para autenticar al servidor y para autenticar a la persona.
+- [[B1 - T6.1 SOCIEDAD DE LA INFORMACION]] — el DNI electrónico usa RSA (criptografía asimétrica) para sus certificados de Autenticación y de Firma, generando el par de claves dentro del propio chip y sin que la clave privada salga nunca de él.
+- [[B1 - T9.1 INSTRUMENTOS DE ACCESO]] — el DNI electrónico y los certificados de empleado público de las AAPP para firma electrónica se apoyan en este mismo par de claves pública/privada.
+- [[B1 - T8 ACCESO ELECTRONICO, ENS Y ENI]] — la firma electrónica "básica" (hash + cifrado con la clave privada) que da soporte al ENI se construye directamente sobre este mecanismo, con los mismos algoritmos (RSA, DSA, DH, EC).

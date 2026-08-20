@@ -30,3 +30,5 @@ Por eso, aunque el listado se parezca a una carta de derechos sociales, es más 
 [[Derechos y deberes de los ciudadanos (Sección 2ª)]]
 [[Título Preliminar]]
 [[Reforma constitucional]]
+[[B1 - T4.3 AGENDA 2030 Y ODS]] — el art. 45 CE (medio ambiente) y otros principios de este capítulo conectan con varios Objetivos de Desarrollo Sostenible (ODS 3, 6, 11, 13).
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — el RDLeg 1/2013 (discapacidad) y la Ley 39/2006 (dependencia) desarrollan legalmente los arts. 49 y 50 de este capítulo.

@@ -48,7 +48,7 @@ Sigue el **diseño tripartito de división de poderes de Montesquieu**:
 | I | De los derechos y deberes fundamentales | 10 al 55 |
 | II | De la Corona | 56 a 65 |
 | III | De las Cortes Generales | 66 a 96 |
-| IV | Del Gobierno y de la Administración | 97 a 107 |
+| IV | Del Gobierno y de la Administración | 97 a 107 (art. 105.b: acceso a archivos y registros administrativos, desarrollado por [[B1 - T4.2 LEY DE TRANSPARENCIA]]) |
 | V | De las relaciones entre el Gobierno y las Cortes Generales | 108 a 116 |
 | VI | Del poder judicial | 117 a 127 |
 | VII | Economía y Hacienda | 128 a 136 |
@@ -108,7 +108,7 @@ Recoge los principios constitucionales que determinan la configuración polític
 | 20 | [[Libertad de expresión e información]]: expresar y difundir libremente pensamientos, ideas y opiniones mediante palabra, escrito o cualquier otro medio. Producción y creación literaria, artística, científica y técnica. Libertad de cátedra. Comunicar o recibir libremente información veraz por cualquier medio. Cláusula de conciencia y secreto profesional. Secuestro de publicaciones, grabaciones y otra información por resolución judicial. |
 | 21 | Derecho de reunión pacífica y sin armas. No necesita autorización previa. En casos de reuniones en lugares públicos y manifestaciones se comunicará a la autoridad, que podrá prohibirlas si hay razones fundadas de alteración del orden público, con peligro para personas o bienes. |
 | 22 | Derecho de asociación. Las asociaciones deberán inscribirse en un registro a los solos efectos de publicidad. Se prohíben las asociaciones secretas y las de carácter paramilitar. |
-| 23 | Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal. Las Cortes Generales legislan sobre los empleados públicos, no el Estado. |
+| 23 | Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal. Las Cortes Generales legislan sobre los empleados públicos, no el Estado (ver [[B1 - T4.1 TREBEP]]). |
 | 24 | [[Tutela judicial efectiva]] (derecho a un fallo judicial que se cumpla) de los jueces y tribunales en el ejercicio de sus derechos e intereses, sin que pueda producirse indefensión. Derecho al Juez ordinario predeterminado por la ley, a la defensa y asistencia de un letrado, a ser informados de la acusación contra ellos, a un proceso público sin dilaciones indebidas y con todas las garantías y a utilizar los medios de prueba pertinentes para su defensa. Cualquier medio de prueba admitido en derecho como pruebas materiales, declaración de testigos, incluso indicios, a no declarar contra sí mismos, a no confesarse culpables, a la presunción de inocencia. |
 | 25 | Nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento. Irretroactividad de las normas no favorables. |
 | 26 | Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales. |

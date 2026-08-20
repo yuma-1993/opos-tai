@@ -12,6 +12,7 @@ El más grave de los tres estados del artículo 116 CE, reservado para cuando el
 Como en los otros dos estados, mientras esté declarado el estado de sitio (art. 116.5) **no puede disolverse el Congreso** y, si no estuviera reunido, queda automáticamente convocado; tampoco puede iniciarse durante su vigencia la [[Reforma constitucional]] (art. 169) — precisamente porque este es el escenario en el que menos sentido tendría tocar la norma fundamental del Estado.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T3 EL GOBIERNO]]
 
 [[Estado de alarma]]
 [[Estado de excepción]]

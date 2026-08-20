@@ -14,6 +14,8 @@ Esta lista tan cerrada (comparada con "cualquier persona con interés legítimo"
 En la tabla de niveles de protección del artículo 53 CE, este recurso aparece ligado a la **Sección segunda** del Capítulo II del Título I (arts. 30-38, derechos y deberes de los ciudadanos): esos derechos se tutelan "de acuerdo con lo previsto en el artículo 161.1.a)" — precisamente la vía del recurso de inconstitucionalidad, no la del amparo directo — porque no están en la lista reforzada del art. 53.2.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
+[[B1 - T3 EL GOBIERNO]]
 
 [[Recurso de amparo]]
 [[Defensor del Pueblo]]

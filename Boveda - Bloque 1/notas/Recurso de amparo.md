@@ -16,6 +16,7 @@ El texto constitucional exige que el procedimiento ante los Tribunales ordinario
 > El amparo protege a **una persona** frente a una lesión concreta de sus derechos fundamentales (control de actos, no necesariamente de leyes). El recurso de inconstitucionalidad no defiende a nadie en particular: depura el ordenamiento jurídico expulsando **normas con rango de ley** que contradicen la Constitución. Uno mira al caso concreto, el otro mira a la norma en abstracto.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
 
 [[Recurso de inconstitucionalidad]]
 [[Defensor del Pueblo]]
@@ -23,3 +24,4 @@ El texto constitucional exige que el procedimiento ante los Tribunales ordinario
 [[Tutela judicial efectiva]]
 [[Igualdad ante la ley]]
 [[Habeas corpus]]
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — la Ley 15/2022 remite al art. 53.2 CE para la tutela judicial del derecho a la igualdad entre mujeres y hombres.

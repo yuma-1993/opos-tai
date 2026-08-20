@@ -20,7 +20,10 @@ El texto añade además, en el propio 24.2, una remisión que no siempre se recu
 Este artículo pertenece a la Sección 1ª (arts. 15-29), por lo que su desarrollo exige ley orgánica y su protección es la máxima del sistema: recurso de amparo ante el Tribunal Constitucional (art. 53.2), además de la tutela ordinaria ante los tribunales que el propio artículo garantiza. Es, junto con el art. 14, uno de los artículos que el art. 53 cita expresamente como umbral de protección reforzada.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T7 PROTECCION DE DATOS]]
 
 [[Igualdad ante la ley]]
 [[Recurso de amparo]]
 [[Habeas corpus]]
+[[B1 - T4.2 LEY DE TRANSPARENCIA]] — el art. 14.f de la Ley de Transparencia cita expresamente la tutela judicial efectiva como límite al derecho de acceso a la información pública.
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — la Ley 15/2022 se apoya en el art. 53.2 CE para la tutela judicial del derecho a la igualdad entre mujeres y hombres.

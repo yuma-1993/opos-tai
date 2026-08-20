@@ -11,6 +11,7 @@ El orden para designar tutor, en cascada (60.1):
 **60.2**: el ejercicio de la tutela es **incompatible con todo cargo o representación política** — igual que ocurre con la Regencia. La idea de fondo es la misma en ambos artículos: quien está al cuidado directo del Rey menor (en lo público o en lo privado) no puede tener a la vez intereses partidistas o institucionales que puedan entrar en conflicto con esa posición.
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T2 LAS CORTES]]
 
 [[La Regencia]]
 [[La Corona - El Rey]]

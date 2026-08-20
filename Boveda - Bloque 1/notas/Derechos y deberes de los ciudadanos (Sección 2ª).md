@@ -21,3 +21,4 @@ Artículo por artículo, con matices que la nota de tema no recoge:
 [[Recurso de inconstitucionalidad]]
 [[Recurso de amparo]]
 [[Principios rectores de la política social y económica]]
+[[B1 - T4.1 TREBEP]] — el derecho a la huelga (art. 28.2 CE) y el derecho al planteamiento de conflictos colectivos (art. 37.2 CE) se reconocen también a los empleados públicos, siempre con la garantía de mantenimiento de los servicios esenciales.

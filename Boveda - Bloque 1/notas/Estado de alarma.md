@@ -10,6 +10,7 @@ El estado de alarma es, de los tres, el **más leve y el único que el Gobierno 
 Por el **artículo 116.5**, mientras esté declarado cualquiera de los tres estados (también el de alarma), **no puede disolverse el Congreso**, y si las Cámaras no estuvieran reunidas quedan **automáticamente convocadas**; su funcionamiento no puede interrumpirse durante la vigencia del estado, ni tampoco el de los demás poderes constitucionales del Estado. Además, mientras esté vigente cualquiera de estos tres estados, tampoco puede **iniciarse la reforma constitucional** ([[Reforma constitucional|art. 169]]).
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T3 EL GOBIERNO]]
 
 [[Estado de excepción]]
 [[Estado de sitio]]

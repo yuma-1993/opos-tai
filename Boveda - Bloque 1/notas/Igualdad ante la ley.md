@@ -16,3 +16,5 @@ Dos cosas suelen pasar desapercibidas si solo te quedas con "los españoles son 
 [[Título Preliminar]]
 [[Recurso de amparo]]
 [[Tutela judicial efectiva]]
+[[B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI]] — la Ley 15/2022 y la Ley 4/2023 desarrollan legalmente la prohibición de discriminación del art. 14.
+[[B1 - T4.1 TREBEP]] — el acceso y la progresión en la carrera de los empleados públicos se rigen por los principios constitucionales de igualdad, mérito y capacidad.

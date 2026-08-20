@@ -12,6 +12,7 @@ Aquí es donde entra realmente en juego la **[[Suspensión de derechos y liberta
 Al igual que en los otros dos estados, por el **artículo 116.5**, mientras esté declarado el estado de excepción no puede disolverse el Congreso, y si no estuviera reunido queda automáticamente convocado; tampoco puede iniciarse durante su vigencia la [[Reforma constitucional]] (art. 169).
 
 [[B1 - T1 CONSTITUCION]]
+[[B1 - T3 EL GOBIERNO]]
 
 [[Estado de alarma]]
 [[Estado de sitio]]
