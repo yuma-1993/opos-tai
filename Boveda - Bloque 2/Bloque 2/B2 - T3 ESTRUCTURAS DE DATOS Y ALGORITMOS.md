@@ -68,7 +68,7 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Las dos familias clásicas de resolver colisiones en una tabla hash son: **encadenamiento** (cada posición guarda una lista enlazada con todos los elementos que colisionan ahí — es lo que hace que el PDF diga que "hay que buscar dentro de la lista") y **direccionamiento abierto** (si la posición está ocupada, se busca la siguiente libre según una regla). Cuanto más llena está la tabla (mayor *factor de carga*), más colisiones y peor rendimiento — de ahí que el PDF diga que una tabla pequeña también las aumenta.
 
-### 5. Montículo (Heap)
+### 5. [[Montículo (Heap)]]
 
 - **Complejidad**: O(n log(n)) para inserciones (crear) y borrados (reequilibrar).
 - Estructura basada en un árbol que cumple con la **propiedad del montículo** (max-heap o min-heap).
@@ -104,10 +104,10 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 
 Los **[[Recorridos de árbol (Preorden, Inorden, Postorden)|recorridos en profundidad]]** son **recursivos**. Cada vez que se llega a un nodo, se vuelve a aplicar la misma regla (Preorden, Inorden o Postorden) sobre él.
 
-| Recorrido | Orden | Regla mnemotécnica |
-|---|---|---|
-| **Preorden** | 1º Raíz, 2º Subárbol Izquierdo, 3º Subárbol Derecho | **R**ID |
-| **Inorden** | 1º Subárbol Izquierdo, 2º Raíz, 3º Subárbol Derecho | I**R**D |
+| Recorrido     | Orden                                               | Regla mnemotécnica                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------- |
+| **Preorden**  | 1º Raíz, 2º Subárbol Izquierdo, 3º Subárbol Derecho | **R**ID                                                           |
+| **Inorden**   | 1º Subárbol Izquierdo, 2º Raíz, 3º Subárbol Derecho | I**R**D                                                           |
 | **Postorden** | 1º Subárbol Izquierdo, 2º Subárbol Derecho, 3º Raíz | ID**R** — el más complejo, porque pinta la raíz del nodo al final |
 
 > [!example] Ejemplo del PDF (árbol de 15 nodos, A–O)

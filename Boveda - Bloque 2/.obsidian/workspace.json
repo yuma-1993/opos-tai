@@ -8,35 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "440afe9ba8fb6c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bus de dirección.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bus de dirección"
-            }
-          },
-          {
             "id": "5ad279d006557e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UEFI.md",
+                "file": "Bloque 2/B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UEFI"
+              "title": "B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS"
+            }
+          },
+          {
+            "id": "7b86a43f7591b6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloque 2/B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS"
+            }
+          },
+          {
+            "id": "956db0725b3d2160",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +211,18 @@
   },
   "active": "5ad279d006557e3f",
   "lastOpenFiles": [
+    "notas/Árbol (conceptos básicos).md",
+    "B3 - T4.1 PATRONES DE DISENO Y SOLID.md",
+    "Bloque 2/B2 - T3 ESTRUCTURAS DE DATOS Y ALGORITMOS.md",
+    "notas/Montículo (Heap).md",
+    "Montículo.md",
+    "notas/Grafo (conceptos básicos).md",
+    "notas/Algoritmo de Dijkstra.md",
+    "Bloque 2/B2 - T1 INFORMATICA BASICA.md",
+    "_attachments/cache-L1-L2-L3-pediaa.png",
     "Placa base.md.tmp.14544.27e1db057aff",
     "UEFI.md.tmp.14544.9e4d23207fab",
     "BIOS.md.tmp.14544.bf12776fa36b",
-    "Bloque 2/B2 - T1 INFORMATICA BASICA.md",
     "UEFI.md",
     "BIOS.md",
     "Memoria RAM.md.tmp.14544.2606bf442d72",
@@ -215,7 +232,6 @@
     "Memoria RAM.md.tmp.14544.eb5ffe0ede31",
     "Placa base.md.tmp.14544.766b199094c6",
     "Placa base.md.tmp.14544.0e2f91f1eb70",
-    "Registros clave.md.tmp.14544.14a83d82bde0",
     "Jerarquía de memoria.md",
     "Bloque 3/B3 - T1.1 ENTIDAD RELACION.md",
     "Memoria RAM.md",
@@ -231,12 +247,6 @@
     "Registros clave.md",
     "Buses de expansión internos (ISA, PCI, AGP).md",
     "Buses.md",
-    "Bus de comunicación.md",
-    "FSB (Front-Side Bus).md",
-    "Bus de datos.md",
-    "Bus de control.md",
-    "Reloj.md",
-    "notas/SAS (Serial Attached SCSI).md",
-    "notas/SATA (Serial ATA).md"
+    "Bus de comunicación.md"
   ]
 }

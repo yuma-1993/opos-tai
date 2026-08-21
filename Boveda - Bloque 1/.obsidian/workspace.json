@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/Tutela judicial efectiva.md",
+                "file": "Bloque 1/B1 - T9.2 SERVICIOS COMUNES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutela judicial efectiva"
+              "title": "B1 - T9.2 SERVICIOS COMUNES"
+            }
+          },
+          {
+            "id": "d4e72e09b975b01a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/TSA (sello electrónico cualificado de tiempo).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TSA (sello electrónico cualificado de tiempo)"
+            }
+          },
+          {
+            "id": "8d241142502bf33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/NTP (Network Time Protocol).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NTP (Network Time Protocol)"
             }
           }
         ]
@@ -190,12 +218,34 @@
   },
   "active": "dcdd0152298d1a09",
   "lastOpenFiles": [
-    "notas/Recurso de amparo.md",
-    "notas/Principios rectores de la política social y económica.md",
-    "notas/La Regencia.md",
-    "notas/La Corona - El Rey.md",
-    "notas/Defensor del Pueblo.md",
-    "Bloque 1/B1 - T1 CONSTITUCION.md",
+    "notas/TSA (sello electrónico cualificado de tiempo).md",
+    "Bloque 1/B1 - T9.2 SERVICIOS COMUNES.md",
+    "notas/NTP (Network Time Protocol).md",
+    "Bloque 1/B1 - T4.2 LEY DE TRANSPARENCIA.md",
+    "Bloque 1/B1 - T4.3 AGENDA 2030 Y ODS.md",
+    "Bloque 1/B1 - T5 IGUALDAD, DISCAPACIDAD, DEPENDENCIA Y LGTBI.md",
+    "Bloque 1/B1 - T6.1 SOCIEDAD DE LA INFORMACION.md",
+    "Bloque 1/B1 - T6.2 AGENDA DIGITAL 2026.md",
+    "Bloque 1/B1 - T7 PROTECCION DE DATOS.md",
+    "Bloque 1/B1 - T8 ACCESO ELECTRONICO, ENS Y ENI.md",
+    "notas/CCN-CERT.md",
+    "Bloque 1/B1 - T9.1 INSTRUMENTOS DE ACCESO.md",
+    "Ejercicios/Ejercicio 2. Parejas peligrosas.md",
+    "notas/Reglamento eIDAS (UE) 910-2014.md",
+    "notas/Plataforma Cl@ve (incluye Cl@ve Firma).md",
+    "Ejercicios/Ejercicio 1. Ensayo.md",
+    "Ejercicios/Ejercicio 1. Ensayo",
+    "Ejercicios",
+    "Bloque 1/B1 - T2 LAS CORTES.md",
+    "Bloque 1/B1 - T4.1 TREBEP.md",
+    "notas/Funcionario interino.md",
+    "Bloque 1/B1 - T3 EL GOBIERNO.md",
+    "notas/Decreto-Ley vs Decreto Legislativo.md",
+    "notas/Congreso de los Diputados vs Senado.md",
+    "notas/Codificaciones de certificados X.509 (PEM, DER, PKCS7, PKCS12).md",
+    "notas/Ayuda Oficial al Desarrollo (AOD).md",
+    "notas/Acuerdo de París.md",
+    "notas/Acoso sexual y acoso por razón de sexo.md",
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.c11c5fb4d030",
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.194d93c3fbcc",
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.1d0d2097e492",
@@ -203,24 +253,6 @@
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.8716d44df821",
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.52f4d7b58a0b",
     "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.81e5087d17d7",
-    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.b2c258c32a73",
-    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.b57e051e41ff",
-    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.307d873fbd3d",
-    "notas/Estado de sitio.md",
-    "notas/Estado de excepción.md",
-    "notas/Estado de alarma.md",
-    "notas/Reforma constitucional.md",
-    "notas/La Tutela del Rey.md",
-    "notas/Suspensión de derechos y libertades.md",
-    "notas/Derechos y deberes de los ciudadanos (Sección 2ª).md",
-    "notas/Objeción de conciencia.md",
-    "notas/Recurso de inconstitucionalidad.md",
-    "notas/Tutela judicial efectiva.md",
-    "notas/Libertad de expresión e información.md",
-    "notas/Derecho al honor, la intimidad y la propia imagen.md",
-    "notas/Habeas corpus.md",
-    "notas/Igualdad ante la ley.md",
-    "notas/Título Preliminar.md",
-    "Sin título.md"
+    "Bloque 1/B1 - T1 CONSTITUCION.md.tmp.6132.b2c258c32a73"
   ]
 }
