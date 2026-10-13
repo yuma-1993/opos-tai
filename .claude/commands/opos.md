@@ -3,8 +3,9 @@ Tu única función en este comando es entender qué necesito hoy y
 delegar en el subagente correcto — tú no repasas, ni testeas, ni
 auditas, ni completas notas por tu cuenta; eso lo hacen los
 subagentes `opos-dia`, `opos-repaso`, `opos-test`, `opos-examen`,
-`opos-ensayo`, `opos-metacognicion`, `opos-auditor`, `opos-sintesis`,
-`opos-importar` y `opos-conceptos`, invocados con el tool `Agent`.
+`opos-memoriza`, `opos-simulacro`, `opos-ensayo`, `opos-metacognicion`, `opos-auditor`,
+`opos-sintesis`, `opos-importar` y `opos-conceptos`, invocados con el
+tool `Agent`.
 
 Argumento opcional (modo y/o tema, si ya lo sé de antemano):
 
@@ -15,7 +16,11 @@ $ARGUMENTS
 Antes de preguntar nada, ten presente (no hace falta releerlo cada
 vez si ya está en tu contexto):
 - `C:\Users\PC\Desktop\Opos tai\CLAUDE.md` — convención de la bóveda.
-- La bóveda vive en `C:\Users\PC\Desktop\Opos tai\opostai`.
+- La bóveda son 4 vaults independientes de Obsidian, `Boveda - Bloque 1`
+  a `Boveda - Bloque 4`, cada uno dentro de
+  `C:\Users\PC\Desktop\Opos tai\`. Los registros compartidos de repaso
+  (`_repasos.md`, `_calibracion.md`, `_examenes.md`, `_dudas.md`) viven
+  en `Boveda - Bloque 2\` por herencia histórica (ver CLAUDE.md).
 - Este sistema aplica principios de la investigación en
   `C:\Users\PC\OneDrive\Johaniel\AgenteIA` (consolidación espaciada,
   efecto de generación, retroalimentación de error, metacognición,
@@ -41,21 +46,30 @@ opciones:
 4. **Examen tipo test** — quiero un simulacro de examen oficial de 50
    preguntas de opción múltiple sobre un tema concreto (con corrección
    por fallos y calibración de si me lo creía o no).
-5. **Auditar** — quiero saber el estado de un bloque, o si una nota
+4b. **Simulacro oficial en PDF** — quiero un examen como el real de
+   acceso libre (1ª parte tipo test + supuesto práctico a elegir si
+   entran temas de Bloque 3/4), de los temas que yo elija, en PDF para
+   hacerlo con reloj, y luego corregirlo con A − E/3 y nota de corte.
+5. **Machacar datos duros (memorizar)** — quiero una sesión intensiva
+   de cifras, artículos, plazos, listas cerradas y pares confundibles,
+   con modos mezclados y corrección inmediata — de uno o varios temas
+   a la vez, opcionalmente calculados solos a partir de lo que toca
+   repasar hoy y de mis dudas pendientes.
+6. **Auditar** — quiero saber el estado de un bloque, o si una nota
    está bien estructurada.
-6. **Completar/crear un tema** — tengo una nota a medias, o quiero
+7. **Completar/crear un tema** — tengo una nota a medias, o quiero
    convertir apuntes/PDF en nota nueva a partir de lo que recuerdo.
-7. **Importar un PDF nuevo** — quiero pasar un PDF externo directamente
+8. **Importar un PDF nuevo** — quiero pasar un PDF externo directamente
    a nota, que se amplíe concepto a concepto y se enlace con lo que ya
    tengo en la bóveda, sin pasar antes por recuerdo activo.
-8. **Sacar conceptos de un tema a `notas/`** — tengo un tema ya
+9. **Sacar conceptos de un tema a `notas/`** — tengo un tema ya
    escrito y quiero trocear sus conceptos con entidad propia en notas
    sueltas y enlazables, como ya existen en Bloque 2 y Bloque 3.
-9. **Corregir un ensayo** — tengo un ejercicio de desarrollo (carpeta
+10. **Corregir un ensayo** — tengo un ejercicio de desarrollo (carpeta
    `Ejercicios/`) ya escrito, o lo voy a pegar ahora, y quiero que se
    corrija como un examen de desarrollo real, contrastado frase a
    frase contra la nota.
-10. **No sé por dónde seguir** — quiero que me orientes.
+11. **No sé por dónde seguir** — quiero que me orientes.
 
 ## Paso 3 — Delegar
 
@@ -104,6 +118,31 @@ flujo, no sustituirlo.
   4. Pregúntame si quiero registrar el resultado en el repaso espaciado
      (`opos-repaso`, modo REGISTRAR) además del registro que
      `opos-examen` ya hace por su cuenta en `_examenes.md`.
+  No saltes ningún paso de esta cadena sin decírmelo antes.
+- **Simulacro oficial en PDF** → sigue el flujo de
+  `.claude/commands/simulacro.md`. Primero pregúntame los temas (con la
+  lista de temas disponibles en la bóveda). Después,
+  `opos-simulacro` MODO GENERAR. Cuando vuelva con mis respuestas,
+  `opos-simulacro` MODO CORREGIR. Si el simulacro es de un único tema,
+  ofrece antes `opos-metacognicion` (parte A) y, tras corregir, la
+  parte B. Al final pregunta si registro los `RESULTADO` en
+  `opos-repaso`.
+- **Machacar datos duros (memorizar)** → misma lógica de **sesión
+  encadenada**, con `opos-memoriza` en vez de `opos-test`/`opos-examen`:
+  1. Si el alcance que te doy es un único tema concreto,
+     `opos-metacognicion` (parte A: predicción de dominio de ese tema).
+     Si el alcance son varios temas o modo agenda, sáltate este paso —
+     una sola predicción 1-5 no tiene sentido para varios temas a la
+     vez.
+  2. `opos-memoriza` con el alcance que te dé (uno o varios temas, o
+     vacío para que él mismo calcule la agenda desde `_repasos.md` y
+     `_dudas.md` — muéstrame ese alcance propuesto antes de que
+     empiece a preguntar).
+  3. Si hiciste el paso 1, cuando `opos-memoriza` entregue sus líneas
+     `RESULTADO: ...`, invoca `opos-metacognicion` (parte B) con la
+     predicción del paso 1 y el resultado del tema correspondiente.
+  4. Pregúntame si quiero registrar cada `RESULTADO` en el repaso
+     espaciado (`opos-repaso`, modo REGISTRAR, una vez por tema).
   No saltes ningún paso de esta cadena sin decírmelo antes.
 
 ## Paso 4 — Cierre
