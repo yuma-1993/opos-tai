@@ -273,11 +273,14 @@ Cada grado se clasifica en dos niveles (1 y 2) según la autonomía y la intensi
 | Grado | Definición |
 |---|---|
 | I. Dependencia moderada | Necesita ayuda para varias ABVD al menos una vez al día, o tiene necesidades de apoyo intermitente o limitado para su autonomía personal. |
-| II. Dependencia severa | Necesita ayuda para varias ABVD dos o tres veces al día, pero no quiere el apoyo permanente de un cuidador, o tiene necesidades de apoyo extenso. |
+| II. Dependencia severa | Necesita ayuda para varias ABVD dos o tres veces al día, pero no requiere el apoyo permanente de un cuidador, o tiene necesidades de apoyo extenso. |
 | III. Gran dependencia | Necesita ayuda para varias ABVD varias veces al día y, por pérdida total de autonomía, necesita apoyo indispensable y continuo de otra persona, o tiene necesidades de apoyo generalizado. |
 
 > [!example] Pregunta de examen
 > ¿Cuál NO es un grado de dependencia según la Ley 39/2006? a) Grado I. Dependencia moderada. b) Grado II. Dependencia severa. c) Grado III. Gran dependencia. **d) Grado IV. Dependencia continua** (no existe).
+
+> [!example] Pregunta de examen
+> Según la Ley 39/2006, el **Grado II (Dependencia severa)** se define como: cuando la persona necesita ayuda para realizar varias actividades básicas de la vida diaria… a) **2 o 3 veces al día, pero no requiere apoyo permanente del cuidador o tiene necesidades de apoyo extenso para su autonomía personal** (**correcta**). b) Varias veces al día y, por su pérdida de autonomía, necesita apoyo indispensable y continuo de otra persona o tiene necesidades de apoyo generalizado (= Grado III). c) Al menos una vez al día o tiene necesidades de apoyo intermitente o limitado (= Grado I). d) Muchas veces al día y necesita el apoyo constante de un cuidador (distractor).
 
 ### Revisión, valoración y procedimiento
 

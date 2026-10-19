@@ -97,6 +97,9 @@ Sabe la posición que va a ocupar un elemento al aplicar la **función Hash**. E
 > [!important] Profundidad vs altura — confusión típica de examen
 > Profundidad se mide **de un nodo hacia la raíz** (hacia arriba), altura se mide **de un nodo hacia la hoja más lejana** (hacia abajo). La raíz tiene profundidad 0 pero su altura es la altura total del árbol; una hoja tiene altura 0 pero su profundidad depende de cuántos niveles baja desde la raíz.
 
+> [!example] Figura del PDF: árbol con *depth* y *height*
+> Árbol de 4 niveles: la **raíz** tiene depth 0 y height 3. Sus dos hijos tienen depth 1 y height 2 (el izquierdo) y height 1 (el derecho). En el nivel 2 hay tres nodos: dos hojas (depth 2, height 0) bajo el hijo izquierdo y un nodo interno (depth 2, height 1) bajo el derecho, del que cuelga una **hoja con depth 3 y height 0**. El PDF distingue visualmente raíz (*root node*), nodo interno (*inner node*) y hoja (*leaf node*).
+
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > El PDF menciona que los reequilibrios en un árbol AVL se hacen mediante rotaciones, pero no detalla el mecanismo: cuando al insertar o borrar un nodo el FE de algún ancestro se sale del rango [-1, +1], se aplica una **rotación simple** (izquierda o derecha) o una **rotación doble** (izquierda-derecha o derecha-izquierda) sobre ese nodo, reorganizando localmente 2 o 3 nodos para devolver el árbol al rango permitido sin romper el orden del árbol binario de búsqueda subyacente.
 
@@ -110,10 +113,21 @@ Los **[[Recorridos de árbol (Preorden, Inorden, Postorden)|recorridos en profun
 | **Inorden**   | 1º Subárbol Izquierdo, 2º Raíz, 3º Subárbol Derecho | I**R**D                                                           |
 | **Postorden** | 1º Subárbol Izquierdo, 2º Subárbol Derecho, 3º Raíz | ID**R** — el más complejo, porque pinta la raíz del nodo al final |
 
+> [!important] Reconstruir un árbol a partir de recorridos
+> El PDF señala que, para reconstruir un árbol, **siempre se da el IRD (inorden) y otro recorrido** (RID o IDR) **para evitar ambigüedades**.
+
 > [!example] Ejemplo del PDF (árbol de 15 nodos, A–O)
 > - **Preorden (RID)**: A, B, D, H, I, E, J, K, C, F, L, M, G, N, O
 > - **Inorden (IRD)**: H, D, I, B, E, J, K, A, L, F, M, C, N, G, O
 > - **Postorden (IDR)**: H, I, D, J, K, E, B, L, M, F, N, O, G, C, A
+
+> [!example] Ejemplo pequeño del PDF (árbol de 5 nodos A–E)
+> Árbol: A es la raíz; B y C son sus hijos; D es hijo de B y E es hijo de C.
+> - **RID**: A B D C E
+> - **IRD**: D B A C E
+> - **IDR**: D B E C A
+>
+> El PDF acompaña estos tres recorridos de una matriz para reconstruir el árbol a partir del IRD y otro recorrido.
 
 ### 3. Tipos de árboles
 
@@ -161,6 +175,9 @@ Un **[[Grafo (conceptos básicos)|grafo]]** es una red de nodos. **No hay raíz*
 
 - **Lista de adyacencia**: array de vértices + listas enlazadas (cada vértice apunta a la lista de sus vecinos).
 - **Array/matriz de adyacencia**: matriz N×N donde cada celda indica si hay arista entre dos vértices. **Desperdicia memoria si hay muchos nodos** (la mayoría de celdas quedan a 0 en grafos poco densos).
+
+> [!example] Figura del PDF
+> Un mismo grafo de 5 nodos representado con su **lista de adyacencia** (array de vértices con listas enlazadas) y con su **matriz de adyacencia** de 5×5 con 0 y 1. El PDF la usa para ilustrar que la matriz desperdicia memoria si hay muchos nodos.
 
 > [!important] Cuándo usar cada representación
 > Lista de adyacencia = eficiente en memoria para grafos **poco densos** (pocas aristas por nodo). Matriz de adyacencia = más simple y rápida para consultar "¿existe arista A-B?" en O(1), pero cara en memoria si el grafo es grande y poco denso.
@@ -299,6 +316,7 @@ De menor a mayor complejidad:
 | **Quicksort** | O(n log(n)) | O(n log(n)) | O(n²) | O(log(n)) |
 | **Mergesort** | O(n log(n)) | O(n log(n)) | O(n log(n)) | O(n) |
 | **[[Timsort]]** | O(n) | O(n log(n)) | O(n log(n)) | O(n) |
+| **Heapsort** | O(n log(n)) | O(n log(n)) | O(n log(n)) | O(1) |
 | **Bubble Sort** | O(n) | O(n²) | O(n²) | O(1) |
 | **Insertion Sort** | O(n) | O(n²) | O(n²) | O(1) |
 | **Selection Sort** | O(n²) | O(n²) | O(n²) | O(1) |

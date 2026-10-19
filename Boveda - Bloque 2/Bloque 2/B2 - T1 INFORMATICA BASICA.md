@@ -5,6 +5,7 @@ tags:
   - sistemas-informacion
   - business-intelligence
   - arquitectura-computadores
+  - representacion-informacion
 bloque: 2
 tema: 1
 titulo: Informática básica
@@ -14,7 +15,7 @@ estado: por-repasar
 # Tema 1 · Bloque 2 — Informática básica
 
 > [!abstract] De qué va este tema
-> Dos bloques de contenido bien diferenciados: (1) sistemas de información empresariales y BI/OLAP, y (2) arquitectura interna del computador (CPU, buses, memoria, placa base). No dependen el uno del otro para entenderse, pero ambos son muy preguntables por definiciones cruzadas (ej. "diferencia entre X e Y").
+> Tres bloques de contenido diferenciados: (1) sistemas de información empresariales y BI/OLAP, (2) representación de la información (sistemas de numeración, signo, coma flotante, errores, codificación de caracteres) y (3) arquitectura interna del computador (CPU, buses, memoria, placa base, rendimiento). No dependen unos de otros para entenderse, pero todos son muy preguntables por definiciones cruzadas (ej. "diferencia entre X e Y"). Contrastada con el PDF original de Carlos Velilla el 2026-10-19.
 
 ---
 
@@ -90,9 +91,178 @@ Lenguaje para consultar cubos OLAP, igual que SQL consulta tablas relacionales, 
 > [!tip] Truco mnemotécnico
 > Slice = 1 corte (una dimensión). Dice = varios cortes, como dados, varias caras/dimensiones.
 
+> [!note] Precisión del PDF sobre Slice/Dice
+> Slice: selecciona **una** dimensión y da un nuevo subcubo. Dice: selecciona **2 o más** dimensiones de un cubo y da un nuevo subcubo.
+
+### 6. ETL: cómo llegan los datos al DWH
+
+- El **DWH** recibe y consolida los datos de los **TPS** mediante herramientas **ETL** (*Extract, Transform and Load*).
+- En Java, **Kettle** es un ETL integrado en la suite **Pentaho Data Integration (PDI)**.
+- En Microsoft: **SQL Server Integration Services (SSIS)**.
+- Flujo completo: TPS → ETL → DWH → (cubos OLAP / Data Mining / BI) → informes.
+
+> [!note] Clasificación de los sistemas según el PDF
+> **DSS/OLAP** y **MIS** corresponden a la parte **analítica**, y eso lleva a Data Mining / BI. El PDF los caracteriza así: **EIS** estratégico (largo/medio plazo; usa ML, estadística, cuadros de mando); **DSS** táctico (corto plazo; también OLAP); **MIS** especializado en generar informes (Power BI); **TPS** procesos diarios de transacciones (sistemas transaccionales). Mediante redes neuronales, estadística, árboles de decisión, etc. se extrae información del Data Warehouse.
+
 ---
 
-## Parte II — Arquitectura de computadores
+## Parte II — Representación de la información
+
+> [!abstract] De qué va esta parte
+> Cómo se codifica la información en binario: unidades, sistemas de numeración, signo, coma flotante, detección de errores, compresión y codificación de caracteres. Es la parte más "calculable" del tema y la más susceptible de ejercicios.
+
+### 1. Sistema binario: unidades y códigos
+
+| Unidad | Tamaño |
+|---|---|
+| **Bit** | Unidad mínima |
+| **Crumb** | 2 bits |
+| **Nibble** | 4 bits |
+| **Byte** | 8 bits |
+
+**Códigos para dígitos decimales:**
+
+| Código | Cómo funciona | Ejemplo: decimal 16 |
+|---|---|---|
+| **BCD (8421)** | *Dígito decimal Codificado en Binario*: usa 4 bits para codificar cada dígito de forma independiente | `0001 0110` |
+| **AIKEN (2421)** | Tiene una tabla propia de equivalencia | `0001 1100` |
+| **Exceso a 3 (XS-3)** | Cada dígito se representa con 4 bits **más 3** (exceso) | 0 = 0000 + 0011 = `0011`; 8 = 1000 + 0011 = `1011` |
+
+**Múltiplos: Sistema Internacional vs ISO/IEC 80000-13**
+
+| Sistema Internacional (potencias de 10) | | ISO/IEC 80000-13 (potencias de 2) | |
+|---|---|---|---|
+| 10³ = 1000 | KB Kilobyte | 2¹⁰ = 1024 | KiB Kibibyte |
+| 10⁶ | MB Megabyte | 2²⁰ | MiB Mebibyte |
+| 10⁹ | GB Gigabyte | 2³⁰ | GiB Gibibyte |
+| 10¹² | TB Terabyte | 2⁴⁰ | TiB Tebibyte |
+| 10¹⁵ | PB Petabyte | 2⁵⁰ | PiB Pebibyte |
+| 10¹⁸ | EB Exabyte | 2⁶⁰ | EiB Exbibyte |
+| 10²¹ | ZB Zettabyte | 2⁷⁰ | ZiB Zebibyte |
+| 10²⁴ | YB Yottabyte | 2⁸⁰ | YiB Yobibyte |
+| 10²⁷ | RB Ronnabyte | 2⁹⁰ | RiB Robibyte |
+| 10³⁰ | QB Quettabyte | 2¹⁰⁰ | QiB Quebibyte |
+
+> [!important] KB ≠ KiB
+> Un **KB ya no son 1024 B, sino 1000 B** en el Sistema Internacional. El **1024** se ha quedado en el estándar **ISO/IEC** (KiB).
+
+### 2. Sistemas de numeración
+
+| Sistema | Dígitos | Ejemplo |
+|---|---|---|
+| Decimal | 0–9 | 429₁₀ |
+| Binario | 0–1 | 010010₂ |
+| Hexadecimal | 0–9, A–F | AF30101ₕ |
+| Octal | 0–7 | 73010₈ |
+
+**Fórmula para pasar cualquier número de cualquier base a decimal:**
+
+> Decimal = Σ dᵢ × bⁱ (para i = 0 hasta N−1), donde **i** = posición del dígito (desde la derecha, empezando en 0), **d** = dígito, **b** = base. Es decir: *dígito × base elevada al índice*.
+
+> [!example] Ejemplos de conversión a decimal
+> - 101₂ = 1×2⁰ + 0×2¹ + 1×2² = 1 + 0 + 4 = **5**
+> - 238₈ → **Error**: no existe el dígito 8 en octal.
+> - 231₈ = 1×8⁰ + 3×8¹ + 2×8² = 1 + 24 + 128 = **153**
+
+**Conversiones entre bases:**
+
+- **Binario → Hexadecimal**: separar en bloques de **4** bits. `00011001` → `0001-1001` = 1-9 = **19**.
+- **Binario → Octal**: separar en bloques de **3** bits.
+- **Decimal → Hexadecimal**: dividir entre 16, o pasar a binario y de binario a hexadecimal.
+- **Decimal → Binario**: dividir entre 2 (o a mano usando los pesos, "la cuenta de la vieja"). Se divide entre 2 hasta el final y se ordena **desde el último cociente hasta el primer resto**. Ejemplo: 100₁₀ = 1100100₂.
+
+### 3. Base64
+
+- Es más un **sistema de codificación** que de números. **Ocupa un 33 % más.**
+- **PEM** es un formato de exportación de datos codificado en Base64.
+- Hacen falta **6 bits** para codificar 64 caracteres: `A-Z`, `a-z`, `0-9`, `+`, `/`.
+- Se cogen grupos de 6 en 6 bits **empezando por la izquierda**.
+- `=` es el relleno o *pad*: 1 o 2 como máximo, para rellenar el grupo de la derecha. `=` ≈ `00`.
+
+> [!example] Ejemplo del PDF: "Ma" en Base64
+> Octetos: M = 77 (0x4d), a = 97 (0x61) → bits `01001101 01100001` → grupos de 6 bits: `010011` `010110` `0001` + `00` de relleno → sextetos **19, 22, 4** + padding → caracteres **T, W, E, =**.
+
+### 4. Representación del signo
+
+- **Signo-módulo**: bit de signo + valor absoluto del número. **0 = +; 1 = −**.
+- **CA1 (complemento a 1)**: para obtener el negativo se intercambian los 0 por 1 y los 1 por 0. Rango de **7 a −7** (4 bits). **Doble valor del 0**: `0000` y `1111`.
+- **CA2 (complemento a 2)**: se calcula el CA1 y se **suma 1**. Rango de **7 a −8**. **Los números en Java se representan internamente con CA2.**
+
+| | Rango (4 bits) | Ceros |
+|---|---|---|
+| CA1 | 7 a −7 | Dos (`0000` y `1111`) |
+| CA2 | 7 a −8 | Uno |
+
+### 5. Coma flotante: IEEE 754
+
+| Precisión | Total | Signo | Exponente | Mantisa |
+|---|---|---|---|---|
+| Simple | 32 bits | 1 | 8 | 23 |
+| Doble | 64 bits | 1 | 11 | 52 |
+
+> [!example] Ejemplo resuelto del PDF: 263,3 en precisión simple
+> 1. **Parte entera**: 263 → dividiendo entre 2 = `100000111`.
+> 2. **Parte decimal**: 0,3 → se multiplica por 2 repetidamente (0,3×2 = 0,6; 0,6×2 = 1,2; 0,2×2 = 0,4; 0,4×2 = 0,8; 0,8×2 = 1,6; 0,6×2 = 1,2…) hasta llegar a decimal 0 o detectar un periodo → `01001` (con periodo `1001`).
+> 3. `100000111,01001…` → notación científica → `1,0000011101001… × 2⁸`.
+> 4. **Signo**: 0. **Exponente**: exponente + 127 = 8 + 127 = 135 = `10000111`.
+> 5. **Resultado**: `0 10000111 00000111010011001100110`.
+
+> [!important] Sesgo
+> En precisión simple el exponente se almacena **sesgado (+127)**.
+
+### 6. Detección (y corrección) de errores
+
+| Técnica | Qué hace |
+|---|---|
+| **Bit de paridad** | Estrategia par o impar. Pasa de 7 a 8 bits añadiendo 1 bit al final. Busca que el conjunto final tenga un nº par o impar de 1s |
+| **CRC** | Verificación por redundancia cíclica |
+| **Golay** | Detección y corrección de errores |
+| **Gray** | Detección y corrección de errores. Se basa en que dos datos consecutivos solo se diferencian en **1 bit** |
+| **Reed-Solomon** | Detección y corrección de errores |
+| **Hadamard** | Detección y corrección de errores |
+| **Hamming** | Detección y corrección de errores |
+| **Checksum** | Suma de verificación. Función matemática de redundancia para detectar errores en una transmisión. **Asegura la integridad** |
+| **Hash** | Algoritmo matemático que transforma un bloque de datos en una nueva serie de caracteres de **longitud fija**. **Asegura la integridad** |
+
+### 7. Compresión de datos sin pérdida
+
+- **Código Huffman**: usado en la creación de ficheros **gzip**.
+
+### 8. Codificación de caracteres
+
+**ISO 10646** es el Conjunto de Caracteres Universal (**UCS**). En Windows, Latin-1 es el **Windows-1252**.
+
+| Código | Características |
+|---|---|
+| **ASCII** | 7 bits + 1 de paridad. 32–126: imprimibles; 0–31 y 127: no imprimibles. No tiene €, ni Ñ, ni letras con tilde. **A = 65** |
+| **EBCDIC** | 8 bits. Mainframe de IBM. Cada país tenía su tabla; cada tabla de caracteres se llama **Codepage** |
+| **ISO 8859-1** (Latin-1) | 8 bits de verdad. Tiene Ñ y tildes, pero **no tiene €**. **ISO-8859-15** incorpora el €. A = 65 |
+| **UTF-8** | *8-bit Unicode Transformation Format*. Mínimo 8 bits. **Longitud variable 1–4 bytes**. Los de 1 byte coinciden con ASCII; el resto son los más raros |
+| **UTF-16** | Mínimo 16 bits. **Longitud variable de 2–4 bytes**: 1 o 2 palabras de 16 bits (cada palabra son 2 bytes) |
+
+### 9. Operaciones lógicas
+
+| A | B | AND (A ∧ B) | OR (A ∨ B) | XOR (A ⊕ B) |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 |
+| 0 | 1 | 0 | 1 | 1 |
+| 1 | 0 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 1 | 0 |
+
+### 10. ISO 8601: fecha y hora
+
+Formato internacional para representar el tiempo en **horas-minutos-segundos** o las fechas en **año-mes-día**.
+
+- **Hora UTC** (Tiempo Universal Coordinado): carácter **"Z"**.
+- **Hora local**: carácter **"T"** (según el PDF).
+- **Semana**: carácter **"W"**.
+
+> [!note] Ampliación (conocimiento general, no viene del PDF)
+> En un formato como `2026-10-19T14:30:00Z`, la **T** separa la fecha de la hora y la **Z** indica que la hora es UTC.
+
+---
+
+## Parte III — Arquitectura de computadores
 
 ### 1. Componentes principales de la CPU
 
@@ -275,6 +445,72 @@ Registros → Caché → Memoria Principal → Resto
 > [!important]
 > El tiempo que tarda la memoria en proporcionar el dato es la suma de **ACTIVE + RAS + CAS**.
 
+### 13. Von Neumann vs Harvard (y el cúbit)
+
+- **Bit**: unidad básica de información en la computación **clásica**. **Cúbit** (bit cuántico): unidad básica de información en la computación **cuántica**.
+
+| Arquitectura | Memoria |
+|---|---|
+| **Von Neumann** | **Una única memoria** para instrucciones y datos |
+| **Harvard** | **Memoria separada** para instrucciones y datos. Mejor seguridad y rendimiento |
+
+### 14. Medidas de rendimiento de una computadora
+
+| Medida | Significado | Qué indica |
+|---|---|---|
+| **MIPS** | Millones de Instrucciones Por Segundo | **Potencia** de un procesador |
+| **MFLOPS** | Millones de Operaciones en Coma Flotante Por Segundo | **Rendimiento** del procesador |
+
+> [!note] Ampliación (conocimiento general, no viene del PDF)
+> MIPS cuenta cualquier instrucción, y no todas hacen el mismo trabajo, así que no es comparable entre arquitecturas distintas (CISC frente a RISC). MFLOPS solo cuenta operaciones en coma flotante: más comparable, pero válido solo para cargas de cálculo. Múltiplos: GFLOPS (10⁹), TFLOPS (10¹²), PFLOPS (10¹⁵). Ninguna de las dos es la frecuencia de reloj (GHz).
+
+### 15. Taxonomía de Flinn
+
+Clasificación de la arquitectura de computadores en función de las **instrucciones (I)** y los **datos (D)**: **SISD, SIMD, MISD, MIMD**.
+
+> [!note] Ampliación (conocimiento general, no viene del PDF)
+> S = *Single*, M = *Multiple*. SISD: una instrucción sobre un dato (CPU secuencial clásica). SIMD: una instrucción sobre muchos datos (vectorial, GPU). MISD: varias instrucciones sobre un mismo dato (rara). MIMD: varias instrucciones sobre varios datos (multinúcleo, clústeres).
+
+### 16. Direcciones lógicas (virtuales) vs físicas
+
+- La **MMU** (gestor de memoria) traduce las **direcciones virtuales** en **direcciones físicas**.
+- La **TLB** es la tabla de traducción que usa la MMU.
+
+> [!note] Más detalle
+> Memoria virtual, paginación y fallos de página están en [[B2 - T4.1 SISTEMAS OPERATIVOS]].
+
+### 17. Virtualización a nivel de CPU
+
+Soporte hardware a nivel de CPU para dar capacidad de virtualización: **Intel VT-x** y **AMD-V**.
+
+### 18. Ejercicios resueltos del PDF
+
+> [!example] Ejercicio 1: capacidad de una memoria
+> *¿Capacidad en KB de una memoria con 1024 posiciones y palabras de 16 bits?*
+> - 1024 posiciones → bus de direcciones de **10 bits**.
+> - En cada posición se almacena una **palabra**.
+> - 1024 × 2 bytes = 2048 bytes = **2 KB**.
+
+> [!example] Ejercicio 2: caracteres que caben en la memoria
+> *Computadora con 36 Kpalabras de memoria principal, palabras de 32 bits. ¿Cuántos caracteres de 8 bits caben?*
+> - Tamaño de memoria = 36 Kpalabras × 32 bits/palabra.
+> - Nº de caracteres = (36K × 32) / 8.
+> - (Cálculo final, no resuelto en el PDF: 36K × 4 = 144K caracteres = 147 456, tomando K = 1024.)
+
+> [!example] Ejercicio 3: tamaño máximo de fichero con inodos
+> *Dispositivo dividido en bloques de 4 KB, dirección de bloque de 64 bits. Cada inodo tiene 12 punteros directos, 1 indirecto simple y 1 indirecto doble. Tamaño máximo aproximado de los ficheros.*
+> - Bloque (de datos o de índices) = 4 KB. Dirección de un bloque = 64 bits = 8 bytes.
+> - Entradas por bloque de índices = 4 KB / 8 B = 2¹² / 2³ = 2⁹ = **512**.
+> - Tamaño máximo = 12 × 4 KB + 512 × 4 KB + 512 × 512 × 4 KB = 12 × 2¹² + 2⁹ × 2¹² + 2⁹ × 2⁹ × 2¹² = 12 × 4 KB + 2²¹ + 2³⁰ ≈ **1 GB**.
+
+> [!example] Ejercicio 4: memoria virtual
+> *Computador de 32 bits, páginas de 16 KB, memoria principal de 1 GB.* (1 KB = 2¹⁰, 1 MB = 2²⁰, 1 GB = 2³⁰). Página = 16 KB = 2¹⁴ → **14 bits** de desplazamiento.
+> - a) **Formato de la dirección virtual**: nº de página (**18** bits) + desplazamiento (**14** bits).
+> - b) **Nº máximo de páginas**: 2¹⁸.
+> - c) **Nº de marcos de página**: 2³⁰ / 2¹⁴ = 2¹⁶.
+> - d) **Bloque transferido** entre disco y memoria principal en un fallo de página: **16 KB** (una página).
+> - e) **Genera el fallo de página y quién lo trata**: la **MMU**.
+
 ---
 
 ## 🔑 Resumen ultra-rápido (para repaso)
@@ -292,3 +528,15 @@ Registros → Caché → Memoria Principal → Resto
 - Write through = inmediato. Write back = diferido (al salir de caché).
 - BIOS = MBR/carácter. UEFI = GPT/gráfico.
 - Latencia total RAM = ACTIVE + RAS + CAS.
+- ETL (Extract, Transform, Load) lleva los datos de los TPS al DWH. Kettle/PDI (Java), SSIS (Microsoft).
+- Unidades: crumb 2 bits, nibble 4, byte 8. KB = 1000 B (SI); KiB = 1024 B (ISO/IEC 80000-13).
+- BCD (8421), Aiken (2421), Exceso a 3 (+3). Octal: 0–7 (el 8 no existe). Bin→Hex bloques de 4; Bin→Oct bloques de 3.
+- Base64: 6 bits por carácter, +33 % de tamaño, `=` = padding (1 o 2). PEM usa Base64.
+- CA1: 7 a −7, doble cero. CA2: 7 a −8 (CA1 + 1); Java usa CA2.
+- IEEE 754: simple 1+8+23 bits (sesgo +127), doble 1+11+52.
+- Detectan/corrigen: Hamming, Golay, Reed-Solomon, Hadamard, Gray (1 bit de diferencia). Integridad: checksum y hash. Huffman → gzip.
+- ASCII 7 bits (A = 65). ISO 8859-1 sin €, 8859-15 con €. UTF-8 1–4 bytes, UTF-16 2–4 bytes. EBCDIC = IBM.
+- ISO 8601: Z = UTC, T = hora local (según el PDF), W = semana.
+- Von Neumann = memoria única. Harvard = datos e instrucciones separados. Cúbit = bit cuántico.
+- MIPS = millones de instrucciones/s (potencia). MFLOPS = millones de operaciones en coma flotante/s (rendimiento).
+- Flinn: SISD, SIMD, MISD, MIMD. MMU traduce virtual→física (TLB). Virtualización CPU: Intel VT-x, AMD-V.

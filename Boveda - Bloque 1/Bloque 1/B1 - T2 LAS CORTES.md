@@ -28,27 +28,34 @@ Las Cortes Generales están compuestas por el **[[Congreso de los Diputados vs S
 
 ### Congreso de los Diputados
 
-| | Detalle |
-|---|---|
-| Naturaleza | Cámara baja, de representación **provincial** |
-| Composición | Entre 300 y 400 Diputados (actualmente **350**) |
-| Elección | Sufragio universal, libre, igual, directo y secreto |
-| Distribución de la elección | En cada provincia: 2 Diputados. Ceuta y Melilla: 1 Diputado cada una. Los otros 248 Diputados se distribuyen en proporción a la población de las provincias |
-| Circunscripciones | **52**: 50 provincias + 2 ciudades autonómicas (Ceuta y Melilla) |
-| Elecciones | Deben celebrarse entre 30 y 60 días desde la terminación del mandato. Una vez celebradas, el Congreso debe ser convocado dentro de los 25 días siguientes |
+|                             | Detalle                                                                                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Naturaleza                  | Cámara baja. La CE **no** le atribuye naturaleza territorial: es representación **popular**, con circunscripción provincial y reparto proporcional a la población (art. 68.1 y 68.2) |
+| Composición                 | Entre 300 y 400 Diputados (actualmente **350**)                                                                                                                                      |
+| Elección                    | Sufragio universal, libre, igual, directo y secreto                                                                                                                                  |
+| Distribución de la elección | En cada provincia: 2 Diputados. Ceuta y Melilla: 1 Diputado cada una. Los otros 248 Diputados se distribuyen en proporción a la población de las provincias                          |
+| Circunscripciones           | **52**: 50 provincias + 2 ciudades autonómicas (Ceuta y Melilla)                                                                                                                     |
+| Elecciones                  | Deben celebrarse entre 30 y 60 días desde la terminación del mandato. Una vez celebradas, el Congreso debe ser convocado dentro de los 25 días siguientes                            |
 
 ### Senado
 
-| | Detalle |
-|---|---|
-| Naturaleza | Cámara alta, de representación **territorial** (provincial + CCAA) |
-| Composición | Actualmente **266 Senadores** |
-| Por cada provincia | 4 Senadores |
-| Gran Canaria, Tenerife y Mallorca | 3 Senadores |
-| Ibiza-Formentera, Menorca, Fuerteventura, y Lanzarote y La Palma | 1 Senador por cada isla o agrupación |
-| Ceuta y Melilla | 2 Senadores |
-| Cada Comunidad Autónoma | 1 Senador y otro más por cada millón de habitantes |
-| Comunidades Autónomas | 17 |
+|                                                                                        | Detalle                                                                                       |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Naturaleza                                                                               | Cámara alta, de representación **territorial** (provincial + CCAA)                             |
+| Composición                                                                              | **267 Senadores** tras la reforma de 2026 (209 de elección directa + 58 designados por las CCAA). El **PDF dice 266** (208 + 58): ver nota inferior |
+| Por cada provincia peninsular (47)                                                       | 4 Senadores                                                                                     |
+| Gran Canaria, Tenerife y Mallorca                                                        | 3 Senadores cada una                                                                            |
+| Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma    | 1 Senador cada una (8 circunscripciones insulares menores)                                     |
+| Ceuta y Melilla                                                                          | 2 Senadores cada una                                                                            |
+| Cada Comunidad Autónoma                                                                  | 1 Senador y otro más por cada millón de habitantes (designados por el Parlamento autonómico)   |
+| Comunidades Autónomas                                                                    | 17                                                                                              |
+
+> [!important] Qué dice el PDF y qué dice la actualización
+> El PDF de Velilla (B1-T2, p. 3) dice **"Actualmente 266 Senadores"** (con asterisco) y agrupa **"Ibiza-Formentera"**. Su listado de islas menores **sí incluye La Gomera y El Hierro** (Ibiza-Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma: un Senador por cada isla o agrupación). Una versión anterior de esta nota afirmaba lo contrario y era un error, ya corregido (comprobado contra el PDF el 2026-10-19).
+> **Si el examen se corrige con el material del PDF, la cifra esperada es 266 (208 + 58).** El 267 (209 + 58) es la cifra legal vigente desde la reforma que se describe a continuación.
+
+> [!note] Actualización frente al BOE/LOREG (no viene del PDF original)
+> La Constitución se reformó en 2026 (art. 69.3 CE, [BOE-A-2026-10881](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881), de 19 de mayo de 2026) para que **Formentera elija senador propio**, separándose de Ibiza; la LOREG se adaptó mediante la **Ley Orgánica 2/2026** ([BOE-A-2026-14329](https://www.boe.es/boe/dias/2026/07/02/pdfs/BOE-A-2026-14329.pdf)), en vigor desde el **3 de julio de 2026**. Con esto los senadores de elección directa pasan de 208 a 209, y el total del Senado de 266 a 267. La regla "4 Senadores por provincia" se aplica solo a las **47 provincias peninsulares**: Baleares y las 2 provincias canarias usan circunscripción insular en su lugar, no provincial (por eso hay 59→60 circunscripciones y no 50).
 
 > [!important] Congreso vs. Senado
 > El Congreso representa a la **población** (proporcional, con mínimos por provincia); el Senado representa al **territorio** (número fijo por provincia/isla, más una cuota por Comunidad Autónoma). Es la clave para no confundir ambas cámaras en un examen.
@@ -68,13 +75,14 @@ f) Miembros de las Juntas Electorales.
 
 ### Iniciativa legislativa
 
-| Origen | Requisito | Da lugar a |
-|---|---|---|
-| Gobierno | Aprobado en Consejo de Ministros | **[[Proyecto de ley vs Proposición de ley|Proyecto de ley]]** |
-| Asamblea de una CCAA | Solicitar al Gobierno, o remitir a la Mesa del Congreso (3 miembros) | [[Proyecto de ley vs Proposición de ley|Proposición de ley]] |
-| Congreso | 15 Diputados o un Grupo Parlamentario | Proposición de ley |
-| Senado | 25 Senadores o un Grupo Parlamentario | Proposición de ley |
-| Iniciativa popular | +500.000 firmas acreditadas (con límites) | Proposición de ley |
+| Origen               | Requisito                                                            | Da lugar a                                                     |
+| -------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Gobierno             | Aprobado en Consejo de Ministros                                     | **[[Proyecto de ley vs Proposición de ley\|Proyecto de ley]]** |
+| Asamblea de una CCAA | Solicitar al Gobierno, o remitir a la Mesa del Congreso (3 miembros) | [[Proyecto de ley vs Proposición de ley\|Proposición de ley]]  |
+| Congreso             | 15 Diputados o un Grupo Parlamentario                                | Proposición de ley                                             |
+| Senado               | 25 Senadores o un Grupo Parlamentario                                | Proposición de ley                                             |
+| Iniciativa popular   | +500.000 firmas acreditadas (con límites)                            | Proposición de ley                                             |
+|                      |                                                                      |                                                                |
 
 ### Tramitación y aprobación
 
@@ -100,15 +108,15 @@ En 15 días, el Rey sanciona y promulga la ley → se publica en el BOE → entr
 
 Las Cortes ejercen estas funciones reunidas en **sesión conjunta** y presididas por el **Presidente del Congreso**:
 
-| Artículo CE | Función |
-|---|---|
-| 57.3 | Extinguidas las líneas llamadas en Derecho, las Cortes proveerán a la sucesión en la Corona |
-| 57.4 | Excluye de la sucesión a quienes contrajeran matrimonio contra la expresa prohibición del Rey y de las Cortes |
-| 59.2 | Faculta a las Cortes a reconocer que el Rey ha quedado inhabilitado para el ejercicio de su autoridad |
-| 59.3 | Permite a las Cortes nombrar la Regencia |
-| 60.1 | Autoriza a las Cortes a nombrar tutor del Rey menor |
-| 61.1 | Dispone que la proclamación y el juramento del nuevo Rey tendrá lugar ante las Cortes |
-| 61.2 | Establece que el Príncipe heredero, al alcanzar la mayoría de edad, prestará el mismo juramento |
+| Artículo CE | Función                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| 57.3        | Extinguidas las líneas llamadas en Derecho, las Cortes proveerán a la sucesión en la Corona                   |
+| 57.4        | Excluye de la sucesión a quienes contrajeran matrimonio contra la expresa prohibición del Rey y de las Cortes |
+| 59.2        | Faculta a las Cortes a reconocer que el Rey ha quedado inhabilitado para el ejercicio de su autoridad         |
+| 59.3        | Permite a las Cortes nombrar la Regencia                                                                      |
+| 60.1        | Autoriza a las Cortes a nombrar tutor del Rey menor                                                           |
+| 61.1        | Dispone que la proclamación y el juramento del nuevo Rey tendrá lugar ante las Cortes                         |
+| 61.2        | Establece que el Príncipe heredero, al alcanzar la mayoría de edad, prestará el mismo juramento               |
 
 > [!note] Ampliación (conocimiento general, no viene del PDF)
 > Estas funciones se explican con mucho más detalle, artículo a artículo, en [[La Regencia]] y [[La Tutela del Rey]] (art. 59 y 60 completos) y en [[La Corona - El Rey]] (art. 57, 58, 61, 63-65).
@@ -313,12 +321,12 @@ Las disposiciones generales pueden ser con fuerza de ley ([[Decreto-Ley vs Decre
 
 No es un derecho internacional: el derecho nacional no puede modificarlo con normas posteriores.
 
-| Instrumento | Efecto |
-|---|---|
-| **[[Instrumentos jurídicos de la Unión Europea (Reglamento, Directiva, Decisión, Recomendación)|Reglamento (UE)]]** | Alcance general, obligatorio en todos sus elementos, y **directamente aplicable** en cada Estado miembro |
-| **Directiva** | Obliga al Estado miembro destinatario, dejando a las autoridades nacionales la elección de la forma y de los medios |
-| **Decisión** | Obligatoria en todos sus elementos para los destinatarios (uno o varios Estados miembros) |
-| **Recomendación** | Carácter **no vinculante**; es una invitación a un comportamiento |
+| Instrumento                                                                                                          | Efecto                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **[[Instrumentos jurídicos de la Unión Europea (Reglamento, Directiva, Decisión, Recomendación)\|Reglamento (UE)]]** | Alcance general, obligatorio en todos sus elementos, y **directamente aplicable** en cada Estado miembro            |
+| **Directiva**                                                                                                        | Obliga al Estado miembro destinatario, dejando a las autoridades nacionales la elección de la forma y de los medios |
+| **Decisión**                                                                                                         | Obligatoria en todos sus elementos para los destinatarios (uno o varios Estados miembros)                           |
+| **Recomendación**                                                                                                    | Carácter **no vinculante**; es una invitación a un comportamiento                                                   |
 
 Los Reglamentos y Directivas se publican en el Diario Oficial de las Comunidades Europeas, y entran en vigor cuando se fije, o a los 20 días. Al **Tribunal de Justicia de la Unión Europea** compete el control sobre el incumplimiento de las normas comunitarias.
 
@@ -353,7 +361,7 @@ Los reglamentos propiamente dichos se ordenan según esta jerarquía:
 
 ## 🔑 Resumen ultra-rápido
 
-- Congreso: 300-400 Diputados (350 actuales), representación provincial/poblacional, 52 circunscripciones. Senado: 266 Senadores, representación territorial (4/provincia + cuotas insulares + 1 por CCAA y otro por millón de habitantes).
+- Congreso: 300-400 Diputados (350 actuales), representación provincial/poblacional, 52 circunscripciones. Senado: **267 Senadores** (209 electos + 58 designados por CCAA), representación territorial (4/provincia peninsular + cuotas insulares [incl. Formentera propia desde jul-2026] + 1 por CCAA y otro por millón de habitantes).
 - Legislatura 4 años. Diputación Permanente en cada Cámara (mín. 21 miembros).
 - Elaboración de leyes: iniciativa (Gobierno=proyecto; resto=proposición) → Congreso (enmiendas 15 días) → Senado (2 meses, o 20 días urgente: aprueba MS / veta MA / enmienda MS) → Congreso ratifica (MA inmediato o MS tras 2 meses) → sanción y promulgación real en 15 días → BOE → vigor a los 20 días. Ley Orgánica siempre se aprueba por mayoría absoluta.
 - Cortes y Corona: proveen sucesión (57.3), excluyen por matrimonio prohibido (57.4), reconocen inhabilitación (59.2), nombran Regencia (59.3) y Tutor (60.1), presencian juramento (61.1-2).

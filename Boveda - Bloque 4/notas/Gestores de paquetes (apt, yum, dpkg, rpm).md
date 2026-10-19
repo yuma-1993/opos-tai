@@ -4,7 +4,7 @@ En Linux hay dos niveles de herramientas para instalar software, con el mismo pa
 |---|---|---|
 | Instalar con resolución de dependencias | `apt install` | `yum install` |
 | Actualizar índice de paquetes | `apt update` | `yum update` |
-| Buscar | `apt cache search` (`axi-cache search`) | `yum search` |
+| Buscar | `apt-cache search` | `yum search` |
 | Directorio de repositorios | `/etc/apt/sources.list` | `/etc/yum.repos.d` |
 | Instalación offline de un paquete individual | `dpkg` (`.deb`) | `rpm` (`.rpm`) |
 

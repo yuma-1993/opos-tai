@@ -59,6 +59,11 @@ El ejemplo de pulsar una tecla es el caso de manual de este mecanismo. Se diseca
 > [!note] Dato importante
 > Las interrupciones pueden llevar **parámetros** (por ejemplo, qué tecla concreta se pulsó); no es solo un aviso vacío.
 
+> [!important] Traps, excepciones e interrupciones software (recuadro del PDF)
+> - La CPU genera **traps o excepciones ≈ interrupciones hw**.
+> - **La misma lógica de las ISR** (tabla de vectores de interrupción → dirección de la ISR) se aplica a las **interrupciones sw**.
+> - **INT 21H**: systemcall de **MS-DOS**. **INT 80H**: systemcall de **Linux**. (En el esquema del PDF: "el mismo mecanismo se aplica a las interrupciones software", p. ej. INT 21H → System Call MS-DOS, INT 80H → System Call de Linux.)
+
 #### 2.5 La [[ISR - Interrupt Service Rutine]]
 
 - **Qué es**: el código —el **driver**— que realmente sabe qué hacer con esa interrupción concreta. Es software, vive en RAM (cargado desde el driver del dispositivo).
@@ -238,18 +243,22 @@ Sin partes móviles, basado en memoria **Flash NAND**: almacena datos en celdas 
 
 - **M.2**: formato físico tipo "tarjeta de memoria" que reemplaza a **mSATA**. No define un único protocolo: puede llevar señal **SATA** (M.2 SATA, más lento, limitado a ~6 Gbps) o **PCIe/NVMe** (M.2 NVMe, mucho más rápido).
   - Nomenclatura de tamaño: **M2 2280** = 22 mm de ancho × 80 mm de largo.
+  - **Keys (muescas del conector)**: el PDF incluye una figura con las variantes **B key**, **M key** y **B&M key**, que se distinguen por la posición de la muesca y el número de contactos. (Dato de la figura; el texto del PDF no lo desarrolla más.)
 - **NVMe** (Non-Volatile Memory Express): protocolo diseñado específicamente para SSD (no usa SATA), se conecta directamente al bus **PCIe**, usando típicamente **4 lanes/carriles**. Mucho menor latencia que AHCI/SATA porque está diseñado desde cero para flash.
 - **PCIe** (bus subyacente que usa NVMe): bus de datos serie, hasta **16 lanes**. Velocidad por generación (por lane, en GT/s = giga-transferencias/segundo):
   - PCIe 6: 64 GT/s
   - PCIe 7: 128 GT/s
   - (Patrón: cada generación duplica, potencia de 2: 2⁶=64, 2⁷=128)
+  - **GT** = GigaTransfer. En cada transmisión hay **bits de control**, por eso la velocidad real (útil) es menor: **GT/s > Gbps**.
 - **U.2**: interfaz orientada a **servidores**, permite conectar SSD NVMe con conector similar a SAS/SATA. Ventaja clave: **hot-swapping** (sustitución en caliente sin apagar el equipo), típico en entornos de alta disponibilidad.
 
-> [!note] Cuadro resumen mental (incompleto en la fuente original)
+> [!note] Cuadro resumen mental (apuntes propios)
 > ```
 > Óptico:  CD/DVD (ISO9660+Joliet) → UDF → Blu-ray → HVD
+> HDD:     CHS/LBA · IDE → SATA (doméstico) / SCSI → SAS (servidor)
+> SSD:     SLC→MLC→TLC→QLC (bits/celda) · mSATA→M.2 · SATA→NVMe(PCIe)→U.2 (servidor + hotswap)
 > ```
-> La fuente original solo incluía la línea de ópticos; si tienes las líneas equivalentes para HDD y SSD, se pueden añadir aquí.
+> Las tres líneas vienen de los apuntes propios (`B2 - T2 - PERIFERICOS.odt`). Una versión anterior de esta nota decía, por error, que la fuente solo traía la de ópticos.
 
 ---
 
@@ -411,6 +420,8 @@ Cada **píxel es su propio diodo emisor de luz** — no necesita retroiluminaci�
 
 | Interfaz | Detalle |
 |---|---|
+| **VGA** | **Analógico** |
+| **HDMI** | **Audio + vídeo**. **v2.1**: hasta **10K** y **120 fps**. **v2.2**: **96 Gbps**, **12K** y **480 fps** |
 | **DVI-D** | Solo señal Digital |
 | **DVI-I** | Digital + analógica (Integrada) |
 | **DVI-A** | Solo Analógica (compatibilidad con VGA) |
@@ -423,6 +434,8 @@ Convierte una imagen física en digital.
 - **Fotosensor CCD** (Charge-Coupled Device): sensor que convierte luz en señal eléctrica, línea a línea, según el escáner se desplaza sobre el documento (misma tecnología base usada en cámaras).
 - **Resolución**: se mide en **DPI** (Dots Per Inch, puntos por pulgada) — a mayor DPI, más detalle capturado.
 - **Profundidad de color/bit depth**: cuántos bits se usan para representar el color de cada punto (ej. 24 bits = ~16,7 millones de colores).
+  - **True color**: millones de colores. **3 canales (RGB)** con profundidad de **8 bits/canal**.
+  - **Deep color**: **miles de millones** de colores. **10 bits/canal**. Más intensidad.
 - **OCR** (Optical Character Recognition): software que analiza la imagen escaneada de texto y la convierte en **texto editable**. Ejemplo: escanear un contrato en papel y obtener un .docx editable.
 - **Interfaces/protocolos de comunicación escáner-SO**:
   - **TWAIN**: estándar multiplataforma clásico.
