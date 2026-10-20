@@ -184,6 +184,8 @@ como completada — dilo explícitamente y deja la fila sin tocar (o
 apunta que quedó a medias) para que quede pendiente para otro día.
 
 # Espejo en la plataforma web (pestaña /opos del artifact "Tests Opos TAI")
+Antes de calcular nada, vuelca a los `.md` los cambios hechos desde la web: lista `opos_cola` en el artifact y aplícalos como indica `opos-repaso.md` (sección «Cola de cambios hechos desde la web»); luego borra los avisos volcados.
+
 Cada vez que modifiques `_repasos.md` o `_dudas.md`, refleja el cambio en
 la base de datos del artifact `https://claude.ai/artifact/1gX5KT2M8enHpRABNEhDTX`
 con `ArtifactData`, para que la pestaña «/opos · Hoy» esté al día. Los

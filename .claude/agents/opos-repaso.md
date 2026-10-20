@@ -118,8 +118,34 @@ con `ArtifactData`, para que la pestaña «/opos · Hoy» esté al día. Los
   `_sync/writes.json`; escribe esas entradas con `batch` (lista antes las
   colecciones para obtener los `version` de los documentos ya existentes),
   y borra `_sync` al terminar.
+- **Notas para «Crear test de 50 preguntas»** (botón de cada tema en la
+  web): la página lee el texto de la nota en `notas/<id>` y la lista de
+  temas disponibles en `opos_meta/notas`. Si el usuario dice «sincroniza las
+  notas» (o tras cambiar una nota), `node .claude/scripts/opos_notas.mjs _sync [id ...]`
+  genera los JSON y `writes.json`; escríbelos con `batch` en grupos de
+  menos de 800 KB, con `if_version` en los que ya existan, y borra `_sync`.
 - Si `ArtifactData` falla, termina igualmente el registro en los `.md` y
   avisa de que la plataforma quedó desfasada.
+
+## Cola de cambios hechos desde la web (`opos_cola`)
+La web también escribe: el usuario registra repasos y añade o resuelve
+dudas desde la pestaña /opos. Para eso la página actualiza ya
+`opos_repasos`/`opos_dudas` y deja un aviso por cada cambio en
+`opos_cola/<id>`. **Al empezar cualquier `/opos` (y siempre en `opos-repaso`
+y `opos-dia`), lista `opos_cola` y vuelca lo pendiente a los `.md`** antes
+de calcular nada:
+- `{tipo:'repaso', tema, titulo, fecha, resultado, acierto, faseAntes, faseDespues, proximo, aciertos, fallos, racha, nota}`:
+  actualiza la fila del tema en `_repasos.md` con esos valores (fase,
+  último = `fecha`, próximo, aciertos, fallos, racha) y, si `nota` no está
+  vacía, añade su línea «Puntos flojos: …» como en un registro normal. Si en
+  los `.md` hay varios avisos del mismo tema, aplícalos por `ts` ascendente.
+- `{tipo:'duda_nueva', id, tema, titulo, bloque, fecha, duda}`: añade la
+  fila a `_dudas.md` (Resuelta = No) si no existe ya.
+- `{tipo:'duda_resuelta', id, fecha, duda}`: marca «Sí» y la fecha en la
+  fila de esa duda.
+Después borra cada aviso volcado de `opos_cola` (`delete`) y di cuántos
+volcaste. Si hay conflicto con lo ya escrito en el `.md` (fila distinta o
+más reciente), no lo pises: avisa al usuario y deja el aviso en la cola.
 
 # Rules and constraints
 - Nunca inventes contenido de un tema ni evalúes si el usuario lo sabe

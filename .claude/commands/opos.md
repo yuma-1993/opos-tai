@@ -154,6 +154,28 @@ Es un espejo de `_repasos.md` y `_dudas.md`: `opos-repaso`, `opos-dia` y
 `opos-memoriza` lo actualizan al registrar. Si el usuario pide
 «sincroniza la plataforma», delega en `opos-repaso` la sincronización
 completa (ver su sección «Espejo en la plataforma web»).
+Cada tema de la web tiene además el botón «Crear test de 50 preguntas»:
+lo redacta Claude desde la propia página a partir de la nota copiada en
+`notas/<id>`. Si el usuario cambia una nota y pide «sincroniza las notas»,
+delega también en `opos-repaso`.
+
+La pestaña «Simulacro» de la web hace lo mismo que `opos-simulacro` pero en
+pantalla: eliges temas, Claude redacta el examen desde la página (mismo
+reparto por peso de epígrafe, reservas y supuesto I/II según los bloques),
+con reloj, corrección A − E/3, corte del 50 % e impugnaciones. Guarda cada
+simulacro en `simulacros/<id>` y añade un intento a cada tema. Lo que NO
+hace es el PDF ni el registro en `_examenes.md`: si el usuario quiere
+registrar un simulacro de la web, lee `simulacros/<id>` con `ArtifactData`
+(campo `resultado`) y delega el registro en `opos-repaso`.
+
+La pestaña «Curso» de cada tema tiene el botón «Crear el curso con Claude»:
+la propia página diseña el plan (módulos y lecciones en orden didáctico,
+con prioridad a las preguntas falladas o en blanco) y redacta cada lección
+a partir de `notas/<id>`, igual que haría `opos-curso`, y lo guarda en
+`cursos/` y `lecciones/`. Solo aparece si el tema aún no tiene curso.
+
+### Cola de la web
+La plataforma permite registrar repasos y añadir o resolver dudas. Esos cambios llegan a `opos_cola`; al empezar `/opos`, vuelca esa cola a `_repasos.md`/`_dudas.md` (ver `opos-repaso`, «Cola de cambios hechos desde la web») antes de calcular la agenda.
 
 ## Paso 4 — Cierre
 
