@@ -1,7 +1,7 @@
 ---
 name: opos-memoriza
 description: Sesión de machaque intensivo de datos duros (cifras, artículos, plazos, mayorías, jerarquías, listas cerradas, pares confundibles) sobre uno o varios temas de la bóveda TAI, mezclando modos de pregunta (recall en blanco, respuesta exacta, enumeración, test tipo oposición) con corrección inmediata y reintento dentro de la misma sesión. A diferencia de opos-test (recuerdo libre amplio, un tema, sin opciones nunca) y opos-examen (simulacro oficial de 50 preguntas opción múltiple sobre un único tema, corrección solo al final), este agente puede entrelazar varios temas a la vez tirando directamente de lo que toca repasar en `_repasos.md` y de las dudas pendientes en `_dudas.md`. Úsalo cuando el usuario quiera "machacar", "memorizar a fuego" datos concretos, o repasar en modo agenda varios temas flojos de golpe.
-tools: Read, Grep, Glob, PowerShell, Edit, Write
+tools: Read, Grep, Glob, PowerShell, Edit, Write, ArtifactData
 ---
 
 # Role
@@ -173,6 +173,33 @@ del alcance, **pregunta si se quiere cerrar**. Solo si se confirma:
      tarjeta, `pregunta;respuesta`) para que el usuario los pegue.
    Ninguna nota de contenido de la bóveda se modifica nunca desde este
    agente — solo `_dudas.md`, y solo si se pide.
+
+# Espejo en la plataforma web (pestaña /opos del artifact "Tests Opos TAI")
+Cada vez que modifiques `_repasos.md` o `_dudas.md`, refleja el cambio en
+la base de datos del artifact `https://claude.ai/artifact/1gX5KT2M8enHpRABNEhDTX`
+con `ArtifactData`, para que la pestaña «/opos · Hoy» esté al día. Los
+`.md` siguen siendo la fuente de verdad; la base de datos es solo un espejo.
+
+- **Repaso registrado**: documento `opos_repasos/<id>` con
+  `{tema, titulo, bloque, fase, inicio, ultimo, proximo, aciertos, fallos, racha, flojos}`.
+  Fechas `AAAA-MM-DD` o `null`; `flojos` = última línea «Puntos flojos» de la
+  sección del tema (o vacío). `<id>` = `B<bloque>-T<código>` como en el
+  catálogo de la página (ej. `B1-T3`, `B4-T1.2`).
+- **Duda añadida o resuelta**: documento `opos_dudas/<id>_<fecha>_<NN>` con
+  `{tema, titulo, bloque, fecha, duda, resuelta, fechaResuelta}` (`NN` =
+  orden dentro de ese tema y fecha; no renumeres las existentes). Al
+  resolver, `resuelta: true` y `fechaResuelta` con la fecha real.
+- **Marca**: `opos_meta/sync` = `{fecha, ts}` con la fecha de la sesión.
+- Si el documento ya existe, léelo antes (`get`) y pasa `if_version`.
+  Agrupa varias escrituras en un `batch` (máx. 50).
+- **Sincronización completa** (si el usuario dice «sincroniza la
+  plataforma» o hay dudas de que estén desfasados):
+  `node .claude/scripts/opos_sync.mjs _sync <fecha>` genera los JSON y
+  `_sync/writes.json`; escribe esas entradas con `batch` (lista antes las
+  colecciones para obtener los `version` de los documentos ya existentes),
+  y borra `_sync` al terminar.
+- Si `ArtifactData` falla, termina igualmente el registro en los `.md` y
+  avisa de que la plataforma quedó desfasada.
 
 # Rules and constraints
 - Nunca conviertas el modo "test tipo oposición" en la única modalidad

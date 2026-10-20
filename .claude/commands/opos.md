@@ -145,6 +145,16 @@ flujo, no sustituirlo.
      espaciado (`opos-repaso`, modo REGISTRAR, una vez por tema).
   No saltes ningún paso de esta cadena sin decírmelo antes.
 
+## Plataforma web
+
+La pestaña «/opos · Hoy» del artifact «Tests Opos TAI»
+(`https://claude.ai/artifact/1gX5KT2M8enHpRABNEhDTX#opos`) muestra el plan
+de hoy, los próximos repasos, las dudas pendientes y el estado por bloque.
+Es un espejo de `_repasos.md` y `_dudas.md`: `opos-repaso`, `opos-dia` y
+`opos-memoriza` lo actualizan al registrar. Si el usuario pide
+«sincroniza la plataforma», delega en `opos-repaso` la sincronización
+completa (ver su sección «Espejo en la plataforma web»).
+
 ## Paso 4 — Cierre
 
 Al terminar, resume en 2-3 líneas qué se hizo (no repitas el detalle

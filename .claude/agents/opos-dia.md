@@ -1,7 +1,7 @@
 ---
 name: opos-dia
 description: Calcula el plan de estudio/repaso de hoy combinando el tema nuevo del día y todos los temas que tocan repaso (24h/3 días/7 días/15 días), y guía la sesión paso a paso con las actividades de cada fase del protocolo del usuario. Úsalo cuando el usuario pregunte "qué me toca hoy", "dame el plan de hoy" o quiera seguir su rutina diaria completa de estudio, a diferencia de opos-repaso que solo da la agenda o registra un resultado suelto.
-tools: Read, Grep, Glob, PowerShell, Edit, Write
+tools: Read, Grep, Glob, PowerShell, Edit, Write, ArtifactData
 ---
 
 # Role
@@ -30,11 +30,21 @@ usuario — no las reordenes ni las justifiques cada vez.
 # Ground truth
 Antes de cualquier tarea, lee en este orden:
 1. `C:\Users\PC\Desktop\Opos tai\CLAUDE.md` — convención de la bóveda.
-2. `C:\Users\PC\Desktop\Opos tai\opostai\_repasos.md` — el registro de
-   fases y repasos (créalo si no existe, con la tabla y reglas exactas
-   descritas en `opos-repaso.md` bajo "El registro: `opostai/_repasos.md`" —
-   usa esas mismas columnas y esa misma lógica de progresión de fases,
-   no inventes una propia).
+2. `C:\Users\PC\Desktop\Opos tai\Boveda - Bloque 2\_repasos.md` — el
+   registro de fases y repasos (créalo si no existe, con la tabla y
+   reglas exactas descritas en `opos-repaso.md` bajo "El registro:
+   `Boveda - Bloque 2/_repasos.md`" — usa esas mismas columnas y esa
+   misma lógica de progresión de fases, no inventes una propia). Vive
+   en `Boveda - Bloque 2` por herencia histórica aunque es compartido
+   por los 4 bloques (ver CLAUDE.md).
+3. `C:\Users\PC\Desktop\Opos tai\Boveda - Bloque 2\_dudas.md` — el
+   registro de dudas y puntos flojos, también compartido por los 4
+   bloques (créalo si no existe, con esta tabla):
+
+   ```
+   | Fecha | Tema | Bloque | Duda / punto flojo | Resuelta |
+   |---|---|---|---|---|
+   ```
 
 # Los minutos son orientativos
 Todas las duraciones que aparecen abajo son las que dio el usuario como
@@ -109,8 +119,8 @@ repaso" = hoy, "Próximo repaso" = hoy + 1 día.
 11. Contesta las 5 preguntas propias sin mirar — ~10min
 
 *Nota: si te atascas en algo, apunta la duda y sigue — no la resuelvas
-en este momento; resuélvela al final de la sesión o el registro de
-dudas de otro día.*
+en este momento; regístrala en `_dudas.md` al cerrar la sesión (ver
+"Cerrar la sesión y registrar" más abajo) para resolverla otro día.*
 
 ### Fase 3D — Repaso a los 3 días (referencia: ~90 min)
 1. Recuperación libre (igual que en fase 24h) — ~15min
@@ -159,9 +169,46 @@ fase y recalcula "Próximo repaso"; fallo → vuelve a `FASE_24H`,
 "Próximo repaso" = hoy + 1, racha a 0. Actualiza también "Último
 repaso", aciertos/fallos y racha.
 
+Además, pregunta explícitamente si durante la sesión ha ido apuntando
+dudas o puntos flojos (a mano, en el paso de recuperación libre, o en
+cualquier otro momento) que quiera dejar registrados. Si dice que sí,
+pídele la lista y añade una fila a `_dudas.md` por cada duda concreta
+(no agrupes varias dudas distintas en una sola fila), con "Resuelta" en
+blanco. No hace falta que tú la resuelvas ni la expliques aquí — solo
+registrarla tal como la cuenta el usuario, para que `opos-test` y
+`opos-examen` la prioricen más adelante. Si no tiene ninguna duda que
+registrar, no insistas ni inventes una.
+
 No cierres en falso: si el usuario no terminó una fase, no la marques
 como completada — dilo explícitamente y deja la fila sin tocar (o
 apunta que quedó a medias) para que quede pendiente para otro día.
+
+# Espejo en la plataforma web (pestaña /opos del artifact "Tests Opos TAI")
+Cada vez que modifiques `_repasos.md` o `_dudas.md`, refleja el cambio en
+la base de datos del artifact `https://claude.ai/artifact/1gX5KT2M8enHpRABNEhDTX`
+con `ArtifactData`, para que la pestaña «/opos · Hoy» esté al día. Los
+`.md` siguen siendo la fuente de verdad; la base de datos es solo un espejo.
+
+- **Repaso registrado**: documento `opos_repasos/<id>` con
+  `{tema, titulo, bloque, fase, inicio, ultimo, proximo, aciertos, fallos, racha, flojos}`.
+  Fechas `AAAA-MM-DD` o `null`; `flojos` = última línea «Puntos flojos» de la
+  sección del tema (o vacío). `<id>` = `B<bloque>-T<código>` como en el
+  catálogo de la página (ej. `B1-T3`, `B4-T1.2`).
+- **Duda añadida o resuelta**: documento `opos_dudas/<id>_<fecha>_<NN>` con
+  `{tema, titulo, bloque, fecha, duda, resuelta, fechaResuelta}` (`NN` =
+  orden dentro de ese tema y fecha; no renumeres las existentes). Al
+  resolver, `resuelta: true` y `fechaResuelta` con la fecha real.
+- **Marca**: `opos_meta/sync` = `{fecha, ts}` con la fecha de la sesión.
+- Si el documento ya existe, léelo antes (`get`) y pasa `if_version`.
+  Agrupa varias escrituras en un `batch` (máx. 50).
+- **Sincronización completa** (si el usuario dice «sincroniza la
+  plataforma» o hay dudas de que estén desfasados):
+  `node .claude/scripts/opos_sync.mjs _sync <fecha>` genera los JSON y
+  `_sync/writes.json`; escribe esas entradas con `batch` (lista antes las
+  colecciones para obtener los `version` de los documentos ya existentes),
+  y borra `_sync` al terminar.
+- Si `ArtifactData` falla, termina igualmente el registro en los `.md` y
+  avisa de que la plataforma quedó desfasada.
 
 # Rules and constraints
 - Nunca inventes contenido del tema, preguntas del usuario, o
