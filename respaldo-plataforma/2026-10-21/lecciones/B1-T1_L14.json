@@ -1,0 +1,115 @@
+{
+  "bloques": [
+    {
+      "md": "El art. 62 es la **lista de tareas del Rey**, ordenadas de la **a) a la j)**. Piensa en un notario de honor del Estado: firma, convoca, nombra y reconoce lo que otros órganos deciden. Para aprobarlo, lo importante es saber **qué letra corresponde a qué función**.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Para no aprenderlas como una lista suelta, agrúpalas por temas:\n\n1. **Leyes y Cortes (a, b):** sancionar y promulgar leyes; convocar y disolver las Cortes y convocar elecciones.\n2. **Referéndum (c):** convocarlo en los casos previstos en la Constitución.\n3. **Gobierno (d, e, f, g):** candidato a Presidente, miembros del Gobierno, decretos y honores, información y presidencia del Consejo de Ministros.\n4. **Fuerzas Armadas (h):** mando supremo.\n5. **Justicia y cultura (i, j):** derecho de gracia y Alto Patronazgo de las Reales Academias.",
+      "t": "explica",
+      "titulo": "Cómo se agrupan las diez letras"
+    },
+    {
+      "md": "- **a)** Sancionar y promulgar las leyes.\n- **b)** Convocar y disolver las Cortes Generales y convocar elecciones, en los términos previstos en la Constitución.\n- **c)** Convocar a referéndum en los casos previstos en la Constitución.\n- **d)** Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos.\n- **e)** Nombrar y separar a los miembros del Gobierno, **a propuesta de su Presidente**.\n- **f)** Expedir decretos acordados en Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones según las leyes.\n- **g)** Ser informado de los asuntos de Estado y presidir las sesiones del Consejo de Ministros, **a petición del Presidente del Gobierno**.\n- **h)** El mando supremo de las Fuerzas Armadas.\n- **i)** Ejercer el derecho de gracia con arreglo a la ley, que **no podrá autorizar indultos generales**.\n- **j)** El Alto Patronazgo de las Reales Academias.",
+      "t": "explica",
+      "titulo": "Las letras una a una"
+    },
+    {
+      "md": "**Pregunta tipo:** «¿En qué letra del art. 62 se recoge el mando supremo de las Fuerzas Armadas?»\n\n1. Las letras de Gobierno son d, e, f, g. Las Fuerzas Armadas no están ahí.\n2. Tras la presidencia del Consejo de Ministros (g) viene la **h)**: mando supremo de las Fuerzas Armadas.\n\n**Respuesta: h).**\n\n**Otra trampa típica:** «El Rey puede conceder indultos generales». Es **falso**: la letra i) dice que el derecho de gracia **no podrá autorizar indultos generales**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Recorre la lista por bloques: **Leyes-Cortes (a, b) → Referéndum (c) → Gobierno (d, e, f, g) → Ejército (h) → Gracia (i) → Academias (j)**.\n\nFrase de apoyo (invención propia, conocimiento general, no viene de tus notas): «**L**as **C**ortes **R**eclaman **G**obierno, **G**uardia, **G**racia y **A**cademias».\n\nPara las dos letras con condición: **e) a propuesta** del Presidente (nombra y separa ministros); **g) a petición** del Presidente (presidir el Consejo de Ministros).",
+      "t": "truco",
+      "titulo": "Mnemotécnico"
+    },
+    {
+      "md": "| Letra | Función |\n|---|---|\n| a) | Sancionar y promulgar las leyes |\n| b) | Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución |\n| c) | Convocar a referéndum en los casos previstos en la Constitución |\n| d) | Proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos |\n| e) | Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente |\n| f) | Expedir decretos acordados en Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones según las leyes |\n| g) | Ser informado de los asuntos de Estado y presidir las sesiones del Consejo de Ministros, a petición del Presidente del Gobierno |\n| h) | El mando supremo de las Fuerzas Armadas |\n| i) | Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales |\n| j) | El Alto Patronazgo de las Reales Academias |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "Conecta con la lección anterior: como el Rey es inviolable y sus actos están sujetos a **refrendo** (art. 56, L13), estas funciones se ejercen junto con el órgano que refrenda. Además, el art. 62 se complementa con el art. 63 (otras funciones del Rey en relación con el exterior), que no forma parte del material de esta lección.",
+      "t": "ampliacion",
+      "titulo": "Contexto (conocimiento general, no viene de tus notas)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué letra del art. 62 atribuye al Rey el Alto Patronazgo de las Reales Academias?",
+      "explicacion": "El Alto Patronazgo de las Reales Academias es la letra j), la última del artículo.",
+      "opciones": [
+        "g)",
+        "j)",
+        "h)",
+        "i)"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Según el art. 62, ¿en qué condición presidirá el Rey las sesiones del Consejo de Ministros?",
+      "explicacion": "La letra g) dice que el Rey preside las sesiones del Consejo de Ministros a petición del Presidente del Gobierno.",
+      "opciones": [
+        "Siempre que lo desee",
+        "A propuesta del Congreso de los Diputados",
+        "A petición del Presidente del Gobierno",
+        "Solo en estado de excepción"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál es el límite que fija el art. 62.i) al derecho de gracia?",
+      "explicacion": "La letra i) establece que el derecho de gracia se ejerce con arreglo a la ley y no podrá autorizar indultos generales.",
+      "opciones": [
+        "No podrá autorizar indultos generales",
+        "Solo puede ejercerse en tiempo de paz",
+        "Solo se aplica a delitos militares",
+        "Requiere aprobación de las Cortes Generales en todo caso"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿A propuesta de quién nombra y separa el Rey a los miembros del Gobierno?",
+      "explicacion": "La letra e) dice que el Rey nombra y separa a los miembros del Gobierno a propuesta de su Presidente.",
+      "opciones": [
+        "De las Cortes Generales",
+        "Del Presidente del Gobierno",
+        "Del Consejo de Ministros",
+        "Del Presidente del Congreso"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de estas funciones corresponde a la letra f) del art. 62?",
+      "explicacion": "La letra f) recoge expedir los decretos acordados en Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones según las leyes. El referéndum es c), el candidato a Presidente es d) y sancionar y promulgar leyes es a).",
+      "opciones": [
+        "Proponer el candidato a Presidente del Gobierno",
+        "Sancionar y promulgar las leyes",
+        "Convocar a referéndum",
+        "Expedir decretos acordados en Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones según las leyes"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Sancionar y promulgar las leyes",
+      "Convocar y disolver las Cortes Generales y convocar elecciones",
+      "Convocar a referéndum en los casos previstos en la Constitución",
+      "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente",
+      "El mando supremo de las Fuerzas Armadas",
+      "El derecho de gracia no podrá autorizar indultos generales"
+    ],
+    "consigna": "Explica con tus palabras qué funciones tiene el Rey según el art. 62, recorriéndolas por letras (a a j) y señalando cuáles dependen de una propuesta o petición, y cuál es el límite del derecho de gracia."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "La Corona: Rey, Regencia y Tutela",
+  "objetivo": "Enumerar las funciones del Rey por letras (art. 62 CE, letras a a j), sabiendo qué hace el Rey en cada una.",
+  "orden": 14,
+  "preguntasBanco": [],
+  "resumen": "El art. 62 enumera diez funciones del Rey, de la a) a la j): sancionar y promulgar leyes, convocar y disolver las Cortes y convocar elecciones, convocar referéndum, proponer y nombrar al Presidente del Gobierno, nombrar y separar ministros a propuesta de aquel, expedir decretos y conceder empleos y honores, ser informado y presidir el Consejo de Ministros a petición del Presidente, mando supremo de las Fuerzas Armadas, derecho de gracia sin indultos generales y Alto Patronazgo de las Reales Academias.",
+  "tema": "B1-T1",
+  "titulo": "Funciones del Rey (art. 62)"
+}

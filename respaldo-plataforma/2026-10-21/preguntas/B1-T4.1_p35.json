@@ -1,0 +1,14 @@
+{
+  "apartado": "Jubilación",
+  "correcta": 1,
+  "enunciado": "Para solicitar la prolongación de la permanencia en el servicio activo más allá de la jubilación forzosa, ¿con qué antelación mínima debe presentarse el escrito y cuál es el plazo de resolución?",
+  "explicacion": "Nota: el escrito se presenta con antelación mínima de dos meses a la fecha de jubilación forzosa. Plazo de resolución: un mes.",
+  "n": 35,
+  "opciones": [
+    "3 meses de antelación; resolución en 2 meses",
+    "2 meses de antelación; resolución en 1 mes",
+    "1 mes de antelación; resolución en 15 días",
+    "2 meses de antelación; resolución en 2 meses"
+  ],
+  "tema": "B1-T4.1"
+}

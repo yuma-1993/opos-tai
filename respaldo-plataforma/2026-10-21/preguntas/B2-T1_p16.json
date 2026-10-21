@@ -1,0 +1,14 @@
+{
+  "apartado": "Sistemas de numeración",
+  "correcta": 0,
+  "enunciado": "Para pasar un número de binario a hexadecimal, ¿en bloques de cuántos bits se separa?",
+  "explicacion": "Nota: binario → hexadecimal en bloques de 4 bits (00011001 → 0001-1001 = 19); binario → octal en bloques de 3.",
+  "n": 16,
+  "opciones": [
+    "4",
+    "3",
+    "8",
+    "2"
+  ],
+  "tema": "B2-T1"
+}

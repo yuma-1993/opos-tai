@@ -1,0 +1,14 @@
+{
+  "apartado": "Placa base",
+  "correcta": 2,
+  "enunciado": "¿Cuál es la diferencia correcta entre BIOS y UEFI?",
+  "explicacion": "Nota: BIOS (Basic Input Output System) modo carácter y MBR; UEFI (Unified Extensible Firmware Interface) gráfica y GPT.",
+  "n": 41,
+  "opciones": [
+    "BIOS: interfaz gráfica y GPT; UEFI: modo carácter y MBR",
+    "Ambas usan MBR, con hasta 4 particiones",
+    "BIOS: modo carácter y MBR (hasta 4 particiones); UEFI: interfaz gráfica y GPT (más de 4 particiones)",
+    "Ambas usan GPT"
+  ],
+  "tema": "B2-T1"
+}

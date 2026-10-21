@@ -1,0 +1,121 @@
+{
+  "bloques": [
+    {
+      "md": "El **procedimiento agravado** (o extraordinario) es la vía de reforma «con candado reforzado» de la Constitución. Es como la caja fuerte del banco frente a un cajón normal: se usa para proteger lo más importante (el núcleo del sistema), y por eso exige muchos más pasos y mayorías más altas que el procedimiento ordinario.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Se va de lo general a lo específico. Es obligatorio en **dos grandes casos**:\n\n1. Cuando la reforma sea de **revisión total** de la Constitución.\n2. Cuando la reforma **afecte** a alguna de estas tres partes:\n   - El **Título Preliminar** (Ordenamiento del Estado).\n   - El **Título I, Capítulo Segundo, Sección Primera** (Derechos Fundamentales y Libertades Públicas).\n   - El **Título II** (La Corona).\n\nSi la reforma no es total ni toca esas partes, se sigue el procedimiento ordinario (lección 11).",
+      "t": "explica",
+      "titulo": "1. ¿Cuándo es obligatorio?"
+    },
+    {
+      "md": "1. **Aprobación por 2/3 de cada Cámara** (Congreso y Senado).\n2. **Se disuelven las Cámaras.**\n3. Se celebran **elecciones**.\n4. Las **nuevas Cámaras** deben **ratificar** el cambio mediante **mayoría simple**.\n5. Se propone el texto para la reforma, que debe ser aprobado por **2/3 de cada Cámara**.\n6. Por último, se somete a **referéndum**.\n\n**Punto clave (pregunta fallada):** tras las elecciones, las nuevas Cámaras ratifican con **mayoría simple**, NO con 2/3. Los 2/3 aparecen dos veces: al principio (paso 1) y al aprobar el texto de la reforma (paso 5). La ratificación del paso 4 es la «fácil».",
+      "t": "explica",
+      "titulo": "2. Los pasos y las mayorías, en orden"
+    },
+    {
+      "md": "| Paso | Qué ocurre | Mayoría |\n| --- | --- | --- |\n| 1 | Aprobación inicial en cada Cámara | 2/3 |\n| 2 | Disolución de las Cámaras | - |\n| 3 | Elecciones | - |\n| 4 | Ratificación por las nuevas Cámaras | Mayoría simple |\n| 5 | Aprobación del texto de la reforma | 2/3 de cada Cámara |\n| 6 | Referéndum | - |",
+      "t": "explica",
+      "titulo": "3. Esquema visual"
+    },
+    {
+      "md": "**Supuesto:** se quiere modificar un artículo del Título II (La Corona). ¿Qué procedimiento se usa y cómo se desarrolla?\n\n1. El Título II está entre los afectados, así que es **obligatorio el procedimiento agravado**.\n2. Congreso y Senado aprueban el principio de reforma por **2/3 de cada Cámara**.\n3. Se **disuelven** las Cámaras y se convocan **elecciones**.\n4. Las nuevas Cámaras **ratifican por mayoría simple**.\n5. Se estudia el texto y se aprueba por **2/3 de cada Cámara**.\n6. Se somete a **referéndum**.\n\nSi en cambio la reforma fuera de otro título (por ejemplo, el art. 69.3), bastaría el procedimiento ordinario.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Dos tercios en los extremos, simple en el medio:** `2/3 → disolución → elecciones → SIMPLE → 2/3 → referéndum`.\n- **Qué títulos protegen: «P-D-C»:** **P**reliminar, **D**erechos fundamentales (Sección 1ª), **C**orona (Título II). Más la revisión total.\n- Piensa que las **nuevas Cámaras solo confirman** (mayoría simple) que el pueblo les ha dado el mandato; el trabajo duro (2/3) lo hacen al principio y al final.\n- **Reformas: 92-11-24-26.** Europeos en municipales, déficit, discapacidad, senador de Formentera.",
+      "t": "truco",
+      "titulo": "Trucos para recordar"
+    },
+    {
+      "md": "**Procedimiento agravado o extraordinario**\n\nObligado cuando sea de revisión total de la Constitución o cuando afecte al Título Preliminar (Ordenamiento del Estado), al Título I Capítulo Segundo Sección Primera (Derechos Fundamentales y Libertades Públicas) o al Título II (La Corona).\n\nNota sobre la fuente: el documento original añade «(121)» junto a la referencia al Título I Capítulo Segundo Sección Primera; se transcribe tal cual aparece, sin poder confirmar a qué corresponde ese número.\n\nPasos: aprobación de 2/3 de cada Cámara → se disuelven las Cámaras → elecciones → las nuevas Cámaras deben ratificar el cambio mediante mayoría simple → se propone el texto para la reforma, que debe ser aprobado por 2/3 de cada Cámara → por último debe ser sometido a referéndum.\n\n**Reformas realizadas**\n\n| Año | Motivo |\n| --- | --- |\n| 1992 | Tratado de Maastricht. Los europeos, en las elecciones municipales, pueden votar y ser votados (derecho activo y pasivo). |\n| 2011 | Para asegurar el principio de estabilidad presupuestaria. Incorporación de límites al déficit presupuestario. |\n| 2024 | Título I, art. 49: las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas. Se regulará por ley la protección especial que sea necesaria para dicho ejercicio. |\n| 2026 | Art. 69.3: concedió un senador propio a Formentera; sancionada el 19 de mayo de 2026 y publicada en el BOE el día 20. |\n\nTu nota señala: solo 2 reformas por procedimiento ordinario y de calado menor (1992, 2011, 2024, 2026) frente al procedimiento agravado, mucho más exigente y nunca usado hasta ahora.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "La nota dice «solo 2 reformas» pero enumera cuatro años (1992, 2011, 2024, 2026). Es una incoherencia interna de la fuente; conviene comprobarla en tu material original. Lo que sí es coherente: ninguna reforma ha usado el procedimiento agravado hasta ahora (según tu nota). (La base jurídica de este procedimiento es el art. 168 CE; conocimiento general, no viene de tus notas.)",
+      "t": "ampliacion",
+      "titulo": "Aviso sobre la nota"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de las siguientes reformas exigiría obligatoriamente el procedimiento agravado?",
+      "explicacion": "El Título II (La Corona) es uno de los ámbitos que obligan al procedimiento agravado, junto con el Título Preliminar, la Sección 1ª del Capítulo Segundo del Título I y la revisión total.",
+      "opciones": [
+        "Una que incorpore límites al déficit presupuestario",
+        "Una que aclare la protección de personas con discapacidad en el art. 49",
+        "Una que afecte al Título II (La Corona)",
+        "Una que afecte al art. 69.3 sobre senadores"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué ocurre inmediatamente después de que cada Cámara apruebe la reforma por 2/3 en el procedimiento agravado?",
+      "explicacion": "Tras la aprobación por 2/3 de cada Cámara, se disuelven las Cámaras y se convocan elecciones.",
+      "opciones": [
+        "Se disuelven las Cámaras",
+        "Se convoca directamente el referéndum",
+        "El Rey sanciona la reforma",
+        "Las Cámaras ratifican por mayoría simple"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "En el procedimiento agravado, ¿cuántas veces se exige la mayoría de 2/3 de cada Cámara?",
+      "explicacion": "Se exigen 2/3 en la aprobación inicial y de nuevo para aprobar el texto de la reforma; en medio, la ratificación es por mayoría simple.",
+      "opciones": [
+        "Dos veces: al inicio y al aprobar el texto de la reforma",
+        "Ninguna, solo mayoría simple",
+        "Una vez, al final",
+        "Tres veces"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué motivó la reforma constitucional de 1992?",
+      "explicacion": "En 1992 se reformó por el Tratado de Maastricht: los europeos pueden votar y ser votados (derecho activo y pasivo) en las elecciones municipales.",
+      "opciones": [
+        "La protección de personas con discapacidad",
+        "El Tratado de Maastricht y el voto de europeos en elecciones municipales",
+        "La estabilidad presupuestaria",
+        "La concesión de un senador a Formentera"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué reforma incorporó límites al déficit presupuestario?",
+      "explicacion": "La reforma de 2011 aseguró el principio de estabilidad presupuestaria incorporando límites al déficit.",
+      "opciones": [
+        "La de 2026",
+        "La de 1992",
+        "La de 2024",
+        "La de 2011"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Obligado cuando sea de revisión total de la Constitución o cuando afecte al Título Preliminar, al Título I Capítulo Segundo Sección Primera o al Título II (La Corona)",
+      "aprobación de 2/3 de cada Cámara → se disuelven las Cámaras → elecciones",
+      "las nuevas Cámaras deben ratificar el cambio mediante mayoría simple",
+      "el texto de la reforma debe ser aprobado por 2/3 de cada Cámara y por último sometido a referéndum",
+      "Reformas: 1992 (Maastricht), 2011 (estabilidad presupuestaria), 2024 (art. 49, discapacidad), 2026 (art. 69.3, senador de Formentera)"
+    ],
+    "consigna": "Explica con tus palabras cuándo es obligatorio el procedimiento agravado, cuáles son sus pasos con las mayorías de cada uno, y qué reformas se han hecho de la Constitución y por qué."
+  },
+  "modulo": "M5",
+  "moduloTitulo": "Reforma de la Constitución",
+  "objetivo": "Indicar cuándo es obligatorio el procedimiento agravado de reforma constitucional, sus pasos y mayorías, y citar las reformas efectuadas hasta ahora.",
+  "orden": 12,
+  "preguntasBanco": [
+    22
+  ],
+  "resumen": "El procedimiento agravado es obligatorio para la revisión total o si se afecta al Título Preliminar, a la Sección 1ª del Capítulo Segundo del Título I o al Título II. Sus pasos: 2/3 de cada Cámara, disolución, elecciones, ratificación por mayoría simple, aprobación del texto por 2/3 y referéndum. Reformas realizadas: 1992 (Maastricht), 2011 (déficit), 2024 (art. 49) y 2026 (art. 69.3, Formentera).",
+  "tema": "B1-T1",
+  "titulo": "Procedimiento agravado y reformas realizadas"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "BI y Data Mining",
+  "correcta": 1,
+  "enunciado": "¿Cuál es el origen habitual de los datos de BI: un almacén de datos históricos, integrados y orientados a análisis, a diferencia de las BBDD transaccionales?",
+  "explicacion": "Nota: el Data Warehouse (DWH) es el origen habitual de los datos; almacena datos históricos, integrados y orientados a análisis.",
+  "n": 5,
+  "opciones": [
+    "El TPS",
+    "El Data Warehouse",
+    "Un cubo MOLAP",
+    "El sistema EIS"
+  ],
+  "tema": "B2-T1"
+}

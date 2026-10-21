@@ -1,0 +1,14 @@
+{
+  "apartado": "Adquisición y pérdida de la condición",
+  "correcta": 1,
+  "enunciado": "¿Cuál de las siguientes NO es causa de pérdida de la condición de funcionario de carrera según la nota?",
+  "explicacion": "Nota: las causas son renuncia, pérdida de nacionalidad, jubilación total, sanción de separación del servicio firme e inhabilitación firme. La suspensión firme de funciones no figura.",
+  "n": 4,
+  "opciones": [
+    "La renuncia a la condición de funcionario",
+    "La sanción disciplinaria de suspensión firme de funciones",
+    "La pérdida de la nacionalidad que se tuvo en cuenta para el nombramiento, salvo que simultáneamente se adquiera la de otro Estado de los indicados",
+    "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público, con carácter firme"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Funcionarios de carrera e interinos",
+  "correcta": 1,
+  "enunciado": "Según la nota, ¿cuál es el plazo máximo de exceso o acumulación de tareas por el que puede nombrarse a un funcionario interino?",
+  "explicacion": "Nota: exceso o acumulación de tareas por plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
+  "n": 34,
+  "opciones": [
+    "6 meses, dentro de un periodo de 12 meses",
+    "9 meses, dentro de un periodo de 18 meses",
+    "12 meses, dentro de un periodo de 24 meses",
+    "9 meses, dentro de un periodo de 12 meses"
+  ],
+  "tema": "B1-T4.1"
+}

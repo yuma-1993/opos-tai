@@ -1,0 +1,127 @@
+{
+  "bloques": [
+    {
+      "md": "Piensa en la nómina del funcionario como una **casa**: las **retribuciones básicas** son los cimientos (te corresponden por ser quien eres: tu sueldo y tus trienios) y las **complementarias** son las reformas (dependen del puesto que ocupas, de tu carrera o desempeño, y de tu rendimiento y resultados). Aparte están las **asistencias**: una indemnización por reuniones, tribunales o formación, con **topes** para que no se disparen.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Los derechos retributivos se dividen en dos grupos:\n\n- **Básicas**: sueldo y trienios.\n- **Complementarias**: las que se vinculan al puesto, a la carrera profesional o desempeño, y al rendimiento y resultados alcanzados por el funcionario.\n\nRegla rápida: si es **sueldo o trienios**, es básica; todo lo demás (puesto, carrera/desempeño, rendimiento/resultados) es complementaria.",
+      "t": "explica",
+      "titulo": "Paso 1: las dos familias de retribuciones"
+    },
+    {
+      "md": "Son **dos al año**. Cada una es por el importe de **una mensualidad** de retribuciones básicas. Según la nota, la composición es: sueldo, trienios y la totalidad de las retribuciones complementarias, **salvo productividad y servicios extraordinarios**.\n\nAdemás, los **trienios se calculan con el puesto en el momento del cálculo**.",
+      "t": "explica",
+      "titulo": "Paso 2: las pagas extraordinarias"
+    },
+    {
+      "md": "El sueldo de los A1 **no podrá exceder en más de 3 veces** el sueldo de los funcionarios de las Agrupaciones profesionales.\n\nEs decir: el tope es **×3**. Esta es la respuesta a la pregunta que fallaste sobre el límite máximo del sueldo del Subgrupo A1.",
+      "t": "explica",
+      "titulo": "Paso 3: el límite salarial de los A1"
+    },
+    {
+      "md": "Una **asistencia** es la indemnización reglamentaria que procede abonar por:\n\n1. Concurrencia a **reuniones**.\n2. Participación en **tribunales** de oposiciones y concursos.\n3. Colaboración en **institutos, escuelas o unidades de formación y perfeccionamiento** del personal al servicio de las Administraciones públicas.",
+      "t": "explica",
+      "titulo": "Paso 4: qué son las asistencias"
+    },
+    {
+      "md": "Hay dos tipos de límite:\n\n- **Por tipo** (en ningún caso podrán totalizar): **40%** en órganos colegiados, **25%** en cursos de formación y **20%** en Tribunales.\n- **Global**: para el conjunto de los tres tipos, no superar en un año natural el **50%** de las retribuciones anuales, **excluidos los trienios**.\n\nOjo con la pregunta que dejaste en blanco: para participación en **tribunales** el tope es el **20%**; para órganos colegiados, 40%; para cursos, 25%.",
+      "t": "explica",
+      "titulo": "Paso 5: los topes de las asistencias"
+    },
+    {
+      "md": "**Límite A1:** si el sueldo de un funcionario de Agrupaciones profesionales fuese 1.000 (cifra inventada solo para el ejemplo), el sueldo de un A1 no podría pasar de 3.000.\n\n**Tope global de asistencias:** si las retribuciones anuales de una persona, excluidos trienios, fueran 30.000 (cifra ilustrativa), el conjunto de asistencias de los tres tipos en el año natural no podría superar 15.000 (el 50%).\n\n**Clasificación:** un complemento por ocupar un puesto concreto es complementaria; los trienios son básicos; cobrar por ser vocal de un Tribunal de oposición es una asistencia, con tope del 20%.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Básicas = ST**: **S**ueldo y **T**rienios.\n- **A1: ×3** (tres veces el sueldo de Agrupaciones profesionales).\n- Topes por tipo, de mayor a menor: **40 – 25 – 20** = Órganos colegiados, Cursos, Tribunales (el orden de la nota). Imagina que los Tribunales son los más \"austeros\": el 20 más bajo.\n- Tope global: **50%**, y los trienios quedan fuera.\n- Pagas extra: **2** al año, una mensualidad cada una.",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| Concepto | Dato |\n|---|---|\n| Retribuciones básicas | Sueldo y trienios |\n| Retribuciones complementarias | Puesto, carrera profesional o desempeño, rendimiento y resultados alcanzados por el funcionario |\n| Pagas extraordinarias | Dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo, trienios y la totalidad de las retribuciones complementarias, salvo productividad y servicios extraordinarios) |\n| Trienios | Se calculan con el puesto en el momento del cálculo |\n| Límite A1 | El sueldo de los A1 no podrá exceder en más de 3 veces el sueldo de los funcionarios de las Agrupaciones profesionales |\n| Asistencia | Indemnización reglamentaria por concurrencia a reuniones, participación en tribunales de oposiciones y concursos, o colaboración en institutos, escuelas o unidades de formación y perfeccionamiento del personal al servicio de las Administraciones públicas |\n| Topes por tipo | 40% órganos colegiados; 25% cursos de formación; 20% Tribunales |\n| Tope global | Conjunto de los tres tipos: no superar por año natural el 50% de las retribuciones anuales, excluidos los trienios |",
+      "t": "nota",
+      "titulo": "Datos duros de la nota"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué retribuciones son básicas según la nota?",
+      "explicacion": "Las básicas son sueldo y trienios. Puesto, carrera o desempeño y rendimiento son complementarias.",
+      "opciones": [
+        "Trienios y rendimiento",
+        "Sueldo y complemento de puesto",
+        "Sueldo y trienios",
+        "Carrera profesional y sueldo"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuántas pagas extraordinarias hay al año según la nota?",
+      "explicacion": "Son dos al año, cada una por el importe de una mensualidad.",
+      "opciones": [
+        "Tres",
+        "Dos",
+        "Cuatro",
+        "Una"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Si el sueldo de un funcionario de las Agrupaciones profesionales es X, ¿cuál es el máximo del sueldo de un A1?",
+      "explicacion": "El sueldo de los A1 no podrá exceder en más de 3 veces el de las Agrupaciones profesionales.",
+      "opciones": [
+        "4X",
+        "2X",
+        "5X",
+        "3X"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué porcentaje se fija como tope para las asistencias en cursos de formación?",
+      "explicacion": "La nota fija 40% para órganos colegiados, 25% para cursos de formación y 20% para Tribunales. El 50% es el tope anual global.",
+      "opciones": [
+        "25%",
+        "40%",
+        "20%",
+        "50%"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es el tope anual para el conjunto de los tres tipos de asistencias?",
+      "explicacion": "El conjunto no puede superar por año natural el 50% de las retribuciones anuales, excluidos los trienios.",
+      "opciones": [
+        "El 50% de las retribuciones anuales, incluidos los trienios",
+        "El 50% de las retribuciones anuales, excluidos los trienios",
+        "El 25% de las retribuciones anuales, incluidos los trienios",
+        "El 40% de las retribuciones anuales, excluidos los trienios"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Básicas: sueldo y trienios",
+      "Complementarias: puesto, carrera profesional o desempeño, rendimiento y resultados alcanzados por el funcionario",
+      "El sueldo de los A1 no podrá exceder en más de 3 veces el sueldo de los funcionarios de las Agrupaciones profesionales",
+      "Asistencias: 40% en órganos colegiados, 25% en cursos de formación y 20% en Tribunales",
+      "Para el conjunto de las asistencias, máximo del 50% de las retribuciones anuales por año natural, excluidos los trienios"
+    ],
+    "consigna": "Explica con tus propias palabras cómo se dividen las retribuciones de un funcionario, qué límite tiene el sueldo de los A1 y qué son las asistencias con sus topes."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Derechos, retribuciones y promoción",
+  "objetivo": "Distinguir retribuciones básicas y complementarias y aplicar el límite del sueldo A1 (máximo 3 veces el sueldo de las Agrupaciones profesionales) y los topes de asistencias (40% órganos colegiados, 25% cursos de formación, 20% Tribunales, y 50% anual de las retribuciones anuales excluidos trienios para el conjunto).",
+  "orden": 19,
+  "preguntasBanco": [
+    32,
+    44
+  ],
+  "resumen": "Las retribuciones básicas son sueldo y trienios; las complementarias dependen del puesto, la carrera o desempeño, y el rendimiento y resultados. El sueldo A1 no puede superar 3 veces el de las Agrupaciones profesionales. Las asistencias tienen topes del 40% (órganos colegiados), 25% (cursos de formación) y 20% (Tribunales), y un máximo global del 50% de las retribuciones anuales, excluidos los trienios.",
+  "tema": "B1-T4.1",
+  "titulo": "Derechos retributivos y asistencias"
+}

@@ -1,0 +1,27 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy bien: has recogido las cuatro ideas con los datos correctos: el bit de signo (0 = +, 1 = −) en signo-módulo, la inversión de bits en CA1 con su rango de 7 a −7 y sus dos ceros (0000 y 1111), CA2 como CA1 + 1 con rango de 7 a −8 y un solo cero, y que Java usa CA2. Un detalle: tu explicación repite casi literalmente las notas. Para comprobar que lo has asimilado, intenta explicarlo con tus palabras. Por ejemplo, prueba a calcular −5 en CA2 con 4 bits y dime los pasos.",
+    "ok": true,
+    "ts": 1792506349483
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 3,
+      "total": 5,
+      "ts": 1792505764941
+    },
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792505901787
+    }
+  ],
+  "leccion": "B2-T1_L05",
+  "mejorPct": 100,
+  "primeraPct": 60,
+  "repasos": [],
+  "superadaTs": 1792506351011,
+  "tema": "B2-T1"
+}

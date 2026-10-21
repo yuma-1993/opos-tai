@@ -1,0 +1,12 @@
+{
+  "aciertos": 30,
+  "blancos": 15,
+  "fallos": 5,
+  "fecha": "2026-07-29",
+  "flojos": "Conectividad (USB/Thunderbolt/FireWire), RAID (capacidad RAID 0, RAID 6 vs RAID 5), almacenamiento (SCSI/SATA/SAS, tipos de celda SSD SLC/QLC).",
+  "nota10": 5.67,
+  "origen": "chat",
+  "puntuacion": 28.33,
+  "tema": "B2-T2",
+  "total": 50
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional > Legitimación activa",
+  "correcta": 2,
+  "enunciado": "¿Quiénes están legitimados para promover el control previo de tratados internacionales ante el Tribunal Constitucional?",
+  "explicacion": "La tabla de legitimación asigna el control previo de tratados al Gobierno, al Congreso y al Senado. Los distractores mezclan sujetos de las filas del recurso de inconstitucionalidad y del recurso de amparo.",
+  "lote": 1792504590395,
+  "n": 39,
+  "opciones": [
+    "El Presidente del Gobierno, el Defensor del Pueblo y 50 Diputados",
+    "El Congreso de los Diputados, el Senado y los órganos colegiados ejecutivos de las CCAA",
+    "El Gobierno, el Congreso de los Diputados y el Senado",
+    "El Gobierno, el Defensor del Pueblo y el Ministerio Fiscal"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

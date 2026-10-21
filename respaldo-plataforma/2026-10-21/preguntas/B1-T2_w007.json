@@ -1,0 +1,16 @@
+{
+  "apartado": "Las Cortes Generales: Congreso y Senado",
+  "correcta": 2,
+  "enunciado": "En la elección del Congreso de los Diputados, ¿cómo se reparten los 350 escaños actuales?",
+  "explicacion": "La nota: 2 por provincia, 1 para Ceuta y para Melilla, y los otros 248 proporcionales a la población. Los distractores alteran los mínimos o la cifra restante.",
+  "lote": 1792504590395,
+  "n": 7,
+  "opciones": [
+    "2 por cada provincia y los 250 restantes en proporción a la población, sin representación específica de Ceuta y Melilla",
+    "2 por cada provincia, 2 para Ceuta y 2 para Melilla, y los 246 restantes en proporción a la población",
+    "2 por cada provincia, 1 para Ceuta y 1 para Melilla, y los 248 restantes en proporción a la población de las provincias",
+    "3 por cada provincia, 1 para Ceuta y 1 para Melilla, y los restantes en proporción a la población de las provincias"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

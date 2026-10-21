@@ -1,0 +1,16 @@
+{
+  "apartado": "Composición del Tribunal Constitucional",
+  "correcta": 2,
+  "enunciado": "Respecto al origen de los 12 miembros del Tribunal Constitucional, ¿cuál es la distribución correcta?",
+  "explicacion": "La nota fija 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ. Los distractores alteran las cifras o intercambian el origen.",
+  "lote": 1792504590395,
+  "n": 2,
+  "opciones": [
+    "4 del Congreso, 2 del Senado, 4 del Gobierno y 2 del Consejo General del Poder Judicial",
+    "3 del Congreso, 3 del Senado, 2 del Gobierno y 4 del Consejo General del Poder Judicial",
+    "4 del Congreso, 4 del Senado, 2 del Gobierno y 2 del Consejo General del Poder Judicial",
+    "4 del Congreso, 4 del Senado, 4 del Gobierno y ninguno del Consejo General del Poder Judicial"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

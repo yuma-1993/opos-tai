@@ -1,0 +1,14 @@
+{
+  "apartado": "CISC, RISC, SoC y pipeline",
+  "correcta": 0,
+  "enunciado": "¿Cuál es la diferencia entre SoC y APU?",
+  "explicacion": "Nota: SoC es más amplio que APU. La APU es el caso concreto de CPU + GPU en el mismo chip (típico AMD).",
+  "n": 36,
+  "opciones": [
+    "El SoC integra todo en un chip (CPU, GPU, RAM, controladores); la APU solo CPU + GPU",
+    "El SoC integra solo CPU + GPU; la APU lo integra todo",
+    "Son lo mismo con distinto nombre comercial",
+    "El SoC es exclusivo de AMD y la APU de los móviles"
+  ],
+  "tema": "B2-T1"
+}

@@ -1,0 +1,118 @@
+{
+  "bloques": [
+    {
+      "md": "La **placa base** es la vía de comunicación entre todos los componentes (microprocesador, tarjetas de expansión, memoria…). Proporciona las líneas eléctricas y las señales de control para que las transferencias de datos sean rápidas y fiables. Es la «ciudad» con las calles por donde se mueve todo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El **chipset** es circuitería auxiliar:\n\n- **Northbridge** (Chipset Norte): cosas **rápidas**, como acceder a la memoria.\n- **Southbridge** (Chipset Sur): cosas **lentas**, como la entrada/salida.\n\n**FSB** (Front-Side Bus) era el bus principal, hasta hace unos años; la velocidad se la da el reloj del sistema y es la vía a la memoria principal. Ahora se elimina y se sustituye por:\n\n- Intel: **QPI** (QuickPath Interconnect) y **DMI** (Direct Media Interface, entre Chipset Norte y Sur).\n- AMD: **HyperTransport**.",
+      "t": "explica",
+      "titulo": "El chipset: el ayudante de la CPU"
+    },
+    {
+      "md": "- **PCI** y **PCI-Express**: tarjetas de expansión (gráficas, de red…).\n- **NVRAM** de la placa: necesita una **pila** para mantener fecha, hora y configuración.",
+      "t": "explica",
+      "titulo": "Otras piezas"
+    },
+    {
+      "md": "| | BIOS | UEFI |\n|---|---|---|\n| Nombre | Basic Input Output System | Unified Extensible Firmware Interface |\n| Interfaz | Modo carácter | Gráfica |\n| Particionamiento | MBR (hasta 4 particiones) | GPT (más de 4 particiones) |",
+      "t": "explica",
+      "titulo": "BIOS frente a UEFI"
+    },
+    {
+      "md": "El **tamaño de la palabra** marca la arquitectura. En una de 64 bits:\n\n- Los **registros** de la CPU y el **bus de datos** son de 64 bits.\n- La memoria se divide en posiciones y en cada una se guarda una palabra.\n- Las instrucciones de código máquina son de 64 bits: por eso **un Windows de 64 bits no funciona en un procesador de 32 bits, pero sí al revés**.\n- El **bus de direcciones es de 48 bits**, con lo que se pueden direccionar **256 TB**.",
+      "t": "explica",
+      "titulo": "Arquitectura de 64 bits"
+    },
+    {
+      "md": "Norte = rápido (memoria). Sur = lento (E/S). BIOS = MBR y modo carácter. UEFI = GPT y gráfico. 64 bits de palabra, pero **48** de direcciones.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Northbridge = rápido (memoria). Southbridge = lento (E/S).\n- FSB sustituido por QPI/DMI (Intel) y HyperTransport (AMD).\n- NVRAM de la placa: necesita pila.\n- BIOS: carácter, MBR (4 particiones). UEFI: gráfica, GPT.\n- 64 bits: registros y bus de datos de 64; **bus de direcciones de 48 bits = 256 TB**.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué gestiona el Northbridge?",
+      "explicacion": "Norte = rápido (memoria); Sur = lento (E/S).",
+      "opciones": [
+        "Las cosas rápidas, como el acceso a memoria",
+        "La entrada/salida lenta",
+        "Solo los gráficos",
+        "La alimentación"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué particionamiento usa la UEFI?",
+      "explicacion": "UEFI: interfaz gráfica y GPT. BIOS: modo carácter y MBR.",
+      "opciones": [
+        "MBR, hasta 4 particiones",
+        "FAT",
+        "GPT, más de 4 particiones",
+        "Ninguno"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Para qué necesita una pila la NVRAM de la placa?",
+      "explicacion": "La NVRAM necesita pila para conservar fecha, hora y configuración.",
+      "opciones": [
+        "Para acelerar la CPU",
+        "Para alimentar la GPU",
+        "Para cargar el sistema operativo",
+        "Para mantener fecha, hora y configuración"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "En la arquitectura de 64 bits de la nota, ¿cuántos bits tiene el bus de direcciones y cuánta memoria direcciona?",
+      "explicacion": "Bus de direcciones de 48 bits: 256 TB.",
+      "opciones": [
+        "64 bits; 16 EB",
+        "48 bits; 256 TB",
+        "32 bits; 4 GB",
+        "48 bits; 64 TB"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Por qué un Windows de 64 bits no funciona en un procesador de 32 bits?",
+      "explicacion": "Las instrucciones de código máquina son de 64 bits; al revés sí funciona.",
+      "opciones": [
+        "Porque falta RAM",
+        "Porque las instrucciones son de 64 bits y el procesador de 32 no las entiende",
+        "Porque no hay BIOS",
+        "Porque el bus de control es distinto"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La placa base comunica los componentes con líneas eléctricas y señales de control",
+      "Northbridge gestiona cosas rápidas como la memoria y Southbridge cosas lentas como la E/S",
+      "BIOS: modo carácter y MBR (hasta 4 particiones); UEFI: gráfica y GPT (más de 4)",
+      "En 64 bits los registros y el bus de datos son de 64 bits; un Windows de 64 no funciona en un procesador de 32",
+      "El bus de direcciones es de 48 bits y permite direccionar 256 TB"
+    ],
+    "consigna": "Explícame qué hace la placa base y su chipset, en qué se diferencian BIOS y UEFI y qué características tiene la arquitectura de 64 bits de tu nota."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Saber qué hace la placa base y su chipset, la diferencia entre BIOS y UEFI y qué significa la arquitectura de 64 bits.",
+  "orden": 14,
+  "preguntasBanco": [
+    39,
+    40,
+    41
+  ],
+  "resumen": "Placa = vía de comunicación. Norte rápido, Sur lento. FSB → QPI/DMI (Intel), HyperTransport (AMD). BIOS = MBR/carácter; UEFI = GPT/gráfica. 64 bits: palabra 64, direcciones 48 = 256 TB.",
+  "tema": "B2-T1",
+  "titulo": "Placa base y arquitectura de 64 bits"
+}

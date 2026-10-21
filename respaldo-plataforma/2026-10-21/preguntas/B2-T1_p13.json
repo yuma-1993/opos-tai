@@ -1,0 +1,14 @@
+{
+  "apartado": "Unidades y múltiplos",
+  "correcta": 2,
+  "enunciado": "Según el Sistema Internacional, ¿cuántos bytes son 1 KB y qué prefijo recoge el 1024 en la ISO/IEC 80000-13?",
+  "explicacion": "Nota: un KB ya no son 1024 B sino 1000 B en el SI. El 1024 se ha quedado en el estándar ISO/IEC (KiB, kibibyte).",
+  "n": 13,
+  "opciones": [
+    "1024 B; KB",
+    "1024 B; KiB",
+    "1000 B; KiB",
+    "1000 B; MiB"
+  ],
+  "tema": "B2-T1"
+}

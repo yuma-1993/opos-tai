@@ -1,0 +1,25 @@
+{
+  "fuente": "Boveda - Bloque 2/Bloque 2/B2 - T1 INFORMATICA BASICA.md",
+  "generado": "2026-10-19",
+  "intro": "El curso sigue el orden en que unas cosas se apoyan en otras: primero cómo se guarda la información (bits, números, texto), después cómo la procesa un ordenador por dentro, y al final los sistemas de información de una empresa que se construyen encima. Las lecciones donde fallaste o dejaste preguntas en blanco llevan la marca de prioridad.",
+  "modulos": [
+    {
+      "descripcion": "La base de todo: unidades, números, signo, decimales, errores y texto.",
+      "id": "M1",
+      "titulo": "Representar la información: del bit al carácter"
+    },
+    {
+      "descripcion": "CPU, buses, diseños de procesador, memoria, placa base y rendimiento.",
+      "id": "M2",
+      "titulo": "El computador por dentro"
+    },
+    {
+      "descripcion": "Cómo se usan los datos en una empresa: pirámide, almacén de datos, ETL y cubos OLAP.",
+      "id": "M3",
+      "titulo": "Sistemas de información y BI"
+    }
+  ],
+  "nLecciones": 18,
+  "tema": "B2-T1",
+  "titulo": "Informática básica"
+}

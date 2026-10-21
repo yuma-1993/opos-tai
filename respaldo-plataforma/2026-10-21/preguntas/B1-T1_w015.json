@@ -1,0 +1,16 @@
+{
+  "apartado": "Estructura de la Constitución",
+  "correcta": 0,
+  "enunciado": "¿Cuál de los siguientes Títulos NO forma parte de la parte orgánica de la Constitución?",
+  "explicacion": "La parte orgánica abarca los Títulos II a IX. El Título I pertenece a la parte dogmática junto con el Título Preliminar. El distractor más tentador es el Título IX, que está en el límite del rango orgánico pero sí es orgánico.",
+  "lote": 1792487818082,
+  "n": 15,
+  "opciones": [
+    "Título I, De los derechos y deberes fundamentales",
+    "Título VI, Del poder judicial",
+    "Título III, De las Cortes Generales",
+    "Título IX, Del Tribunal Constitucional"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

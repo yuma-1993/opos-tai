@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 3,
+  "enunciado": "En caso de familia monoparental, ¿cuál es la duración del permiso por nacimiento?",
+  "explicacion": "Nota: en caso de familia monoparental, el permiso será de 32 semanas.",
+  "n": 20,
+  "opciones": [
+    "19 semanas",
+    "21 semanas",
+    "26 semanas",
+    "32 semanas"
+  ],
+  "tema": "B1-T4.1"
+}

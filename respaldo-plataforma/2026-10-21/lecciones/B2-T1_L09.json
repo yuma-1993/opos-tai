@@ -1,0 +1,175 @@
+{
+  "bloques": [
+    {
+      "md": "La CPU es el cerebro del ordenador: lee una instrucción, la entiende, la ejecuta y pasa a la siguiente. Imagina que sigue una receta línea a línea: cada línea es una instrucción y la receta está guardada en la memoria RAM.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Pieza | Qué hace |\n|---|---|\n| **Unidad de Control (UC)** | El «director de orquesta»: busca instrucciones, las decodifica y coordina. **No calcula nada**, solo gobierna |\n| **ALU** (Unidad Aritmético-Lógica) | La «calculadora»: suma, resta, AND, OR, desplazamientos de bits. Ejecuta lo que la UC le manda |\n| **Decodificador** | Traduce el código máquina (binario) a una señal que dice «qué operación hay que hacer» |\n| **Secuenciador** | Dispara la ejecución paso a paso de la instrucción ya decodificada |",
+      "t": "explica",
+      "titulo": "Las piezas de la CPU"
+    },
+    {
+      "md": "Los **registros** son memorias diminutas dentro de la CPU:\n\n- **PC** (Program Counter; *Instruction Pointer* en Intel): dirección de la **siguiente** instrucción.\n- **IR / CIR** (Instruction Register): la instrucción **actual**, ya traída de memoria.\n- **MAR** (Memory Address Register): la dirección de memoria a la que se va a acceder.\n- **MDR** (Memory Data Register): el dato que se lee o escribe en esa dirección.\n- **AC** (Acumulador): resultados intermedios de operaciones.\n- **Flags**: banderas de estado (cero, acarreo, paridad…) que indican el resultado de la última operación.\n\nCon la receta: el **PC** es el marcapáginas que apunta a la línea siguiente y el **IR** es la línea que estás leyendo ahora.",
+      "t": "explica",
+      "titulo": "Los registros: cajones de la CPU"
+    },
+    {
+      "md": "1. **Fetch**: la UC pide a la RAM la instrucción que señala el PC. Llega y se guarda en el **IR**.\n2. **Decode**: el IR pasa por el decodificador, que interpreta qué operación es.\n3. **Execute**: el secuenciador la ejecuta, con ayuda de la ALU si hace falta.\n4. **Store** (opcional): si hay resultado, se guarda en un registro o en memoria.\n\nDespués el PC se actualiza para apuntar a la siguiente instrucción y el ciclo se repite.",
+      "t": "explica",
+      "titulo": "El ciclo: Fetch, Decode, Execute, Store"
+    },
+    {
+      "md": "**PC apunta a lo que viene. IR contiene lo que se está ejecutando.** Y el orden lógico: Fetch → Decodificador → Secuenciador → (ALU si hace falta).",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- UC: gobierna, no calcula. ALU: calcula.\n- Ciclo: Fetch (a IR) → Decode → Execute → (Store).\n- PC = siguiente instrucción. IR = instrucción actual.\n- MAR = dirección; MDR = dato; AC = resultados intermedios; Flags = estado del último resultado.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué pieza de la CPU coordina todo pero no calcula nada?",
+      "explicacion": "La UC es el director de orquesta; la ALU es la calculadora.",
+      "opciones": [
+        "ALU",
+        "Unidad de Control",
+        "Decodificador",
+        "Registro AC"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué contiene el PC?",
+      "explicacion": "PC apunta a lo que viene; IR contiene lo que se ejecuta.",
+      "opciones": [
+        "La instrucción que se ejecuta ahora",
+        "El resultado de la última operación",
+        "El dato leído de memoria",
+        "La dirección de la siguiente instrucción"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué registro guarda la dirección de memoria a la que se va a acceder?",
+      "explicacion": "MAR = Memory Address Register; MDR guarda el dato.",
+      "opciones": [
+        "MAR",
+        "MDR",
+        "IR",
+        "AC"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál es el orden del ciclo de ejecución?",
+      "explicacion": "Primero se trae la instrucción, luego se decodifica, se ejecuta y, si hay resultado, se guarda.",
+      "opciones": [
+        "Decode, Fetch, Execute, Store",
+        "Fetch, Execute, Decode, Store",
+        "Fetch, Decode, Execute, (Store)",
+        "Execute, Fetch, Store, Decode"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué son los flags?",
+      "explicacion": "Los flags indican el resultado de la última operación.",
+      "opciones": [
+        "Instrucciones guardadas en caché",
+        "Banderas de estado (cero, acarreo, paridad…) del último resultado",
+        "Direcciones de la siguiente instrucción",
+        "Pasos del ciclo de ejecución"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué componente de la CPU se encarga de realizar operaciones como sumas, restas, AND u OR?",
+      "explicacion": "La ALU es la «calculadora» de la CPU: suma, resta, AND, OR y desplazamientos de bits. La UC solo gobierna y no calcula; el decodificador traduce y el secuenciador dispara la ejecución paso a paso.",
+      "opciones": [
+        "La Unidad de Control (UC)",
+        "El secuenciador",
+        "La ALU (Unidad Aritmético-Lógica)",
+        "El decodificador"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál es la función del decodificador?",
+      "explicacion": "El decodificador interpreta el código máquina y genera la señal que indica qué operación se debe realizar. Disparar la ejecución paso a paso es tarea del secuenciador, y calcular es tarea de la ALU.",
+      "opciones": [
+        "Traducir el código máquina (binario) a una señal que indica qué operación hay que hacer",
+        "Guardar la dirección de la siguiente instrucción",
+        "Disparar paso a paso la ejecución de la instrucción ya decodificada",
+        "Realizar las operaciones aritméticas y lógicas"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Según el ciclo de ejecución, en la fase Fetch la instrucción que llega desde la RAM se guarda en...",
+      "explicacion": "En Fetch la UC pide a la RAM la instrucción que señala el PC y esta se guarda en el IR, que contiene la instrucción actual. El PC solo apunta a la siguiente instrucción.",
+      "opciones": [
+        "El MDR",
+        "El PC",
+        "El acumulador (AC)",
+        "El IR"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué registro se usa para guardar los resultados intermedios de las operaciones?",
+      "explicacion": "El acumulador (AC) guarda resultados intermedios. El MDR contiene el dato leído o escrito en memoria, los flags indican el estado del último resultado y el MAR guarda una dirección de memoria.",
+      "opciones": [
+        "El acumulador (AC)",
+        "Los flags",
+        "El MDR",
+        "El MAR"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de las cuatro fases del ciclo de ejecución es opcional?",
+      "explicacion": "Store es opcional porque solo se realiza si la instrucción produce un resultado que haya que guardar en un registro o en memoria. Fetch, Decode y Execute forman parte de todo ciclo.",
+      "opciones": [
+        "Execute",
+        "Store",
+        "Fetch",
+        "Decode"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La UC busca, decodifica y coordina pero no calcula; la ALU realiza las operaciones",
+      "El decodificador traduce el código máquina y el secuenciador dispara la ejecución paso a paso",
+      "PC contiene la dirección de la siguiente instrucción e IR la instrucción actual",
+      "MAR guarda la dirección de memoria y MDR el dato",
+      "Ciclo: Fetch, Decode, Execute y Store opcional"
+    ],
+    "consigna": "Explícame qué hace cada componente de la CPU, la diferencia entre PC e IR y los pasos del ciclo de ejecución.",
+    "preguntas": [
+      "¿En qué se diferencia el trabajo de la Unidad de Control del de la ALU? Explica qué hace cada una y cuál de las dos no realiza cálculos.",
+      "¿Qué hace el decodificador con una instrucción y qué papel tiene el secuenciador una vez que la instrucción ya está decodificada?",
+      "¿Qué guarda el registro PC y qué guarda el registro IR? Explica en qué se diferencian.",
+      "¿Para qué sirve el registro MAR y para qué sirve el MDR? Indica qué contiene cada uno cuando la CPU accede a memoria.",
+      "Enumera, en orden, las fases del ciclo de ejecución de una instrucción e indica cuál de ellas es opcional y por qué."
+    ]
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Saber qué hace cada pieza de la CPU, qué guarda cada registro y cómo se ejecuta una instrucción.",
+  "orden": 9,
+  "preguntasBanco": [
+    30,
+    31,
+    32
+  ],
+  "resumen": "UC gobierna, ALU calcula, decodificador traduce, secuenciador ejecuta. PC = siguiente; IR = actual; MAR = dirección; MDR = dato; AC = intermedios; flags = estado. Ciclo: Fetch → Decode → Execute → (Store).",
+  "tema": "B2-T1",
+  "titulo": "La CPU: componentes, registros y ciclo de ejecución"
+}

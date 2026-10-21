@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes (procedimiento legislativo) > Iniciativa legislativa",
+  "correcta": 2,
+  "enunciado": "Un texto legislativo llega a las Cámaras por iniciativa popular con más de 500.000 firmas acreditadas. ¿Cómo se denomina y en qué se diferencia de lo que presenta el Gobierno?",
+  "explicacion": "Lo que no procede del Gobierno (Cortes, Asambleas autonómicas, iniciativa popular) es proposición de ley; el Gobierno presenta proyectos de ley tras su aprobación en Consejo de Ministros. El distractor tentador invierte ambos términos.",
+  "lote": 1792504590395,
+  "n": 15,
+  "opciones": [
+    "Proposición de ley; el Gobierno también presenta proposiciones de ley, pero con urgencia",
+    "Proyecto de ley; el Gobierno presenta proyectos de ley, pero sin necesidad de Consejo de Ministros",
+    "Proposición de ley; el Gobierno presenta proyectos de ley aprobados en Consejo de Ministros",
+    "Proyecto de ley; el Gobierno presenta proposiciones de ley aprobadas en Consejo de Ministros"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

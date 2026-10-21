@@ -1,0 +1,117 @@
+{
+  "bloques": [
+    {
+      "md": "La promoción profesional es **subir peldaños** en la carrera del funcionario. Cada cuerpo o escala tiene una **escalera de niveles** con un mínimo y un máximo (el nivel del puesto), y el **grado personal** es el peldaño que el funcionario se \"queda\" como suyo tras trabajar un tiempo en puestos de ese nivel. Analogía: el nivel es la planta del edificio donde está tu puesto; el grado es la planta que ya tienes reconocida a tu nombre, aunque cambies de despacho.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Para los funcionarios de carrera, la promoción profesional consiste en **mejorar**. Todas las vías de promoción atienden a los principios constitucionales de **mérito, capacidad e igualdad**.\n\nEs decir: no se asciende por favor ni por antigüedad sin más, sino por mérito y capacidad, con igualdad para todos.",
+      "t": "explica",
+      "titulo": "Paso 1: qué es la promoción profesional"
+    },
+    {
+      "md": "Cada subgrupo tiene un intervalo de niveles (mínimo y máximo) asignado:\n\n- **A1**: de 22 a 30.\n- **A2**: de 18 a 26.\n- **C1**: de 15 a 22.\n- **C2**: de 14 a 18.\n- **Agrupaciones profesionales**: de 13 a 14.\n- **Grupo B**: en la nota no figura intervalo (—).\n\nRegla práctica: **cuanto mayor es la titulación, más altos son los niveles**. Además, los intervalos se solapan: por ejemplo, el nivel 22 es el máximo de C1 y el mínimo de A1; el 18 es el máximo de C2 y el mínimo de A2.",
+      "t": "explica",
+      "titulo": "Paso 2: los intervalos de niveles"
+    },
+    {
+      "md": "El grado personal se adquiere por el desempeño de **uno o más puestos de nivel correspondiente** durante:\n\n- **2 años continuados**, o\n- **3 años con interrupción** (es decir, no seguidos).\n\nLa fórmula de la nota es **Nivel → Grado**: el nivel de los puestos desempeñados se convierte en grado personal.\n\nPunto clave para no fallar: la pregunta típica da opciones de tiempo. La respuesta es **2 continuados o 3 con interrupción**. Si el tiempo es seguido, bastan 2; si hay saltos, hacen falta 3.",
+      "t": "explica",
+      "titulo": "Paso 3: el grado personal y el tiempo"
+    },
+    {
+      "md": "**Caso 1.** Una funcionaria del subgrupo C1 ocupa un puesto de nivel 18 sin interrupción durante 2 años. ¿Adquiere el grado personal correspondiente? **Sí**: ha desempeñado puestos del nivel correspondiente durante 2 años continuados. Además, el nivel 18 está dentro del intervalo de C1 (15-22).\n\n**Caso 2.** Un funcionario ocupa puestos del nivel correspondiente 1 año, luego se va a otro puesto distinto, y vuelve a puestos de ese nivel otro año y después otro año más. En total 3 años con interrupción: **sí adquiere** el grado, porque la nota admite **3 con interrupción**.\n\n**Caso 3.** Si solo hubiera acumulado 2 años pero con interrupción, **no** bastaría: con interrupción se requieren 3.\n\n**Caso 4.** ¿Entre qué niveles se mueve un puesto de A2? Entre **18 y 26**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Tiempo del grado**: \"**2 seguidos o 3 a trompicones**\". Con interrupción, un año más.\n- **Niveles máximos**: A1 **30**, A2 **26**, C1 **22**, C2 **18**, Agrupaciones **14**. Bajan de 4 en 4 (30, 26, 22, 18, 14).\n- **Niveles mínimos**: A1 **22**, A2 **18**, C1 **15**, C2 **14**, Agrupaciones **13**.\n- **Solapes**: el mínimo de A1 (22) es el máximo de C1; el mínimo de A2 (18) es el máximo de C2.\n- **Nivel → Grado**: \"el nivel del puesto se hace grado de la persona\".",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| Cuerpos o Escalas | Nivel Mín-Máx | Titulación |\n|---|---|---|\n| Subgrupo A1 | 22-30 | Licenciatura |\n| Subgrupo A2 | 18-26 | Diplomatura |\n| Grupo B | — | Diplomatura / FP Superior |\n| Subgrupo C1 | 15-22 | Bachiller / FP 2 |\n| Subgrupo C2 | 14-18 | Graduado Escolar / FP 1 |\n| Agrupaciones profesionales | 13-14 | — |\n\n- **Grado personal**: se adquiere por el desempeño de uno o más puestos de nivel correspondiente durante **2 años continuados o 3 con interrupción**. Nivel → Grado.\n- Para los funcionarios de carrera, la promoción profesional consiste en mejorar, y todas las vías atienden a los principios constitucionales de **mérito, capacidad e igualdad**.",
+      "t": "nota",
+      "titulo": "Datos para memorizar (literales de la nota)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es el intervalo de niveles del subgrupo A2?",
+      "explicacion": "Según la nota, el subgrupo A2 tiene niveles 18-26. El 22-30 es de A1, el 15-22 de C1 y el 14-18 de C2.",
+      "opciones": [
+        "22-30",
+        "18-26",
+        "14-18",
+        "15-22"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario ha desempeñado puestos del nivel correspondiente con interrupciones entre ellos. ¿Cuánto tiempo necesita para adquirir el grado personal?",
+      "explicacion": "La nota dice 2 años continuados o 3 con interrupción. Si hay interrupción, son 3 años.",
+      "opciones": [
+        "1 año",
+        "4 años",
+        "3 años",
+        "2 años"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué intervalo de niveles corresponde a las Agrupaciones profesionales?",
+      "explicacion": "Las Agrupaciones profesionales tienen niveles 13-14 según la nota.",
+      "opciones": [
+        "15-22",
+        "14-18",
+        "13-14",
+        "18-26"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué subgrupo tiene como nivel máximo el 22 y como nivel mínimo el 15?",
+      "explicacion": "El subgrupo C1 tiene el intervalo 15-22 (Bachiller / FP 2). A1 es 22-30, A2 es 18-26 y C2 es 14-18.",
+      "opciones": [
+        "A2",
+        "A1",
+        "C2",
+        "C1"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué principios constitucionales atienden todas las vías de promoción profesional de los funcionarios de carrera?",
+      "explicacion": "La nota indica que todas las vías atienden a los principios constitucionales de mérito, capacidad e igualdad.",
+      "opciones": [
+        "Mérito, capacidad e igualdad",
+        "Antigüedad, experiencia y formación",
+        "Eficacia, economía y celeridad",
+        "Legalidad, jerarquía y publicidad"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Subgrupo A1: niveles 22-30",
+      "Subgrupo A2: niveles 18-26",
+      "Subgrupo C1: niveles 15-22 y Subgrupo C2: niveles 14-18",
+      "Agrupaciones profesionales: niveles 13-14",
+      "El grado personal se adquiere por el desempeño de uno o más puestos de nivel correspondiente durante 2 años continuados o 3 con interrupción",
+      "Todas las vías de promoción atienden a los principios de mérito, capacidad e igualdad"
+    ],
+    "consigna": "Explica con tus palabras qué es la promoción profesional, entre qué niveles se mueve cada subgrupo y cómo se adquiere el grado personal."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Derechos, retribuciones y promoción",
+  "objetivo": "Recordar los intervalos de niveles por subgrupo y el tiempo necesario para adquirir el grado personal.",
+  "orden": 20,
+  "preguntasBanco": [
+    26
+  ],
+  "resumen": "Cada subgrupo tiene un intervalo de niveles: A1 22-30, A2 18-26, C1 15-22, C2 14-18 y Agrupaciones profesionales 13-14 (el Grupo B no tiene intervalo en la nota). El grado personal se adquiere por desempeñar puestos del nivel correspondiente durante 2 años continuados o 3 con interrupción (Nivel → Grado), y toda la promoción atiende a mérito, capacidad e igualdad.",
+  "tema": "B1-T4.1",
+  "titulo": "Promoción profesional: niveles y grado personal"
+}

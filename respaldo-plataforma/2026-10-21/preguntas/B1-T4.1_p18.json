@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 2,
+  "enunciado": "Ante el fallecimiento de un familiar de segundo grado de consanguinidad o afinidad, ¿cuántos días hábiles de permiso corresponden si el hecho ocurre en una localidad distinta a la del empleado?",
+  "explicacion": "Nota (catálogo de permisos): 2º grado, misma localidad 2 días hábiles; distinta localidad 4 días hábiles. En 1º grado serían 3 y 5.",
+  "n": 18,
+  "opciones": [
+    "2 días hábiles",
+    "3 días hábiles",
+    "4 días hábiles",
+    "5 días hábiles"
+  ],
+  "tema": "B1-T4.1"
+}

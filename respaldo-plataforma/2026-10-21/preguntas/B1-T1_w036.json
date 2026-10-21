@@ -1,0 +1,16 @@
+{
+  "apartado": "Título Preliminar (artículos 1 a 9)",
+  "correcta": 0,
+  "enunciado": "Una norma sancionadora más gravosa se aplica a hechos cometidos antes de su entrada en vigor. ¿Qué principio del artículo 9 se vulnera?",
+  "explicacion": "El art. 9 garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales. La publicidad exige publicar la norma en el BOE, boletín autonómico o DOUE, y la jerarquía impide que normas inferiores contradigan a las superiores.",
+  "lote": 1792487818082,
+  "n": 36,
+  "opciones": [
+    "Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+    "Jerarquía normativa",
+    "Publicidad de las normas",
+    "Interdicción de la arbitrariedad de los poderes públicos"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

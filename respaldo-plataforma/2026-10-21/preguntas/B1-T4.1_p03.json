@@ -1,0 +1,14 @@
+{
+  "apartado": "Adquisición y pérdida de la condición",
+  "correcta": 2,
+  "enunciado": "¿Cuál es el orden correcto de los requisitos que se cumplen sucesivamente para adquirir la condición de funcionario?",
+  "explicacion": "Nota: 1) superación del proceso selectivo, 2) nombramiento y publicación en Diario Oficial, 3) acatamiento de la Constitución, 4) toma de posesión.",
+  "n": 3,
+  "opciones": [
+    "Superación del proceso selectivo → acatamiento de la Constitución → nombramiento y publicación → toma de posesión",
+    "Superación del proceso selectivo → nombramiento y publicación → toma de posesión → acatamiento de la Constitución",
+    "Superación del proceso selectivo → nombramiento y publicación → acatamiento de la Constitución → toma de posesión",
+    "Nombramiento y publicación → superación del proceso selectivo → acatamiento de la Constitución → toma de posesión"
+  ],
+  "tema": "B1-T4.1"
+}

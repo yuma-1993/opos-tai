@@ -1,0 +1,126 @@
+{
+  "bloques": [
+    {
+      "md": "La **excedencia** es como pedir una «pausa» en tu relación con la Administración: dejas de trabajar un tiempo, pero sigues siendo funcionario. Lo importante es qué te llevas de esa pausa: ¿te cuenta el tiempo?, ¿te guardan tu silla?, ¿cuánto puede durar? Hay **cuatro modalidades** y se distinguen justo por esas preguntas.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Las cuatro se agrupan en dos familias muy fáciles de recordar:\n\n- **Voluntarias** (las dos primeras): interés particular y agrupación familiar. **NO computan** a efectos de carrera/trienios y **no tienen reserva de puesto**.\n- **Protectoras** (las dos últimas): cuidado de familiares y violencia de género. **SÍ computan** y **sí tienen reserva de puesto**.\n\nRegla general: lo que haces por **tu interés** no cuenta ni se reserva; lo que haces por **cuidar o protegerte** sí cuenta y se reserva.",
+      "t": "explica",
+      "titulo": "Paso 1: el mapa general (dos familias)"
+    },
+    {
+      "md": "**Voluntaria por interés particular**\n- Requisito: mínimo **5 años de trabajo previo** (las Leyes de FP pueden fijar periodos menores).\n- Duración: mínima **2 años**.\n- NO computa. No hay reserva de puesto.\n- Límite: no puede declararse cuando al funcionario se le instruya **expediente disciplinario**.\n\n**Voluntaria por agrupación familiar**\n- Requisito: **sin periodo mínimo previo**; funcionario de carrera o personal laboral fijo con puesto definitivo cuyo **cónyuge resida en otra localidad**.\n- Duración: mínima **2 años, máxima 15**.\n- NO computa. No hay reserva de puesto.\n- La concede el **Subsecretario del Ministerio de destino**.",
+      "t": "explica",
+      "titulo": "Paso 2: las dos voluntarias"
+    },
+    {
+      "md": "- Requisito: **sin periodo mínimo previo**.\n- Duración: **máximo 3 años por cada hijo**, o **por cada familiar a cargo hasta 2º grado**.\n- **SÍ computa** a efectos de carrera/trienios.\n- Reserva de puesto: **al menos 2 años**; después, reserva **en la misma localidad y de igual retribución**.\n- Los funcionarios en esta excedencia **podrán participar en los cursos de formación**.",
+      "t": "explica",
+      "titulo": "Paso 3: cuidado de familiares"
+    },
+    {
+      "md": "- Requisito: **sin mínimo de trabajo previo ni duración mínima**.\n- Reserva de puesto: **6 meses**, **prorrogable por 3 meses** hasta un **máximo de 18 en total**.\n- **SÍ computa**.\n- Durante los **2 primeros meses**: retribuciones y prestaciones familiares por hijo a cargo **íntegras**.\n\nOjo a la confusión típica: en cuidado de familiares la reserva es de 2 años como mínimo; en violencia de género es de **6 meses** (prórrogas de 3 meses, tope 18).",
+      "t": "explica",
+      "titulo": "Paso 4: violencia de género (pregunta fallada)"
+    },
+    {
+      "md": "En la **excedencia voluntaria por prestación de servicios en el sector público**, el **funcionario interino** y el **personal laboral temporal no pueden** pasar a esta excedencia.",
+      "t": "explica",
+      "titulo": "Paso 5: un caso aparte"
+    },
+    {
+      "md": "**Caso A.** Ana lleva 3 años de funcionaria y quiere una excedencia por interés particular.\n- ¿Cumple? Se exigen **5 años** de trabajo previo (salvo que la Ley de FP aplicable fije un periodo menor). Con 3 años, en principio **no**.\n\n**Caso B.** Luis, funcionario de carrera con puesto definitivo, tiene a su cónyuge trabajando en otra localidad.\n- Puede pedir **agrupación familiar**, sin periodo mínimo previo. Mínimo 2 años, máximo 15. **No computa** ni hay reserva de puesto.\n\n**Caso C.** Marta pide excedencia para cuidar a su madre, que depende de ella (familiar a cargo de 1er grado).\n- Es **cuidado de familiares**: máximo 3 años por ese familiar, **computa**, y tiene reserva de puesto de al menos 2 años; después, reserva en la misma localidad y de igual retribución.\n\n**Caso D.** Elena es víctima de violencia de género y pide excedencia.\n- No necesita trabajo previo ni duración mínima. Reserva de 6 meses, prorrogable por 3 meses hasta 18 en total. Computa. Los 2 primeros meses cobra retribuciones íntegras (y prestaciones familiares por hijo a cargo).",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **«Lo mío no cuenta, lo de cuidar sí»**: las dos voluntarias (interés particular y agrupación) NO computan ni reservan; cuidado y violencia SÍ computan y reservan.\n- **Números de la voluntaria**: **5** años previos y **2** de mínimo (interés particular); agrupación: **2** mínimo y **15** máximo.\n- **Cuidado = 3 y 2**: **3** años de máximo, **2** años de reserva mínima.\n- **Violencia = 6 + 3 → 18**: 6 meses de reserva, prórrogas de 3, tope 18.\n- **Violencia = 2 meses íntegros**: «los 2 primeros meses, todo completo».\n- **Agrupación**: «el cónyuge está lejos → el Subsecretario del destino lo concede».",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| Tipo | Requisito previo | Duración | ¿Computa? | Reserva de puesto |\n|---|---|---|---|---|\n| Voluntaria por interés particular | Mínimo 5 años de trabajo previo (las Leyes de FP pueden fijar periodos menores) | Mínima 2 años | **NO** | No |\n| Voluntaria por agrupación familiar | Sin periodo mínimo previo; funcionario de carrera o personal laboral fijo con puesto definitivo cuyo cónyuge resida en otra localidad | Mínima 2 años, máxima 15 | **NO** | No |\n| Cuidado de familiares | Sin periodo mínimo previo | Máximo 3 años por cada hijo, o por cada familiar a cargo hasta 2º grado | **SÍ** | Sí, al menos 2 años; después, misma localidad y de igual retribución |\n| Violencia de género | Sin mínimo de trabajo previo ni duración mínima | Reserva de puesto 6 meses, prorrogable por 3 meses hasta un máximo de 18 en total | **SÍ** | Sí (según los plazos indicados); durante los 2 primeros meses, retribuciones y prestaciones familiares por hijo a cargo íntegras |\n\nDetalles adicionales:\n- La excedencia voluntaria por interés particular no podrá declararse cuando al funcionario se le instruya expediente disciplinario.\n- La excedencia por agrupación familiar la concede el Subsecretario del Ministerio de destino.\n- Los funcionarios en excedencia por cuidado de familiares podrán participar en los cursos de formación.\n- Excedencia voluntaria por prestación de servicios en el sector público: el funcionario interino y el personal laboral temporal no pueden pasar a esta excedencia.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál de las siguientes excedencias exige un mínimo de 5 años de trabajo previo?",
+      "explicacion": "Solo la voluntaria por interés particular exige mínimo 5 años de trabajo previo (las Leyes de FP pueden fijar periodos menores). Las otras tres no exigen periodo mínimo previo.",
+      "opciones": [
+        "Voluntaria por interés particular",
+        "Por razón de violencia de género",
+        "Por cuidado de familiares",
+        "Voluntaria por agrupación familiar"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Una funcionaria víctima de violencia de género disfruta de excedencia durante 12 meses. ¿Qué es correcto sobre la reserva de su puesto?",
+      "explicacion": "En violencia de género la reserva es de 6 meses, prorrogable por 3 meses hasta un máximo de 18 en total; 12 meses entra dentro de ese máximo mediante prórrogas.",
+      "opciones": [
+        "La reserva es de 3 años por hijo",
+        "La reserva inicial es de 6 meses, prorrogable de 3 en 3 meses hasta un máximo de 18, por lo que a los 12 meses cabe que se haya prorrogado",
+        "La reserva es de al menos 2 años",
+        "No hay reserva de puesto en esta excedencia"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué par de excedencias NO computan a efectos de carrera/trienios y no tienen reserva de puesto?",
+      "explicacion": "Las dos voluntarias (interés particular y agrupación familiar) no computan y no tienen reserva de puesto. Cuidado de familiares y violencia de género sí computan.",
+      "opciones": [
+        "Cuidado de familiares y violencia de género",
+        "Interés particular y cuidado de familiares",
+        "Agrupación familiar y violencia de género",
+        "Interés particular y agrupación familiar"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Un funcionario con tres hijos pide excedencia por cuidado de familiares. Según la nota, ¿cuál es la duración máxima aplicable?",
+      "explicacion": "La excedencia por cuidado de familiares tiene un máximo de 3 años por cada hijo, o por cada familiar a cargo hasta 2º grado.",
+      "opciones": [
+        "3 años en total, sea cual sea el número de hijos",
+        "3 años por cada hijo",
+        "2 años por cada hijo",
+        "15 años"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Quién concede la excedencia voluntaria por agrupación familiar según la nota?",
+      "explicacion": "La nota indica que la excedencia por agrupación familiar la concede el Subsecretario del Ministerio de destino.",
+      "opciones": [
+        "El jefe de la unidad donde presta servicios",
+        "El Subsecretario del Ministerio de origen",
+        "El Subsecretario del Ministerio de destino",
+        "El Consejo de Ministros"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La voluntaria por interés particular exige mínimo 5 años de trabajo previo, dura mínimo 2 años, no computa y no tiene reserva de puesto",
+      "La voluntaria por agrupación familiar no exige periodo mínimo previo, dura mínimo 2 años y máximo 15, no computa y no tiene reserva",
+      "La excedencia por cuidado de familiares dura máximo 3 años por cada hijo o familiar a cargo hasta 2º grado, computa y tiene reserva de al menos 2 años",
+      "En violencia de género la reserva del puesto es de 6 meses, prorrogable por 3 meses hasta un máximo de 18, y computa",
+      "En violencia de género, durante los 2 primeros meses se perciben retribuciones y prestaciones familiares por hijo a cargo íntegras"
+    ],
+    "consigna": "Explica con tus palabras las cuatro modalidades de excedencia: qué se exige para cada una, cuánto dura, si computa a efectos de carrera/trienios y si hay reserva de puesto. Presta especial atención a la excedencia por violencia de género."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "Condición de funcionario y situaciones administrativas",
+  "objetivo": "Comparar las cuatro modalidades de excedencia (voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares y por razón de violencia de género) según requisito previo, duración, cómputo a efectos de carrera/trienios y reserva de puesto.",
+  "orden": 11,
+  "preguntasBanco": [
+    38
+  ],
+  "resumen": "Hay cuatro excedencias: las dos voluntarias (interés particular, con 5 años previos y mínimo 2; y agrupación familiar, mínimo 2 y máximo 15) no computan ni reservan puesto. Cuidado de familiares (máximo 3 años por hijo o familiar, reserva de al menos 2 años) y violencia de género (reserva de 6 meses, prórrogas de 3 hasta 18, 2 primeros meses con retribuciones íntegras) sí computan y reservan puesto.",
+  "tema": "B1-T4.1",
+  "titulo": "Excedencias"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Excedencias",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes excedencias SÍ computa a efectos de carrera y trienios, y no exige periodo mínimo previo de trabajo?",
+  "explicacion": "Nota (tabla de excedencias): por cuidado de familiares no exige periodo mínimo previo y SÍ computa. Interés particular y agrupación familiar NO computan.",
+  "n": 7,
+  "opciones": [
+    "Excedencia voluntaria por interés particular",
+    "Excedencia voluntaria por agrupación familiar",
+    "Excedencia por cuidado de familiares",
+    "Ninguna de las anteriores computa a efectos de trienios"
+  ],
+  "tema": "B1-T4.1"
+}

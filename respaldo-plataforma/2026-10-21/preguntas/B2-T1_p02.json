@@ -1,0 +1,14 @@
+{
+  "apartado": "Pirámide de sistemas de información",
+  "correcta": 2,
+  "enunciado": "Al subir en la pirámide TPS → MIS → DSS → EIS, ¿qué ocurre?",
+  "explicacion": "Nota (idea clave): al subir baja el volumen de datos, sube el nivel de agregación y abstracción, y se pasa de operaciones repetitivas a decisiones estratégicas poco estructuradas.",
+  "n": 2,
+  "opciones": [
+    "Sube el volumen de datos y baja el nivel de agregación",
+    "El volumen se mantiene y solo cambia la frecuencia de los informes",
+    "Baja el volumen de datos y sube el nivel de agregación y abstracción",
+    "Baja el volumen de datos y baja el nivel de agregación"
+  ],
+  "tema": "B2-T1"
+}

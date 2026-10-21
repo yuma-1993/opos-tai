@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 2,
+  "enunciado": "¿Cuál es la duración máxima de la sanción de suspensión firme de funciones?",
+  "explicacion": "Nota: suspensión firme de funciones con una duración máxima de 6 años (de 0 a 3 años y de 3 a 6 años).",
+  "n": 29,
+  "opciones": [
+    "3 años",
+    "4 años",
+    "6 años",
+    "12 años"
+  ],
+  "tema": "B1-T4.1"
+}

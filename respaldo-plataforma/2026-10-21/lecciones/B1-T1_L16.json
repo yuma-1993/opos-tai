@@ -1,0 +1,109 @@
+{
+  "bloques": [
+    {
+      "md": "La Constitución separa dos funciones: la **Regencia** (función pública, ejercer las funciones del Rey) y la **Tutela** (función privada, cuidar del Rey menor). Es como distinguir entre quien dirige la empresa mientras el heredero es pequeño (Regente) y quien se encarga de criarlo y cuidarlo (Tutor).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Hay tres posibilidades, y se aplican **en este orden**, de modo que cada una solo entra si falla la anterior:\n\n1. **El nombrado en testamento por el Rey difunto**, siempre que sea **mayor de edad** y **español de nacimiento**.\n2. Si el Rey no lo nombró: **el padre o la madre, mientras permanezcan viudos**.\n3. Si no hay ninguno de los anteriores: **lo nombrarán las Cortes**.",
+      "t": "explica",
+      "titulo": "Quién es el tutor: orden de nombramiento"
+    },
+    {
+      "md": "Hay dos reglas de incompatibilidad:\n\n- **Regente y Tutor no pueden acumularse en una misma persona**, salvo que sea el **padre, la madre o los ascendientes directos**.\n- **El ejercicio de la tutela es incompatible con todo cargo o representación política.**",
+      "t": "explica",
+      "titulo": "Incompatibilidades"
+    },
+    {
+      "md": "El Rey fallece y deja un heredero menor. Preguntas para saber quién es tutor:\n\n1. ¿Dejó testamento nombrando tutor? Si nombró a una persona mayor de edad y española de nacimiento, es ella.\n2. ¿No lo nombró? Entonces es el padre o la madre, si sigue viudo/a.\n3. ¿Tampoco hay? Las Cortes nombran al tutor.\n\nSi el nombrado en testamento fuera un extranjero nacionalizado español, no cumple el requisito de «español de nacimiento». Y si un tutor ocupara un cargo político, la tutela sería incompatible con ese cargo.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**T-P-C**: **T**estamento → **P**adre o madre viudos → **C**ortes.\n\nPara las incompatibilidades: **«Regente + Tutor = solo la familia directa; y la política, fuera»**.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- La Constitución separa la función pública de la Regencia de la función privada, que es la Tutela del Rey menor.\n- Será tutor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento.\n- Si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos.\n- Si no, lo nombrarán las Cortes.\n- No podrán acumularse Regente y Tutor en una persona, excepto si es el padre, madre o ascendientes directos.\n- El ejercicio de la tutela es incompatible con el de todo cargo o representación política.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál es la primera opción para designar al tutor del Rey menor?",
+      "explicacion": "El orden empieza por la persona que el Rey difunto hubiese nombrado en su testamento, si es mayor de edad y española de nacimiento.",
+      "opciones": [
+        "Las Cortes",
+        "El padre o la madre viudos",
+        "El Regente",
+        "La persona nombrada en testamento por el Rey difunto"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "El Rey difunto no nombró tutor en su testamento. ¿Quién será tutor?",
+      "explicacion": "Si no hubo nombramiento, es tutor el padre o la madre mientras permanezcan viudos. Las Cortes solo nombran si no hay ninguno de los anteriores.",
+      "opciones": [
+        "El Presidente del Gobierno",
+        "Quien elijan las Cortes en todo caso",
+        "El padre o la madre, mientras permanezcan viudos",
+        "El pariente de más edad"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué requisitos debe cumplir el tutor nombrado en testamento?",
+      "explicacion": "La nota exige que sea mayor de edad y español de nacimiento.",
+      "opciones": [
+        "Ser mayor de edad y español de nacimiento",
+        "Ser miembro de las Cortes",
+        "Ser menor de sesenta años",
+        "Ser familiar del Rey y soltero"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuándo pueden acumularse en una persona los cargos de Regente y Tutor?",
+      "explicacion": "No pueden acumularse, excepto si es el padre, madre o ascendientes directos.",
+      "opciones": [
+        "Siempre que lo decidan las Cortes",
+        "Nunca",
+        "Solo si es mayor de edad",
+        "Solo si es el padre, madre o ascendientes directos"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Con qué es incompatible el ejercicio de la tutela?",
+      "explicacion": "El ejercicio de la tutela es incompatible con el de todo cargo o representación política.",
+      "opciones": [
+        "Con la condición de viudo",
+        "Con todo cargo o representación política",
+        "Con ser español de nacimiento",
+        "Con toda actividad privada"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Será tutor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento",
+      "Si no lo hubiese nombrado, será tutor el padre o la madre mientras permanezcan viudos",
+      "Si no, lo nombrarán las Cortes",
+      "No podrán acumularse Regente y Tutor en una persona, excepto si es el padre, madre o ascendientes directos",
+      "El ejercicio de la tutela es incompatible con el de todo cargo o representación política"
+    ],
+    "consigna": "Explica con tus palabras quién se encarga de la tutela del Rey menor, en qué orden se designa al tutor y qué incompatibilidades tiene."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "La Corona: Rey, Regencia y Tutela",
+  "objetivo": "Indicar el orden de nombramiento del tutor del Rey menor y sus incompatibilidades.",
+  "orden": 16,
+  "preguntasBanco": [],
+  "resumen": "La Tutela del Rey menor es la función privada, distinta de la Regencia (pública). El tutor es, por orden: el nombrado en testamento por el Rey (mayor de edad y español de nacimiento), el padre o la madre viudos, o el nombrado por las Cortes. No se acumulan Regente y Tutor salvo padre, madre o ascendientes directos, y la tutela es incompatible con todo cargo o representación política.",
+  "tema": "B1-T1",
+  "titulo": "La Tutela del Rey menor"
+}

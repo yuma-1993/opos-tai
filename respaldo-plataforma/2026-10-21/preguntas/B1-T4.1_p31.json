@@ -1,0 +1,14 @@
+{
+  "apartado": "Incompatibilidades",
+  "correcta": 2,
+  "enunciado": "En el régimen de incompatibilidades, la cantidad total percibida por el desempeño de ambos puestos no podrá superar la del puesto principal incrementada en un porcentaje que, para el Subgrupo C1, es del:",
+  "explicacion": "Nota: A1 30 %, A2 35 %, C1 40 %, C2 45 %, Agrupaciones profesionales 50 %.",
+  "n": 31,
+  "opciones": [
+    "30 %",
+    "35 %",
+    "40 %",
+    "45 %"
+  ],
+  "tema": "B1-T4.1"
+}

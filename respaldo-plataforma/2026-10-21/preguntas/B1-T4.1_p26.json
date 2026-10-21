@@ -1,0 +1,14 @@
+{
+  "apartado": "Promoción profesional (niveles y grado)",
+  "correcta": 1,
+  "enunciado": "El grado personal se adquiere por el desempeño de uno o más puestos de nivel correspondiente durante:",
+  "explicacion": "Nota: el grado personal se adquiere por el desempeño durante 2 años continuados o 3 con interrupción.",
+  "n": 26,
+  "opciones": [
+    "1 año continuado o 2 con interrupción",
+    "2 años continuados o 3 con interrupción",
+    "3 años continuados o 5 con interrupción",
+    "2 años continuados o 4 con interrupción"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución (artículos 166 a 169)",
+  "correcta": 1,
+  "enunciado": "En el procedimiento agravado de reforma constitucional, ¿cuál es el orden correcto de los pasos?",
+  "explicacion": "La secuencia de la nota es 2/3 de cada Cámara, disolución, elecciones, ratificación por las nuevas Cámaras, texto aprobado por 2/3 de cada Cámara y referéndum. Los distractores alteran el orden o cambian la cifra inicial.",
+  "lote": 1792487818082,
+  "n": 19,
+  "opciones": [
+    "Aprobación por 2/3 de cada Cámara, elecciones, disolución de las Cámaras, ratificación por las nuevas Cámaras, referéndum y aprobación del texto por 2/3",
+    "Aprobación por 2/3 de cada Cámara, disolución de las Cámaras, elecciones, ratificación por las nuevas Cámaras, aprobación del texto por 2/3 de cada Cámara y referéndum",
+    "Aprobación por 2/3 de cada Cámara, disolución de las Cámaras, elecciones, aprobación del texto por 2/3 de cada Cámara, ratificación y referéndum",
+    "Aprobación por 3/5 de cada Cámara, disolución de las Cámaras, elecciones, ratificación, aprobación del texto por 2/3 y referéndum"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

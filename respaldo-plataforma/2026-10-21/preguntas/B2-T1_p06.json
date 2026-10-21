@@ -1,0 +1,14 @@
+{
+  "apartado": "BI y Data Mining",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre BI y Data Mining es correcta?",
+  "explicacion": "Nota: BI es el paraguas que engloba todo; Data Mining es la técnica concreta de extracción de patrones y conocimiento oculto en grandes volúmenes de datos.",
+  "n": 6,
+  "opciones": [
+    "Data Mining es el paraguas que engloba a BI",
+    "BI es la técnica concreta de extracción de patrones; Data Mining, el conjunto de estrategias",
+    "BI es el conjunto de estrategias y herramientas para convertir datos en conocimiento; Data Mining es una técnica concreta para extraer patrones ocultos",
+    "BI y Data Mining son sinónimos"
+  ],
+  "tema": "B2-T1"
+}

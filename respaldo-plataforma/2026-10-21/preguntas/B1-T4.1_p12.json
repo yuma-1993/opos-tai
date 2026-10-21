@@ -1,0 +1,14 @@
+{
+  "apartado": "Derechos",
+  "correcta": 2,
+  "enunciado": "¿Cuál de los siguientes es un derecho individual de los empleados públicos que se ejerce de forma colectiva?",
+  "explicacion": "Nota: derechos individuales ejercidos de forma colectiva: libertad sindical, negociación colectiva, huelga, conflictos colectivos, reunión, representación y participación institucional.",
+  "n": 12,
+  "opciones": [
+    "El derecho a la libre asociación profesional",
+    "El derecho a la formación continua, preferentemente en horario laboral",
+    "El derecho a la negociación colectiva y a la participación en la determinación de las condiciones de trabajo",
+    "El derecho a la inamovilidad en la condición de funcionario de carrera"
+  ],
+  "tema": "B1-T4.1"
+}

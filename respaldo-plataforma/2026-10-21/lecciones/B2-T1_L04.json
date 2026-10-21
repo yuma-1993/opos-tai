@@ -1,0 +1,113 @@
+{
+  "bloques": [
+    {
+      "md": "Base64 no es un sistema para hacer cuentas. Es una forma de **escribir datos binarios usando solo 64 caracteres** de texto corriente: letras, números, + y /.\n\nPor eso se dice que es más un sistema de **codificación** que de numeración. El formato PEM, por ejemplo, exporta datos codificados en Base64.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. Hacen falta **6 bits** para tener 64 combinaciones distintas (2⁶ = 64).\n2. Se cogen los bits del dato en **grupos de 6, empezando por la izquierda**.\n3. Cada grupo de 6 bits da un número de 0 a 63 y ese número es un carácter del alfabeto: `A-Z`, `a-z`, `0-9`, `+`, `/`.\n4. Si el último grupo se queda corto, se rellena con ceros y se añade el signo **`=`** como relleno (*pad*). Son **1 o 2 como máximo**. `=` equivale a `00`.",
+      "t": "explica",
+      "titulo": "Cómo funciona"
+    },
+    {
+      "md": "Cada carácter Base64 lleva 6 bits útiles pero se guarda en un byte de 8 bits. 3 bytes (24 bits) se convierten en 4 caracteres (4×6 = 24 bits). 4 es un tercio más que 3, de ahí el **33 %**. La cuenta 3 a 4 es un razonamiento, no viene escrita en tus notas.",
+      "t": "explica",
+      "titulo": "Por qué ocupa un 33 % más"
+    },
+    {
+      "md": "1. M = 77 (0x4d) y a = 97 (0x61).\n2. En bits: `01001101 01100001`.\n3. Grupos de 6: `010011` `010110` `0001` (este último es corto).\n4. Se rellena con `00`: `000100`.\n5. Valores: 19, 22 y 4 → caracteres **T**, **W** y **E**.\n6. Se añade `=` de relleno.\n\nResultado: **TWE=**.",
+      "t": "ejemplo",
+      "titulo": "«Ma» en Base64, paso a paso"
+    },
+    {
+      "md": "6 bits → 64 caracteres → +33 %. Y el `=` significa «faltaba relleno»: nunca más de dos.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Ocupa un **33 %** más.\n- **6 bits** para 64 caracteres: `A-Z`, `a-z`, `0-9`, `+`, `/`.\n- Grupos de 6 en 6 bits **empezando por la izquierda**.\n- `=` es el relleno: **1 o 2** como máximo; `=` ≈ `00`.\n- **PEM** es un formato de exportación codificado en Base64.\n- «Ma» → sextetos 19, 22, 4 → **T, W, E, =**.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuántos bits se necesitan en Base64 por cada carácter?",
+      "explicacion": "6 bits dan 64 combinaciones, las de los 64 caracteres.",
+      "opciones": [
+        "8",
+        "7",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué caracteres forman el alfabeto de Base64?",
+      "explicacion": "Son 26 + 26 + 10 + 2 = 64 caracteres.",
+      "opciones": [
+        "Solo letras mayúsculas",
+        "A-Z, a-z, 0-9, + y /",
+        "0-9 y A-F",
+        "Todos los de ASCII"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuántos signos = de relleno puede haber como máximo?",
+      "explicacion": "Se usa 1 o 2 como máximo para completar el grupo de la derecha.",
+      "opciones": [
+        "1 o 2",
+        "Hasta 4",
+        "Exactamente 3",
+        "Ninguno, nunca se usa"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Un dato codificado en Base64 ocupa:",
+      "explicacion": "Base64 ocupa un 33 % más.",
+      "opciones": [
+        "Un 10 % más",
+        "Un 50 % más",
+        "Lo mismo",
+        "Un 33 % más"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cómo se codifica «Ma» en Base64?",
+      "explicacion": "Sextetos 19, 22 y 4 → T, W, E, más un = de relleno.",
+      "opciones": [
+        "TWFh",
+        "TWE",
+        "TWE=",
+        "TQ=="
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Codifica datos binarios con 64 caracteres: A-Z, a-z, 0-9, + y /",
+      "Usa 6 bits por carácter y agrupa de 6 en 6 desde la izquierda",
+      "Ocupa un 33 % más",
+      "El = es relleno (pad), 1 o 2 como máximo, y equivale a 00",
+      "PEM es un formato codificado en Base64"
+    ],
+    "consigna": "Explícame qué es Base64, cómo convierte los datos en caracteres y qué papel tiene el signo igual."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Entender para qué sirve Base64, cómo agrupa los bits y por qué aparece el signo igual.",
+  "orden": 4,
+  "preguntasBanco": [
+    17,
+    18,
+    19
+  ],
+  "resumen": "Base64: 6 bits por carácter (A-Z, a-z, 0-9, +, /), +33 %, grupos desde la izquierda, = de relleno (1 o 2). «Ma» = TWE=. PEM usa Base64.",
+  "tema": "B2-T1",
+  "titulo": "Base64"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Coma flotante IEEE 754",
+  "correcta": 0,
+  "enunciado": "En IEEE 754 de precisión simple, ¿cómo se almacena un exponente de valor 8?",
+  "explicacion": "Nota: en precisión simple el exponente se almacena sesgado (+127): 8 + 127 = 135 = 10000111.",
+  "n": 24,
+  "opciones": [
+    "Como 135 (8 + 127), es decir 10000111",
+    "Como 8, es decir 00001000",
+    "Como 119 (127 − 8)",
+    "Como 136 (8 + 128)"
+  ],
+  "tema": "B2-T1"
+}

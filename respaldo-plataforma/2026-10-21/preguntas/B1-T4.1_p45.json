@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes sanciones solo puede imponerse por la comisión de faltas muy graves?",
+  "explicacion": "Nota: la separación del servicio solo puede sancionar faltas muy graves. El traslado forzoso se contempla para faltas muy graves y graves.",
+  "n": 45,
+  "opciones": [
+    "Apercibimiento",
+    "Demérito",
+    "Separación del servicio",
+    "Traslado forzoso"
+  ],
+  "tema": "B1-T4.1"
+}

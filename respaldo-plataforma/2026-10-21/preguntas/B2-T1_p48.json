@@ -1,0 +1,14 @@
+{
+  "apartado": "Arquitecturas y rendimiento",
+  "correcta": 0,
+  "enunciado": "¿Qué miden MIPS y MFLOPS?",
+  "explicacion": "Nota: MIPS = millones de instrucciones por segundo (potencia del procesador); MFLOPS = millones de operaciones en coma flotante por segundo (rendimiento).",
+  "n": 48,
+  "opciones": [
+    "MIPS: millones de instrucciones por segundo (potencia); MFLOPS: millones de operaciones en coma flotante por segundo (rendimiento)",
+    "MIPS: operaciones en coma flotante; MFLOPS: instrucciones",
+    "MIPS es la frecuencia de reloj; MFLOPS, el ancho del bus",
+    "MIPS mide la caché; MFLOPS, la memoria principal"
+  ],
+  "tema": "B2-T1"
+}

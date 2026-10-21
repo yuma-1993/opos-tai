@@ -1,0 +1,14 @@
+{
+  "apartado": "Retribuciones",
+  "correcta": 0,
+  "enunciado": "Según la nota, ¿cuántas pagas extraordinarias tienen los empleados públicos al año y de qué importe es cada una?",
+  "explicacion": "Nota: dos pagas extraordinarias al año, cada una de una mensualidad (sueldo, trienios y las retribuciones complementarias, salvo productividad y servicios extraordinarios).",
+  "n": 14,
+  "opciones": [
+    "Dos al año, cada una por el importe de una mensualidad de retribuciones básicas (sueldo, trienios y la totalidad de las complementarias, salvo productividad y servicios extraordinarios)",
+    "Tres al año, cada una por el importe de una mensualidad de sueldo y trienios",
+    "Dos al año, cada una por el importe de una mensualidad de todas las retribuciones, incluida la productividad",
+    "Dos al año, cada una por el importe de media mensualidad de retribuciones básicas"
+  ],
+  "tema": "B1-T4.1"
+}

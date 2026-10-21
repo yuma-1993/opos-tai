@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución (artículos 166 a 169)",
+  "correcta": 2,
+  "enunciado": "Se pretende modificar el artículo 62, que enumera las funciones del Rey. ¿Qué procedimiento de reforma es obligado?",
+  "explicacion": "Toda reforma que afecte al Título II (La Corona) exige el procedimiento agravado. Las demás opciones describen modalidades del procedimiento ordinario.",
+  "lote": 1792487818082,
+  "n": 20,
+  "opciones": [
+    "El ordinario con 3/5 de cada Cámara",
+    "El ordinario con 2/3 del Congreso y mayoría absoluta del Senado",
+    "El agravado, por afectar al Título II (La Corona)",
+    "El ordinario, con referéndum solo si lo pide 1/10 de una Cámara"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

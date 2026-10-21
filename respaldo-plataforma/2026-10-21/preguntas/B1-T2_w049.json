@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional",
+  "correcta": 1,
+  "enunciado": "Respecto a las mayorías exigidas para proponer a los miembros del Tribunal Constitucional, ¿cuál es la correcta?",
+  "explicacion": "La nota fija 3/5 para Congreso (4), Senado (4) y CGPJ (2), y acuerdo del Consejo de Ministros para los 2 del Gobierno. Los distractores cambian la mayoría (absoluta en lugar de 3/5) en alguno de los órganos, o el modo de propuesta del Gobierno.",
+  "lote": 1792504590395,
+  "n": 49,
+  "opciones": [
+    "Los 4 del Congreso se proponen por 3/5, los 4 del Senado por mayoría absoluta, y los 2 del CGPJ por 3/5 de sus miembros",
+    "Los 4 del Congreso y los 4 del Senado se proponen por 3/5 de los miembros de cada Cámara; los 2 del CGPJ, por 3/5 de sus miembros; los 2 del Gobierno, por acuerdo del Consejo de Ministros",
+    "Los 4 del Congreso y los 4 del Senado se proponen por mayoría absoluta; los 2 del Gobierno, por el Presidente del Gobierno; los 2 del CGPJ, por 3/5",
+    "Los 4 del Congreso y los 4 del Senado se proponen por 3/5; los 2 del CGPJ, por mayoría absoluta de sus miembros; los 2 del Gobierno, por acuerdo del Consejo de Ministros"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

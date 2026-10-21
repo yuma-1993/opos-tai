@@ -1,0 +1,14 @@
+{
+  "apartado": "Memoria",
+  "correcta": 2,
+  "enunciado": "¿Cómo se calcula el tiempo que tarda una memoria RAM en proporcionar el dato?",
+  "explicacion": "Nota: el tiempo total hasta obtener el dato es la suma de ACTIVE + RAS + CAS.",
+  "n": 45,
+  "opciones": [
+    "RAS + CAS",
+    "ACTIVE + PRECHARGE",
+    "ACTIVE + RAS + CAS",
+    "RAS + CAS + PRECHARGE"
+  ],
+  "tema": "B2-T1"
+}

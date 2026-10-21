@@ -1,0 +1,127 @@
+{
+  "bloques": [
+    {
+      "md": "El régimen de incompatibilidades funciona como una **puerta cerrada con llave**: en principio un empleado público solo ocupa un puesto público, y solo se abre en casos concretos (excepciones). Aun cuando se abre, hay un **techo de sueldo** que depende del subgrupo, como un tope de equipaje: cuanto más bajo es el subgrupo, más extra se permite.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Podrá autorizarse la compatibilidad para desempeñar un puesto en la **esfera docente** como **Profesor universitario asociado**. Tiene dos límites:\n\n1. **Dedicación**: no superior a **tiempo parcial (30 horas semanales)**.\n2. **Duración**: **determinada** (no indefinida).\n\nEsta es la respuesta a la pregunta del banco sobre el régimen máximo de dedicación: **tiempo parcial, 30 horas semanales**.\n\nError típico: pensar que se puede a tiempo completo o con contrato indefinido. No: parcial y de duración determinada.",
+      "t": "explica",
+      "titulo": "Paso 1: la compatibilidad docente (Profesor universitario asociado)"
+    },
+    {
+      "md": "Por excepción, el personal incluido en el ámbito de aplicación de esta Ley podrá compatibilizar sus actividades con el desempeño de:\n\n- **Miembros de Asambleas Legislativas de CCAA**, **salvo** que perciban retribuciones periódicas o que por ellas se establezca incompatibilidad.\n- **Miembros de las Corporaciones locales**, **salvo** que desempeñen en ellas cargos retribuidos en **régimen de dedicación exclusiva**.\n\nFíjate en la lógica: la excepción se pierde cuando el cargo es **remunerado de forma periódica** (Asambleas) o de **dedicación exclusiva** (Corporaciones locales). Si el cargo ocupa todo tu tiempo o es un sueldo fijo, no cabe compatibilizar.",
+      "t": "explica",
+      "titulo": "Paso 2: las excepciones por cargos representativos"
+    },
+    {
+      "md": "La cantidad total percibida por ambos puestos **no podrá superar la correspondiente al puesto principal incrementada en** un porcentaje según el subgrupo:\n\n| Subgrupo | Incremento máximo |\n|---|---|\n| A1 | 30% |\n| A2 | 35% |\n| C1 | 40% |\n| C2 | 45% |\n| Agrupaciones profesionales | 50% |\n\nLa regla es: **a menor subgrupo, mayor porcentaje**, de 30% a 50% en saltos de 5 puntos hasta C1 y luego 5 más (A1 30, A2 35, C1 40, C2 45, AP 50).\n\nAdemás, las **pagas extraordinarias** y las **prestaciones de carácter familiar** solo podrán percibirse **por uno de los puestos**, no por los dos.",
+      "t": "explica",
+      "titulo": "Paso 3: el tope retributivo por subgrupo"
+    },
+    {
+      "md": "Las actividades privadas **requieren reconocimiento de compatibilidad**. Si los subgrupos **A1, A2, C1, C2 y E** rebasan el **30%**, podrán solicitar **reducción del complemento específico**.\n\nOjo: aquí aparece el **30%** para todos los subgrupos citados, que no es el tope escalonado del paso 3. No los mezcles: el escalonado (30-50%) es para el tope de ambos puestos; el 30% es para la solicitud de reducción del complemento específico en actividades privadas.",
+      "t": "explica",
+      "titulo": "Paso 4: actividades privadas"
+    },
+    {
+      "md": "Una funcionaria **C1** cobra **2.000 €** en su puesto principal y quiere compatibilizar un segundo puesto autorizado.\n\n1. Subgrupo C1, incremento máximo: **40%**.\n2. 40% de 2.000 = 800 €.\n3. Tope total por ambos puestos: 2.000 + 800 = **2.800 €**.\n4. Si el segundo puesto pagara 1.000 €, el total sería 3.000 € y **superaría el tope**.\n5. Las pagas extraordinarias y prestaciones familiares solo se cobrarían por **uno** de los dos puestos.\n\n(Las cifras son inventadas para practicar el cálculo; los porcentajes sí son los de la nota.)\n\nSegundo caso: un funcionario es concejal de su ayuntamiento con cargo retribuido en **dedicación exclusiva**. La excepción **no** aplica, no puede compatibilizar. Si el cargo fuera sin dedicación exclusiva, sí podría.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Escalera inversa**: A1 → 30, A2 → 35, C1 → 40, C2 → 45, AP → 50. Cada escalón baja de grupo y sube 5 puntos. «Cuanto más abajo, más extra».\n- **Profesor asociado = 30 horas** y recuerda «parcial y determinada» (las dos P-D: **P**arcial, **D**eterminada).\n- Cargos representativos: **«salvo dinero fijo o exclusividad»**. Asambleas: salvo retribuciones periódicas; Corporaciones: salvo dedicación exclusiva.\n- **Pagas y familia: solo en uno**, «una paga, un puesto».",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "- Profesor universitario asociado: dedicación **no superior a tiempo parcial (30 horas semanales)** y **duración determinada**.\n- Excepciones: miembros de **Asambleas Legislativas de CCAA** (salvo retribuciones periódicas o incompatibilidad establecida por ellas) y de **Corporaciones locales** (salvo cargos retribuidos en dedicación exclusiva).\n- Tope: puesto principal incrementado en **A1: 30% · A2: 35% · C1: 40% · C2: 45% · Agrupaciones profesionales: 50%**.\n- Pagas extraordinarias y prestaciones de carácter familiar: **solo por uno de los puestos**.\n- Actividades privadas: requieren **reconocimiento de compatibilidad**; si A1, A2, C1, C2 y E rebasan el **30%**, podrán solicitar **reducción del complemento específico**.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    },
+    {
+      "md": "(Conocimiento general, no viene de tus notas.) La norma de referencia del régimen de incompatibilidades del personal al servicio de las Administraciones Públicas es la **Ley 53/1984, de 26 de diciembre**, que el TREBEP no deroga sino que complementa. Su principio general es que un empleado público solo puede desempeñar un puesto de trabajo en el sector público, salvo excepciones tasadas, como la docencia universitaria a tiempo parcial vista arriba.",
+      "t": "ampliacion",
+      "titulo": "Contexto externo"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "Un funcionario del subgrupo A2 percibe 3.000 € en su puesto principal y se le autoriza un segundo puesto compatible. ¿Cuál es el máximo total que puede percibir por ambos puestos?",
+      "explicacion": "Para A2 el incremento máximo es el 35%: 3.000 × 0,35 = 1.050, por lo que el tope es 4.050 €.",
+      "opciones": [
+        "4.500 €",
+        "4.050 €",
+        "4.200 €",
+        "3.900 €"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué subgrupo tiene el mayor porcentaje de incremento sobre el puesto principal en el tope retributivo?",
+      "explicacion": "Las Agrupaciones profesionales tienen el 50%, el mayor de la escala (A1 30, A2 35, C1 40, C2 45).",
+      "opciones": [
+        "A1",
+        "C1",
+        "Agrupaciones profesionales",
+        "C2"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Un empleado público es miembro de una Corporación local. ¿En qué caso NO podría compatibilizar su actividad?",
+      "explicacion": "La excepción para miembros de Corporaciones locales no opera cuando desempeñan en ellas cargos retribuidos en régimen de dedicación exclusiva.",
+      "opciones": [
+        "Si desempeña un cargo retribuido en régimen de dedicación exclusiva",
+        "Si el cargo es de duración determinada",
+        "Si es del subgrupo C2",
+        "Si el cargo no es retribuido"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En relación con las pagas extraordinarias y las prestaciones de carácter familiar cuando hay dos puestos compatibles, ¿qué establece la nota?",
+      "explicacion": "Las pagas extraordinarias y las prestaciones de carácter familiar solo podrán percibirse por uno de los puestos.",
+      "opciones": [
+        "Se perciben al 50% en cada puesto",
+        "Se perciben solo por el puesto secundario",
+        "Se perciben por ambos puestos, respetando el tope",
+        "Solo se perciben por uno de los puestos"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Respecto a las actividades privadas, ¿qué indica la nota?",
+      "explicacion": "Las actividades privadas requieren reconocimiento de compatibilidad; si A1, A2, C1, C2 y E rebasan el 30%, pueden solicitar reducción del complemento específico.",
+      "opciones": [
+        "Están prohibidas en todo caso",
+        "No requieren ningún trámite si son a tiempo parcial",
+        "Solo se permiten a los subgrupos A1 y A2",
+        "Requieren reconocimiento de compatibilidad"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Profesor universitario asociado: dedicación no superior a tiempo parcial (30 horas semanales) y duración determinada",
+      "Miembros de Corporaciones locales, salvo cargos retribuidos en dedicación exclusiva",
+      "Tope: puesto principal incrementado en A1 30%, A2 35%, C1 40%, C2 45%, Agrupaciones profesionales 50%",
+      "Las pagas extraordinarias y prestaciones de carácter familiar solo pueden percibirse por uno de los puestos",
+      "Actividades privadas: requieren reconocimiento de compatibilidad"
+    ],
+    "consigna": "Explica con tus palabras qué excepciones de compatibilidad existen, con qué límites, y cómo se calcula el tope de lo que se puede cobrar por ambos puestos según el subgrupo."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "Deberes, régimen disciplinario e incompatibilidades",
+  "objetivo": "Aplicar las excepciones de compatibilidad y el tope retributivo por subgrupo.",
+  "orden": 28,
+  "preguntasBanco": [
+    31,
+    49
+  ],
+  "resumen": "Un empleado público solo puede compatibilizar en casos excepcionales: Profesor universitario asociado (máximo tiempo parcial, 30 horas semanales, duración determinada) y miembros de Asambleas Legislativas de CCAA o Corporaciones locales con sus salvedades. El total por ambos puestos no puede superar el del puesto principal más A1 30%, A2 35%, C1 40%, C2 45%, AP 50%, y las pagas extraordinarias y prestaciones familiares solo se cobran por un puesto.",
+  "tema": "B1-T4.1",
+  "titulo": "Régimen de incompatibilidades"
+}

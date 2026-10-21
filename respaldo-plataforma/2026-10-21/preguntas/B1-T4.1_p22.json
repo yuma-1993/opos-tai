@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 2,
+  "enunciado": "¿Cuál de los siguientes permisos corresponde correctamente a su duración según la nota?",
+  "explicacion": "Nota (catálogo de permisos): matrimonio 15 días naturales; traslado de domicilio 1 día; asuntos particulares 6 días al año.",
+  "n": 22,
+  "opciones": [
+    "Matrimonio: 10 días naturales",
+    "Traslado de domicilio sin cambio de residencia: 2 días",
+    "Matrimonio: 15 días naturales",
+    "Asuntos particulares: 4 días al año"
+  ],
+  "tema": "B1-T4.1"
+}

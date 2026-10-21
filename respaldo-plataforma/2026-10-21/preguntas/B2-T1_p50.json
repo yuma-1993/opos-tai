@@ -1,0 +1,14 @@
+{
+  "apartado": "Ejercicios resueltos",
+  "correcta": 1,
+  "enunciado": "En un computador de 32 bits con páginas de 16 KB y memoria principal de 1 GB, ¿cuántos marcos de página hay?",
+  "explicacion": "Nota (ejercicio 4): marcos = 2^30 / 2^14 = 2^16. Dirección virtual: 18 bits de página + 14 de desplazamiento.",
+  "n": 50,
+  "opciones": [
+    "2^18",
+    "2^16",
+    "2^14",
+    "2^30"
+  ],
+  "tema": "B2-T1"
+}

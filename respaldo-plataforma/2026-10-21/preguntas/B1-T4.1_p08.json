@@ -1,0 +1,14 @@
+{
+  "apartado": "Suspensión de funciones",
+  "correcta": 1,
+  "enunciado": "En la suspensión provisional de funciones, ¿qué retribuciones percibe el funcionario durante la suspensión y cuál es su duración máxima (salvo paralización del procedimiento imputable al interesado)?",
+  "explicacion": "Nota: suspensión provisional = medida cautelar, máximo 6 meses, con retribuciones básicas y prestaciones familiares por hijo a cargo.",
+  "n": 8,
+  "opciones": [
+    "Todas las del puesto; 3 meses",
+    "Retribuciones básicas y prestaciones familiares por hijo a cargo; 6 meses",
+    "Retribuciones básicas y complemento de destino; 6 meses",
+    "Retribuciones básicas y prestaciones familiares por hijo a cargo; 1 año"
+  ],
+  "tema": "B1-T4.1"
+}

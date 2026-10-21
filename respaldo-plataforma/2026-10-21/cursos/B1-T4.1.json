@@ -1,0 +1,45 @@
+{
+  "fuente": "notas/B1-T4.1",
+  "generado": "2026-10-20",
+  "intro": "El curso parte de lo que no depende de nada: a quién se aplica el TREBEP y qué es un funcionario. Después avanza hacia cómo se adquiere y se pierde esa condición, las situaciones y la provisión de puestos, los derechos, la jornada y los permisos, los deberes, y termina con la promoción, el régimen disciplinario y las incompatibilidades. Las lecciones que cubren tus preguntas falladas o en blanco están marcadas como prioritarias.",
+  "modulos": [
+    {
+      "descripcion": "A quién se aplica el TREBEP y qué son los funcionarios de carrera, los interinos y el personal laboral.",
+      "id": "M1",
+      "titulo": "Ámbito de aplicación y clases de personal"
+    },
+    {
+      "descripcion": "Cómo se adquiere y se pierde la condición de funcionario y en qué situaciones administrativas puede encontrarse.",
+      "id": "M2",
+      "titulo": "Condición de funcionario y situaciones administrativas"
+    },
+    {
+      "descripcion": "Cómo se cubren los puestos: concurso, libre designación, comisiones de servicios, permutas y reasignación de efectivos.",
+      "id": "M3",
+      "titulo": "Provisión de puestos de trabajo"
+    },
+    {
+      "descripcion": "Derechos individuales y colectivos, retribuciones, carrera profesional, niveles y grado personal.",
+      "id": "M4",
+      "titulo": "Derechos, retribuciones y promoción"
+    },
+    {
+      "descripcion": "Jornada, conciliación, vacaciones y el catálogo de permisos.",
+      "id": "M5",
+      "titulo": "Jornada, vacaciones y permisos"
+    },
+    {
+      "descripcion": "Código de Conducta, faltas, sanciones, prescripción e incompatibilidades.",
+      "id": "M6",
+      "titulo": "Deberes, régimen disciplinario e incompatibilidades"
+    },
+    {
+      "descripcion": "Resumen ultra-rápido para consolidar todo el tema.",
+      "id": "M7",
+      "titulo": "Repaso final"
+    }
+  ],
+  "nLecciones": 29,
+  "tema": "B1-T4.1",
+  "titulo": "TREBEP"
+}

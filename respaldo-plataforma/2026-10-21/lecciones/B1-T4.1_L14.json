@@ -1,0 +1,117 @@
+{
+  "bloques": [
+    {
+      "md": "Una comisión de servicios es un **«parche temporal»**: cuando un puesto se queda vacío y hace falta cubrirlo ya, se manda a un funcionario a ocuparlo durante un tiempo limitado, como cuando un equipo pide un jugador prestado hasta que llegue el fichaje definitivo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Vamos de lo general a lo específico:\n\n1. **Caso general:** un puesto de trabajo queda vacante. Puede cubrirse mediante comisión de servicios **solo en caso de urgente e inaplazable necesidad**.\n2. **Caso específico:** la vacante se ha declarado **desierta** y además es urgente. Entonces se puede destinar **con carácter forzoso** a un funcionario que:\n   - preste servicios en **el mismo Departamento**,\n   - en **el municipio más próximo**,\n   - con **menores cargas familiares**,\n   - y, **en igualdad de condiciones, el de menor antigüedad**.\n\nIdea clave: «forzoso» significa que el funcionario no elige; por eso la norma fija criterios para decidir a quién se envía.",
+      "t": "explica",
+      "titulo": "¿Cuándo se puede usar?"
+    },
+    {
+      "md": "- **Duración máxima: un año.**\n- **Prórroga: por otro año**, y solo **en caso de no haberse cubierto el puesto con carácter definitivo**.\n\nEs decir, la prórroga no es automática ni libre: depende de que el puesto siga sin cubrirse de forma definitiva. Con la prórroga, el máximo total sería de dos años (1 + 1).",
+      "t": "explica",
+      "titulo": "Duración y prórroga"
+    },
+    {
+      "md": "Cesar es dejar el puesto actual; tomar posesión es incorporarse al nuevo. El plazo depende de si hay **cambio de residencia**:\n\n1. **Sin cambio de residencia:** **tres días** desde la notificación.\n2. **Con cambio de residencia:** el plazo depende del tipo de comisión:\n   - **Voluntaria: ocho días.**\n   - **Forzosa: treinta días.**\n\nLógica: si te obligan a mudarte, necesitas más tiempo (30) que si has aceptado voluntariamente (8).",
+      "t": "explica",
+      "titulo": "Plazos de cese y toma de posesión"
+    },
+    {
+      "md": "Se declara desierta y urgente una plaza en otra localidad. Se destina a Marta, del mismo Departamento, que no ha pedido el traslado y debe cambiar de residencia.\n\n- ¿Tipo de comisión? **Forzosa**.\n- ¿Cambio de residencia? **Sí**.\n- Plazo de cese y toma de posesión: **treinta días**.\n\nSi en cambio Luis la hubiera solicitado voluntariamente y también cambiara de residencia: **ocho días**. Y si nadie cambiara de residencia: **tres días** desde la notificación.\n\nDuración: Marta estaría **un año como máximo**, prorrogable **otro año** solo si el puesto sigue sin cubrirse con carácter definitivo.\n\nCriterio de elección entre dos candidatos: si ambos son del mismo Departamento, del municipio más próximo y con iguales cargas familiares, se destina al de **menor antigüedad**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**3 – 8 – 30**: sin mudanza, **3**; con mudanza voluntaria, **8**; con mudanza forzosa, **30**.\n\nPara los años: **1 + 1**, y la prórroga solo si el puesto sigue sin cubrir definitivamente.\n\nPara el orden de elección: **D-M-C-A** = **D**epartamento, **M**unicipio más próximo, **C**argas familiares menores, **A**ntigüedad menor.",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "| Concepto | Dato |\n|---|---|\n| Requisito general | Vacante + urgente e inaplazable necesidad |\n| Vacante desierta y urgente | Destino forzoso del funcionario del mismo Departamento, municipio más próximo, menores cargas familiares y, en igualdad, el de menor antigüedad |\n| Duración máxima | Un año |\n| Prórroga | Por otro año, si no se ha cubierto el puesto con carácter definitivo |\n| Sin cambio de residencia | Cese y toma de posesión en tres días desde la notificación |\n| Con cambio de residencia, voluntaria | Ocho días |\n| Con cambio de residencia, forzosa | Treinta días |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "Un funcionario es destinado en comisión de servicios forzosa a otro municipio y debe trasladar su residencia. ¿De qué plazo dispone para cesar y tomar posesión?",
+      "explicacion": "Con cambio de residencia, el plazo es de ocho días si la comisión es voluntaria y de treinta si es forzosa. Aquí es forzosa.",
+      "opciones": [
+        "Un año",
+        "Tres días desde la notificación",
+        "Ocho días",
+        "Treinta días"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Una comisión de servicios voluntaria implica cambio de residencia. ¿Cuál es el plazo de cese y toma de posesión?",
+      "explicacion": "Con cambio de residencia y carácter voluntario, el plazo es de ocho días.",
+      "opciones": [
+        "Treinta días",
+        "Tres días",
+        "Ocho días",
+        "Quince días"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuándo puede prorrogarse una comisión de servicios por otro año?",
+      "explicacion": "La prórroga de un año solo procede en caso de no haberse cubierto el puesto con carácter definitivo.",
+      "opciones": [
+        "Cuando se cambie de residencia",
+        "Siempre que lo solicite el funcionario",
+        "Cuando el funcionario tenga menores cargas familiares",
+        "Cuando no se haya cubierto el puesto con carácter definitivo"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Ante una vacante declarada desierta y urgente, si varios funcionarios están en igualdad de condiciones según los demás criterios, ¿a quién se destina con carácter forzoso?",
+      "explicacion": "Tras Departamento, municipio más próximo y menores cargas familiares, en igualdad de condiciones se destina al de menor antigüedad.",
+      "opciones": [
+        "Al de menor antigüedad",
+        "Al de mayor antigüedad",
+        "Al que designe la persona afectada",
+        "Al de mayor edad"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Si una comisión de servicios no implica cambio de residencia, ¿cuál es el plazo de cese y toma de posesión?",
+      "explicacion": "Sin cambio de residencia, el cese y la toma de posesión se hacen en tres días desde la notificación.",
+      "opciones": [
+        "Ocho días desde la notificación",
+        "Tres días desde la notificación",
+        "No hay plazo",
+        "Treinta días desde la notificación"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Duración máxima de un año",
+      "Prorrogable por otro año si no se ha cubierto el puesto con carácter definitivo",
+      "Sin cambio de residencia: tres días desde la notificación",
+      "Con cambio de residencia: ocho días si es voluntaria",
+      "Con cambio de residencia: treinta días si es forzosa"
+    ],
+    "consigna": "Explica con tus palabras cuánto dura una comisión de servicios sin indemnización, cuándo se prorroga y qué plazos hay para cesar y tomar posesión según haya o no cambio de residencia."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Provisión de puestos de trabajo",
+  "objetivo": "Indicar la duración, la prórroga y los plazos de cese y toma de posesión de una comisión de servicios sin indemnización.",
+  "orden": 14,
+  "preguntasBanco": [
+    9,
+    41
+  ],
+  "resumen": "La comisión de servicios cubre vacantes de urgente e inaplazable necesidad; dura como máximo un año y se prorroga otro año si el puesto sigue sin cubrirse definitivamente. El cese y la toma de posesión se hacen en tres días sin cambio de residencia, y con cambio de residencia en ocho días si es voluntaria o treinta si es forzosa.",
+  "tema": "B1-T4.1",
+  "titulo": "Comisiones de servicios sin indemnización"
+}

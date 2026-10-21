@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes (procedimiento legislativo) > Tramitación y aprobación",
+  "correcta": 3,
+  "enunciado": "El Senado ha vetado un proyecto de ley ordinaria aprobado por el Congreso. ¿Cómo puede el Congreso levantar el veto?",
+  "explicacion": "El veto se levanta inmediatamente por mayoría absoluta o esperando 2 meses y por mayoría simple. El distractor tentador invierte las mayorías según el plazo.",
+  "lote": 1792504590395,
+  "n": 17,
+  "opciones": [
+    "Ratificando el texto original solo por mayoría absoluta, una vez transcurridos 2 meses",
+    "Ratificando el texto original por mayoría simple, sin necesidad de esperar plazo alguno",
+    "Ratificando el texto original de inmediato por mayoría simple, o transcurridos 2 meses por mayoría absoluta",
+    "Ratificando el texto original de inmediato por mayoría absoluta, o transcurridos 2 meses por mayoría simple"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

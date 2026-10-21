@@ -1,0 +1,14 @@
+{
+  "apartado": "Unidades y múltiplos",
+  "correcta": 0,
+  "enunciado": "¿Cuántos bits tiene un nibble?",
+  "explicacion": "Nota: crumb = 2 bits, nibble = 4 bits, byte = 8 bits.",
+  "n": 12,
+  "opciones": [
+    "4 bits",
+    "2 bits",
+    "8 bits",
+    "16 bits"
+  ],
+  "tema": "B2-T1"
+}

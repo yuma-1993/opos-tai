@@ -1,0 +1,16 @@
+{
+  "apartado": "Título II — De la Corona (Artículo 56)",
+  "correcta": 0,
+  "enunciado": "Si ningún candidato a Presidente del Gobierno resulta investido en dos meses y el Rey disuelve las Cortes, ¿quién refrenda ese acto?",
+  "explicacion": "Según el art. 56, el Presidente del Congreso refrenda la propuesta de candidato, el nombramiento del Presidente del Gobierno y la disolución de las Cortes si no se invistiese a ningún candidato en dos meses. Los Ministros refrendan los Reales Decretos, que es la confusión más tentadora.",
+  "lote": 1792487818082,
+  "n": 29,
+  "opciones": [
+    "El Presidente del Congreso de los Diputados",
+    "El Presidente del Gobierno en funciones",
+    "El Presidente del Senado",
+    "El Ministro competente por razón de la materia"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "El Defensor del Pueblo",
+  "correcta": 2,
+  "enunciado": "Tras una investigación, el Defensor del Pueblo concluye que una Administración ha actuado incorrectamente. ¿Qué alcance tiene su resolución?",
+  "explicacion": "La nota señala que el Defensor solo puede sugerir, no obligar ni modificar nada, y sus resoluciones no son vinculantes. Los distractores le atribuyen un poder que no tiene.",
+  "lote": 1792504590395,
+  "n": 31,
+  "opciones": [
+    "Es vinculante para la Administración, que debe rectificar en el plazo que fije",
+    "Es vinculante y puede anular el acto, pero no sancionar",
+    "No es vinculante: solo puede sugerir, sin obligar ni modificar nada",
+    "Es vinculante solo si las Cortes Generales la ratifican"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

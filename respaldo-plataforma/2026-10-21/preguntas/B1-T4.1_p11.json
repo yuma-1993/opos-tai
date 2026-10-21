@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 1,
+  "enunciado": "En la reasignación de efectivos, ¿cuánto dura la situación de expectativa de destino y qué retribuciones se perciben durante ella?",
+  "explicacion": "Nota (tabla de reasignación): expectativa de destino dura un año; retribuciones básicas, complemento de destino del grado y 50 % del específico.",
+  "n": 11,
+  "opciones": [
+    "6 meses; todas las del puesto suprimido",
+    "1 año; retribuciones básicas, complemento de destino del grado y 50 % del específico",
+    "1 año; retribuciones básicas y prestaciones por hijo a cargo",
+    "3 meses; retribuciones básicas, complemento de destino del grado y 100 % del específico"
+  ],
+  "tema": "B1-T4.1"
+}

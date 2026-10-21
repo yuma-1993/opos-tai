@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 0,
+  "enunciado": "¿Cuál es la duración máxima del permiso no retribuido para la asistencia a otros cursos de perfeccionamiento profesional, y cuántas horas anuales de permiso (percibiendo solo retribuciones básicas) se conceden para cursos de perfeccionamiento profesional?",
+  "explicacion": "Nota (tiempo para la formación): permiso con solo retribuciones básicas hasta 40 horas al año; permiso no retribuido de máximo tres meses para otros cursos.",
+  "n": 23,
+  "opciones": [
+    "3 meses; hasta 40 horas al año",
+    "6 meses; hasta 40 horas al año",
+    "3 meses; hasta 60 horas al año",
+    "1 mes; hasta 20 horas al año"
+  ],
+  "tema": "B1-T4.1"
+}

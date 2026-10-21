@@ -1,0 +1,16 @@
+{
+  "apartado": "Tabla resumen: Preámbulo, Título Preliminar y Título I completo",
+  "correcta": 2,
+  "enunciado": "¿Qué artículo del Título Preliminar se refiere a los sindicatos y a las asociaciones empresariales?",
+  "explicacion": "La tabla resumen asigna el art. 7 a sindicatos y asociaciones empresariales. El art. 6, contiguo, trata de los partidos políticos y el pluralismo, que es la confusión más tentadora.",
+  "lote": 1792487818082,
+  "n": 35,
+  "opciones": [
+    "Artículo 5",
+    "Artículo 8",
+    "Artículo 7",
+    "Artículo 6"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

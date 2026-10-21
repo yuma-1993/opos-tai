@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes (procedimiento legislativo) > Tramitación y aprobación",
+  "correcta": 0,
+  "enunciado": "En la tramitación de una ley en el Congreso, se presenta una enmienda a la totalidad que es rechazada en votación. ¿Qué consecuencia tiene?",
+  "explicacion": "Si las enmiendas se rechazan, continúa la tramitación con el texto original; si se aprueban, hay devolución del texto o se incluye un texto alternativo. El segundo distractor recoge la excepción al revés.",
+  "lote": 1792504590395,
+  "n": 18,
+  "opciones": [
+    "Continúa la tramitación con el texto original",
+    "Se incluye un texto alternativo en la tramitación",
+    "Se devuelve el texto al autor y no se tramita",
+    "El texto pasa al Senado sin votación final"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

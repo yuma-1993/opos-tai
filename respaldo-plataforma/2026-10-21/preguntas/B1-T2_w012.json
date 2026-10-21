@@ -1,0 +1,16 @@
+{
+  "apartado": "El recurso de amparo",
+  "correcta": 3,
+  "enunciado": "¿Qué órganos o sujetos están legitimados para interponer el recurso de inconstitucionalidad pero NO tienen reconocida esa legitimación activa por el mero hecho de invocar un interés legítimo, a diferencia de lo que sucede en el recurso de amparo?",
+  "explicacion": "Según la tabla de legitimación, el amparo corresponde a toda persona natural o jurídica con interés legítimo, además del Defensor del Pueblo y el Ministerio Fiscal; en el recurso de inconstitucionalidad no figuran los particulares. Los demás distractores contradicen la tabla.",
+  "lote": 1792504590395,
+  "n": 12,
+  "opciones": [
+    "El Ministerio Fiscal, que está legitimado en el recurso de inconstitucionalidad pero no en el de amparo",
+    "Los 50 Diputados, que solo están legitimados en el amparo",
+    "El Defensor del Pueblo, que solo está legitimado en el recurso de inconstitucionalidad",
+    "Cualquier persona natural o jurídica con interés legítimo, que solo está legitimada en el amparo"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

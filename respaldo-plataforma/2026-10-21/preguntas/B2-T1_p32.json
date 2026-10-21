@@ -1,0 +1,14 @@
+{
+  "apartado": "CPU, registros y ciclo",
+  "correcta": 0,
+  "enunciado": "¿Qué afirmación distingue correctamente el PC del IR?",
+  "explicacion": "Nota: PC apunta a lo que viene; IR contiene lo que se está ejecutando ahora mismo.",
+  "n": 32,
+  "opciones": [
+    "El PC contiene la dirección de la siguiente instrucción; el IR, la instrucción actual",
+    "El PC contiene la instrucción actual; el IR, la dirección de la siguiente",
+    "El PC guarda el dato leído de memoria; el IR, la dirección",
+    "Ambos contienen la dirección de la instrucción en curso"
+  ],
+  "tema": "B2-T1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Carrera y promoción interna",
+  "correcta": 1,
+  "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente la carrera horizontal?",
+  "explicacion": "Nota: carrera horizontal = progresión de tramo sin cambiar de puesto. La vertical implica cambio de puesto por concurso o libre designación.",
+  "n": 13,
+  "opciones": [
+    "Ascenso a un puesto de nivel superior mediante concurso o libre designación",
+    "Progresión de tramo (grado, categoría, escalón…) sin necesidad de cambiar de puesto de trabajo",
+    "Acceso a un cuerpo o escala del subgrupo inmediatamente superior superando una prueba selectiva",
+    "Acceso a cuerpos o escalas del mismo subgrupo con funciones análogas, superando una prueba selectiva"
+  ],
+  "tema": "B1-T4.1"
+}

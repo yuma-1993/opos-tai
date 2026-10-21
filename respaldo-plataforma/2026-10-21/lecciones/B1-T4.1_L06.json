@@ -1,0 +1,113 @@
+{
+  "bloques": [
+    {
+      "md": "Ser funcionario es como **subir una escalera de cuatro peldaños**: no puedes saltarte ninguno ni cambiar el orden. Hasta que no pisas el cuarto (la toma de posesión), no eres funcionario. Los peldaños son: **aprobar, ser nombrado y publicado, acatar la Constitución y tomar posesión**.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "La condición de funcionario se adquiere por el **cumplimiento sucesivo** de estos requisitos (sucesivo = uno detrás de otro, en este orden):\n\n1. **Superación** del proceso selectivo. Es lo primero: sin aprobar no hay nada más.\n2. **Nombramiento** por el órgano o autoridad competente y posterior **publicación** en un Diario Oficial.\n3. Acto de **acatamiento** de la Constitución y, en su caso, del Estatuto de Autonomía, y del resto del Ordenamiento jurídico.\n4. **Toma de posesión** en el plazo que se establezca (aunque lo normal es 1 mes).\n\nFíjate en que el nombramiento y la publicación van juntos en el peldaño 2: primero se nombra y después se publica.",
+      "t": "explica",
+      "titulo": "Los cuatro requisitos, paso a paso"
+    },
+    {
+      "md": "Hay dos datos que se preguntan mucho y que conviene no mezclar:\n\n- **Quién nombra**: el **Secretario de Estado de la Función Pública** nombra a los funcionarios.\n- **Plazo de toma de posesión**: el que se establezca, aunque lo normal es **1 mes**.\n- **Plazo de resolución de un concurso**: **2 meses**, salvo que la propia convocatoria establezca otro plazo.\n\nEs decir, hay un **1 mes** (tomar posesión) y unos **2 meses** (resolver el concurso). Son plazos distintos y de cosas distintas.",
+      "t": "explica",
+      "titulo": "Quién nombra y qué plazos hay"
+    },
+    {
+      "md": "Lucía aprueba la oposición. ¿Ya es funcionaria? **No.**\n\n- Ha cumplido el requisito 1 (superación del proceso selectivo).\n- Se la nombra y el nombramiento se publica en el Diario Oficial (requisito 2).\n- Realiza el acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía y del resto del Ordenamiento jurídico (requisito 3).\n- Toma posesión dentro del plazo establecido, normalmente 1 mes (requisito 4).\n\nSolo en ese momento, con los cuatro cumplidos en orden, adquiere la condición de funcionaria.\n\n**Pregunta tipo test**: ¿cuál es el orden correcto? Respuesta: superación → nombramiento y publicación → acatamiento → toma de posesión. Si una opción pone el acatamiento antes del nombramiento, o la toma de posesión antes de acatar, es falsa.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**S-N-A-T**: **S**uperar, **N**ombrar (y publicar), **A**catar, **T**omar posesión.\n\nFrase: **«Sé Noble, Acata y Toma»**.\n\nPara los plazos: **1 mes = tomar posesión** (1 posesión, 1 mes) y **2 meses = concurso** (2 meses). Y quien nombra es el **Secretario de Estado** de Función Pública.",
+      "t": "truco",
+      "titulo": "Truco mnemotécnico"
+    },
+    {
+      "md": "Se adquiere por el cumplimiento sucesivo de los siguientes requisitos:\n\n| Orden | Requisito |\n|---|---|\n| 1 | **Superación** del proceso selectivo |\n| 2 | **Nombramiento** por el órgano o autoridad competente y posterior **publicación** en un Diario Oficial |\n| 3 | Acto de **acatamiento** de la Constitución y, en su caso, del Estatuto de Autonomía, y del resto del Ordenamiento jurídico |\n| 4 | **Toma de posesión** en el plazo que se establezca (aunque lo normal es 1 mes) |\n\n- El **Secretario de Estado de la Función Pública** es quien nombra a los funcionarios.\n- El plazo de resolución de un concurso es de **2 meses**, salvo que la propia convocatoria establezca otro plazo.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "Una persona ha aprobado el proceso selectivo y ha sido nombrada. ¿Cuál es el siguiente paso inmediato para adquirir la condición de funcionario?",
+      "explicacion": "El requisito 2 es el nombramiento y la posterior publicación en un Diario Oficial. Después vienen el acatamiento y, por último, la toma de posesión.",
+      "opciones": [
+        "La toma de posesión",
+        "La publicación del nombramiento en un Diario Oficial",
+        "Un nuevo proceso selectivo",
+        "El acto de acatamiento de la Constitución"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué requisito se cumple justo antes de la toma de posesión?",
+      "explicacion": "El orden es superación, nombramiento y publicación, acatamiento y toma de posesión; el acatamiento es el tercero y precede al cuarto.",
+      "opciones": [
+        "El nombramiento",
+        "La publicación de la convocatoria",
+        "La superación del proceso selectivo",
+        "El acto de acatamiento de la Constitución y del resto del Ordenamiento jurídico"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Según la nota, ¿quién nombra a los funcionarios?",
+      "explicacion": "La nota indica que el Secretario de Estado de la Función Pública es quien nombra a los funcionarios.",
+      "opciones": [
+        "El presidente del tribunal calificador",
+        "El Director del Diario Oficial",
+        "El Secretario de Estado de la Función Pública",
+        "El Ministro de Hacienda"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál es el plazo de resolución de un concurso, salvo que la convocatoria establezca otro?",
+      "explicacion": "El plazo de resolución de un concurso es de 2 meses, salvo que la propia convocatoria establezca otro. El 1 mes es el plazo normal de toma de posesión.",
+      "opciones": [
+        "2 meses",
+        "6 meses",
+        "1 mes",
+        "15 días"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál es el plazo normal para la toma de posesión?",
+      "explicacion": "La toma de posesión se realiza en el plazo que se establezca, aunque lo normal es 1 mes.",
+      "opciones": [
+        "3 meses",
+        "2 meses",
+        "1 mes",
+        "El que establezca el tribunal, sin posibilidad de referencia normal"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Se adquiere por el cumplimiento sucesivo de los requisitos",
+      "Superación del proceso selectivo",
+      "Nombramiento por el órgano o autoridad competente y posterior publicación en un Diario Oficial",
+      "Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía, y del resto del Ordenamiento jurídico",
+      "Toma de posesión en el plazo que se establezca (lo normal es 1 mes)",
+      "El Secretario de Estado de la Función Pública nombra; el concurso se resuelve en 2 meses salvo otro plazo en la convocatoria"
+    ],
+    "consigna": "Explica con tus palabras cómo se adquiere la condición de funcionario: qué requisitos hay y en qué orden, quién nombra y cuáles son los plazos de toma de posesión y de resolución de un concurso."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "Condición de funcionario y situaciones administrativas",
+  "objetivo": "Ordenar los requisitos sucesivos para adquirir la condición de funcionario (superación del proceso selectivo, nombramiento y publicación, acatamiento y toma de posesión) y conocer quién nombra y los plazos.",
+  "orden": 6,
+  "preguntasBanco": [
+    3,
+    48
+  ],
+  "resumen": "La condición de funcionario se adquiere cumpliendo sucesivamente cuatro requisitos: superación del proceso selectivo, nombramiento y publicación en un Diario Oficial, acatamiento de la Constitución (y, en su caso, del Estatuto de Autonomía) y del resto del Ordenamiento, y toma de posesión (normalmente en 1 mes). Nombra el Secretario de Estado de la Función Pública, y el concurso se resuelve en 2 meses salvo que la convocatoria fije otro plazo.",
+  "tema": "B1-T4.1",
+  "titulo": "Adquisición de la condición de funcionario"
+}

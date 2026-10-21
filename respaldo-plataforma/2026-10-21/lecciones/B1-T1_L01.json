@@ -1,0 +1,115 @@
+{
+  "bloques": [
+    {
+      "md": "La Constitución es como las **reglas básicas de un juego** que todos los jugadores, sin excepción, deben respetar: tanto quienes mandan (poderes públicos) como quienes obedecen (ciudadanos). Además, reparte el poder entre tres órganos distintos para que ninguno lo tenga todo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "La Constitución sigue un camino de cuatro hitos, todos en 1978:\n\n1. **Aprobación por las Cortes**: 31/10/1978.\n2. **Ratificación en referéndum**: 6/12/1978, con el **87%** de los votos.\n3. **Sanción por el Rey Juan Carlos I**: 27/12/1978.\n4. **Publicación en el BOE**: 29/12/1978. Entra en vigor **el mismo día de su publicación**.\n\nLa clave: primero la aprueban las Cortes, luego el pueblo la ratifica, después el Rey la sanciona y finalmente se publica y entra en vigor.",
+      "t": "explica",
+      "titulo": "Paso 1: la secuencia de fechas"
+    },
+    {
+      "md": "La Constitución es la **Norma Fundamental del Estado**, también llamada la **Ley de leyes**. Esto significa que **todos los poderes públicos y los ciudadanos de España están sujetos a ella**. Nadie queda por encima: ni el Gobierno, ni las Cortes, ni los Tribunales, ni las personas.\n\nLo dice expresamente el **artículo 9.1**: «Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del Ordenamiento Jurídico.»",
+      "t": "explica",
+      "titulo": "Paso 2: por qué es la Norma Fundamental"
+    },
+    {
+      "md": "La Constitución sigue el **diseño tripartito de división de poderes de Montesquieu**: el poder se divide en tres y cada parte la ejerce un órgano distinto.\n\n| Poder | Órgano |\n|---|---|\n| Ejecutivo | Gobierno |\n| Legislativo | Cortes |\n| Judicial | Tribunales |",
+      "t": "explica",
+      "titulo": "Paso 3: la división de poderes"
+    },
+    {
+      "md": "**Pregunta tipo test:** ¿Qué día entró en vigor la Constitución?\n\n- Se publicó en el BOE el 29/12/1978.\n- Entró en vigor **el mismo día de su publicación**.\n- Respuesta: **29/12/1978**. No es el 6/12 (referéndum) ni el 27/12 (sanción).\n\n**Otro ejemplo:** ¿Qué órgano ejerce el poder legislativo? Según la tabla de Montesquieu: las **Cortes**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Las fechas van en orden y todas son de 1978: **31-10, 6-12, 27-12, 29-12**.\n\nFrase de apoyo: **A**probar, **R**atificar, **S**ancionar, **P**ublicar → **A-R-S-P** (Cortes, pueblo, Rey, BOE).\n\nPara los poderes: **E-L-J** = Ejecutivo-Gobierno, Legislativo-Cortes, Judicial-Tribunales.",
+      "t": "truco",
+      "titulo": "Truco para recordar"
+    },
+    {
+      "md": "| Hito | Fecha / dato |\n|---|---|\n| Aprobada por las Cortes | **31/10/1978** |\n| Ratificada en referéndum | **6/12/1978**, con el **87%** de los votos |\n| Sancionada por el Rey Juan Carlos I | **27/12/1978** |\n| Publicada en el BOE | **29/12/1978** |\n| Entrada en vigor | **El mismo día de su publicación** |\n\n- La Constitución es la **Norma Fundamental del Estado**, la **Ley de leyes**, a la que están sujetos todos los poderes públicos y los ciudadanos de España.\n- **Art. 9.1**: «Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del Ordenamiento Jurídico.»\n- Sigue el **diseño tripartito de división de poderes de Montesquieu**:\n\n| Poder | Órgano |\n|---|---|\n| Ejecutivo | Gobierno |\n| Legislativo | Cortes |\n| Judicial | Tribunales |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué porcentaje de votos obtuvo la Constitución en el referéndum de ratificación?",
+      "explicacion": "Según la nota, fue ratificada en referéndum el 6/12/1978 con el 87% de los votos.",
+      "opciones": [
+        "67%",
+        "77%",
+        "87%",
+        "97%"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué acto de la Constitución tuvo lugar el 27/12/1978?",
+      "explicacion": "El 27/12/1978 el Rey Juan Carlos I sancionó la Constitución. Las Cortes la aprobaron el 31/10, el referéndum fue el 6/12 y la publicación el 29/12.",
+      "opciones": [
+        "El referéndum",
+        "La aprobación por las Cortes",
+        "La publicación en el BOE",
+        "La sanción por el Rey Juan Carlos I"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuándo entró en vigor la Constitución?",
+      "explicacion": "La nota indica que se publicó en el BOE el 29/12/1978 y entró en vigor el mismo día de su publicación.",
+      "opciones": [
+        "El 29/12/1978, el mismo día de su publicación en el BOE",
+        "El 6/12/1978, tras el referéndum",
+        "El 31/10/1978, al aprobarla las Cortes",
+        "El 27/12/1978, al sancionarla el Rey"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Según el artículo 9.1, ¿quiénes están sujetos a la Constitución y al resto del Ordenamiento Jurídico?",
+      "explicacion": "El art. 9.1 dice que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del Ordenamiento Jurídico.",
+      "opciones": [
+        "Únicamente los Tribunales y el Gobierno",
+        "Los ciudadanos y los poderes públicos",
+        "Solo los poderes públicos",
+        "Solo los ciudadanos"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "En el diseño tripartito de Montesquieu que sigue la Constitución, ¿qué órgano corresponde al poder legislativo?",
+      "explicacion": "La tabla de la nota asocia el poder legislativo con las Cortes; el ejecutivo con el Gobierno y el judicial con los Tribunales.",
+      "opciones": [
+        "El Gobierno",
+        "Las Cortes",
+        "El Rey",
+        "Los Tribunales"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Aprobada por las Cortes el 31/10/1978",
+      "Ratificada en referéndum el 6/12/1978 con el 87% de los votos",
+      "Sancionada por el Rey Juan Carlos I el 27/12/1978",
+      "Publicada en el BOE el 29/12/1978 y en vigor el mismo día",
+      "Norma Fundamental del Estado: Ley de leyes a la que están sujetos todos los poderes públicos y los ciudadanos (art. 9.1)",
+      "División de poderes de Montesquieu: Ejecutivo-Gobierno, Legislativo-Cortes, Judicial-Tribunales"
+    ],
+    "consigna": "Explica con tus palabras cuáles son las fechas clave de la Constitución de 1978, por qué se considera la Norma Fundamental del Estado y cómo refleja la división de poderes."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "La Constitución: origen, naturaleza y estructura",
+  "objetivo": "Enumerar las fechas de aprobación, referéndum, sanción y entrada en vigor de la Constitución, y explicar por qué es la Norma Fundamental y cómo refleja la división de poderes.",
+  "orden": 1,
+  "preguntasBanco": [],
+  "resumen": "La Constitución fue aprobada por las Cortes el 31/10/1978, ratificada en referéndum el 6/12/1978 (87% de los votos), sancionada por el Rey el 27/12/1978 y publicada en el BOE el 29/12/1978, entrando en vigor ese mismo día. Es la Norma Fundamental, la Ley de leyes, a la que están sujetos poderes públicos y ciudadanos (art. 9.1), y sigue la división tripartita de Montesquieu: Gobierno, Cortes y Tribunales.",
+  "tema": "B1-T1",
+  "titulo": "Fechas clave y naturaleza de la Constitución"
+}

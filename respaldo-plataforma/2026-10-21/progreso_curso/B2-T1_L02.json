@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Bien: tienes clara la fórmula (dígito × base^posición, contando desde la derecha desde 0), los bloques de 4 bits para hexadecimal y de 3 para octal, la lectura de los restos de abajo arriba y que en octal solo existen los dígitos 0–7. Un detalle a corregir en tu ejemplo: 234 en base 2 no es válido, porque el 2, el 3 y el 4 son iguales o mayores que la base; además, la suma final no cuadra (4 + 6 + 8 = 18, no 12). Para practicar, prueba con 101₂ = 1 + 0 + 4 = 5 o con 231₈ = 153. También recuerda ",
+    "ok": true,
+    "ts": 1792497408495
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792424007319
+    }
+  ],
+  "leccion": "B2-T1_L02",
+  "mejorPct": 100,
+  "primeraPct": 100,
+  "repasos": [],
+  "superadaTs": 1792497410528,
+  "tema": "B2-T1"
+}

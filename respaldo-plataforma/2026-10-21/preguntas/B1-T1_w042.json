@@ -1,0 +1,16 @@
+{
+  "apartado": "Título I — De los derechos y deberes fundamentales (artículos 10 a 55)",
+  "correcta": 2,
+  "enunciado": "Una persona es detenida y solicita la inmediata puesta a disposición judicial mediante habeas corpus. ¿En qué plazo debe producirse esa puesta a disposición, según el artículo 17?",
+  "explicacion": "El artículo 17 prevé el habeas corpus para la inmediata puesta a disposición judicial del detenido en 24 h. El distractor más tentador es 72 horas, que es el máximo de la detención preventiva, no el plazo del habeas corpus.",
+  "lote": 1792487818082,
+  "n": 42,
+  "opciones": [
+    "48 horas",
+    "72 horas",
+    "24 horas",
+    "12 horas"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

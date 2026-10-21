@@ -1,0 +1,119 @@
+{
+  "bloques": [
+    {
+      "md": "El TREBEP es como el **reglamento general de una comunidad de vecinos**: se aplica a casi todos los empleados públicos de las Administraciones, y donde hay una norma propia para un colectivo concreto, el TREBEP queda como **red de seguridad** (supletorio) para rellenar los huecos.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El TREBEP se aplica al **personal funcionario** y, **en lo que proceda**, al **personal laboral** de:\n\n- La **AGE**.\n- Las Administraciones de las **CCAA** y de las ciudades de **Ceuta y Melilla**.\n- Las Administraciones de las **entidades locales**.\n- Los **organismos públicos, agencias y demás entidades** dependientes de cualquiera de las Administraciones Públicas.\n- Las **Universidades Públicas**.\n\nFíjate en el matiz: a los funcionarios se les aplica en general; al personal laboral solo \"en lo que proceda\".",
+      "t": "explica",
+      "titulo": "1. ¿A quién se aplica? (ámbito general)"
+    },
+    {
+      "md": "- **Personal investigador**: al aplicarle el TREBEP se podrán dictar **normas singulares** para adecuarlo a sus peculiaridades.\n- **Personal docente** y **personal estatutario de los Servicios de Salud**: se rigen por la **legislación específica** dictada por el **Estado y por las CCAA**.",
+      "t": "explica",
+      "titulo": "2. Casos con regulación singular o específica"
+    },
+    {
+      "md": "El Estatuto tiene **carácter supletorio** para **todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación**.\n\nEs decir: si un colectivo queda fuera del ámbito directo, su norma propia manda y el TREBEP actúa solo para cubrir lo que esa norma no regule.",
+      "t": "explica",
+      "titulo": "3. El carácter supletorio"
+    },
+    {
+      "md": "El personal funcionario de las entidades locales se rige por el **TREBEP** y por la **legislación de las CCAA**. Las entidades locales **no pueden hacer leyes**, por lo que su legislación se apoya en las leyes estatales o de su Comunidad Autónoma.\n\nLa **Policía Local** se rige por el TREBEP y por la legislación de las CCAA, **excepto** lo establecido en la **Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad**.",
+      "t": "explica",
+      "titulo": "4. Un caso concreto: el personal funcionario local"
+    },
+    {
+      "md": "**Pregunta:** ¿Qué norma se aplica a un funcionario de un Ayuntamiento?\n\n1. Un Ayuntamiento es una **entidad local**, así que está dentro del ámbito general del TREBEP.\n2. Como el Ayuntamiento no puede hacer leyes, el funcionario se rige por el **TREBEP y la legislación de su CCAA**.\n3. Si fuese **Policía Local**, igual, **excepto** lo establecido en la **LO 2/1986**.\n\n**Otro caso:** el personal estatutario de un Servicio de Salud no se rige directamente por el TREBEP, sino por la **legislación específica** del Estado y las CCAA.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Las cinco \"puertas\" del ámbito general: **A-C-L-O-U**\n\n- **A**GE\n- **C**CAA (y Ceuta y Melilla)\n- **L**ocales\n- **O**rganismos públicos, agencias y entidades dependientes\n- **U**niversidades Públicas\n\n(Regla nemotécnica propia, no viene de tus notas.)",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "- El TREBEP se aplica al **personal funcionario** y, **en lo que proceda**, al **personal laboral** de: AGE; Administraciones de CCAA y de **Ceuta y Melilla**; Administraciones de **entidades locales**; **organismos públicos, agencias y demás entidades** dependientes de cualquiera de las Administraciones Públicas; **Universidades Públicas**.\n- Personal investigador: se podrán dictar **normas singulares** para adecuar el TREBEP a sus peculiaridades.\n- Personal docente y personal estatutario de los Servicios de Salud: **legislación específica** dictada por el **Estado y por las CCAA**.\n- El Estatuto tiene **carácter supletorio** para todo el personal de las Administraciones Públicas **no incluido en su ámbito de aplicación**.\n- Funcionario local: **TREBEP + legislación de las CCAA**. Las entidades locales **no pueden hacer leyes**.\n- Policía Local: TREBEP y legislación de las CCAA, **excepto** lo establecido en la **Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad**.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "El TREBEP se aplica al personal funcionario y, \"en lo que proceda\", a:",
+      "explicacion": "La nota indica que se aplica al personal funcionario y, en lo que proceda, al personal laboral de las Administraciones enumeradas.",
+      "opciones": [
+        "El personal laboral",
+        "El personal eventual únicamente",
+        "Los Notarios",
+        "Los militares de las Fuerzas Armadas"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de las siguientes entidades está incluida en el ámbito de aplicación general del TREBEP?",
+      "explicacion": "Las Universidades Públicas figuran en la lista del ámbito general. Las otras opciones tienen legislación específica propia.",
+      "opciones": [
+        "El Centro Nacional de Inteligencia",
+        "Las Cortes Generales",
+        "Las Universidades Públicas",
+        "El Banco de España"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué significa que el TREBEP tenga carácter supletorio?",
+      "explicacion": "La nota dice que el Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación.",
+      "opciones": [
+        "Que rige para el personal de las Administraciones Públicas no incluido en su ámbito de aplicación",
+        "Que se aplica solo al personal de la AGE",
+        "Que anula la legislación específica de cada colectivo",
+        "Que solo se aplica al personal laboral temporal"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "El personal docente y el estatutario de los Servicios de Salud se rigen por:",
+      "explicacion": "Según la nota, se rigen por la legislación específica dictada por el Estado y por las CCAA.",
+      "opciones": [
+        "Las ordenanzas de las entidades locales",
+        "Exclusivamente por la legislación laboral",
+        "Solo por el TREBEP, sin excepciones",
+        "La legislación específica dictada por el Estado y por las CCAA"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Respecto a la Policía Local, ¿qué es correcto?",
+      "explicacion": "La nota establece que la Policía Local se rige por el TREBEP y la legislación de las CCAA, excepto lo establecido en la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad.",
+      "opciones": [
+        "Se rige por ordenanzas municipales con rango de ley",
+        "Se rige por el TREBEP y la legislación de las CCAA, excepto lo establecido en la LO 2/1986",
+        "Se rige solo por la LO 2/1986",
+        "No se le aplica el TREBEP en ningún caso"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El TREBEP se aplica al personal funcionario y, en lo que proceda, al personal laboral",
+      "AGE, CCAA y ciudades de Ceuta y Melilla, entidades locales, organismos públicos, agencias y demás entidades dependientes, y Universidades Públicas",
+      "El personal docente y el personal estatutario de los Servicios de Salud se rigen por la legislación específica dictada por el Estado y por las CCAA",
+      "El Estatuto tiene carácter supletorio para todo el personal de las Administraciones Públicas no incluido en su ámbito de aplicación",
+      "La Policía Local se rige por el TREBEP y la legislación de las CCAA, excepto lo establecido en la Ley Orgánica 2/1986"
+    ],
+    "consigna": "Explica con tus palabras a qué Administraciones y personal se aplica el TREBEP, qué pasa con los colectivos con regulación específica y qué significa que tenga carácter supletorio."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Ámbito de aplicación y clases de personal",
+  "objetivo": "Enumerar las Administraciones a las que se aplica el TREBEP y su carácter supletorio.",
+  "orden": 1,
+  "preguntasBanco": [],
+  "resumen": "El TREBEP se aplica al personal funcionario y, en lo que proceda, al laboral de la AGE, las CCAA (y Ceuta y Melilla), las entidades locales, los organismos públicos, agencias y entidades dependientes, y las Universidades Públicas. Docentes y personal estatutario de Salud tienen legislación específica, y el Estatuto es supletorio para el personal de las Administraciones Públicas no incluido en su ámbito.",
+  "tema": "B1-T4.1",
+  "titulo": "Ámbito de aplicación general del TREBEP"
+}

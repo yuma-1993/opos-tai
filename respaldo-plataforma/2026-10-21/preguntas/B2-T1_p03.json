@@ -1,0 +1,14 @@
+{
+  "apartado": "Pirámide de sistemas de información",
+  "correcta": 3,
+  "enunciado": "¿Qué sistema convierte los datos del TPS en informes periódicos y estructurados con preguntas predefinidas (Power BI como herramienta típica de reporting)?",
+  "explicacion": "Nota: el MIS (mandos intermedios) genera informes periódicos y estructurados; Power BI encaja aquí como herramienta de reporting.",
+  "n": 3,
+  "opciones": [
+    "DSS",
+    "EIS",
+    "TPS",
+    "MIS"
+  ],
+  "tema": "B2-T1"
+}

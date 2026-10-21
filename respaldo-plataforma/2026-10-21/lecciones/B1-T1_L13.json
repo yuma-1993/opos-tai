@@ -1,0 +1,115 @@
+{
+  "bloques": [
+    {
+      "md": "El Rey es como el **árbitro de un partido**: no juega, pero está ahí para que el juego (las instituciones) funcione con normalidad y representa a todos. Como no decide por sí solo, no responde de sus actos: responde quien los **refrenda** (quien los firma junto a él).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El art. 56 le atribuye estas posiciones y funciones:\n\n1. Es el **Jefe del Estado**.\n2. Es **símbolo de su unidad y permanencia**.\n3. **Arbitra y modera** el funcionamiento regular de las instituciones.\n4. Asume la **más alta representación del Estado español en las relaciones internacionales**, especialmente con las naciones de su comunidad histórica.\n5. Ejerce las funciones que le atribuyen **expresamente** la Constitución y las leyes.\n\nLo importante: su papel es de representación, arbitraje y moderación, y solo ejerce las funciones que la Constitución y las leyes le dan de forma expresa.",
+      "t": "explica",
+      "titulo": "1. Qué es el Rey según el art. 56"
+    },
+    {
+      "md": "La persona del Rey es **inviolable** y **no está sujeta a responsabilidad**.\n\n- Inviolable significa que tiene **inmunidad penal** y **no puede ser detenido**.\n- No responde porque **sus actos están siempre refrendados**.\n- Regla del art. 56: \"De los actos del Rey serán responsables las personas que los refrenden\".\n\nEs decir: la responsabilidad no desaparece, se **traslada** a quien refrenda.",
+      "t": "explica",
+      "titulo": "2. Inviolabilidad y no responsabilidad"
+    },
+    {
+      "md": "Titulares del refrendo: **Presidente del Gobierno, Ministros y Presidente del Congreso de los Diputados**.\n\n- Los **Ministros** refrendan los **Reales Decretos**.\n- El **Presidente del Congreso** refrenda en estos casos: la **propuesta de candidato** y el **nombramiento del Presidente del Gobierno**, y la **disolución de las Cortes si no se invistiese ningún candidato en dos meses**.",
+      "t": "explica",
+      "titulo": "3. Quién refrenda"
+    },
+    {
+      "md": "**Caso:** el Rey firma un Real Decreto. ¿Quién responde de él y quién lo refrenda?\n\n1. Es un Real Decreto, luego lo refrenda un **Ministro**.\n2. El Rey es inviolable y no está sujeto a responsabilidad.\n3. Responde la persona que lo refrenda: el **Ministro**.\n\n**Segundo caso:** pasan dos meses sin que ningún candidato sea investido y se disuelven las Cortes. Esto lo refrenda el **Presidente del Congreso**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**Refrendo = \"Pre-Mi-Con\"**: **Pre**sidente del Gobierno, **Mi**nistros, **Con**greso (su Presidente).\n\nY para las funciones del art. 56: **J-S-A-R-I** → **J**efe del Estado, **S**ímbolo de unidad y permanencia, **A**rbitra y modera, **R**epresentación internacional, **I**nstituciones/funciones atribuidas expresamente.",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "- Art. 56: el Rey es el **Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes**.\n- Persona **inviolable** (**inmunidad penal**, **no puede ser detenido**) y **no sujeta a responsabilidad**, al estar siempre sus actos refrendados.\n- \"De los actos del Rey serán responsables las personas que los refrenden\".\n\n| Refrenda | Qué |\n|---|---|\n| Presidente del Gobierno, Ministros y Presidente del Congreso | Titulares del refrendo |\n| Ministros | Reales Decretos |\n| Presidente del Congreso | Propuesta de candidato y nombramiento del Presidente del Gobierno; disolución de las Cortes si no se invistiese ningún candidato en dos meses |",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "Según el art. 56, ¿qué significa que el Rey sea inviolable?",
+      "explicacion": "La nota define la inviolabilidad como inmunidad penal y imposibilidad de ser detenido; además, sus actos siempre están refrendados.",
+      "opciones": [
+        "Que tiene inmunidad penal y no puede ser detenido",
+        "Que solo responde ante el Congreso",
+        "Que puede vetar las leyes de las Cortes",
+        "Que sus actos no necesitan refrendo"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Quién es responsable de los actos del Rey?",
+      "explicacion": "El art. 56 dice: \"De los actos del Rey serán responsables las personas que los refrenden\".",
+      "opciones": [
+        "Las Cortes Generales en pleno",
+        "El Tribunal Constitucional",
+        "El propio Rey",
+        "Las personas que los refrenden"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Quién refrenda los Reales Decretos?",
+      "explicacion": "Según la nota, los Ministros refrendarán los Reales Decretos.",
+      "opciones": [
+        "El Presidente del Congreso",
+        "El Presidente del Gobierno exclusivamente",
+        "El propio Rey sin refrendo",
+        "Los Ministros"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿En cuál de estos casos refrenda el Presidente del Congreso de los Diputados?",
+      "explicacion": "El Presidente del Congreso refrenda la propuesta de candidato y nombramiento del Presidente del Gobierno, y la disolución de las Cortes si no se invistiese candidato en dos meses.",
+      "opciones": [
+        "La sanción de una ley cualquiera",
+        "Un Real Decreto ordinario",
+        "La disolución de las Cortes si no se invistiese ningún candidato en dos meses",
+        "El nombramiento de un Ministro"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de estas afirmaciones sobre el art. 56 es correcta?",
+      "explicacion": "El art. 56 le atribuye la más alta representación del Estado en las relaciones internacionales, especialmente con su comunidad histórica; solo ejerce las funciones atribuidas expresamente por la Constitución y las leyes.",
+      "opciones": [
+        "El Rey dirige el Gobierno y fija su política",
+        "El Rey asume la más alta representación del Estado en las relaciones internacionales, especialmente con las naciones de su comunidad histórica",
+        "El Rey ejerce cualquier función que estime oportuna",
+        "El Rey es el Jefe del Gobierno"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Jefe del Estado, símbolo de su unidad y permanencia",
+      "Arbitra y modera el funcionamiento regular de las instituciones",
+      "La persona del Rey es inviolable y no está sujeta a responsabilidad",
+      "De los actos del Rey serán responsables las personas que los refrenden",
+      "Los Ministros refrendarán los Reales Decretos",
+      "El Presidente del Congreso refrenda la propuesta de candidato y nombramiento del Presidente del Gobierno, y la disolución de las Cortes si no se invistiese ningún candidato en dos meses"
+    ],
+    "consigna": "Explica con tus palabras qué papel tiene el Rey según el art. 56, por qué es inviolable y quién responde de sus actos."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "La Corona: Rey, Regencia y Tutela",
+  "objetivo": "Explicar el papel del Rey según el art. 56 de la Constitución, su inviolabilidad y quiénes refrendan sus actos.",
+  "orden": 13,
+  "preguntasBanco": [],
+  "resumen": "El Rey es Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera las instituciones y representa al Estado en las relaciones internacionales. Su persona es inviolable (inmunidad penal, no puede ser detenido) y no está sujeta a responsabilidad porque sus actos se refrendan: responden el Presidente del Gobierno, los Ministros (Reales Decretos) o el Presidente del Congreso (en los casos previstos).",
+  "tema": "B1-T1",
+  "titulo": "El Rey: posición, inviolabilidad y refrendo (art. 56)"
+}

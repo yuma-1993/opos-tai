@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 2,
+  "enunciado": "Para la concesión de una permuta, ¿cuántos años deben transcurrir como mínimo antes de autorizar una nueva permuta a un funcionario (no laboral)?",
+  "explicacion": "Nota (permutas): en 10 años (5 para laborales) no se autorizará una nueva permuta.",
+  "n": 43,
+  "opciones": [
+    "2 años",
+    "5 años",
+    "10 años",
+    "15 años"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Jornada y vacaciones",
+  "correcta": 0,
+  "enunciado": "¿Cuál es la jornada general de trabajo mínima en el Sector Público y a cuántas horas anuales equivale?",
+  "explicacion": "Nota: no podrá ser inferior a 35 horas semanales de promedio en cómputo anual, equivalente a 1.533 horas anuales.",
+  "n": 15,
+  "opciones": [
+    "35 horas semanales; 1.533 horas anuales",
+    "37,5 horas semanales; 1.642 horas anuales",
+    "35 horas semanales; 1.642 horas anuales",
+    "37,5 horas semanales; 1.533 horas anuales"
+  ],
+  "tema": "B1-T4.1"
+}

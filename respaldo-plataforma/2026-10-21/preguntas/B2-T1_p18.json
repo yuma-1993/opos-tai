@@ -1,0 +1,14 @@
+{
+  "apartado": "Base64",
+  "correcta": 1,
+  "enunciado": "¿Cuánto más ocupa un dato codificado en Base64?",
+  "explicacion": "Nota: Base64 ocupa un 33 % más. PEM es un formato de exportación codificado en Base64.",
+  "n": 18,
+  "opciones": [
+    "Un 25 % más",
+    "Un 33 % más",
+    "Un 50 % más",
+    "Un 10 % más"
+  ],
+  "tema": "B2-T1"
+}

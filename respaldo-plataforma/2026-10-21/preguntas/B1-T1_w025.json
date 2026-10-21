@@ -1,0 +1,16 @@
+{
+  "apartado": "Estados de alarma, excepción y sitio",
+  "correcta": 3,
+  "enunciado": "¿Cuál de los siguientes derechos puede suspenderse durante un estado de excepción?",
+  "explicacion": "Entre los derechos suspendidos en excepción figura el art. 28.2 (huelga). Los artículos 22, 27 y 29 no aparecen en esa relación.",
+  "lote": 1792487818082,
+  "n": 25,
+  "opciones": [
+    "El derecho a la educación del artículo 27",
+    "El derecho de petición del artículo 29",
+    "El derecho de asociación del artículo 22",
+    "El derecho a la huelga del artículo 28.2"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "Las Cortes Generales: Congreso y Senado",
+  "correcta": 3,
+  "enunciado": "Una vez celebradas las elecciones generales, ¿en qué plazos se rige el calendario del Congreso?",
+  "explicacion": "La nota fija elecciones entre 30 y 60 días desde la terminación del mandato y convocatoria del Congreso en los 25 días siguientes. Los distractores permutan las cifras.",
+  "lote": 1792504590395,
+  "n": 8,
+  "opciones": [
+    "Las elecciones se celebran entre 25 y 30 días desde la terminación del mandato, y el Congreso se convoca dentro de los 60 días siguientes a ellas",
+    "Las elecciones se celebran entre 30 y 60 días desde la terminación del mandato, y el Congreso se convoca dentro de los 15 días siguientes a ellas",
+    "Las elecciones se celebran entre 15 y 30 días desde la terminación del mandato, y el Congreso se convoca dentro de los 60 días siguientes a ellas",
+    "Las elecciones se celebran entre 30 y 60 días desde la terminación del mandato, y el Congreso se convoca dentro de los 25 días siguientes a ellas"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

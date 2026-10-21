@@ -1,0 +1,14 @@
+{
+  "apartado": "Pirámide de sistemas de información",
+  "correcta": 0,
+  "enunciado": "¿Qué sistema es de nivel táctico, incluye OLAP y responde a preguntas del tipo «¿qué pasaría si...?»?",
+  "explicacion": "Nota: el DSS es el nivel táctico: decisiones no tan estructuradas, entra OLAP y responde a preguntas «¿qué pasaría si...?» (simulaciones).",
+  "n": 4,
+  "opciones": [
+    "DSS",
+    "MIS",
+    "EIS",
+    "TPS"
+  ],
+  "tema": "B2-T1"
+}

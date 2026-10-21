@@ -1,0 +1,14 @@
+{
+  "apartado": "Memoria",
+  "correcta": 1,
+  "enunciado": "¿Qué afirmación sobre las cachés de la CPU es correcta?",
+  "explicacion": "Nota: L1 y L2 por cada núcleo; L3 compartida por todos. La L1 está dividida en dos (datos e instrucciones).",
+  "n": 42,
+  "opciones": [
+    "La L3 es por núcleo y la L1 está compartida",
+    "L1 y L2 son por cada núcleo; la L3 está compartida por todos los núcleos",
+    "Las tres cachés están compartidas por todos los núcleos",
+    "La L1 es única para datos e instrucciones, sin dividir"
+  ],
+  "tema": "B2-T1"
+}

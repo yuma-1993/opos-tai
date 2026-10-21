@@ -1,0 +1,112 @@
+{
+  "bloques": [
+    {
+      "md": "Con bits solo hay 0 y 1: no hay un bit para el signo menos. Hay que **ponerse de acuerdo** en cómo marcar que un número es negativo. Hay tres formas, de la más intuitiva a la más usada.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El primer bit es el signo y el resto es el valor absoluto. **0 = positivo, 1 = negativo**.\n\nCon 4 bits: +5 = `0101` y −5 = `1101` (mismo valor, solo cambia el primer bit).",
+      "t": "explica",
+      "titulo": "Signo-módulo"
+    },
+    {
+      "md": "Para obtener el negativo se **intercambian los 0 por 1 y los 1 por 0**.\n\nCon 4 bits: +5 = `0101` → −5 = `1010`.\n\nSu rango es de **7 a −7**. Tiene un defecto: el cero tiene **doble valor**, `0000` y `1111`.",
+      "t": "explica",
+      "titulo": "Complemento a 1 (CA1)"
+    },
+    {
+      "md": "Se calcula el CA1 y se **suma 1**.\n\nCon 4 bits: +5 = `0101` → CA1 `1010` → + 1 = `1011` = −5.\n\nSu rango es de **7 a −8** y el cero es único. Como no hay dos ceros, sobra un patrón (`1000`) que se aprovecha para −8; es un razonamiento, no viene escrito en tus notas.",
+      "t": "explica",
+      "titulo": "Complemento a 2 (CA2)"
+    },
+    {
+      "md": "CA1 = **invertir**. CA2 = **invertir y sumar 1**. Y de CA2 recuerda que Java lo usa para sus números.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "| | Rango (4 bits) | Ceros |\n|---|---|---|\n| CA1 | 7 a −7 | Dos (`0000` y `1111`) |\n| CA2 | 7 a −8 | Uno |\n\n- Signo-módulo: bit de signo + valor absoluto. **0 = +; 1 = −**.\n- Los números en **Java** se representan internamente con **CA2**.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "En signo-módulo, ¿qué indica un 1 en el primer bit?",
+      "explicacion": "0 = positivo, 1 = negativo.",
+      "opciones": [
+        "Que el número es positivo",
+        "Que el número es negativo",
+        "Que el número es cero",
+        "Que hay desbordamiento"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál es el CA1 de 0101?",
+      "explicacion": "Se intercambian 0 y 1: 0101 → 1010.",
+      "opciones": [
+        "1011",
+        "0101",
+        "1010",
+        "1111"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál es el rango de CA1 con 4 bits?",
+      "explicacion": "CA1 va de 7 a −7 y tiene dos ceros.",
+      "opciones": [
+        "7 a −7",
+        "7 a −8",
+        "8 a −8",
+        "15 a 0"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cómo se obtiene el CA2 de un número?",
+      "explicacion": "CA2 = CA1 + 1.",
+      "opciones": [
+        "Cambiando solo el primer bit",
+        "Sumando 1 al número original",
+        "Invirtiendo los bits y dejándolos así",
+        "Calculando el CA1 y sumando 1"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué representación usa Java internamente para los números?",
+      "explicacion": "Los números en Java se representan internamente con CA2.",
+      "opciones": [
+        "Complemento a 1",
+        "Signo-módulo",
+        "Exceso a 3",
+        "Complemento a 2"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Signo-módulo: bit de signo (0 = +, 1 = −) más valor absoluto",
+      "CA1 se obtiene intercambiando 0 y 1; rango 7 a −7 y dos ceros (0000 y 1111)",
+      "CA2 se calcula como CA1 + 1; rango 7 a −8 y un solo cero",
+      "Java usa CA2"
+    ],
+    "consigna": "Explícame las tres formas de representar el signo, cómo se obtiene un negativo en CA1 y CA2 y qué rango y qué ceros tienen."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Saber cómo se guardan los números negativos y distinguir rangos y dobles ceros.",
+  "orden": 5,
+  "preguntasBanco": [
+    20,
+    21,
+    22
+  ],
+  "resumen": "Signo-módulo: 0 = +, 1 = −. CA1: invertir (7 a −7, doble cero). CA2: CA1 + 1 (7 a −8, un cero). Java usa CA2.",
+  "tema": "B2-T1",
+  "titulo": "Números con signo: signo-módulo, CA1 y CA2"
+}

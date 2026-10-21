@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy bien: explicas que BCD codifica dígito a dígito con 4 bits, das correctamente el 16 en BCD (0001 0110) y en Aiken (0001 1100), y recuerdas que Aiken usa una tabla propia. También aciertas con Exceso a 3: se suma 3 (0011) a los 4 bits del dígito, y el 8 queda 1011. Un detalle para afinar: en BCD conviene decir expresamente que cada dígito se codifica de forma independiente, y que el binario puro de 16 (10000) es distinto de estos códigos.",
+    "ok": true,
+    "ts": 1792504262136
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 4,
+      "total": 5,
+      "ts": 1792504154420
+    }
+  ],
+  "leccion": "B2-T1_L03",
+  "mejorPct": 80,
+  "primeraPct": 80,
+  "repasos": [],
+  "superadaTs": 1792504264170,
+  "tema": "B2-T1"
+}

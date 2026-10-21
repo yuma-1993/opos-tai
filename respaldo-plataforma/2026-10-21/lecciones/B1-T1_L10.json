@@ -1,0 +1,121 @@
+{
+  "bloques": [
+    {
+      "md": "Los tres estados son como **tres niveles de alerta de un edificio**: **alarma** (aviso y medidas, sin tocar derechos), **excepción** (se restringen derechos concretos y el Gobierno necesita permiso previo del Congreso) y **sitio** (el nivel máximo, solo con mayoría absoluta del Congreso). Cuanto más grave la situación, más control del Congreso y más derechos afectados.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Los tres estados van de menor a mayor gravedad:\n\n1. **Alarma**: no suspende ningún derecho. Lo declara solo el Gobierno.\n2. **Excepción**: suspende varios derechos. Necesita **autorización previa** del Congreso.\n3. **Sitio**: el más grave. Requiere **mayoría absoluta** del Congreso y suspende además el art. 17.3.\n\nRegla general: a más gravedad, más intervención del Congreso.",
+      "t": "explica",
+      "titulo": "Paso 1: la escala de gravedad"
+    },
+    {
+      "md": "- **Alarma**: sirve para *asegurar el restablecimiento de la normalidad de los poderes en una sociedad democrática*. Se usa ante grave riesgo, catástrofe, calamidades o desgracias públicas; crisis sanitarias; paralización de servicios públicos esenciales para la comunidad; o desabastecimiento de productos de primera necesidad.\n- **Excepción**: cuando hay grave alteración del libre ejercicio de los derechos y libertades de los ciudadanos, del normal funcionamiento de las instituciones democráticas, de los servicios públicos esenciales para la comunidad, o de cualquier otro aspecto del orden público. Además, el ejercicio de las potestades ordinarias debe ser insuficiente para restablecerlo o mantenerlo. Se declara un régimen de excepción en el que se suspende el libre ejercicio de algunos derechos, y el control del orden interno pasa a ser controlado por las Fuerzas Armadas.\n- **Sitio**: cuando se produzca o amenace producirse una insurrección o acto de fuerza contra la soberanía o independencia de España, su integridad territorial o el ordenamiento constitucional, que no pueda resolverse por otros medios (invasión, guerra exterior o civil).",
+      "t": "explica",
+      "titulo": "Paso 2: ¿cuándo se usa cada uno?"
+    },
+    {
+      "md": "| | Declaración | Duración | Prórroga |\n|---|---|---|---|\n| **Alarma** | Gobierno, decreto acordado en Consejo de Ministros, **dando cuenta** al Congreso | Máximo 15 días | Sí; la Ley no indica plazo |\n| **Excepción** | Gobierno, decreto acordado en Consejo de Ministros, **previa autorización** del Congreso | Máximo 30 días | Sí, por un máximo de 30 días |\n| **Sitio** | **Mayoría absoluta** del Congreso, a propuesta **exclusiva** del Gobierno | No determina | No se establece |\n\nFíjate en la clave de la declaración: en la alarma el Congreso se entera **después** (\"dando cuenta\"); en la excepción autoriza **antes** (\"previa autorización\"); en el sitio es el Congreso quien lo declara por mayoría absoluta, a propuesta exclusiva del Gobierno.",
+      "t": "explica",
+      "titulo": "Paso 3: declaración, duración y prórroga"
+    },
+    {
+      "md": "- **Alarma**: ninguno.\n- **Excepción**: Art. 17 (salvo 17.3 Información); Art. 18.2 Inviolabilidad del domicilio; 18.3 Secreto de las comunicaciones; Art. 19 Libertad de residencia y circulación; Art. 20.1 a) libertad de expresión y d) comunicar o recibir información; 20.5 Secuestro de publicaciones; Art. 21 Derecho de reunión; Art. 28.2 Derecho a la huelga; Art. 37.2 Adopción de medidas de conflicto colectivo.\n- **Sitio**: lo mismo que la excepción **+ el art. 17.3 Información**.\n\nLa diferencia de derechos entre excepción y sitio es una sola: el **17.3**.",
+      "t": "explica",
+      "titulo": "Paso 4: derechos suspendidos"
+    },
+    {
+      "md": "**Pregunta**: El Gobierno quiere declarar el estado de excepción. ¿Qué requisitos de declaración, duración y prórroga corresponden?\n\n1. **Declaración**: el Gobierno mediante decreto acordado en Consejo de Ministros, **previa autorización del Congreso de los Diputados**.\n2. **Duración**: máximo **30 días**.\n3. **Prórroga**: sí, por un máximo de **30 días**.\n\nTrampas típicas:\n- \"Dando cuenta al Congreso\" → es la **alarma**, no la excepción.\n- \"Mayoría absoluta del Congreso\" → es el **sitio**.\n- \"15 días\" → es la duración máxima de la **alarma**.\n- \"Prórroga sin plazo\" → es la **alarma**.\n\n**Otro caso**: una crisis sanitaria que obliga a medidas generales. Encaja en la **alarma**: la nota cita expresamente las crisis sanitarias. Y no suspende derechos.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: la pregunta fallada"
+    },
+    {
+      "md": "- **Cuenta 15-30-30**: alarma 15 días; excepción 30 días + prórroga de 30; el sitio no determina nada.\n- **\"Cuenta, Autoriza, Absoluta\"** (la declaración, de menos a más): Alarma = dar **cuenta**; Excepción = **autorización** previa; Sitio = mayoría **absoluta**.\n- **0 – Varios – Varios+1**: derechos suspendidos. Alarma ninguno; excepción varios; sitio los mismos + el 17.3.\n- **Sitio = \"S\" de Soberanía**: insurrección o fuerza contra la soberanía, la independencia, la integridad territorial o el ordenamiento constitucional.\n- **Prórroga**: alarma, \"sin plazo en la Ley\"; excepción, \"otros 30\"; sitio, \"no se establece\".",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| | Declaración | Duración | Prórroga | Derechos suspendidos |\n|---|---|---|---|---|\n| **Alarma** | Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso de los Diputados | Máximo 15 días | Sí, la Ley no indica plazo | Ninguno |\n| **Excepción** | Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados | Máximo 30 días | Sí, por un máximo de 30 días | Art. 17 (salvo 17.3 Información); Art. 18.2 Inviolabilidad del domicilio; 18.3 Secreto de las comunicaciones; Art. 19 Libertad de residencia y circulación; Art. 20.1 a) libertad de expresión y d) comunicar o recibir información; 20.5 Secuestro publicaciones; Art. 21 Derecho de reunión; Art. 28.2 Derecho a la huelga; Art. 37.2 Adopción de medidas de conflicto colectivo |\n| **Sitio** | Mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno | No determina | No se establece | Igual que el Estado de excepción + el art. 17.3 Información |\n\n**Escala de gravedad**: Alarma → sin suspensión de derechos, lo declara solo el Gobierno. Excepción → suspende varios derechos, necesita autorización previa del Congreso. Sitio → el más grave, requiere mayoría absoluta del Congreso y suspende también el art. 17.3.",
+      "t": "nota",
+      "titulo": "Datos para memorizar (literales de la nota)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué trámite ante el Congreso de los Diputados corresponde a la declaración del estado de alarma?",
+      "explicacion": "En la alarma el Gobierno decreta en Consejo de Ministros y da cuenta al Congreso. La previa autorización es de la excepción y la mayoría absoluta del sitio.",
+      "opciones": [
+        "Previa autorización del Congreso",
+        "Mayoría absoluta del Congreso",
+        "Propuesta del Congreso al Gobierno",
+        "El Gobierno da cuenta al Congreso"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Respecto al estado de excepción, señala la afirmación correcta sobre duración y prórroga:",
+      "explicacion": "La excepción dura como máximo 30 días y puede prorrogarse por un máximo de 30 días. Los 15 días y la prórroga sin plazo son de la alarma.",
+      "opciones": [
+        "Máximo 30 días y prórroga de un máximo de 30 días",
+        "Máximo 15 días y prórroga sin plazo en la Ley",
+        "Máximo 30 días y no se establece prórroga",
+        "No determina duración y prórroga de 15 días"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué derecho se suspende en el estado de sitio pero NO en el de excepción?",
+      "explicacion": "El sitio suspende lo mismo que la excepción más el art. 17.3 Información, que queda fuera de la suspensión en la excepción.",
+      "opciones": [
+        "Art. 28.2 Derecho a la huelga",
+        "Art. 17.3 Información",
+        "Art. 21 Derecho de reunión",
+        "Art. 19 Libertad de residencia y circulación"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cómo se declara el estado de sitio?",
+      "explicacion": "El sitio exige mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+      "opciones": [
+        "Mayoría absoluta del Congreso, a propuesta exclusiva del Gobierno",
+        "Mayoría absoluta del Senado, a propuesta del Congreso",
+        "Decreto del Gobierno con previa autorización del Congreso",
+        "Decreto del Gobierno dando cuenta al Congreso"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Una paralización de servicios públicos esenciales o una crisis sanitaria justifican, según la nota, el estado de:",
+      "explicacion": "Las crisis sanitarias y la paralización de servicios públicos esenciales figuran entre los supuestos del estado de alarma, que no suspende ningún derecho.",
+      "opciones": [
+        "Excepción, con control del orden interno por las Fuerzas Armadas",
+        "Excepción, que suspende el art. 21",
+        "Alarma, que no suspende ningún derecho",
+        "Sitio, que no determina duración"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Alarma: decreto del Gobierno acordado en Consejo de Ministros, dando cuenta al Congreso; máximo 15 días; no suspende derechos",
+      "Excepción: decreto del Gobierno acordado en Consejo de Ministros, previa autorización del Congreso; máximo 30 días; prórroga de un máximo de 30 días",
+      "Sitio: mayoría absoluta del Congreso, a propuesta exclusiva del Gobierno; no determina duración ni se establece prórroga",
+      "El sitio suspende lo mismo que la excepción más el art. 17.3 Información",
+      "Escala de gravedad: alarma (ningún derecho suspendido), excepción (varios derechos), sitio (el más grave)"
+    ],
+    "consigna": "Explica con tus palabras en qué se diferencian los estados de alarma, excepción y sitio: quién y cómo los declara, cuánto duran, si se pueden prorrogar y qué derechos se suspenden. Termina diciendo qué requisitos tiene el estado de excepción."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Garantías y suspensión de los derechos",
+  "objetivo": "Comparar los tres estados (alarma, excepción y sitio) según su declaración, duración, prórroga y derechos suspendidos, y saber responder qué requisitos de declaración, duración y prórroga corresponden al estado de excepción.",
+  "orden": 10,
+  "preguntasBanco": [
+    49
+  ],
+  "resumen": "Alarma, excepción y sitio forman una escala de gravedad creciente. La alarma la declara el Gobierno dando cuenta al Congreso, dura máximo 15 días y no suspende derechos. La excepción exige previa autorización del Congreso, dura máximo 30 días con prórroga de otros 30 y suspende varios derechos. El sitio requiere mayoría absoluta del Congreso a propuesta exclusiva del Gobierno, no determina duración ni prórroga, y suspende lo mismo que la excepción más el art. 17.3.",
+  "tema": "B1-T1",
+  "titulo": "Estados de alarma, excepción y sitio"
+}

@@ -1,0 +1,119 @@
+{
+  "bloques": [
+    {
+      "md": "El TREBEP es como el **plano general de un edificio**: marca las líneas maestras, pero cada «constructor» (Estado y Comunidades Autónomas) lo desarrolla con sus propias leyes de Función Pública. Los ayuntamientos y demás entidades locales **no pueden hacer leyes**, así que se apoyan en lo que dicen esas leyes. Y el personal laboral sigue el Estatuto **y además** la legislación laboral.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. El TREBEP no lo regula todo: necesita desarrollo.\n2. Ese desarrollo lo hacen, **en el ámbito de sus competencias**, las **Cortes Generales** y las **asambleas legislativas de las CCAA**.\n3. Lo hacen aprobando las **leyes reguladoras de la Función Pública** de la AGE y de las CCAA.\n\n**Base constitucional:** el art. 23.2 de la Constitución establece que corresponde a las **Cortes Generales** legislar sobre los empleados públicos, no al Estado en sentido genérico. Por eso el desarrollo del TREBEP se hace siempre por ley de las Cortes Generales o de las asambleas legislativas autonómicas.",
+      "t": "explica",
+      "titulo": "Paso 1: de lo general a lo particular, las leyes de Función Pública"
+    },
+    {
+      "md": "- Se rige por el **TREBEP** y por la **legislación de las CCAA**.\n- La razón: las entidades locales **no pueden hacer leyes**, por lo que su legislación se apoya en las leyes estatales o de su Comunidad Autónoma.\n\n**Caso especial, la Policía Local:** se rige por el TREBEP y por la legislación de las CCAA, **excepto** lo establecido en la **Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad**.",
+      "t": "explica",
+      "titulo": "Paso 2: el personal funcionario local"
+    },
+    {
+      "md": "El personal laboral al servicio de las Administraciones Públicas se rige, además de por la **legislación laboral** y por las demás **normas convencionalmente aplicables**, por los **preceptos del TREBEP que así lo dispongan**. Dicho de forma sencilla: lo que dice el Estatuto y además lo que dice la legislación laboral.\n\n**Selección:** los procedimientos de elección del personal laboral serán **públicos** y se rigen siempre por los principios de **igualdad, mérito y capacidad**. Si es personal laboral **temporal**, se rige igualmente por el principio de **celeridad** (necesidad y urgencia).",
+      "t": "explica",
+      "titulo": "Paso 3: el personal laboral"
+    },
+    {
+      "md": "**Pregunta:** ¿Qué normas se aplican a un funcionario de un ayuntamiento? ¿Y si es agente de Policía Local?\n\n- Funcionario del ayuntamiento: **TREBEP + legislación de la CCAA** (el ayuntamiento no puede dictar leyes propias).\n- Agente de Policía Local: **TREBEP + legislación de la CCAA**, **excepto** lo establecido en la **LO 2/1986, de Fuerzas y Cuerpos de Seguridad**.\n\n**Pregunta:** una oficina convoca una plaza de personal laboral temporal. ¿Qué principios rigen la selección? Igualdad, mérito y capacidad, y además **celeridad** por ser temporal.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Local sin leyes propias:** «el ayuntamiento no legisla, se apoya».\n- **Laboral = doble regla:** *Estatuto + legislación laboral*.\n- **IMC + C:** Igualdad, Mérito y Capacidad; la **C** extra de **Celeridad** es para los **temporales**.\n- **23.2 = Cortes:** el 2 y el 3 de «dos Cortes, tres...» (art. 23.2 → Cortes Generales).",
+      "t": "truco",
+      "titulo": "Mnemotécnico"
+    },
+    {
+      "md": "| Colectivo | Normas aplicables |\n|---|---|\n| Funcionario local | TREBEP + legislación de las CCAA |\n| Policía Local | TREBEP + legislación de las CCAA, excepto lo establecido en la **LO 2/1986, de Fuerzas y Cuerpos de Seguridad** |\n| Personal laboral | Legislación laboral + normas convencionalmente aplicables + preceptos del TREBEP que así lo dispongan |\n\n- Las entidades locales **no pueden hacer leyes**.\n- Las leyes de Función Pública de la AGE y de las CCAA las aprueban las **Cortes Generales** y las **asambleas legislativas de las CCAA**, en el ámbito de sus competencias, en desarrollo del TREBEP.\n- **Art. 23.2 CE:** corresponde a las Cortes Generales legislar sobre los empleados públicos.\n- Selección del personal laboral: pública, con **igualdad, mérito y capacidad**; el temporal, además **celeridad** (necesidad y urgencia).",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "El TREBEP (art. 8) reconoce **cuatro clases de empleados públicos**: funcionarios de carrera, funcionarios interinos, personal laboral y **personal eventual**. El personal eventual ocupa puestos de confianza o asesoramiento especial, no se rige por el sistema de mérito y capacidad y cesa automáticamente cuando cesa la autoridad que lo nombró; no genera derecho a la condición de funcionario de carrera.",
+      "t": "ampliacion",
+      "titulo": "Ampliación (conocimiento general, no viene de tus notas)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Por qué la legislación del personal funcionario local se apoya en leyes estatales o autonómicas?",
+      "explicacion": "Según la nota, las entidades locales no pueden hacer leyes, por lo que su legislación se apoya en las leyes estatales o de su Comunidad Autónoma.",
+      "opciones": [
+        "Porque el TREBEP no se aplica a las entidades locales",
+        "Porque las entidades locales no pueden hacer leyes",
+        "Porque las entidades locales solo tienen personal laboral",
+        "Porque la Constitución prohíbe a los ayuntamientos contratar funcionarios"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué norma constituye la excepción a la aplicación del TREBEP y la legislación de las CCAA a la Policía Local?",
+      "explicacion": "La Policía Local se rige por el TREBEP y la legislación de las CCAA, excepto lo establecido en la LO 2/1986, de Fuerzas y Cuerpos de Seguridad.",
+      "opciones": [
+        "La Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad",
+        "El Estatuto de los Trabajadores",
+        "La legislación laboral y los convenios",
+        "La ley de Función Pública de la AGE"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Quién aprueba las leyes reguladoras de la Función Pública de la AGE y de las CCAA en desarrollo del TREBEP?",
+      "explicacion": "La nota indica que las Cortes Generales y las asambleas legislativas de las CCAA las aprueban, en el ámbito de sus competencias.",
+      "opciones": [
+        "Solo el Gobierno mediante reglamento",
+        "Los plenos de los ayuntamientos y las Cortes Generales",
+        "Únicamente las asambleas legislativas de las CCAA",
+        "Las Cortes Generales y las asambleas legislativas de las CCAA, en el ámbito de sus competencias"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué establece el art. 23.2 de la Constitución respecto al desarrollo del TREBEP?",
+      "explicacion": "La nota señala que el art. 23.2 CE atribuye a las Cortes Generales legislar sobre los empleados públicos, no al Estado en sentido genérico.",
+      "opciones": [
+        "Que las entidades locales pueden legislar sobre su personal",
+        "Que corresponde al Estado en sentido genérico legislar sobre los empleados públicos",
+        "Que corresponde a las Cortes Generales legislar sobre los empleados públicos",
+        "Que el personal laboral queda fuera del ámbito del TREBEP"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué principio se añade a igualdad, mérito y capacidad en la selección del personal laboral temporal?",
+      "explicacion": "El personal laboral temporal se rige además por el principio de celeridad (necesidad y urgencia).",
+      "opciones": [
+        "Antigüedad",
+        "Confianza",
+        "Celeridad, por necesidad y urgencia",
+        "Publicidad reforzada"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Las entidades locales no pueden hacer leyes, por lo que su legislación se apoya en las leyes estatales o de su Comunidad Autónoma",
+      "La Policía Local se rige por el TREBEP y la legislación de las CCAA, excepto lo establecido en la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad",
+      "Las Cortes Generales y las asambleas legislativas de las CCAA aprueban las leyes de Función Pública en desarrollo del TREBEP",
+      "El personal laboral se rige por la legislación laboral, las normas convencionalmente aplicables y los preceptos del TREBEP que así lo dispongan",
+      "La selección del personal laboral es pública, con igualdad, mérito y capacidad; el temporal, además, celeridad"
+    ],
+    "consigna": "Explica con tus palabras qué normas se aplican al personal funcionario local, a la Policía Local y al personal laboral, y cómo se desarrolla el TREBEP mediante las leyes de Función Pública."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Ámbito de aplicación y clases de personal",
+  "objetivo": "Explicar qué normas rigen al personal funcionario local (incluida la Policía Local) y al personal laboral, y cómo se desarrolla el TREBEP mediante las leyes de Función Pública del Estado y de las CCAA.",
+  "orden": 3,
+  "preguntasBanco": [],
+  "resumen": "El personal funcionario local, incluida la Policía Local, se rige por el TREBEP y la legislación de las CCAA, porque las entidades locales no pueden hacer leyes; la Policía Local exceptúa lo establecido en la LO 2/1986. El TREBEP se desarrolla por leyes de Función Pública aprobadas por las Cortes Generales y las asambleas autonómicas (art. 23.2 CE). El personal laboral se rige por la legislación laboral, los convenios y los preceptos del TREBEP que lo dispongan, con selección pública por igualdad, mérito y capacidad (y celeridad si es temporal).",
+  "tema": "B1-T4.1",
+  "titulo": "Personal local, leyes de Función Pública y personal laboral"
+}

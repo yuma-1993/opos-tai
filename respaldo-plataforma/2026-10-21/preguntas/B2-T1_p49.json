@@ -1,0 +1,14 @@
+{
+  "apartado": "Ejercicios resueltos",
+  "correcta": 2,
+  "enunciado": "¿Cuál es la capacidad en KB de una memoria con 1024 posiciones y palabras de 16 bits?",
+  "explicacion": "Nota (ejercicio 1): 1024 posiciones × 2 bytes = 2048 bytes = 2 KB; bus de direcciones de 10 bits.",
+  "n": 49,
+  "opciones": [
+    "1 KB",
+    "4 KB",
+    "2 KB",
+    "16 KB"
+  ],
+  "tema": "B2-T1"
+}

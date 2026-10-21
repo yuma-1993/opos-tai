@@ -1,0 +1,14 @@
+{
+  "apartado": "Base64",
+  "correcta": 2,
+  "enunciado": "¿Cuántos bits hacen falta en Base64 para codificar cada uno de sus 64 caracteres?",
+  "explicacion": "Nota: hacen falta 6 bits para codificar 64 caracteres (A-Z, a-z, 0-9, + y /); se agrupan de 6 en 6 empezando por la izquierda.",
+  "n": 17,
+  "opciones": [
+    "8 bits",
+    "7 bits",
+    "6 bits",
+    "4 bits"
+  ],
+  "tema": "B2-T1"
+}

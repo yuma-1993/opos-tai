@@ -1,0 +1,14 @@
+{
+  "apartado": "Detección de errores e integridad",
+  "correcta": 1,
+  "enunciado": "¿Qué técnica transforma un bloque de datos en una serie de caracteres de longitud fija y asegura la integridad?",
+  "explicacion": "Nota: el hash es un algoritmo que transforma un bloque de datos en una serie de caracteres de longitud fija y asegura la integridad (igual que el checksum).",
+  "n": 26,
+  "opciones": [
+    "Bit de paridad",
+    "Hash",
+    "Código Huffman",
+    "Hamming"
+  ],
+  "tema": "B2-T1"
+}

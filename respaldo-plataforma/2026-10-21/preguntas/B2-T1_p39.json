@@ -1,0 +1,14 @@
+{
+  "apartado": "Arquitectura de 64 bits",
+  "correcta": 3,
+  "enunciado": "En la arquitectura de 64 bits de la nota, ¿cuántos bits tiene el bus de direcciones y cuánto puede direccionar?",
+  "explicacion": "Nota: el bus de direcciones es de 48 bits y con 48 bits se pueden direccionar 256 TB.",
+  "n": 39,
+  "opciones": [
+    "64 bits; 16 EB",
+    "32 bits; 4 GB",
+    "48 bits; 64 TB",
+    "48 bits; 256 TB"
+  ],
+  "tema": "B2-T1"
+}

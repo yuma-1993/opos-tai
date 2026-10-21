@@ -1,0 +1,14 @@
+{
+  "apartado": "Jornada y vacaciones",
+  "correcta": 2,
+  "enunciado": "¿Cuántos días hábiles de vacaciones anuales corresponden a un empleado público con 25 años de antigüedad?",
+  "explicacion": "Nota: 22 días hábiles base; con 25 años de antigüedad, +3 días. Total 25.",
+  "n": 17,
+  "opciones": [
+    "23 días",
+    "24 días",
+    "25 días",
+    "26 días"
+  ],
+  "tema": "B1-T4.1"
+}

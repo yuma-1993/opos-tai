@@ -1,0 +1,116 @@
+{
+  "bloques": [
+    {
+      "md": "Las **situaciones administrativas** son como los distintos «estados» en los que puede estar tu relación con la Administración: igual que una persona puede estar trabajando, de permiso o de baja, un funcionario de carrera siempre está en una de ellas. La situación normal, por defecto, es el **servicio activo**; las demás son excepciones.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Los funcionarios de carrera pueden encontrarse en alguna de estas situaciones (las Leyes de Función Pública pueden modificar la lista):\n\n1. Servicio activo.\n2. Servicios especiales.\n3. Servicio en otras Administraciones Públicas.\n4. Excedencia.\n5. Suspensión de funciones.\n\nPrimero fíjate en la lista; en las lecciones siguientes se estudia cada una a fondo. Aquí vemos a fondo el servicio activo y un mapa rápido del resto.",
+      "t": "explica",
+      "titulo": "Las cinco situaciones"
+    },
+    {
+      "md": "Es la situación de quienes **prestan servicios en su condición de funcionarios públicos y no les corresponde quedar en otra situación**. Es decir, se define por exclusión: si trabajas como funcionario y no te toca ninguna de las otras cuatro, estás en servicio activo.\n\nEfectos:\n\n- Gozan de **todos los derechos** inherentes a su condición de funcionarios.\n- Quedan sujetos a los **deberes y responsabilidades** derivados de la misma.\n- Se regirán por las **normas del TREBEP** y por la **normativa de función pública de la Administración Pública en que presten servicios**.",
+      "t": "explica",
+      "titulo": "Servicio activo"
+    },
+    {
+      "md": "**Servicios especiales**: los **altos cargos siempre** están en servicios especiales. Hay muchos supuestos (miembros del Gobierno o de gobiernos autonómicos, Diputados y Senadores con retribución periódica, personal eventual, miembros del Parlamento Europeo, Subsecretarios, Secretarios Generales Técnicos y Directores Generales, periodos superiores a 6 meses en organismos internacionales, reservistas voluntarios activados, y cuando lo determine una norma con rango de Ley, entre otros). Se declara de oficio o a instancia del interesado por el Subsecretario del Ministerio donde esté destinado. Quien pierda la condición debe solicitar el reingreso al servicio activo en **1 mes**; si no, pasa a excedencia voluntaria.\n\n**Servicio en otras Administraciones Públicas**: se mantiene cuando, por disposición legal de la Administración a la que acceden, se integran como personal propio de ésta (funcionarios transferidos). Las CCAA respetan el Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera.\n\n**Excedencia**: cuatro modalidades (interés particular, agrupación familiar, cuidado de familiares y violencia de género).\n\n**Suspensión de funciones**: puede ser provisional (medida cautelar) o firme (consecuencia de sanción disciplinaria firme); determina la pérdida del puesto de trabajo cuando exceda de seis meses.",
+      "t": "explica",
+      "titulo": "Mapa rápido del resto de situaciones"
+    },
+    {
+      "md": "**Caso:** Marta es funcionaria de carrera, trabaja en un Ministerio, no ha sido nombrada para ningún cargo especial, no está en excedencia, no está suspendida y no se ha transferido a otra Administración.\n\n**Resolución:** está en **servicio activo**. Tiene todos los derechos de su condición, está sujeta a los deberes y responsabilidades correspondientes y se rige por el TREBEP y por la normativa de función pública de la Administración en la que presta servicios.\n\n**Variante:** si Marta fuera nombrada Directora General (alto cargo), pasaría a **servicios especiales**, porque los altos cargos siempre están en esa situación. Al perder esa condición tendría **1 mes** para solicitar el reingreso al servicio activo; si no lo hiciera, pasaría a excedencia voluntaria.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Las cinco situaciones: **A E O E S** → **A**ctivo, **E**speciales, **O**tras Administraciones, **E**xcedencia, **S**uspensión. Y recuerda: el servicio activo es el «por defecto»: **si no te toca otra, estás en activo**.",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "**Situaciones administrativas de los funcionarios de carrera** (las Leyes de Función Pública pueden modificar la lista):\n\n- Servicio activo.\n- Servicios especiales.\n- Servicio en otras Administraciones Públicas.\n- Excedencia.\n- Suspensión de funciones.\n\n**Servicio activo:** quienes presten servicios en su condición de funcionarios públicos y no les corresponda quedar en otra situación. Gozan de todos los derechos inherentes a su condición de funcionarios y quedan sujetos a los deberes y responsabilidades derivados de la misma. Se regirán por las normas del TREBEP y por la normativa de función pública de la Administración Pública en que presten servicios.\n\n**Pistas para el resto (se ven en lecciones posteriores):**\n\n- Los altos cargos siempre son servicios especiales.\n- Reingreso desde servicios especiales: 1 mes; si no, excedencia voluntaria.\n- La suspensión determina la pérdida del puesto de trabajo cuando exceda de seis meses.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de las siguientes NO figura entre las situaciones administrativas de los funcionarios de carrera según la nota?",
+      "explicacion": "La lista es: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. La comisión de servicios no es una de ellas.",
+      "opciones": [
+        "Servicio en otras Administraciones Públicas",
+        "Comisión de servicios",
+        "Suspensión de funciones",
+        "Servicios especiales"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario de carrera presta servicios como tal y no le corresponde ninguna otra situación. ¿En cuál está?",
+      "explicacion": "El servicio activo es la situación de quienes prestan servicios en su condición de funcionarios públicos y no les corresponde quedar en otra situación.",
+      "opciones": [
+        "Servicios especiales",
+        "Excedencia voluntaria",
+        "Servicio activo",
+        "Servicio en otras Administraciones Públicas"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Por qué normativa se rigen los funcionarios en servicio activo?",
+      "explicacion": "Según la nota, se rigen por las normas del TREBEP y por la normativa de función pública de la Administración Pública en que presten servicios.",
+      "opciones": [
+        "Por la normativa de la Administración de origen exclusivamente",
+        "Solo por el TREBEP",
+        "Solo por la normativa de la Administración en la que prestan servicios",
+        "Por el TREBEP y por la normativa de función pública de la Administración Pública en que presten servicios"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué afirmación sobre la lista de situaciones administrativas es correcta?",
+      "explicacion": "La nota indica que las Leyes de Función Pública pueden modificar la lista de situaciones.",
+      "opciones": [
+        "Las Leyes de Función Pública pueden modificarla",
+        "Solo puede modificarla el Subsecretario del Ministerio",
+        "Es cerrada y ninguna ley puede modificarla",
+        "Solo incluye tres situaciones"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Respecto a los funcionarios en servicio activo, ¿cuál es correcta?",
+      "explicacion": "En servicio activo se gozan de todos los derechos inherentes a la condición de funcionario y se queda sujeto a los deberes y responsabilidades derivados de la misma.",
+      "opciones": [
+        "Pierden parte de sus derechos mientras están en activo",
+        "Quedan sujetos a los deberes y responsabilidades derivados de su condición y gozan de todos los derechos inherentes a ella",
+        "Solo tienen deberes si pertenecen a un alto cargo",
+        "Gozan de todos los derechos inherentes a su condición pero no tienen deberes específicos"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Servicio activo.",
+      "Servicios especiales.",
+      "Servicio en otras Administraciones Públicas.",
+      "Excedencia.",
+      "Suspensión de funciones.",
+      "Quienes presten servicios en su condición de funcionarios públicos y no les corresponda quedar en otra situación.",
+      "Se regirán por las normas del TREBEP y por la normativa de función pública de la Administración Pública en que presten servicios."
+    ],
+    "consigna": "Explica con tus palabras cuáles son las situaciones administrativas de los funcionarios de carrera y qué es el servicio activo: quién está en él, qué derechos y deberes tiene y qué normas le son aplicables."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "Condición de funcionario y situaciones administrativas",
+  "objetivo": "Enumerar las situaciones administrativas de los funcionarios de carrera y describir el servicio activo, con una visión general de las demás situaciones (servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones) que se estudian en detalle en las lecciones siguientes.",
+  "orden": 8,
+  "preguntasBanco": [],
+  "resumen": "Los funcionarios de carrera pueden estar en cinco situaciones: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones (las Leyes de Función Pública pueden modificar la lista). El servicio activo es la situación de quien presta servicios como funcionario y no le corresponde otra: tiene todos los derechos y los deberes propios de su condición y se rige por el TREBEP y por la normativa de función pública de la Administración en que presta servicios.",
+  "tema": "B1-T4.1",
+  "titulo": "Situaciones administrativas y servicio activo"
+}

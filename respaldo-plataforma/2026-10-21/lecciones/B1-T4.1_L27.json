@@ -1,0 +1,143 @@
+{
+  "bloques": [
+    {
+      "md": "El régimen disciplinario funciona como una **escalera de castigos** con tres preguntas: **¿qué sanción se impone?** (de apercibimiento a separación del servicio), **¿cuándo caduca la posibilidad de castigar o de ejecutar el castigo?** (prescripción) y **¿cuándo se borra la anotación del expediente?** (cancelación o «derecho al olvido»). Es como una multa de tráfico: hay una sanción, un plazo tras el cual ya no te la pueden exigir y otro plazo tras el cual desaparece del registro.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Primero, la lista completa de sanciones, de más a menos dura en lo esencial:\n\n1. **Separación del servicio**. En el caso de los funcionarios interinos es la **revocación de su nombramiento**. Solo puede sancionar faltas **muy graves**.\n2. **Despido disciplinario** del personal laboral. Solo puede sancionar faltas **muy graves** y comporta la **inhabilitación** para ser titular de un nuevo contrato de trabajo con funciones similares a las que se desempeñaban.\n3. **Suspensión firme de funciones** (o de empleo y sueldo en el personal laboral).\n4. **Traslado forzoso**, con o sin cambio de localidad de residencia.\n5. **Demérito**: penalización a efectos de carrera, promoción o movilidad voluntaria.\n6. **Apercibimiento**.\n7. Cualquier otra que se establezca por Ley.\n\nIdea clave: separación y despido son «gemelas»: la primera para funcionarios (interinos: revocación del nombramiento) y la segunda para personal laboral, y ambas solo valen para faltas muy graves.",
+      "t": "explica",
+      "titulo": "Paso 1: las sanciones disponibles"
+    },
+    {
+      "md": "**Suspensión firme de funciones**: duración **máxima de 6 años**. Se divide en dos tramos: **de 0 a 3 años** y **de 3 a 6 años**. Si te preguntan la duración máxima, la respuesta es **6 años**, no 3.\n\n**Traslado forzoso**: puede ser con o sin cambio de localidad. La restricción de volver a la localidad depende de la gravedad de la falta:\n\n- Falta **muy grave**: no se puede regresar durante **3 años**.\n- Falta **grave**: no se puede regresar durante **1 año**.\n\nObserva que el plazo del traslado (3 y 1) **no** es el de la suspensión (6 máximo).",
+      "t": "explica",
+      "titulo": "Paso 2: las dos sanciones con plazos (suspensión y traslado)"
+    },
+    {
+      "md": "**Caso A.** A un funcionario se le impone traslado forzoso con cambio de localidad por una falta **muy grave**. ¿Cuándo puede volver a esa localidad? Tras **3 años**. Si la falta hubiera sido **grave**, tras **1 año**.\n\n**Caso B.** Se impone una suspensión firme de funciones de 4 años. ¿Es posible? Sí: está en el tramo de **3 a 6 años** y no supera el máximo de **6 años**. Una de 7 años sería imposible.\n\n**Caso C.** Un interino comete una falta grave. ¿Se le puede revocar el nombramiento? No: la separación del servicio (revocación del nombramiento en interinos) solo sanciona faltas **muy graves**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: traslado y suspensión"
+    },
+    {
+      "md": "- **Suspensión: 6 = 3 + 3.** Dos tramos de 3 años (0-3 y 3-6); máximo 6.\n- **Traslado: «3 y 1», de mayor a menor gravedad**: muy grave 3 años, grave 1 año.\n- **Separación y despido = solo MUY graves** (las dos «puertas de salida»).\n- Orden de las sanciones: **S**eparación, **D**espido, **S**uspensión, **T**raslado, **D**emérito, **A**percibimiento («Se Despide, Suspende, Traslada, Desmerece y Apercibe»).",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "La prescripción es el tiempo tras el cual se pierde la posibilidad de perseguir la falta (prescripción de la falta) o de cumplir la sanción ya impuesta (prescripción de la sanción).\n\n- **Faltas**: muy graves **3 años**, graves **2 años**, leves **6 meses**.\n- **Sanciones**: muy graves **3 años**, graves **2 años**, leves **1 año**.\n\nLa regla es sencilla: el plazo de la falta y el de su sanción **coinciden** en muy graves y graves. La **única excepción** son las leves: la **falta** prescribe a los **6 meses**, pero la **sanción** impuesta por falta leve prescribe al **1 año**.",
+      "t": "explica",
+      "titulo": "Paso 3: prescripción de faltas y sanciones"
+    },
+    {
+      "md": "Pregunta típica: «¿En qué plazo prescriben las sanciones impuestas por faltas leves, y en cuál las propias faltas leves?»\n\n- Sanciones por faltas leves: **1 año**.\n- Faltas leves: **6 meses**.\n\nCuidado con el error habitual: responder 6 meses para ambas. La sanción dura el doble que la falta.\n\nOtro caso: ¿cuánto prescribe una sanción por falta grave? **2 años**, igual que la propia falta.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: la asimetría de las leves"
+    },
+    {
+      "md": "Memoriza la secuencia **3 – 2 – 6m** para las faltas y recuerda: «**sanción = falta, salvo en las leves, donde la sanción es 1 año**». Frase gancho: *«Las leves son las únicas que cambian: de 6 meses a 1 año.»*\n\n| | Falta | Sanción |\n|---|---|---|\n| Muy graves | 3 años | 3 años |\n| Graves | 2 años | 2 años |\n| Leves | 6 meses | **1 año** |",
+      "t": "truco",
+      "titulo": "Truco de la prescripción"
+    },
+    {
+      "md": "La cancelación borra las anotaciones disciplinarias del expediente. Se regula en el art. 93 de la Ley de Funcionarios Civiles del Estado de 1964 («Derecho al olvido»).\n\n- **Faltas graves o muy graves** (no sancionadas con separación del servicio): pueden cancelarse transcurridos **2 años** (graves) o **6 años** (muy graves) desde el **cumplimiento de la sanción**. Se acuerda **a instancia del interesado**, que debe **acreditar buena conducta** desde que se le impuso la sanción.\n- **Apercibimiento** y **pérdida de 1 a 4 días de remuneraciones**: se cancelan **a petición del interesado a los 6 meses** de su fecha.\n- **Reincidencia**: la cancelación no impide apreciarla y, en ese caso, los plazos de cancelación serán de **duración doble**.",
+      "t": "explica",
+      "titulo": "Paso 4: cancelación de anotaciones (derecho al olvido)"
+    },
+    {
+      "md": "Un funcionario cumplió una sanción por falta **grave**. Pasados **2 años** desde el cumplimiento y acreditando buena conducta, puede pedir la cancelación. Si la falta fue **muy grave** (sin separación del servicio), debe esperar **6 años**.\n\nSi además es reincidente, los plazos se **duplican**: 4 años (grave) o 12 años (muy grave). (El cálculo de duplicar es aplicación directa de la regla de la nota.)\n\nUn apercibimiento se puede cancelar, a petición suya, a los **6 meses** de su fecha.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: cancelación"
+    },
+    {
+      "md": "**«2 y 6»**: graves 2 años, muy graves 6 años (mismo orden que la gravedad, de menor a mayor). Apercibimiento: **6 meses**. Reincidencia: **doble**. Y siempre **a instancia del interesado** con **buena conducta**.",
+      "t": "truco",
+      "titulo": "Truco de la cancelación"
+    },
+    {
+      "md": "**Sanciones**\n- Separación del servicio (interinos: revocación del nombramiento): solo faltas muy graves.\n- Despido disciplinario (laboral): solo faltas muy graves; inhabilitación para nuevo contrato con funciones similares.\n- Suspensión firme de funciones (o de empleo y sueldo en laborales): **máximo 6 años** (0 a 3 años y 3 a 6 años).\n- Traslado forzoso, con o sin cambio de localidad: no regresar **3 años** (muy grave) y **1 año** (grave).\n- Demérito: penalización a efectos de carrera, promoción o movilidad voluntaria.\n- Apercibimiento.\n- Cualquier otra que se establezca por Ley.\n\n**Prescripción**\n\n| | Falta | Sanción |\n|---|---|---|\n| Muy graves | 3 años | 3 años |\n| Graves | 2 años | 2 años |\n| Leves | 6 meses | 1 año |\n\n**Cancelación (art. 93 Ley de Funcionarios Civiles del Estado de 1964)**\n- 2 años (graves) o 6 años (muy graves, no sancionadas con separación del servicio) desde el cumplimiento de la sanción, a instancia del interesado con buena conducta.\n- Apercibimiento y pérdida de 1 a 4 días de remuneraciones: a petición del interesado a los 6 meses.\n- La cancelación no impide apreciar reincidencia; plazos de cancelación de duración doble.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "Un funcionario es sancionado con traslado forzoso por una falta grave. ¿Cuánto tiempo no podrá regresar a esa localidad?",
+      "explicacion": "Según la nota, en el traslado forzoso no se puede regresar durante 3 años si la falta fue muy grave y 1 año si fue grave.",
+      "opciones": [
+        "1 año",
+        "3 años",
+        "6 meses",
+        "6 años"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de las siguientes sanciones puede imponerse únicamente por la comisión de faltas muy graves?",
+      "explicacion": "La separación del servicio y el despido disciplinario del personal laboral solo pueden sancionar faltas muy graves.",
+      "opciones": [
+        "Traslado forzoso",
+        "Despido disciplinario del personal laboral",
+        "Demérito",
+        "Apercibimiento"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿En qué plazo prescribe una sanción impuesta por una falta grave?",
+      "explicacion": "En las faltas graves coinciden el plazo de la falta y el de la sanción: 2 años. La asimetría solo existe en las leves.",
+      "opciones": [
+        "2 años",
+        "3 años",
+        "6 meses",
+        "1 año"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario cumplió una sanción por una falta muy grave no sancionada con separación del servicio y pide cancelar la anotación acreditando buena conducta. ¿Cuándo puede acordarse, en principio?",
+      "explicacion": "La cancelación procede transcurridos dos años (graves) o seis años (muy graves) desde el cumplimiento de la sanción, a instancia del interesado con buena conducta.",
+      "opciones": [
+        "A los 3 años del cumplimiento",
+        "A los 6 meses del cumplimiento",
+        "A los 6 años del cumplimiento",
+        "A los 2 años del cumplimiento"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué ocurre con los plazos de cancelación de anotaciones cuando hay reincidencia?",
+      "explicacion": "La nota indica que la cancelación no impide apreciar la reincidencia y que, en ese caso, los plazos de cancelación serán de duración doble.",
+      "opciones": [
+        "Se suprime la posibilidad de cancelar",
+        "No cambian",
+        "Se reducen a la mitad",
+        "Son de duración doble"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La suspensión firme de funciones tiene una duración máxima de 6 años (de 0 a 3 años y de 3 a 6 años)",
+      "En el traslado forzoso no se puede regresar a la localidad durante 3 años si la falta fue muy grave y 1 año si fue grave",
+      "Separación del servicio y despido disciplinario solo sancionan faltas muy graves",
+      "Las faltas muy graves, graves y leves prescriben a los 3 años, 2 años y 6 meses; las sanciones por faltas leves prescriben al 1 año",
+      "La cancelación de anotaciones es a los 2 años (graves) o 6 años (muy graves) desde el cumplimiento de la sanción, y a los 6 meses para el apercibimiento; en reincidencia los plazos son dobles"
+    ],
+    "consigna": "Explica con tus palabras qué sanciones existen en el régimen disciplinario del TREBEP, cuánto duran la suspensión y la restricción del traslado, en cuánto prescriben faltas y sanciones (con la excepción de las leves) y cuándo se cancelan las anotaciones."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "Deberes, régimen disciplinario e incompatibilidades",
+  "objetivo": "Indicar las sanciones disciplinarias del TREBEP, su duración, los plazos de prescripción de faltas y sanciones y la cancelación de anotaciones.",
+  "orden": 27,
+  "preguntasBanco": [
+    28,
+    29,
+    30
+  ],
+  "resumen": "Las sanciones van de la separación del servicio y el despido (solo faltas muy graves) al apercibimiento; la suspensión firme dura máximo 6 años y el traslado forzoso impide volver 3 años (muy grave) o 1 año (grave). Las faltas prescriben a los 3 años, 2 años y 6 meses, y las sanciones igual salvo las leves, que prescriben al año. Las anotaciones se cancelan a los 2 o 6 años (graves o muy graves) o a los 6 meses (apercibimiento), con plazos dobles si hay reincidencia.",
+  "tema": "B1-T4.1",
+  "titulo": "Sanciones, prescripción y cancelación"
+}

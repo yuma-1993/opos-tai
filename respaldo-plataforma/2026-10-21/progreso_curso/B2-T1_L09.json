@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "5/5 ideas clave",
+    "ok": true,
+    "ts": 1792570743701
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 10,
+      "total": 10,
+      "ts": 1792570461096
+    }
+  ],
+  "leccion": "B2-T1_L09",
+  "mejorPct": 100,
+  "primeraPct": 100,
+  "repasos": [],
+  "superadaTs": 1792570753583,
+  "tema": "B2-T1"
+}

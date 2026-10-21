@@ -1,0 +1,122 @@
+{
+  "bloques": [
+    {
+      "md": "La jornada de trabajo es como una **bolsa de horas** que hay que llenar a lo largo del año: el mínimo en el Sector Público son **35 horas semanales de trabajo efectivo de promedio en cómputo anual**. Dentro de esa bolsa hay un tramo de presencia obligatoria (horario fijo) y otro que cada empleado coloca con libertad (horario flexible). Y hay puestos de \"bolsa grande\": la especial dedicación (40 h/semana).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. Las Administraciones Públicas establecen la **jornada general** y las **especiales**.\n2. Puede ser **a tiempo completo o a tiempo parcial**.\n3. Mínimo: **no podrá ser inferior a 35 horas semanales** de trabajo efectivo, de promedio en cómputo anual.\n4. La jornada general es de **35 horas semanales = 1.533 horas anuales**.\n\n**A quién se aplica:** la AGE, las entidades gestoras y servicios comunes de la Seguridad Social, y los organismos públicos, Agencias y demás Entidades vinculadas o dependientes de la AGE que se rijan por la normativa de Función Pública.\n\n**A quién NO se aplica:** personal militar de las Fuerzas Armadas, de las Fuerzas y Cuerpos de Seguridad del Estado, personal destinado en instituciones penitenciarias, en instituciones y establecimientos sanitarios, y personal que preste servicios en centros docentes o de apoyo a la docencia.",
+      "t": "explica",
+      "titulo": "Paso 1: qué es la jornada general"
+    },
+    {
+      "md": "**Jornada de mañana**\n- Fijo: **9:00-14:30**, de L a V.\n- Flexible: **7:30-9:00** de L a V y **14:30-18:00** de L a J (los viernes, **14:30-15:30**).\n\n**Jornada de mañana y tarde**\n- Fijo: **9:00-17:00** de L a J, con interrupción para comer que **no computa** (mínimo media hora), y **9:00-14:30** los viernes.\n- Flexible: igual que antes, 7:30-9:00 de L a V y 14:30-18:00 de L a J (14:30-15:30 los V).\n\nLos calendarios laborales podrán establecer otros límites horarios máximos y mínimos.\n\n**Pausa:** 30 minutos que **sí se computan** como trabajo efectivo (10:00-12:30). Ojo: no confundir con la interrupción para comer, que no computa.",
+      "t": "explica",
+      "titulo": "Paso 2: horario fijo y horario flexible"
+    },
+    {
+      "md": "Hay dos niveles; es lo que más se falla:\n\n1. **Jornada en régimen de especial dedicación: 40 horas/semana**, sin perjuicio del aumento de horario preciso por necesidades del servicio. Es decir, la cifra base son **40 h**; el aumento por necesidades del servicio es aparte.\n2. **Servicios de especial dedicación: 40 h/semana más 5 h semanales adicionales**, de las cuales un **mínimo de 2,5 h hasta las 18:00**, de L a J.\n\nPor tanto, en el servicio de especial dedicación se llega a 45 h (40 + 5), pero la respuesta a \"¿cuántas horas semanales en el régimen de especial dedicación sin contar el aumento por necesidades del servicio?\" es **40**.",
+      "t": "explica",
+      "titulo": "Paso 3: régimen de especial dedicación"
+    },
+    {
+      "md": "- **Periodo general:** del **16/06 al 15/09**, ambos incluidos, se podrá establecer jornada intensiva de **6,5 h**, de **8:00 a 15:00** de L a V.\n- **Conciliación:** empleados con hijos hasta **12 años** o con discapacidad **≥33%** tienen la jornada intensiva del **1/06 al 30/09**. Se puede ejercer también en el año en que el menor cumpla 12 años.\n\nFíjate: el periodo general es \"se podrá establecer\" (potestativo); el ampliado por conciliación es un **derecho**.",
+      "t": "explica",
+      "titulo": "Paso 4: jornada de verano"
+    },
+    {
+      "md": "Ana trabaja en jornada de mañana y tiene un hijo que cumple 12 años en marzo.\n\n- Horario fijo: 9:00-14:30 de L a V. Puede entrar entre 7:30 y 9:00 (flexible), y completar horas por la tarde hasta las 18:00 de L a J (los viernes hasta 15:30).\n- Verano: como su hijo cumple 12 este año, **sigue teniendo derecho** a jornada intensiva **del 1/06 al 30/09**.\n- Un compañero sin hijos tendría jornada intensiva (si se establece) solo del **16/06 al 15/09**, de 8:00 a 15:00.\n\nOtro caso: un puesto de especial dedicación sin necesidades extra del servicio = **40 h/semana**. Si es un servicio de especial dedicación = 40 + 5 = **45 h**, y de esas 5, al menos **2,5 h hasta las 18:00** de L a J.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **35 → 1.533**: \"treinta y cinco, mil quinientas treinta y tres\".\n- **Fijo 9:00-14:30**: la mañana fija siempre empieza a las 9 y acaba a las 14:30; el viernes la tarde fija no existe.\n- **Especial dedicación: 40 y 40+5.** \"Cuarenta la dedicación, cuarenta y cinco el servicio\".\n- **Verano: 16/06-15/09**; con hijos, se amplía **medio mes por cada lado**: 1/06-30/09.\n- **Pausa SÍ computa (30 min); comida NO computa.**",
+      "t": "truco",
+      "titulo": "Trucos"
+    },
+    {
+      "md": "| Concepto | Dato |\n|---|---|\n| Jornada mínima Sector Público | No inferior a 35 h semanales, trabajo efectivo, promedio anual |\n| Jornada general | 35 h semanales = 1.533 h anuales |\n| Jornada de mañana (fijo) | 9:00-14:30 L-V |\n| Mañana y tarde (fijo) | 9:00-17:00 L-J (comida no computa, mínimo media hora) y 9:00-14:30 V |\n| Flexible | 7:30-9:00 L-V y 14:30-18:00 L-J (14:30-15:30 V) |\n| Pausa | 30 minutos, trabajo efectivo (10:00-12:30) |\n| Especial dedicación | 40 h/semana, sin perjuicio del aumento por necesidades del servicio |\n| Servicios de especial dedicación | 40 h/semana + 5 h adicionales, mínimo 2,5 h hasta las 18:00 L-J |\n| Jornada de verano | 16/06-15/09 (ambos incluidos), 6,5 h, 8:00-15:00 L-V |\n| Verano por conciliación | 1/06-30/09: hijos hasta 12 años o discapacidad ≥33% (también el año en que cumple 12) |\n| No aplica a | Militares FFAA, FCSE, instituciones penitenciarias, sanitarias, centros docentes o de apoyo a la docencia |",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuántas horas anuales equivalen a la jornada general de 35 horas semanales?",
+      "explicacion": "La nota fija que la jornada general de 35 horas semanales equivale a 1.533 horas anuales.",
+      "opciones": [
+        "1.600 horas",
+        "1.500 horas",
+        "1.533 horas",
+        "1.450 horas"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "En los servicios de especial dedicación, ¿cuál es la jornada semanal incluyendo las horas adicionales previstas?",
+      "explicacion": "Los servicios de especial dedicación son 40 h/semana más 5 h semanales adicionales, de las cuales un mínimo de 2,5 h hasta las 18:00 de L a J.",
+      "opciones": [
+        "35 h más 5 h adicionales",
+        "40 h más 5 h adicionales",
+        "35 h",
+        "40 h"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Un empleado público con un hijo que cumple 12 años este año, ¿qué jornada intensiva de verano puede disfrutar?",
+      "explicacion": "Quienes tienen hijos hasta 12 años tienen jornada intensiva del 1/06 al 30/09, derecho ejercitable también en el año en que el menor cumple 12 años.",
+      "opciones": [
+        "Del 1/06 al 30/09, también en el año en que cumple 12 años",
+        "Del 1/07 al 31/08",
+        "Del 16/06 al 15/09 únicamente",
+        "No tiene derecho porque el hijo ya cumple 12"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál es el horario fijo de la jornada de mañana?",
+      "explicacion": "La jornada de mañana tiene fijo de 9:00-14:30 de L-V. El 8:00-15:00 es la jornada de verano y el 9:00-17:00 es el fijo de la jornada de mañana y tarde.",
+      "opciones": [
+        "9:00-17:00 de L a J",
+        "7:30-14:30 de L a V",
+        "8:00-15:00 de L a V",
+        "9:00-14:30 de L a V"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de estos colectivos queda fuera de la regulación de jornada descrita?",
+      "explicacion": "No aplica a militares, FCSE, instituciones penitenciarias, instituciones y establecimientos sanitarios ni al personal de centros docentes o de apoyo a la docencia.",
+      "opciones": [
+        "Personal de Agencias dependientes de la AGE",
+        "Personal de entidades gestoras de la Seguridad Social",
+        "Personal que presta servicios en centros docentes o de apoyo a la docencia",
+        "Personal de organismos públicos vinculados a la AGE que se rigen por la normativa de Función Pública"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La jornada de trabajo en el Sector Público no podrá ser inferior a 35 horas semanales de trabajo efectivo de promedio en cómputo anual",
+      "La jornada general de 35 horas semanales equivale a 1.533 horas anuales",
+      "Jornada de mañana: fijo de 9:00-14:30 de L-V",
+      "Jornada en régimen de especial dedicación: 40 h/semana, sin perjuicio del aumento de horario preciso por necesidades del servicio",
+      "Jornada de verano: entre el 16/06 y el 15/09 jornada intensiva de 6,5 h, de 8:00-15:00 de L-V",
+      "Con hijos hasta 12 años o discapacidad ≥33%, jornada intensiva del 1/06 al 30/09"
+    ],
+    "consigna": "Explica con tus palabras cómo se organiza la jornada de trabajo: cuántas horas son la jornada general, cómo son los horarios fijo y flexible, qué es el régimen de especial dedicación y cómo funciona la jornada de verano."
+  },
+  "modulo": "M5",
+  "moduloTitulo": "Jornada, vacaciones y permisos",
+  "objetivo": "Fijar la jornada general (35 horas semanales, 1.533 anuales), los horarios fijo y flexible, la pausa, la jornada de verano y el régimen de especial dedicación (40 h/semana y servicios de especial dedicación).",
+  "orden": 21,
+  "preguntasBanco": [
+    39
+  ],
+  "resumen": "La jornada general es de 35 horas semanales (1.533 anuales), con horario fijo (9:00-14:30 en jornada de mañana) y flexible, y una pausa de 30 minutos que computa. El régimen de especial dedicación es de 40 h/semana (más aumentos por necesidades del servicio), y los servicios de especial dedicación suman 5 h adicionales. La jornada de verano (6,5 h, 8:00-15:00) va del 16/06 al 15/09, ampliada del 1/06 al 30/09 por conciliación.",
+  "tema": "B1-T4.1",
+  "titulo": "Jornada general y especial"
+}

@@ -1,0 +1,121 @@
+{
+  "bloques": [
+    {
+      "md": "Un sistema de numeración es una forma de escribir cantidades con un número limitado de dígitos. Ese número de dígitos es la **base**.\n\nEl que usamos a diario es el decimal: base 10, diez dígitos (0 al 9). Un ordenador usa el binario: base 2, solo dos dígitos.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Sistema | Base | Dígitos | Ejemplo |\n|---|---|---|---|\n| Decimal | 10 | 0–9 | 429₁₀ |\n| Binario | 2 | 0–1 | 010010₂ |\n| Hexadecimal | 16 | 0–9 y A–F | AF30101ₕ |\n| Octal | 8 | 0–7 | 73010₈ |\n\nRegla de oro: **un dígito nunca puede ser igual o mayor que la base**. En octal no existe el 8; en binario no existe el 2.",
+      "t": "explica",
+      "titulo": "Los cuatro sistemas"
+    },
+    {
+      "md": "Cada dígito vale **dígito × base elevada a su posición**. La posición se cuenta desde la derecha empezando en 0. Se suman todos los resultados:\n\n`decimal = Σ dígito × base^posición`\n\nPrimero con algo conocido, el decimal 429: 4×10² + 2×10¹ + 9×10⁰ = 400 + 20 + 9. Con otra base solo cambia el 10 por la base.",
+      "t": "explica",
+      "titulo": "Cualquier base → decimal"
+    },
+    {
+      "md": "- **101₂** = 1×2⁰ + 0×2¹ + 1×2² = 1 + 0 + 4 = **5**.\n- **231₈** = 1×8⁰ + 3×8¹ + 2×8² = 1 + 24 + 128 = **153**.\n- **238₈** = **error**: el dígito 8 no existe en octal.",
+      "t": "ejemplo",
+      "titulo": "Ejemplos resueltos"
+    },
+    {
+      "md": "- **Binario → hexadecimal**: se separa en bloques de **4 bits** desde la derecha y cada bloque es un dígito. `00011001` → `0001-1001` → 1 y 9 → **19**ₕ.\n- **Binario → octal**: igual, pero en bloques de **3 bits**.\n- **Decimal → hexadecimal**: dividir entre 16, o pasar a binario y de binario a hexadecimal.\n- **Decimal → binario**: dividir entre 2 una y otra vez. Los restos, leídos **del último cociente hacia el primer resto**, forman el número.",
+      "t": "explica",
+      "titulo": "Saltar entre bases"
+    },
+    {
+      "md": "1. 100 ÷ 2 = 50, resto 0\n2. 50 ÷ 2 = 25, resto 0\n3. 25 ÷ 2 = 12, resto 1\n4. 12 ÷ 2 = 6, resto 0\n5. 6 ÷ 2 = 3, resto 0\n6. 3 ÷ 2 = 1, resto 1\n7. 1 ÷ 2 = 0, resto 1\n\nLeyendo los restos de abajo arriba: **1100100₂**, el resultado de tu nota.",
+      "t": "ejemplo",
+      "titulo": "Decimal 100 a binario, paso a paso"
+    },
+    {
+      "md": "Escribe los pesos del binario: 64, 32, 16, 8, 4, 2, 1. Para 100: 64 + 32 + 4 = 100, así que pones 1 en esos pesos y 0 en el resto: 1100100. Es la «cuenta de la vieja» que menciona tu nota.",
+      "t": "truco",
+      "titulo": "Truco: la cuenta de la vieja"
+    },
+    {
+      "md": "- Octal: dígitos 0–7, el **8 no existe** (238₈ es error).\n- Binario → hexadecimal: bloques de **4** bits. Binario → octal: bloques de **3** bits.\n- Decimal → binario: dividir entre 2 y ordenar **desde el último cociente hasta el primer resto**.\n- 100₁₀ = 1100100₂; 101₂ = 5; 231₈ = 153.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué dígitos usa el sistema octal?",
+      "explicacion": "Octal es base 8: dígitos del 0 al 7.",
+      "opciones": [
+        "0 al 7",
+        "0 al 8",
+        "0 al 9 y A al F",
+        "0 y 1"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál es el valor decimal de 101₂?",
+      "explicacion": "1×2⁰ + 0×2¹ + 1×2² = 1 + 0 + 4 = 5.",
+      "opciones": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Por qué 238₈ no es un número válido?",
+      "explicacion": "Un dígito nunca puede ser igual o mayor que la base: en octal el máximo es el 7.",
+      "opciones": [
+        "Porque tiene tres cifras",
+        "Porque en octal no existe el dígito 8",
+        "Porque el octal no admite el 2",
+        "Porque falta el subíndice"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "El binario 00011001 pasado a hexadecimal es:",
+      "explicacion": "Bloques de 4 bits: 0001 y 1001 → 1 y 9 → 19ₕ.",
+      "opciones": [
+        "91",
+        "C1",
+        "19",
+        "1,9"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Al pasar de decimal a binario dividiendo entre 2, ¿cómo se ordenan los restos?",
+      "explicacion": "Se lee de abajo arriba: el último cociente va primero y el primer resto al final.",
+      "opciones": [
+        "Del primer resto al último cociente",
+        "Se ordenan de menor a mayor",
+        "Se suman todos",
+        "Desde el último cociente hasta el primer resto"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Cada dígito vale dígito × base^posición, con la posición contada desde la derecha empezando en 0",
+      "En octal solo existen los dígitos 0–7, por eso 238₈ es un error",
+      "Binario a hexadecimal en bloques de 4 bits; binario a octal en bloques de 3",
+      "Decimal a binario dividiendo entre 2 y leyendo los restos desde el último cociente hasta el primer resto"
+    ],
+    "consigna": "Explícame cómo se pasa un número de cualquier base a decimal, cómo se salta entre binario, octal y hexadecimal, y cómo se pasa de decimal a binario."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Entender qué es una base, convertir entre decimal, binario, octal y hexadecimal y detectar números inválidos.",
+  "orden": 2,
+  "preguntasBanco": [
+    15,
+    16
+  ],
+  "resumen": "Dígito < base. Valor = Σ dígito × base^posición. Binario→hex bloques de 4, binario→octal bloques de 3. Decimal→binario: dividir entre 2 y leer de abajo arriba.",
+  "tema": "B2-T1",
+  "titulo": "Sistemas de numeración y conversiones"
+}

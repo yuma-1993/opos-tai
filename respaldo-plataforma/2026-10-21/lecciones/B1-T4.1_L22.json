@@ -1,0 +1,114 @@
+{
+  "bloques": [
+    {
+      "md": "Las medidas de conciliación son como **ajustar el reloj del trabajo a la vida real**: si cuidas de alguien o vuelves de un tratamiento duro, la Administración te deja mover o adaptar tu horario fijo dentro de unos límites claros.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Lo primero es saber **cuánto** se puede flexibilizar el horario fijo y **quién** tiene derecho.\n\n1. **1 hora diaria** de flexibilidad: empleados públicos que tengan a su cargo personas mayores, hijos menores de 12 años, personas con discapacidad, o un familiar a cargo con enfermedad grave hasta el segundo grado.\n2. **2 horas diarias** de flexibilidad: empleados públicos que tengan a su cargo personas con discapacidad hasta el primer grado.\n3. **Excepcionalmente, hasta un máximo de dos horas** de modificación del horario fijo en casos de **familias monoparentales**. Aquí no es un derecho automático: los órganos competentes en materia de personal **podrán autorizarlo**, con carácter **personal y temporal**, por motivos de conciliación.",
+      "t": "explica",
+      "titulo": "Paso 1: flexibilidad horaria sobre el horario fijo"
+    },
+    {
+      "md": "Además de mover el horario, existen ausencias del trabajo:\n\n- **Fecundación o reproducción asistida**: derecho a ausentarse por el **tiempo necesario** y **previa justificación**.\n- **Hijos con discapacidad física, psíquica o sensorial**: se puede uno ausentar por el **tiempo indispensable** para asistir al centro **educativo, sanitario o social**.",
+      "t": "explica",
+      "titulo": "Paso 2: ausencias para situaciones concretas"
+    },
+    {
+      "md": "Quien se reincorpora al servicio tras un tratamiento de **radioterapia o quimioterapia** puede **solicitar** una adaptación progresiva de su jornada:\n\n- Duración: **hasta un mes**, prorrogable **un mes más**, desde el **alta médica**.\n- Alcance: puede afectar **hasta un 25%** de la duración de la jornada diaria.\n- Preferentemente se aplica en la **parte flexible** de la jornada.\n- Se considera **tiempo de trabajo efectivo**.\n- La Administración debe **resolver en tres días**.",
+      "t": "explica",
+      "titulo": "Paso 3: adaptación progresiva tras radioterapia o quimioterapia"
+    },
+    {
+      "md": "**Caso:** Marta tiene una hija de 8 años y un padre mayor a su cargo. Quiere entrar más tarde.\n\n- Tiene a su cargo hijos menores de 12 años y personas mayores, luego le corresponde **1 hora diaria** de flexibilidad sobre el horario fijo.\n\n**Caso 2:** Luis vuelve al trabajo tras quimioterapia. Su jornada diaria es de 7 horas.\n\n- Puede solicitar adaptación progresiva **hasta un mes, prorrogable un mes más** desde el alta.\n- Podría afectar **hasta un 25%** de la jornada diaria, preferentemente en la parte flexible: un 25% de 7 horas son 1,75 h (cálculo aritmético, no viene de tus notas).\n- Ese tiempo cuenta como **trabajo efectivo** y la Administración debe resolver en **tres días**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**«1-2-2» y «1-1-25-3»**\n\n- Flexibilidad: **1** hora (general), **2** horas (discapacidad hasta primer grado), **2** horas máximo (monoparentales, excepcional).\n- Tratamiento: **1** mes + **1** de prórroga, **25%** de la jornada, **3** días para resolver.",
+      "t": "truco",
+      "titulo": "Truco para recordarlo"
+    },
+    {
+      "md": "| Medida | Quién | Cuánto / condiciones |\n|---|---|---|\n| Flexibilidad horaria | A cargo: personas mayores, hijos menores de 12 años, personas con discapacidad, familiar a cargo con enfermedad grave hasta 2.º grado | **1 hora diaria** sobre el horario fijo |\n| Flexibilidad horaria | A cargo: personas con discapacidad hasta 1.er grado | **2 horas diarias** sobre el horario fijo |\n| Modificación del horario fijo | Familias monoparentales | **Excepcionalmente**, **máximo dos horas**; la autorizan los órganos competentes en materia de personal, con carácter **personal y temporal** |\n| Ausencia | Técnicas de fecundación o reproducción asistida | Tiempo necesario y previa justificación |\n| Ausencia | Hijos con discapacidad física, psíquica o sensorial | Tiempo indispensable para asistir al centro educativo, sanitario o social |\n| Adaptación progresiva de jornada | Reincorporación tras radioterapia o quimioterapia | Hasta **un mes**, prorrogable **un mes más** desde el alta médica; hasta el **25%** de la jornada diaria, preferentemente en la parte flexible; **tiempo de trabajo efectivo**; la Administración resuelve en **tres días** |",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "Una empleada pública tiene a su cargo a un hijo de 10 años. ¿Qué flexibilidad sobre el horario fijo le corresponde?",
+      "explicacion": "Quien tiene a su cargo hijos menores de 12 años tiene derecho a flexibilizar en 1 hora diaria el horario fijo.",
+      "opciones": [
+        "30 minutos diarios",
+        "2 horas diarias",
+        "1 hora diaria",
+        "Ninguna, salvo autorización excepcional"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Para quién se prevén 2 horas de flexibilidad diaria sobre el horario fijo como derecho?",
+      "explicacion": "Las 2 horas diarias se reconocen a quienes tienen a su cargo personas con discapacidad hasta el primer grado; los demás supuestos generales tienen 1 hora.",
+      "opciones": [
+        "Quien tenga a su cargo personas con discapacidad hasta el primer grado",
+        "Quien tenga un familiar con enfermedad grave hasta el segundo grado",
+        "Quien tenga a su cargo personas mayores",
+        "Quien tenga hijos menores de 12 años"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Respecto a la modificación del horario fijo en un máximo de dos horas en familias monoparentales, es correcto que:",
+      "explicacion": "Es una medida excepcional que los órganos competentes en materia de personal podrán autorizar con carácter personal y temporal.",
+      "opciones": [
+        "Se limita a una hora diaria",
+        "Es un derecho automático e indefinido",
+        "Solo se aplica tras un tratamiento oncológico",
+        "Se autoriza excepcionalmente, con carácter personal y temporal, por los órganos competentes en materia de personal"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál es el máximo de la jornada diaria que puede afectar la adaptación progresiva tras radioterapia o quimioterapia?",
+      "explicacion": "La adaptación puede afectar hasta un 25% de la duración de la jornada diaria, preferentemente en la parte flexible.",
+      "opciones": [
+        "25%",
+        "Toda la jornada",
+        "10%",
+        "50%"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Sobre la adaptación progresiva de jornada tras un tratamiento oncológico, señala la opción correcta:",
+      "explicacion": "La adaptación dura hasta un mes, prorrogable un mes más desde el alta médica; se considera tiempo de trabajo efectivo, preferentemente en la parte flexible, y la Administración debe resolver en tres días.",
+      "opciones": [
+        "Dura hasta seis meses y la Administración resuelve en un mes",
+        "Dura hasta un mes, prorrogable un mes más desde el alta médica, y se resuelve en tres días",
+        "Solo puede aplicarse fuera de la parte flexible de la jornada",
+        "El tiempo adaptado no se considera tiempo de trabajo efectivo"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "1 hora diaria de flexibilidad sobre el horario fijo para quien tenga a su cargo personas mayores, hijos menores de 12 años, personas con discapacidad o familiar con enfermedad grave hasta el segundo grado",
+      "2 horas de flexibilidad diaria para quien tenga a su cargo personas con discapacidad hasta el primer grado",
+      "Excepcionalmente, modificación del horario fijo en un máximo de dos horas en familias monoparentales, con carácter personal y temporal",
+      "Adaptación progresiva de jornada tras radioterapia o quimioterapia: hasta un mes, prorrogable un mes más, hasta un 25% de la jornada diaria, considerado tiempo de trabajo efectivo",
+      "La Administración deberá resolver en el plazo de tres días"
+    ],
+    "consigna": "Explica con tus palabras qué medidas de conciliación y de adaptación de jornada existen en el TREBEP, a quién se aplican y con qué límites de tiempo."
+  },
+  "modulo": "M5",
+  "moduloTitulo": "Jornada, vacaciones y permisos",
+  "objetivo": "Enumerar las medidas de flexibilidad horaria y de adaptación de jornada por conciliación y tratamiento.",
+  "orden": 22,
+  "preguntasBanco": [],
+  "resumen": "El TREBEP permite flexibilizar el horario fijo en 1 hora diaria (mayores, hijos menores de 12 años, discapacidad, familiar con enfermedad grave hasta 2.º grado) o 2 horas (discapacidad hasta 1.er grado), y excepcionalmente hasta 2 horas en familias monoparentales. Prevé ausencias para reproducción asistida y para acompañar a hijos con discapacidad, y una adaptación progresiva de jornada tras radioterapia o quimioterapia: hasta un mes prorrogable un mes más, hasta el 25% de la jornada, como tiempo efectivo y con resolución en tres días.",
+  "tema": "B1-T4.1",
+  "titulo": "Medidas de conciliación"
+}

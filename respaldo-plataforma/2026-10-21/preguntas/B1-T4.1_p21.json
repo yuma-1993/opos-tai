@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 2,
+  "enunciado": "El permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave permite una reducción de jornada de al menos la mitad, con retribuciones íntegras, como máximo hasta que el menor cumpla:",
+  "explicacion": "Nota: reducción de al menos la mitad de la jornada, con retribuciones íntegras, como máximo hasta que el menor cumpla los 18 años.",
+  "n": 21,
+  "opciones": [
+    "12 años",
+    "16 años",
+    "18 años",
+    "21 años"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,45 @@
+{
+  "fuente": "notas/B1-T1",
+  "generado": "2026-10-20",
+  "intro": "El curso parte de lo que no depende de nada: qué es la Constitución, cómo se aprobó y cómo se organiza. Después se estudian los principios del Título Preliminar, que sostienen todo lo demás, y el Título I con sus niveles de protección. Más adelante se ven los mecanismos que se apoyan en los derechos (suspensión y estados excepcionales, reforma) y, por último, la Corona, con sus funciones, la Regencia y la Tutela, y un repaso final.",
+  "modulos": [
+    {
+      "descripcion": "Qué es la Constitución, cuándo y cómo se aprobó y cómo se divide en Títulos y partes.",
+      "id": "M1",
+      "titulo": "La Constitución: origen, naturaleza y estructura"
+    },
+    {
+      "descripcion": "Los valores y principios sobre los que se apoya todo el ordenamiento, artículos 1 a 9.",
+      "id": "M2",
+      "titulo": "Título Preliminar: principios básicos del Estado"
+    },
+    {
+      "descripcion": "Del artículo 10 al 52: nacionalidad, derechos y libertades, deberes de los ciudadanos y principios rectores.",
+      "id": "M3",
+      "titulo": "Título I: derechos y deberes fundamentales"
+    },
+    {
+      "descripcion": "Cómo se protegen los derechos (art. 53), el Defensor del Pueblo y cuándo pueden suspenderse (art. 55 y estados excepcionales).",
+      "id": "M4",
+      "titulo": "Garantías y suspensión de los derechos"
+    },
+    {
+      "descripcion": "Los procedimientos ordinario y agravado del Título X y las reformas realizadas.",
+      "id": "M5",
+      "titulo": "Reforma de la Constitución"
+    },
+    {
+      "descripcion": "Posición y funciones del Rey, refrendo, y las instituciones que lo suplen o protegen.",
+      "id": "M6",
+      "titulo": "La Corona: Rey, Regencia y Tutela"
+    },
+    {
+      "descripcion": "Síntesis de todo el tema para fijar lo esencial.",
+      "id": "M7",
+      "titulo": "Repaso global"
+    }
+  ],
+  "nLecciones": 17,
+  "tema": "B1-T1",
+  "titulo": "CONSTITUCION"
+}

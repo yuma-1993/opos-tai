@@ -1,0 +1,14 @@
+{
+  "apartado": "CISC, RISC, SoC y pipeline",
+  "correcta": 3,
+  "enunciado": "¿Cuál de estas características corresponde a RISC?",
+  "explicacion": "Nota (tabla CISC/RISC): RISC = instrucciones simples de 1 ciclo, tamaño fijo, pocos modos de direccionamiento, lógica cableada, menor consumo; ejemplo ARM.",
+  "n": 35,
+  "opciones": [
+    "Instrucciones complejas de varios ciclos y lógica programada",
+    "Muchos modos de direccionamiento y tamaño de instrucción variable",
+    "Mayor consumo y temperatura; típico de Intel x86",
+    "Instrucciones simples de un ciclo, tamaño fijo y lógica cableada; típico de ARM"
+  ],
+  "tema": "B2-T1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Retribuciones",
+  "correcta": 1,
+  "enunciado": "¿Cuál es el límite máximo que puede alcanzar el sueldo de los funcionarios del Subgrupo A1 respecto al sueldo de los funcionarios de las Agrupaciones profesionales?",
+  "explicacion": "Nota: el sueldo de los A1 no podrá exceder en más de 3 veces el de los funcionarios de las Agrupaciones profesionales.",
+  "n": 32,
+  "opciones": [
+    "2 veces",
+    "3 veces",
+    "4 veces",
+    "5 veces"
+  ],
+  "tema": "B1-T4.1"
+}

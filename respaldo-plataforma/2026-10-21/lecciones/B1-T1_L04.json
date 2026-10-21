@@ -1,0 +1,204 @@
+{
+  "bloques": [
+    {
+      "md": "El **Título I** es como el «edificio de los derechos» de la Constitución: tiene un portal (el **artículo 10**, la dignidad de la persona), varias plantas (los **capítulos**) y, dentro de una de ellas, una sala principal con los derechos más fuertes (la **Sección 1ª**, arts. 15 a 29). Si sabes en qué planta está cada cosa, encontrar cualquier derecho es fácil.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El Título I se llama **«De los derechos y deberes fundamentales»** y abarca los **artículos 10 a 55**.\n\nSe abre con el **artículo 10**: la dignidad de la persona. Después se organiza así:\n\n1. **Capítulo I** (arts. 11 a 13): De los españoles y los extranjeros.\n2. **Capítulo II** (arts. 14 a 38): Derechos y libertades. Contiene el art. 14 (igualdad ante la ley) y la **Sección 1ª** (arts. 15 a 29: derechos fundamentales y libertades públicas).\n3. **Capítulo IV**: Garantías de las libertades y derechos fundamentales (arts. 53 y 54).\n4. **Capítulo V**: Suspensión de derechos y libertades (art. 55).\n\nOjo: la nota solo recoge los capítulos I, II, IV y V; no te inventes el contenido de los demás.",
+      "t": "explica",
+      "titulo": "Paso 1: el Título I de un vistazo"
+    },
+    {
+      "md": "Según la nota, el **artículo 10** trata de **la dignidad de la persona**. Es la puerta de entrada al Título I: antes de enumerar derechos concretos, se coloca a la persona y su dignidad como punto de partida.\n\nQué debes retener: el art. 10 va **solo, al principio**, y no pertenece a ningún capítulo; los capítulos empiezan en el art. 11.",
+      "t": "explica",
+      "titulo": "Paso 2: el artículo 10 y la dignidad de la persona"
+    },
+    {
+      "md": "Trata de **los españoles y los extranjeros**. Dos datos de la nota:\n\n- **Ningún español de origen** podrá ser privado de su nacionalidad.\n- Los españoles son mayores de edad a los **18 años**, pero con **16 años** pueden formalizar contratos de trabajo y presentarse a las pruebas de acceso a la Función Pública, **excepto** en los Cuerpos y Fuerzas de Seguridad del Estado.\n\nLo veremos con más detalle en la lección 5.",
+      "t": "explica",
+      "titulo": "Paso 3: el Capítulo I (arts. 11 a 13)"
+    },
+    {
+      "md": "El Capítulo II (arts. 14 a 38) empieza con el **art. 14**: los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna.\n\nLa **Sección 1ª (arts. 15 a 29)** reúne los **derechos fundamentales y las libertades públicas**. Son los que cuentan con la protección más fuerte (amparo, art. 53).\n\nMapa rápido de la Sección 1ª:\n\n- 15: vida\n- 16: libertad ideológica, religiosa y de culto\n- 17: libertad y seguridad\n- 18: honor, intimidad e imagen\n- 19: residencia y circulación\n- 20: expresión e información\n- 21: reunión\n- 22: asociación\n- 23: participación política\n- 24: tutela judicial efectiva\n- 25: legalidad penal\n- 26: tribunales de honor\n- 27: educación\n- 28: sindicación y huelga\n- 29: petición",
+      "t": "explica",
+      "titulo": "Paso 4: el Capítulo II y la Sección 1ª"
+    },
+    {
+      "md": "El **art. 17** protege la libertad y la seguridad. Tres datos que no debes mezclar:\n\n- **Detención preventiva**: máximo **72 horas**.\n- **Habeas corpus**: procedimiento para la **inmediata puesta a disposición judicial** del detenido, en **24 h**.\n- **Art. 17.3**: se debe informar al detenido de los **motivos de su detención**.\n\nLa pregunta del banco (persona detenida que pide habeas corpus) se responde así: el plazo es de **24 horas**. El error típico es contestar 72 h, que es el máximo de la detención preventiva, no el plazo del habeas corpus.",
+      "t": "explica",
+      "titulo": "Paso 5: dos preguntas falladas, el habeas corpus (art. 17)"
+    },
+    {
+      "md": "El **art. 22** reconoce el **derecho de asociación**. Las asociaciones deben inscribirse en un registro **a los solos efectos de publicidad**.\n\nEs decir: la finalidad de la inscripción es **dar publicidad**, no pedir permiso ni condicionar que la asociación exista. Además, se **prohíben** las asociaciones **secretas** y las de carácter **paramilitar**.",
+      "t": "explica",
+      "titulo": "Paso 6: el registro de asociaciones (art. 22)"
+    },
+    {
+      "md": "- **Art. 53 (amparo)**: cualquier ciudadano puede recabar la tutela ante los Tribunales de las libertades y derechos del **art. 14**, de la **Sección 1ª del Capítulo II** y del **art. 30.2** (objeción de conciencia).\n- **Art. 54**: una **ley orgánica** regulará el **Defensor del Pueblo**, alto comisionado de las Cortes Generales.\n- **Art. 55**: en los **estados de excepción o de sitio** se pueden suspender derechos y libertades. **No** puede suspenderse la información al detenido ni la asistencia de abogado en el estado de excepción (art. 17.3).",
+      "t": "explica",
+      "titulo": "Paso 7: las garantías y la suspensión (arts. 53 a 55)"
+    },
+    {
+      "md": "**Situación**: Marta es detenida un lunes por la mañana. Su abogado pide habeas corpus. Además, Marta quiere fundar una asociación de vecinos con su comunidad.\n\n1. ¿Cuánto puede durar como máximo su detención preventiva? **72 horas** (art. 17).\n2. ¿En qué plazo debe ponerse a disposición judicial por habeas corpus? **24 horas**.\n3. ¿Qué debe saber Marta desde el principio? Los **motivos de su detención** (art. 17.3).\n4. ¿Puede la asociación de vecinos inscribirse en un registro? Sí, y la inscripción sirve **solo a efectos de publicidad** (art. 22).\n5. ¿Podría la asociación ser secreta o paramilitar? **No**, están prohibidas.\n6. ¿Dónde está el art. 17 dentro del Título I? En el **Capítulo II, Sección 1ª**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Números del art. 17**: «**72 para detener, 24 para el habeas**». El 24 es el menor porque es la urgencia máxima del juez.\n- **Art. 22**: «Registro = **P**ublicidad, no **P**ermiso» (las dos P).\n- **Sección 1ª**: «**15 a 29**», empieza con la vida (15) y acaba con la petición (29).\n- **Estructura**: «**10 Dignidad, 11-13 Españoles, 14-38 Derechos, 53-54 Garantías, 55 Suspensión**».",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "**Título I**: De los derechos y deberes fundamentales (arts. **10 a 55**).\n\n| Parte | Artículos | Contenido |\n|---|---|---|\n| Art. 10 | 10 | La dignidad de la persona |\n| Capítulo I | 11 a 13 | De los españoles y los extranjeros |\n| Capítulo II | 14 a 38 | Derechos y libertades |\n| Sección 1ª (Cap. II) | 15 a 29 | Derechos fundamentales y libertades públicas |\n| Capítulo IV | 53 y 54 | Garantías de las libertades y derechos fundamentales |\n| Capítulo V | 55 | Suspensión de derechos y libertades |\n\n**Datos clave**:\n\n- Ningún español de origen podrá ser privado de su nacionalidad.\n- Mayoría de edad: **18 años**; a los **16** se pueden formalizar contratos de trabajo y presentarse a pruebas de acceso a la Función Pública, con excepción de los Cuerpos y Fuerzas de Seguridad del Estado.\n- Art. 14: los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna.\n- Art. 17: detención preventiva máximo **72 h**; habeas corpus para inmediata puesta a disposición judicial del detenido en **24 h**; art. 17.3: información al detenido de los motivos de su detención.\n- Art. 22: derecho de asociación; las asociaciones deberán inscribirse en un registro **a los solos efectos de publicidad**; se prohíben las asociaciones secretas y las de carácter paramilitar.\n- Art. 53: amparo ante los Tribunales para art. 14, Sección 1ª del Capítulo II y art. 30.2 (objeción de conciencia).\n- Art. 54: ley orgánica del Defensor del Pueblo, alto comisionado de las Cortes Generales.\n- Art. 55: suspensión en estados de excepción o de sitio. No puede suspenderse la información al detenido y la asistencia de abogado en el estado de excepción (art. 17.3).",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "(conocimiento general, no viene de tus notas) El texto literal del art. 10.1 CE habla de «la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás» como «fundamento del orden político y de la paz social». El art. 10.2 establece que las normas sobre derechos fundamentales se interpretan de acuerdo con la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España. Estos detalles no figuran en tu nota, pero suelen preguntarse.",
+      "t": "ampliacion",
+      "titulo": "Contexto adicional"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué artículo abre el Título I y qué regula?",
+      "explicacion": "El Título I abarca los arts. 10 a 55 y empieza con el art. 10, dedicado a la dignidad de la persona. El Capítulo I no empieza hasta el art. 11.",
+      "opciones": [
+        "El artículo 10, la dignidad de la persona",
+        "El artículo 14, la igualdad ante la ley",
+        "El artículo 15, el derecho a la vida",
+        "El artículo 11, la nacionalidad"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Entre qué artículos se extiende la Sección primera del Capítulo II, sobre derechos fundamentales y libertades públicas?",
+      "explicacion": "La Sección 1ª comprende los arts. 15 a 29. El 14 está en el Capítulo II pero fuera de la sección, y el Capítulo II completo llega hasta el 38.",
+      "opciones": [
+        "Del 14 al 38",
+        "Del 10 al 29",
+        "Del 15 al 29",
+        "Del 30 al 38"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Según el artículo 17, ¿cuál es el plazo en que el habeas corpus exige la puesta a disposición judicial del detenido?",
+      "explicacion": "El habeas corpus exige la inmediata puesta a disposición judicial en 24 h. Las 72 h son el máximo de la detención preventiva.",
+      "opciones": [
+        "48 horas",
+        "12 horas",
+        "72 horas",
+        "24 horas"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Con qué finalidad deben inscribirse las asociaciones en un registro según el artículo 22?",
+      "explicacion": "El art. 22 dice que las asociaciones se inscriben en un registro a los solos efectos de publicidad. No es una autorización ni un control previo.",
+      "opciones": [
+        "Para obtener autorización previa de la autoridad",
+        "A los solos efectos de publicidad",
+        "Para poder ser reconocidas como legales por el Gobierno",
+        "Para controlar su ideología"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "En el estado de excepción, ¿qué NO puede suspenderse según la nota?",
+      "explicacion": "La nota indica que no puede suspenderse la información al detenido y la asistencia de abogado en el estado de excepción (art. 17.3). Los demás derechos sí figuran entre los suspendibles en el art. 55.",
+      "opciones": [
+        "La información al detenido y la asistencia de abogado (art. 17.3)",
+        "La libre elección de residencia y circulación",
+        "El derecho de huelga",
+        "El secreto de las comunicaciones"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué capítulo del Título I se ocupa de la suspensión de derechos y libertades, y qué artículo contiene?",
+      "explicacion": "La suspensión de derechos y libertades es el Capítulo V y consta del art. 55. El Capítulo IV (arts. 53 y 54) trata de las garantías, que es la confusión habitual.",
+      "opciones": [
+        "Capítulo IV, artículo 53",
+        "Capítulo I, artículo 13",
+        "Capítulo II, artículo 38",
+        "Capítulo V, artículo 55"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Según tus notas, ¿cuál es la duración máxima de la detención preventiva recogida en el artículo 17?",
+      "explicacion": "La detención preventiva tiene un máximo de 72 horas. Las 24 horas son el plazo del habeas corpus para la puesta a disposición judicial, no la duración máxima de la detención. Truco: «72 para detener, 24 para el habeas».",
+      "opciones": [
+        "48 horas",
+        "24 horas",
+        "72 horas",
+        "5 días"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué dice el artículo 22 sobre los tipos de asociaciones?",
+      "explicacion": "El art. 22 prohíbe las asociaciones secretas y las paramilitares. La inscripción en el registro es solo a efectos de publicidad, no es una autorización previa ni legitima asociaciones prohibidas.",
+      "opciones": [
+        "Solo se prohíben las asociaciones de carácter político",
+        "Se prohíben las asociaciones secretas y las de carácter paramilitar",
+        "Las asociaciones paramilitares se permiten si se inscriben en el registro",
+        "Las asociaciones necesitan autorización previa para constituirse"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué derechos y libertades pueden protegerse mediante el amparo ante los Tribunales según el artículo 53 de tus notas?",
+      "explicacion": "Según el art. 53, el amparo abarca el art. 14, la Sección 1ª del Capítulo II (arts. 15 a 29) y el art. 30.2 (objeción de conciencia). No cubre todo el Título I.",
+      "opciones": [
+        "Los del art. 14, los de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30.2",
+        "Solo los de la Sección 1ª del Capítulo II",
+        "Los del Capítulo I y los de la Sección 1ª del Capítulo II",
+        "Todos los derechos del Título I sin excepción"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Según tus notas, ¿a qué edad pueden los españoles formalizar contratos de trabajo, aunque aún no sean mayores de edad?",
+      "explicacion": "La mayoría de edad es a los 18 años, pero a los 16 se pueden formalizar contratos de trabajo y presentarse a pruebas de acceso a la Función Pública, salvo en los Cuerpos y Fuerzas de Seguridad del Estado.",
+      "opciones": [
+        "16 años",
+        "14 años",
+        "18 años",
+        "21 años"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El Título I abarca los artículos 10 a 55 y trata de los derechos y deberes fundamentales",
+      "El artículo 10 trata de la dignidad de la persona",
+      "La Sección 1ª (arts. 15 a 29) recoge los derechos fundamentales y las libertades públicas",
+      "Art. 17: detención preventiva máximo 72 h y habeas corpus en 24 h",
+      "Art. 22: las asociaciones se inscriben en un registro a los solos efectos de publicidad"
+    ],
+    "consigna": "Explica con tus palabras cómo se organiza el Título I de la Constitución y qué trata el artículo 10. Después, usa el artículo 17 y el artículo 22 como ejemplos de derechos de la Sección 1ª.",
+    "preguntas": [
+      "¿Qué rango de artículos abarca el Título I de la Constitución y cuál es su denominación, es decir, de qué materia trata?",
+      "¿De qué trata el artículo 10 y qué lugar ocupa dentro del Título I respecto a los capítulos?",
+      "¿Qué recoge la Sección 1ª del Capítulo II y entre qué artículos se encuentra?",
+      "En el artículo 17, ¿cuál es el plazo máximo de la detención preventiva y cuál es el plazo del habeas corpus? ¿En qué se diferencian?",
+      "¿Para qué sirve la inscripción de las asociaciones en un registro según el artículo 22 y qué no supone esa inscripción?"
+    ]
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Título I: derechos y deberes fundamentales",
+  "objetivo": "Ubicar la estructura del Título I (arts. 10 a 55: capítulos y secciones) y explicar el artículo 10 sobre la dignidad de la persona, situando además los derechos que el opositor ha fallado o dejado en blanco (habeas corpus del art. 17 y registro de asociaciones del art. 22).",
+  "orden": 4,
+  "preguntasBanco": [
+    42,
+    45
+  ],
+  "resumen": "El Título I (arts. 10 a 55) se abre con el art. 10, la dignidad de la persona, y sigue con el Capítulo I (españoles y extranjeros, 11-13), el Capítulo II (derechos y libertades, 14-38, con la Sección 1ª de los arts. 15 a 29), las garantías (53-54) y la suspensión (55). Recuerda: en el art. 17, 72 h de detención y 24 h de habeas corpus; en el art. 22, el registro de asociaciones es solo para publicidad.",
+  "tema": "B1-T1",
+  "titulo": "Visión general del Título I y dignidad de la persona"
+}

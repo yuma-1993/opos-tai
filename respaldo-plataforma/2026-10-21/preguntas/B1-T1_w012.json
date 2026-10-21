@@ -1,0 +1,16 @@
+{
+  "apartado": "Título II — De la Corona (Regencia y Tutela)",
+  "correcta": 2,
+  "enunciado": "Fallece el Rey dejando un heredero menor de edad. No nombró tutor en su testamento y la madre del menor sigue viuda. ¿Quién será el tutor?",
+  "explicacion": "La nota fija el orden de la Tutela: la persona nombrada en testamento; si no la hay, el padre o la madre mientras permanezcan viudos; si no, las Cortes. Las Cortes solo intervienen en último lugar, que es el distractor más tentador. La nota no cita el número del artículo, solo el contenido.",
+  "lote": 1792487818082,
+  "n": 12,
+  "opciones": [
+    "La persona que designen las Cortes",
+    "El Presidente del Congreso de los Diputados",
+    "La madre, mientras permanezca viuda",
+    "El Regente, ya que no pueden separarse ambas funciones"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

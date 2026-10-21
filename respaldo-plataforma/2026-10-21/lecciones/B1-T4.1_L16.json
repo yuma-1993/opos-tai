@@ -1,0 +1,123 @@
+{
+  "bloques": [
+    {
+      "md": "La **reasignación de efectivos** es lo que le pasa a un funcionario cuando **desaparece su puesto** por un **Plan de Empleo**. Es como un juego de las sillas: quitan tu silla y la Administración te busca otra, primero cerca de ti, luego más lejos, y si no hay ninguna, pasas a una situación con menos sueldo y al final a una excedencia.\n\nSon **cuatro etapas seguidas**: 1ª fase → 2ª fase → expectativa de destino → excedencia forzosa. En cada una el ámbito se **amplía** y las retribuciones **bajan**.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. **Se suprime el puesto** a consecuencia de un Plan de Empleo. Aquí empieza la **1ª fase**.\n2. **1ª fase**: dura **seis meses** desde la supresión del puesto.\n3. **2ª fase**: empieza a los seis meses de la supresión y dura **tres meses** desde el final de la primera fase.\n4. **Expectativa de destino**: empieza al finalizar la segunda fase y dura **un año**, mientras cumpla las obligaciones y no se produzca la reasignación.\n5. **Excedencia forzosa**: empieza cuando finaliza la expectativa de destino o cuando se incumplen las obligaciones de esta. Su duración es **indefinida**.\n\nCada etapa tiene su propio **ámbito**, su **tipo de reasignación** (obligatoria o voluntaria), sus **retribuciones** y sus **obligaciones**.",
+      "t": "explica",
+      "titulo": "Paso 1: el esquema general"
+    },
+    {
+      "md": "El ámbito se va abriendo, y cambia también **quién** reasigna:\n\n- **1ª fase**: mismo **Ministerio y sus Organismos autónomos**. Reasigna el **Subsecretario**.\n- **2ª fase**: **cualquier Ministerio**. Reasigna el **Ministerio de Hacienda y FP**.\n- **Expectativa de destino**: **cualquier Ministerio**, por el **Ministerio de Hacienda y FP**.\n- **Excedencia forzosa**: **cualquier ámbito**, por el **Ministerio de Hacienda y FP**.\n\nRegla sencilla: en la 1ª fase reasigna el Subsecretario (todo queda \"en casa\"); desde la 2ª fase reasigna Hacienda y FP.",
+      "t": "explica",
+      "titulo": "Paso 2: quién reasigna y dónde (el ámbito)"
+    },
+    {
+      "md": "La **obligatoria** es el puesto que debes aceptar sí o sí. La **voluntaria** es la que puedes aceptar si quieres, porque implica un destino más lejano.\n\n| Etapa | Obligatoria | Voluntaria |\n|---|---|---|\n| 1ª fase | Puesto de la **misma localidad** | Puesto de **distinta localidad** |\n| 2ª fase | Puesto de la **misma localidad** | Puesto de **distinta localidad** |\n| Expectativa de destino | Puesto de la **misma provincia** | Puesto de **distinta provincia** |\n| Excedencia forzosa | **Cualquier puesto del Cuerpo o Escala** | — |",
+      "t": "explica",
+      "titulo": "Paso 3: reasignación obligatoria y voluntaria"
+    },
+    {
+      "md": "**Retribuciones** (bajan por etapas):\n\n- **1ª y 2ª fase**: **todas las del puesto suprimido**.\n- **Expectativa de destino**: **retribuciones básicas, complemento de destino del grado y 50% del específico**.\n- **Excedencia forzosa**: **retribuciones básicas y prestaciones por hijo a su cargo**.\n\n**Obligaciones**:\n\n- **1ª y 2ª fase**: se podrán asignar **funciones adecuadas a su Cuerpo o Escala**.\n- **Expectativa de destino**: **aceptar cualquier destino en la provincia**; **participar en concursos con puesto en la provincia**; **participar en cursos**.\n- **Excedencia forzosa**: **no podrá desempeñar ningún puesto en el sector público**. El incumplimiento provoca **excedencia voluntaria**.",
+      "t": "explica",
+      "titulo": "Paso 4: retribuciones y obligaciones"
+    },
+    {
+      "md": "Una funcionaria de un Ministerio ve **suprimido su puesto** por un Plan de Empleo.\n\n- **Meses 0-6 (1ª fase)**: cobra **todas las retribuciones de su puesto suprimido**. El **Subsecretario** puede reasignarla a un puesto del mismo Ministerio u Organismos autónomos. Si es en su misma localidad, es **obligatorio**; si es en otra localidad, es **voluntario**. Pueden asignarle funciones adecuadas a su Cuerpo.\n- **Meses 6-9 (2ª fase)**: sigue cobrando **todo**. Ahora reasigna **Hacienda y FP** a **cualquier Ministerio**, con la misma regla (misma localidad obligatorio, otra localidad voluntario).\n- **Tras el mes 9 (expectativa de destino)**: pasa a cobrar **básicas + complemento de destino del grado + 50% del específico**. Durante **un año** debe aceptar cualquier destino de su provincia, participar en concursos con puesto en la provincia y hacer cursos.\n- **Si pasa el año sin reasignación, o incumple las obligaciones**: **excedencia forzosa**. Cobra **retribuciones básicas y prestaciones por hijo a su cargo**, no puede trabajar en el sector público y la duración es **indefinida**. Si incumple, pasa a **excedencia voluntaria**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Plazos 6-3-1-∞**: **6** meses, **3** meses, **1** año, **indefinida**.\n- **Quién reasigna**: 1ª fase = **S**ubsecretario (\"en casa\"); el resto = **H**acienda y FP.\n- **Ámbito**: **Localidad → Localidad → Provincia → Todo el Cuerpo o Escala**. Se va ensanchando.\n- **Sueldo en escalera descendente**: **100% → 100% → básicas + destino + 50% específico → básicas + hijos**.\n- **Medio específico**: en la expectativa de destino solo cobras la **mitad (50%) del específico**.\n- **Excedencia forzosa = \"sin trabajo público\"**: no puedes ocupar ningún puesto del sector público; si lo incumples, excedencia voluntaria.",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| | 1ª fase | 2ª fase | Expectativa de destino | Excedencia forzosa |\n|---|---|---|---|---|\n| **Inicio** | Con la supresión del puesto a consecuencia de un Plan de Empleo | A los seis meses, desde la supresión del puesto | A la finalización de la segunda fase | Cuando finalice la expectativa de destino o cuando se incumplan las obligaciones que derivan de la misma |\n| **Duración** | Seis meses desde la supresión del puesto | Tres meses desde el final de la primera fase | Un año, mientras cumpla las obligaciones y no se produzca la reasignación | Indefinida |\n| **Ámbito** | Mismo Ministerio y sus Organismos autónomos (Subsecretario) | Cualquier Ministerio, por el Ministerio de Hacienda y FP | Cualquier Ministerio, por el Ministerio de Hacienda y FP | Cualquier ámbito, por el Ministerio de Hacienda y FP |\n| **Obligatoria** | Puesto de la misma localidad | Puesto de la misma localidad | Puesto de la misma provincia | Cualquier puesto del Cuerpo o Escala |\n| **Voluntaria** | Puesto de distinta localidad | Puesto de distinta localidad | Puesto de distinta provincia | — |\n| **Retribuciones** | Todas las del puesto suprimido | Todas las del puesto suprimido | Retribuciones básicas, complemento de destino del grado y 50% del específico | Retribuciones básicas y prestaciones por hijo a su cargo |\n| **Obligaciones** | Se podrán asignar funciones adecuadas a su Cuerpo o Escala | Se podrán asignar funciones adecuadas a su Cuerpo o Escala | Aceptar cualquier destino en la provincia; participar en concursos con puesto en la provincia; participar en cursos | No podrá desempeñar ningún puesto en el sector público. Incumplimiento provoca excedencia voluntaria |",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "Un funcionario cuyo puesto ha sido suprimido por un Plan de Empleo se encuentra en el mes cuatro desde la supresión. ¿Qué órgano puede reasignarlo y en qué ámbito?",
+      "explicacion": "En el mes cuatro está en la 1ª fase (seis meses desde la supresión), en la que reasigna el Subsecretario dentro del mismo Ministerio y sus Organismos autónomos.",
+      "opciones": [
+        "El Subsecretario, en el mismo Ministerio y sus Organismos autónomos",
+        "El Subsecretario, en cualquier Ministerio",
+        "El Ministerio de Hacienda y FP, en cualquier Ministerio",
+        "El Ministerio de Hacienda y FP, solo en la misma provincia"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuánto tiempo dura la segunda fase de la reasignación?",
+      "explicacion": "La 2ª fase dura tres meses desde el final de la primera fase, y empieza a los seis meses de la supresión del puesto.",
+      "opciones": [
+        "Es indefinida",
+        "Un año desde el final de la primera fase",
+        "Seis meses desde la supresión del puesto",
+        "Tres meses desde el final de la primera fase"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Durante la expectativa de destino, ¿qué retribuciones percibe el funcionario?",
+      "explicacion": "En expectativa de destino se cobran retribuciones básicas, complemento de destino del grado y el 50% del complemento específico.",
+      "opciones": [
+        "Retribuciones básicas y el complemento específico completo",
+        "Solo las retribuciones básicas y prestaciones por hijo a su cargo",
+        "Retribuciones básicas, complemento de destino del grado y 50% del específico",
+        "Todas las del puesto suprimido"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Un funcionario en expectativa de destino rechaza incumplir sus obligaciones y no participa en ningún curso ni acepta destinos. Según la nota, ¿qué ocurre?",
+      "explicacion": "La excedencia forzosa se inicia cuando finaliza la expectativa de destino o cuando se incumplen las obligaciones que derivan de la misma.",
+      "opciones": [
+        "Vuelve a la primera fase de reasignación",
+        "Pasa a excedencia forzosa, porque la expectativa de destino finaliza cuando se incumplen sus obligaciones",
+        "Se le reasigna obligatoriamente a cualquier Ministerio",
+        "Continúa en expectativa de destino otro año"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Respecto a la excedencia forzosa, ¿cuál de estas afirmaciones es correcta según la nota?",
+      "explicacion": "La excedencia forzosa es indefinida, con retribuciones básicas y prestaciones por hijo a su cargo; no se puede desempeñar ningún puesto en el sector público y su incumplimiento provoca excedencia voluntaria. La reasignación obligatoria abarca cualquier puesto del Cuerpo o Escala.",
+      "opciones": [
+        "Dura un año y se cobra el 50% del específico",
+        "Es indefinida, se perciben retribuciones básicas y prestaciones por hijo a su cargo, y el incumplimiento provoca excedencia voluntaria",
+        "La reasignación obligatoria se limita a un puesto de la misma provincia",
+        "El funcionario puede ocupar puestos en el sector público de otra Administración"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La 1ª fase dura seis meses desde la supresión del puesto y reasigna el Subsecretario (mismo Ministerio y sus Organismos autónomos)",
+      "La 2ª fase dura tres meses desde el final de la primera fase y reasigna el Ministerio de Hacienda y FP en cualquier Ministerio",
+      "En 1ª y 2ª fase se perciben todas las retribuciones del puesto suprimido",
+      "La expectativa de destino dura un año, mientras cumpla las obligaciones y no se produzca la reasignación, y se perciben retribuciones básicas, complemento de destino del grado y 50% del específico",
+      "La excedencia forzosa es indefinida y se perciben retribuciones básicas y prestaciones por hijo a su cargo",
+      "En excedencia forzosa no se puede desempeñar ningún puesto en el sector público; el incumplimiento provoca excedencia voluntaria"
+    ],
+    "consigna": "Explica con tus palabras cómo funciona la reasignación de efectivos desde que se suprime un puesto por un Plan de Empleo: las fases, cuánto dura cada una, quién reasigna, qué se cobra y qué obligaciones hay en la expectativa de destino y en la excedencia forzosa."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Provisión de puestos de trabajo",
+  "objetivo": "Describir las fases de la reasignación de efectivos (primera y segunda fase), la expectativa de destino y la excedencia forzosa, con su inicio, duración, ámbito, tipo de reasignación, retribuciones y obligaciones.",
+  "orden": 16,
+  "preguntasBanco": [
+    11,
+    46
+  ],
+  "resumen": "La reasignación de efectivos comienza al suprimirse un puesto por un Plan de Empleo: 1ª fase de seis meses (reasigna el Subsecretario en su Ministerio y Organismos autónomos) y 2ª fase de tres meses (reasigna Hacienda y FP en cualquier Ministerio), con todas las retribuciones del puesto suprimido. Después viene la expectativa de destino de un año (básicas, complemento de destino del grado y 50% del específico) y, al terminar o incumplir, la excedencia forzosa indefinida (básicas y prestaciones por hijo a su cargo, sin poder ocupar puestos en el sector público).",
+  "tema": "B1-T4.1",
+  "titulo": "Reasignación de efectivos"
+}

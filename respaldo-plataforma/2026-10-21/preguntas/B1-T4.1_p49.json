@@ -1,0 +1,14 @@
+{
+  "apartado": "Incompatibilidades",
+  "correcta": 1,
+  "enunciado": "En el régimen de incompatibilidades, ¿cuál es el régimen máximo de dedicación con el que se puede autorizar la compatibilidad para ejercer como Profesor universitario asociado?",
+  "explicacion": "Nota: compatibilidad como Profesor universitario asociado en régimen de dedicación no superior a tiempo parcial (30 horas semanales) y con duración determinada.",
+  "n": 49,
+  "opciones": [
+    "Tiempo parcial, 20 horas semanales",
+    "Tiempo parcial, 30 horas semanales",
+    "Tiempo completo, 35 horas semanales",
+    "Tiempo parcial, 25 horas semanales"
+  ],
+  "tema": "B1-T4.1"
+}

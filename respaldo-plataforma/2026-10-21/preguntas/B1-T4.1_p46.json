@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 0,
+  "enunciado": "En la primera fase de la reasignación de efectivos, ¿cuál es su duración y quién realiza la reasignación?",
+  "explicacion": "Nota (tabla de reasignación): 1ª fase de seis meses desde la supresión del puesto, en el mismo Ministerio y sus Organismos autónomos (Subsecretario).",
+  "n": 46,
+  "opciones": [
+    "6 meses desde la supresión del puesto; el Subsecretario, dentro del mismo Ministerio y sus Organismos autónomos",
+    "3 meses desde la supresión del puesto; el Ministerio de Hacienda y Función Pública, en cualquier Ministerio",
+    "6 meses desde la supresión del puesto; el Ministerio de Hacienda y Función Pública, en cualquier Ministerio",
+    "1 año desde la supresión del puesto; el Subsecretario, dentro del mismo Ministerio"
+  ],
+  "tema": "B1-T4.1"
+}

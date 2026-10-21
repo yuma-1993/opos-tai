@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución",
+  "correcta": 3,
+  "enunciado": "Una reforma constitucional se tramita por el procedimiento ordinario y se aprueba conforme a la primera de sus modalidades. ¿Qué mayoría exige esa modalidad?",
+  "explicacion": "La primera modalidad del procedimiento ordinario es la aprobación por 3/5 de cada Cámara. El distractor más tentador es 2/3 del Congreso y mayoría absoluta del Senado, que es la segunda modalidad; 2/3 de cada Cámara es una mayoría propia del procedimiento agravado.",
+  "lote": 1792487818082,
+  "n": 28,
+  "opciones": [
+    "2/3 del Congreso y mayoría absoluta del Senado",
+    "2/3 de cada Cámara",
+    "3/5 del Congreso y mayoría absoluta del Senado",
+    "3/5 de cada Cámara"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Codificación de caracteres",
+  "correcta": 0,
+  "enunciado": "¿Qué codificación de 8 bits incorpora el símbolo € además de la Ñ y las tildes?",
+  "explicacion": "Nota: ISO 8859-1 tiene Ñ y tildes pero no €; ISO-8859-15 incorpora el €.",
+  "n": 28,
+  "opciones": [
+    "ISO-8859-15",
+    "ISO 8859-1 (Latin-1)",
+    "ASCII",
+    "EBCDIC"
+  ],
+  "tema": "B2-T1"
+}

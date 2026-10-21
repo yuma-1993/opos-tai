@@ -1,0 +1,116 @@
+{
+  "bloques": [
+    {
+      "md": "Un número como 263,3 se guarda igual que se escribe en **notación científica**: unas cifras significativas multiplicadas por una potencia. En binario es la misma idea, con potencias de 2.\n\nEl estándar **IEEE 754** reparte los bits del número en tres campos: **signo**, **exponente** y **mantisa** (las cifras significativas).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Precisión | Total | Signo | Exponente | Mantisa |\n|---|---|---|---|---|\n| Simple | 32 bits | 1 | 8 | 23 |\n| Doble | 64 bits | 1 | 11 | 52 |\n\nSimple: 1 + 8 + 23 = 32. Doble: 1 + 11 + 52 = 64.",
+      "t": "explica",
+      "titulo": "Los dos formatos"
+    },
+    {
+      "md": "En precisión simple el exponente no se guarda tal cual: se le suma **127**. Se llama **sesgo**.\n\nSi el exponente es 8, se guarda 8 + 127 = **135** = `10000111`.",
+      "t": "explica",
+      "titulo": "El sesgo del exponente"
+    },
+    {
+      "md": "Sirve para poder guardar exponentes negativos sin necesitar un bit de signo para el exponente. No viene de tus notas.",
+      "t": "ampliacion",
+      "titulo": "Por qué existe el sesgo (conocimiento general)"
+    },
+    {
+      "md": "1. **Parte entera**: 263 dividiendo entre 2 → `100000111`.\n2. **Parte decimal**: 0,3 multiplicando por 2 una y otra vez, y anotando la parte entera de cada resultado:\n   - 0,3 × 2 = 0,6 → 0\n   - 0,6 × 2 = 1,2 → 1\n   - 0,2 × 2 = 0,4 → 0\n   - 0,4 × 2 = 0,8 → 0\n   - 0,8 × 2 = 1,6 → 1\n   - 0,6 × 2 = 1,2 → 1 (ya apareció antes: el patrón se repite)\n   Así sale `01001` y después se repite el periodo `1001`.\n3. Se junta: `100000111,01001…` y se mueve la coma hasta dejar una sola cifra delante: `1,0000011101001… × 2⁸`.\n4. **Signo**: 0 (positivo). **Exponente**: 8 + 127 = 135 = `10000111`. **Mantisa**: las cifras que hay detrás de la coma, hasta 23 bits.\n5. **Resultado**: `0 10000111 00000111010011001100110`.",
+      "t": "ejemplo",
+      "titulo": "263,3 en precisión simple, paso a paso"
+    },
+    {
+      "md": "Simple = 1-8-23 y sesgo 127. Doble = 1-11-52. Los pasos son siempre los mismos: entera ÷ 2, decimal × 2, notación científica, exponente + sesgo.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Simple: **32 bits** = 1 signo + 8 exponente + 23 mantisa.\n- Doble: **64 bits** = 1 signo + 11 exponente + 52 mantisa.\n- En precisión simple el exponente se almacena **sesgado (+127)**.\n- 263,3 → `0 10000111 00000111010011001100110`.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cómo se reparten los 32 bits de la precisión simple?",
+      "explicacion": "Simple: 1 de signo, 8 de exponente y 23 de mantisa.",
+      "opciones": [
+        "1 + 11 + 20",
+        "1 + 8 + 23",
+        "8 + 8 + 16",
+        "1 + 10 + 21"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuántos bits de exponente tiene la precisión doble?",
+      "explicacion": "Doble: 1 + 11 + 52 = 64.",
+      "opciones": [
+        "8",
+        "10",
+        "11",
+        "52"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuántos bits de mantisa tiene la precisión doble?",
+      "explicacion": "La mantisa doble tiene 52 bits.",
+      "opciones": [
+        "23",
+        "52",
+        "53",
+        "64"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué sesgo se suma al exponente en precisión simple?",
+      "explicacion": "El exponente se almacena sesgado con +127.",
+      "opciones": [
+        "+64",
+        "+128",
+        "+255",
+        "+127"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "En precisión simple, ¿cómo se almacena un exponente de valor 8?",
+      "explicacion": "8 + 127 = 135, que en binario es 10000111.",
+      "opciones": [
+        "135 = 10000111",
+        "8 = 00001000",
+        "119",
+        "136"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Simple: 32 bits = 1 signo + 8 exponente + 23 mantisa; doble: 64 bits = 1 + 11 + 52",
+      "El exponente se guarda sesgado: en simple se suma 127",
+      "La parte entera se pasa dividiendo entre 2 y la decimal multiplicando por 2",
+      "Se pasa a notación científica y el exponente se guarda con el sesgo (8 + 127 = 135)"
+    ],
+    "consigna": "Explícame cómo reparte IEEE 754 los bits en precisión simple y doble, qué es el sesgo y los pasos para pasar un número decimal como 263,3."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Entender cómo se guarda un número con decimales en 32 o 64 bits y repetir el ejemplo de 263,3.",
+  "orden": 6,
+  "preguntasBanco": [
+    23,
+    24
+  ],
+  "resumen": "IEEE 754: simple 1+8+23 (sesgo +127), doble 1+11+52. Pasos: entera ÷ 2, decimal × 2, notación científica, exponente + sesgo.",
+  "tema": "B2-T1",
+  "titulo": "Números decimales: coma flotante IEEE 754"
+}

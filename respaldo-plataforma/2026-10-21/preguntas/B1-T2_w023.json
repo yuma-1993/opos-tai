@@ -1,0 +1,16 @@
+{
+  "apartado": "El Defensor del Pueblo",
+  "correcta": 3,
+  "enunciado": "Entre las causas de cese del Defensor del Pueblo figuran la muerte o incapacidad sobrevenida y otra relacionada con una condena. ¿Cuál es la formulación correcta de esta última?",
+  "explicacion": "Cesa por condena por sentencia firme por delito doloso. Los distractores amplían a cualquier delito (incluidos los imprudentes), rebajan la exigencia a primera instancia o a un simple procesamiento, y ninguno aparece en la nota.",
+  "lote": 1792504590395,
+  "n": 23,
+  "opciones": [
+    "Condena por sentencia firme por cualquier delito",
+    "Procesamiento por delito doloso",
+    "Condena por sentencia en primera instancia por delito doloso",
+    "Condena por sentencia firme por delito doloso"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

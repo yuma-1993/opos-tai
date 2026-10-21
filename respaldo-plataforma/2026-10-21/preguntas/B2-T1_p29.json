@@ -1,0 +1,14 @@
+{
+  "apartado": "Codificación de caracteres",
+  "correcta": 2,
+  "enunciado": "¿Qué característica tiene UTF-8?",
+  "explicacion": "Nota: UTF-8 es de longitud variable (1–4 bytes); los de 1 byte coinciden con ASCII. UTF-16 es variable de 2–4 bytes.",
+  "n": 29,
+  "opciones": [
+    "Longitud fija de 2 bytes",
+    "Longitud variable de 2 a 4 bytes",
+    "Longitud variable de 1 a 4 bytes; los de 1 byte coinciden con ASCII",
+    "Longitud fija de 1 byte"
+  ],
+  "tema": "B2-T1"
+}

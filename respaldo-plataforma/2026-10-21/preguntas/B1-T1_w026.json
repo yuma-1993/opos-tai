@@ -1,0 +1,16 @@
+{
+  "apartado": "Estados de alarma, excepción y sitio",
+  "correcta": 2,
+  "enunciado": "Durante un estado de excepción, una persona es detenida. ¿Qué ocurre con el derecho a ser informada de los motivos de su detención?",
+  "explicacion": "En excepción se suspende el artículo 17 salvo el 17.3, que recoge la información al detenido y la asistencia de abogado, y que no puede suspenderse. La opción tentadora es suspender todo el artículo 17.",
+  "lote": 1792487818082,
+  "n": 26,
+  "opciones": [
+    "Se suspende si lo autoriza el Congreso de los Diputados",
+    "Se suspende, salvo la asistencia de abogado, que es la única garantía del 17.3",
+    "No puede suspenderse, al estar recogido en el artículo 17.3",
+    "Se suspende, igual que el resto del artículo 17"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

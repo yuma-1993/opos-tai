@@ -1,0 +1,14 @@
+{
+  "apartado": "Jubilación",
+  "correcta": 1,
+  "enunciado": "¿A qué edad se declara de oficio la jubilación forzosa del funcionario y hasta qué edad puede solicitar como máximo la prolongación de su permanencia?",
+  "explicacion": "Nota: la jubilación forzosa se declara de oficio a los 65 años; se puede solicitar la prolongación como máximo hasta los 70.",
+  "n": 1,
+  "opciones": [
+    "65 años; prolongación hasta los 67",
+    "65 años; prolongación hasta los 70",
+    "67 años; prolongación hasta los 70",
+    "65 años; prolongación hasta los 72"
+  ],
+  "tema": "B1-T4.1"
+}

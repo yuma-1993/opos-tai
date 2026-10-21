@@ -1,0 +1,114 @@
+{
+  "bloques": [
+    {
+      "md": "El **artículo 55** funciona como un «interruptor de emergencia»: cuando hay un estado de **excepción** o de **sitio**, se pueden apagar temporalmente algunos derechos y libertades. Pero hay un derecho con el interruptor bloqueado: la **información al detenido y la asistencia de abogado** (art. 17.3) no se pueden suspender en el estado de excepción.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. La suspensión de derechos está en el **Capítulo V**, «De la Suspensión de derechos y libertades».\n2. Se regula en el **artículo 55**.\n3. Solo se puede suspender **en los estados de excepción o de sitio**.\n4. No se trata de todos los derechos: solo los que enumera el artículo 55.",
+      "t": "explica",
+      "titulo": "Cuándo se puede suspender"
+    },
+    {
+      "md": "Según la nota, se pueden suspender estos derechos y libertades:\n\n- **Libertad**.\n- **Domicilio inviolable**.\n- **Secreto de las comunicaciones**.\n- **Libre elección de residencia y circulación**.\n- **Expresar y difundir** pensamientos, ideas y opiniones.\n- **Comunicar o recibir información**.\n- **Secuestro de publicaciones y grabaciones** por resolución judicial.\n- **Reunión pacífica y sin armas**.\n- **Huelga**.\n- **Medidas de conflicto colectivo**.",
+      "t": "explica",
+      "titulo": "Qué derechos se pueden suspender"
+    },
+    {
+      "md": "No puede suspenderse la **información al detenido** ni la **asistencia de abogado** en el estado de excepción. Se recoge en el **artículo 17.3**.\n\nAunque la libertad se puede suspender, el detenido sigue teniendo estas dos garantías.",
+      "t": "explica",
+      "titulo": "Qué NO se puede suspender"
+    },
+    {
+      "md": "Supongamos que se declara el estado de excepción y una persona es detenida.\n\n- ¿Se pueden suspender la libertad o el domicilio inviolable? **Sí**, están en la lista del art. 55.\n- ¿Se puede dejar al detenido sin saber por qué lo detienen? **No**: la información al detenido no puede suspenderse (art. 17.3).\n- ¿Se le puede negar el abogado? **No**: la asistencia de abogado tampoco puede suspenderse (art. 17.3).",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Agrupa la lista en bloques:\n\n- **Persona y hogar**: libertad, domicilio, comunicaciones.\n- **Movimiento**: residencia y circulación.\n- **Palabra e información**: expresar y difundir, comunicar o recibir información, secuestro de publicaciones (con resolución judicial).\n- **Acción colectiva**: reunión, huelga, conflicto colectivo.\n\nLo único intocable: **detenido informado + abogado** (17.3).",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "- **Artículo 55**: en los estados de **excepción o de sitio** se pueden suspender: libertad, domicilio inviolable, secreto de las comunicaciones, libre elección de residencia y circulación, expresar y difundir pensamientos, ideas y opiniones, comunicar o recibir información, secuestro de publicaciones y grabaciones por resolución judicial, reunión pacífica y sin armas, huelga, medidas de conflicto colectivo.\n- **NO puede suspenderse**: la información al detenido y la asistencia de abogado en el estado de excepción (**artículo 17.3**).\n- Ubicación: **Capítulo V**, «De la Suspensión de derechos y libertades».",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿En qué situaciones permite el artículo 55 suspender derechos y libertades?",
+      "explicacion": "Según la nota, el art. 55 prevé la suspensión en los estados de excepción o de sitio.",
+      "opciones": [
+        "Solo cuando se reforma la Constitución",
+        "Solo en el estado de sitio",
+        "Solo en los estados de excepción o de sitio",
+        "En cualquier momento por decisión del Gobierno"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de estos derechos NO puede suspenderse en el estado de excepción?",
+      "explicacion": "La información al detenido y la asistencia de abogado no pueden suspenderse (art. 17.3). Los demás sí están en la lista del art. 55.",
+      "opciones": [
+        "El secreto de las comunicaciones",
+        "La huelga",
+        "La reunión pacífica y sin armas",
+        "La asistencia de abogado al detenido"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué artículo recoge la garantía de información al detenido y asistencia de abogado que no se suspende?",
+      "explicacion": "La nota indica que la no suspensión de esta garantía se recoge en el artículo 17.3.",
+      "opciones": [
+        "Artículo 53",
+        "Artículo 17.3",
+        "Artículo 14",
+        "Artículo 55"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál de los siguientes derechos figura entre los que pueden suspenderse según el art. 55?",
+      "explicacion": "La libre elección de residencia y circulación está en la lista del art. 55. Las otras dos son las garantías del art. 17.3 que no se suspenden.",
+      "opciones": [
+        "Libre elección de residencia y circulación",
+        "Ninguno de los anteriores",
+        "Información al detenido",
+        "Asistencia de abogado en el estado de excepción"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Respecto al secuestro de publicaciones y grabaciones, ¿qué condición señala la nota?",
+      "explicacion": "La nota indica «secuestro de publicaciones y grabaciones por resolución judicial».",
+      "opciones": [
+        "Solo procede en el estado de sitio",
+        "Debe hacerlo el Gobierno sin más trámite",
+        "Requiere resolución judicial",
+        "Es un derecho que no puede suspenderse"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "en los estados de excepción o de sitio se pueden suspender derechos y libertades",
+      "libertad, domicilio inviolable, secreto de las comunicaciones",
+      "libre elección de residencia y circulación",
+      "reunión pacífica y sin armas, huelga, medidas de conflicto colectivo",
+      "No puede suspenderse la información al detenido y la asistencia de abogado en el estado de excepción (artículo 17.3)"
+    ],
+    "consigna": "Explica con tus palabras cuándo se pueden suspender derechos según el artículo 55, cuáles son y qué garantía del detenido no puede suspenderse."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Garantías y suspensión de los derechos",
+  "objetivo": "Enumerar qué derechos y libertades pueden suspenderse según el artículo 55 en los estados de excepción o de sitio, y saber cuál no puede suspenderse (información al detenido y asistencia de abogado, art. 17.3).",
+  "orden": 9,
+  "preguntasBanco": [],
+  "resumen": "El artículo 55 permite suspender, en los estados de excepción o de sitio, derechos como la libertad, el domicilio inviolable, el secreto de las comunicaciones, la residencia y circulación, la expresión e información, la reunión, la huelga y los conflictos colectivos. Lo que no puede suspenderse es la información al detenido y la asistencia de abogado en el estado de excepción (art. 17.3).",
+  "tema": "B1-T1",
+  "titulo": "Suspensión de derechos y libertades (art. 55)"
+}

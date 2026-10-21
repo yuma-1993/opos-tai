@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional > Presidencia del Tribunal Constitucional",
+  "correcta": 2,
+  "enunciado": "En la elección del Presidente del Tribunal Constitucional se produce un empate en la segunda votación y también en la última votación. ¿Cómo se resuelve y quién lo nombra?",
+  "explicacion": "Orden: mayoría absoluta, mayor número de votos, última votación si hay empate, y si persiste, mayor antigüedad en el cargo, y después mayor edad. El nombramiento es por el Rey a propuesta del TC en Pleno. El segundo distractor altera el orden de los criterios.",
+  "lote": 1792504590395,
+  "n": 24,
+  "opciones": [
+    "Se propone al de mayor antigüedad en el cargo; lo nombra el Rey a propuesta del Gobierno",
+    "Se propone al de mayor edad (y, si hay igualdad, al de mayor antigüedad); lo nombra el Rey a propuesta del Pleno del TC",
+    "Se propone al de mayor antigüedad en el cargo (y, si hay igualdad, al de mayor edad); lo nombra el Rey a propuesta del Pleno del TC",
+    "Se repite la votación por mayoría absoluta hasta que haya un ganador; lo nombra el Rey a propuesta del Pleno del TC"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

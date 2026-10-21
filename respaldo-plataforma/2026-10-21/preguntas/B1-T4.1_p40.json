@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 1,
+  "enunciado": "Un empleado público con un hijo menor de 12 meses tiene derecho a un permiso por lactancia. ¿Cuál de las siguientes afirmaciones es correcta según la nota?",
+  "explicacion": "Nota: 1 hora diaria de ausencia, con incremento proporcional en partos múltiples; derecho individual del funcionario, no transferible; puede acumularse en jornadas completas.",
+  "n": 40,
+  "opciones": [
+    "Es un derecho de la madre, transferible al otro progenitor",
+    "Es un derecho individual del funcionario, no transferible, de 1 hora diaria de ausencia",
+    "Es un derecho de 2 horas diarias de ausencia, con incremento proporcional en partos múltiples",
+    "Solo puede disfrutarse como ausencia diaria, nunca acumulado en jornadas completas"
+  ],
+  "tema": "B1-T4.1"
+}

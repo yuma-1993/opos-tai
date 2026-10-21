@@ -1,0 +1,16 @@
+{
+  "apartado": "Las fuentes del Derecho > Fuentes del ordenamiento jurídico español",
+  "correcta": 2,
+  "enunciado": "Una norma no escrita nace del uso social constante y uniforme, y se pretende aplicar en un caso concreto. ¿Qué condiciones debe cumplir para regir?",
+  "explicacion": "La costumbre solo rige en defecto de ley aplicable, si no es contraria a la moral ni al orden público y si resulta probada su existencia. Los distractores alteran el requisito de defecto de ley o añaden exigencias que la nota no recoge.",
+  "lote": 1792504590395,
+  "n": 43,
+  "opciones": [
+    "Que no sea contraria a la moral ni al orden público y que prevalezca sobre la ley en caso de conflicto",
+    "Que exista ley aplicable que la remita expresamente, que no sea contraria a la moral y que esté publicada en el BOE",
+    "Que no exista ley aplicable, que no sea contraria a la moral ni al orden público y que su existencia esté probada",
+    "Que no exista ley aplicable ni principios generales del Derecho y que la haya declarado el Tribunal Supremo"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

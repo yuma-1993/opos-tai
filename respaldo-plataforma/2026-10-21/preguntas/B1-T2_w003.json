@@ -1,0 +1,16 @@
+{
+  "apartado": "Composición del Tribunal Constitucional",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre los requisitos para ser miembro del Tribunal Constitucional es correcta?",
+  "explicacion": "La nota exige juristas de reconocida competencia con más de 15 años y que sean Magistrados, Fiscales, Profesores de Universidad, funcionarios públicos o Abogados. Los distractores cambian la cifra o recortan la lista de categorías.",
+  "lote": 1792504590395,
+  "n": 3,
+  "opciones": [
+    "Ha de ser jurista de reconocida competencia con más de 10 años de ejercicio profesional, y ser Magistrado, Fiscal, Profesor de Universidad, funcionario público o Abogado",
+    "Ha de ser jurista de reconocida competencia con más de 15 años de ejercicio profesional, y ser exclusivamente Magistrado, Fiscal o Profesor de Universidad",
+    "Ha de ser jurista de reconocida competencia con más de 15 años de ejercicio profesional, y ser Magistrado, Fiscal, Profesor de Universidad, funcionario público o Abogado",
+    "Ha de ser jurista de reconocida competencia con más de 20 años de ejercicio profesional, y ser Magistrado, Fiscal, Profesor de Universidad o Abogado"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

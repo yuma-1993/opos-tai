@@ -1,0 +1,14 @@
+{
+  "apartado": "Buses y reloj",
+  "correcta": 1,
+  "enunciado": "¿En qué consiste el overclocking?",
+  "explicacion": "Nota: el reloj interno es un múltiplo del externo; overclocking = subir ese factor multiplicador.",
+  "n": 34,
+  "opciones": [
+    "En bajar el factor multiplicador para reducir el calor",
+    "En subir el factor multiplicador del reloj interno respecto al externo: más velocidad, pero más calor e inestabilidad",
+    "En sincronizar la CPU con la placa base",
+    "En ampliar la caché L1"
+  ],
+  "tema": "B2-T1"
+}

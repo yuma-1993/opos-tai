@@ -1,0 +1,16 @@
+{
+  "apartado": "El recurso de amparo",
+  "correcta": 0,
+  "enunciado": "Una asociación considera que un acto de una entidad pública ha vulnerado el derecho de igualdad ante la ley (art. 14 CE). ¿Qué afirmación sobre el recurso de amparo es correcta?",
+  "explicacion": "Según la nota, son susceptibles de amparo los arts. 14 a 29 y 30.2, y están legitimadas toda persona natural o jurídica con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal. El distractor tentador excluye el art. 14 por confusión con el rango 15-29.",
+  "lote": 1792504590395,
+  "n": 11,
+  "opciones": [
+    "Puede interponerlo porque el art. 14 es susceptible de amparo, y también podrían hacerlo el Defensor del Pueblo y el Ministerio Fiscal",
+    "Solo puede interponerlo si el art. 14 se invoca junto con el art. 30.2, que es el único del que se predica el amparo",
+    "No puede interponerlo porque el art. 14 queda fuera del amparo, que solo cubre los arts. 15 a 29",
+    "Solo puede interponerlo el Defensor del Pueblo, pues las personas jurídicas carecen de legitimación"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

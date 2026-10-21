@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución (artículos 166 a 169)",
+  "correcta": 3,
+  "enunciado": "¿Qué modificó la reforma constitucional del artículo 69.3 sancionada el 19 de mayo de 2026?",
+  "explicacion": "La tabla de reformas indica que el art. 69.3 concedió un senador propio a Formentera, con publicación en el BOE el día 20. Los distractores sustituyen la isla o el contenido.",
+  "lote": 1792487818082,
+  "n": 23,
+  "opciones": [
+    "Fijó el número de senadores de las ciudades de Ceuta y Melilla",
+    "Concedió un senador propio a Ibiza",
+    "Concedió un senador propio a Menorca",
+    "Concedió un senador propio a Formentera"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

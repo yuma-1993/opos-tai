@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 1,
+  "enunciado": "¿Quién tiene derecho a ausentarse del trabajo por fecundación o reproducción asistida, y por cuánto tiempo?",
+  "explicacion": "Nota: derecho a ausentarse del trabajo para técnicas de fecundación o reproducción asistida por el tiempo necesario y previa justificación.",
+  "n": 47,
+  "opciones": [
+    "Solo las funcionarias, durante 3 días hábiles",
+    "Los empleados públicos, por el tiempo necesario y previa justificación",
+    "Solo las funcionarias, durante el tiempo indispensable y sin necesidad de justificación",
+    "Los empleados públicos, durante un máximo de 1 día al mes"
+  ],
+  "tema": "B1-T4.1"
+}

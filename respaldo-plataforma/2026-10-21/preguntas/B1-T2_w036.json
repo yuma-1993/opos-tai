@@ -1,0 +1,16 @@
+{
+  "apartado": "Incompatibilidades de los miembros del TC / Congreso de los Diputados",
+  "correcta": 3,
+  "enunciado": "Un miembro del Tribunal Constitucional quiere realizar una actividad paralela. ¿Cuál de las siguientes le resulta compatible con su cargo?",
+  "explicacion": "La regla mnemotécnica indica que solo se puede investigar, escribir libros o dar charlas; el resto (funciones directivas en sindicatos, actividades mercantiles, cargos administrativos locales) es incompatible. Hay que cuidar que el mínimo de 2 diputados por provincia (2×50 + 1 Ceuta + 1 Melilla + 248 = 350) es un punto aparte, no relacionado con estas incompatibilidades.",
+  "lote": 1792504590395,
+  "n": 36,
+  "opciones": [
+    "Desempeñar una actividad mercantil",
+    "Ejercer funciones directivas en un sindicato",
+    "Ocupar un cargo administrativo en una Entidad local",
+    "Escribir libros o dar charlas"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

@@ -1,0 +1,27 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Bien: has dado correctamente el reparto de bits en simple (1+8+23) y doble (1+11+52), has explicado que el exponente se guarda sesgado sumando 127 en simple, y has recordado que la parte entera se pasa dividiendo entre 2 y la decimal multiplicando por 2. También has citado bien el paso a notación científica con 8 + 127 = 135. Para afianzarlo, la próxima vez añade con tus palabras qué significa cada campo (signo, exponente y mantisa) y menciona que el resultado final de 263,3 es 0 10000111 000001",
+    "ok": true,
+    "ts": 1792506792630
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 2,
+      "total": 5,
+      "ts": 1792506524713
+    },
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792506644123
+    }
+  ],
+  "leccion": "B2-T1_L06",
+  "mejorPct": 100,
+  "primeraPct": 40,
+  "repasos": [],
+  "superadaTs": 1792506795077,
+  "tema": "B2-T1"
+}

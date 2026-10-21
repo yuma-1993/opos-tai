@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes > Tramitación y aprobación",
+  "correcta": 2,
+  "enunciado": "Un proyecto de ley ordinaria llega al Senado, que lo veta. Si el Congreso decide esperar en lugar de levantar el veto inmediatamente, ¿qué debe hacer?",
+  "explicacion": "El Congreso puede levantar el veto de inmediato por mayoría absoluta o esperando 2 meses y ratificando por mayoría simple. El distractor de 2 meses con mayoría absoluta mezcla las dos vías.",
+  "lote": 1792504590395,
+  "n": 48,
+  "opciones": [
+    "Esperar 20 días y ratificar el texto original por mayoría simple",
+    "Esperar 2 meses y ratificar el texto original por mayoría absoluta",
+    "Esperar 2 meses y ratificar el texto original por mayoría simple",
+    "Esperar 15 días y ratificar el texto original por mayoría absoluta"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

@@ -1,0 +1,111 @@
+{
+  "bloques": [
+    {
+      "md": "Un ordenador solo distingue dos estados: encendido o apagado, 1 o 0. Cada uno de esos estados es un **bit**, el ladrillo mínimo de información.\n\nNúmeros, letras, fotos y música son, por dentro, combinaciones de bits. Como las palabras son combinaciones de letras.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Hablar de bits sueltos es incómodo, igual que contar huevos de uno en uno. Por eso se agrupan, como en una docena:\n\n| Unidad | Tamaño |\n|---|---|\n| Bit | Unidad mínima (1 o 0) |\n| Crumb | 2 bits |\n| Nibble | 4 bits |\n| Byte | 8 bits |\n\nLa que más se usa es el **byte** (8 bits). El nibble es medio byte: dos nibbles hacen un byte.",
+      "t": "explica",
+      "titulo": "Agrupar bits"
+    },
+    {
+      "md": "Para medir cantidades grandes de bytes se usan prefijos, pero existen **dos sistemas** y no coinciden:\n\n- **Sistema Internacional (SI)**: potencias de 10. 1 KB = 10³ = **1000 bytes**.\n- **ISO/IEC 80000-13**: potencias de 2. 1 KiB = 2¹⁰ = **1024 bytes**.\n\nLa clave: antes se llamaba KB a 1024 B. Hoy un **KB son 1000 B** y el 1024 se escribe **KiB** (kibibyte).",
+      "t": "explica",
+      "titulo": "Kilo, mega, giga: hay dos formas de contar"
+    },
+    {
+      "md": "- 1 GB (SI) = 10⁹ = 1.000.000.000 bytes.\n- 1 GiB (ISO/IEC) = 2³⁰ = 1.073.741.824 bytes.\n\nSe nota la diferencia: el GiB es algo más grande que el GB. (El valor de 2³⁰ es un cálculo, no viene escrito en tus notas.)",
+      "t": "ejemplo",
+      "titulo": "Ejemplo: un giga, dos tamaños"
+    },
+    {
+      "md": "Si el prefijo lleva una **i** en medio (KiB, MiB, GiB) es la versión **binaria** (potencias de 2). Sin la i, es la decimal (potencias de 10). La regla de la i es conocimiento general, no viene de tus notas.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "| SI (potencias de 10) | ISO/IEC 80000-13 (potencias de 2) |\n|---|---|\n| 10³ KB Kilobyte | 2¹⁰ KiB Kibibyte |\n| 10⁶ MB Megabyte | 2²⁰ MiB Mebibyte |\n| 10⁹ GB Gigabyte | 2³⁰ GiB Gibibyte |\n| 10¹² TB Terabyte | 2⁴⁰ TiB Tebibyte |\n| 10¹⁵ PB Petabyte | 2⁵⁰ PiB Pebibyte |\n| 10¹⁸ EB Exabyte | 2⁶⁰ EiB Exbibyte |\n| 10²¹ ZB Zettabyte | 2⁷⁰ ZiB Zebibyte |\n| 10²⁴ YB Yottabyte | 2⁸⁰ YiB Yobibyte |\n| 10²⁷ RB Ronnabyte | 2⁹⁰ RiB Robibyte |\n| 10³⁰ QB Quettabyte | 2¹⁰⁰ QiB Quebibyte |\n\n**KB ≠ KiB**: un KB ya no son 1024 B, son 1000 B en el SI. El 1024 se ha quedado en el estándar ISO/IEC (KiB).",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuántos bits forman un nibble?",
+      "explicacion": "Un nibble son 4 bits, medio byte.",
+      "opciones": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cómo se llama la agrupación de 2 bits?",
+      "explicacion": "Crumb = 2 bits.",
+      "opciones": [
+        "Nibble",
+        "Byte",
+        "Crumb",
+        "Palabra"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Según el Sistema Internacional, 1 KB equivale a:",
+      "explicacion": "En el SI se usan potencias de 10: 1 KB = 10³ = 1000 bytes.",
+      "opciones": [
+        "1000 bytes",
+        "1024 bytes",
+        "1000 bits",
+        "1024 bits"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué unidad equivale a 2³⁰ bytes en la ISO/IEC 80000-13?",
+      "explicacion": "2³⁰ bytes = 1 GiB (gibibyte). El GB del SI es 10⁹.",
+      "opciones": [
+        "GB",
+        "MiB",
+        "TiB",
+        "GiB"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué afirmación sobre KB y KiB es correcta?",
+      "explicacion": "KB = 1000 B (potencias de 10, SI); KiB = 1024 B (potencias de 2, ISO/IEC 80000-13).",
+      "opciones": [
+        "Son siempre iguales",
+        "KiB usa potencias de 10 y KB potencias de 2",
+        "KB (SI) usa potencias de 10 y KiB usa potencias de 2",
+        "KiB solo se usa para discos duros"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El bit es la unidad mínima de información (1 o 0)",
+      "Crumb = 2 bits, nibble = 4 bits, byte = 8 bits",
+      "En el Sistema Internacional 1 KB = 1000 bytes (potencias de 10)",
+      "En ISO/IEC 80000-13 1 KiB = 1024 bytes (potencias de 2)"
+    ],
+    "consigna": "Explícame con tus palabras qué es un bit, cómo se agrupan los bits y cuál es la diferencia entre KB y KiB."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Saber qué es un bit, cómo se agrupan (crumb, nibble, byte) y por qué 1 KB ya no son 1024 bytes.",
+  "orden": 1,
+  "preguntasBanco": [
+    12,
+    13
+  ],
+  "resumen": "Bit = unidad mínima. Crumb 2 bits, nibble 4, byte 8. KB (SI) = 1000 B; KiB (ISO/IEC 80000-13) = 1024 B.",
+  "tema": "B2-T1",
+  "titulo": "El bit y sus unidades"
+}

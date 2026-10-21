@@ -1,0 +1,14 @@
+{
+  "apartado": "Modos de direccionamiento",
+  "correcta": 1,
+  "enunciado": "¿En qué modo de direccionamiento la instrucción da una dirección y en esa dirección hay otra dirección donde está el dato real?",
+  "explicacion": "Nota: inmediato = 0 saltos (el dato va en la instrucción); directo = 1 salto; indirecto = 2 saltos (doble salto).",
+  "n": 38,
+  "opciones": [
+    "Directo",
+    "Indirecto",
+    "Inmediato",
+    "Implícito"
+  ],
+  "tema": "B2-T1"
+}

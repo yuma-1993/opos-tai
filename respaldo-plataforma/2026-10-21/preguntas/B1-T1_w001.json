@@ -1,0 +1,16 @@
+{
+  "apartado": "Aprobación y naturaleza de la Constitución",
+  "correcta": 1,
+  "enunciado": "¿En qué fecha entró en vigor la Constitución Española de 1978?",
+  "explicacion": "La nota indica que se publicó en el BOE el 29/12/1978 y entró en vigor el mismo día de su publicación. El distractor más tentador es el 27/12, que es la fecha de la sanción por el Rey Juan Carlos I, no la de entrada en vigor.",
+  "lote": 1792487818082,
+  "n": 1,
+  "opciones": [
+    "El 30 de diciembre de 1978, al día siguiente de su publicación en el BOE",
+    "El 29 de diciembre de 1978, el mismo día de su publicación en el BOE",
+    "El 6 de diciembre de 1978, el mismo día de su ratificación en referéndum",
+    "El 27 de diciembre de 1978, el mismo día de su sanción por el Rey"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

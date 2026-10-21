@@ -1,0 +1,16 @@
+{
+  "apartado": "Estados de alarma, excepción y sitio",
+  "correcta": 2,
+  "enunciado": "El Gobierno quiere declarar el estado de excepción. ¿Qué requisitos de declaración, duración y prórroga corresponden?",
+  "explicacion": "El estado de excepción se declara por decreto acordado en Consejo de Ministros, previa autorización del Congreso, con un máximo de 30 días y prórroga de otros 30 como máximo. El distractor más tentador es el segundo, que mezcla la duración y la prórroga del estado de alarma.",
+  "lote": 1792487818082,
+  "n": 49,
+  "opciones": [
+    "Decreto en Consejo de Ministros dando cuenta al Congreso; máximo 30 días; prórroga sin plazo señalado",
+    "Decreto en Consejo de Ministros con previa autorización del Congreso; máximo 15 días; prórroga sin plazo señalado",
+    "Decreto en Consejo de Ministros con previa autorización del Congreso; máximo 30 días; prórroga por un máximo de 30 días",
+    "Mayoría absoluta del Congreso a propuesta del Gobierno; máximo 30 días; prórroga por un máximo de 30 días"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

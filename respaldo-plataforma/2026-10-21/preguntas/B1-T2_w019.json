@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes (procedimiento legislativo) > Entrada en vigor",
+  "correcta": 0,
+  "enunciado": "Aprobada definitivamente una ley, ¿cuál es la secuencia y los plazos correctos hasta su vigencia, salvo que se indique otro plazo?",
+  "explicacion": "Sanción y promulgación en 15 días, publicación en el BOE y vigencia a los 20 días. Los distractores intercambian cifras o alteran el orden de la secuencia.",
+  "lote": 1792504590395,
+  "n": 19,
+  "opciones": [
+    "El Rey sanciona y promulga en 15 días, se publica en el BOE y entra en vigor a los 20 días",
+    "El Rey sanciona y promulga en 20 días, se publica en el BOE y entra en vigor a los 15 días",
+    "Se publica en el BOE, el Rey sanciona y promulga en 15 días y entra en vigor a los 20 días",
+    "El Rey sanciona y promulga en 15 días, se publica en el BOE y entra en vigor a los 30 días"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

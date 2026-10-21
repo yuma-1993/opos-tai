@@ -1,0 +1,16 @@
+{
+  "apartado": "La Regencia",
+  "correcta": 2,
+  "enunciado": "Cuando no puede aplicarse la primera forma de Regencia, las Cortes designan una Regencia electiva. ¿Cuántas personas puede ejercerla?",
+  "explicacion": "La segunda forma de Regencia es la electiva, designada por las Cortes, y puede ser individual, o colectiva o dativa, de una, tres o cinco personas. Los distractores alteran la cifra o el conjunto.",
+  "lote": 1792487818082,
+  "n": 33,
+  "opciones": [
+    "Tres, cinco o siete",
+    "Una o tres únicamente",
+    "Una, tres o cinco",
+    "Una, dos o tres"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

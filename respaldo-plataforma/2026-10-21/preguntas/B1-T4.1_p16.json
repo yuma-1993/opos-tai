@@ -1,0 +1,14 @@
+{
+  "apartado": "Jornada y vacaciones",
+  "correcta": 0,
+  "enunciado": "¿Entre qué fechas se puede establecer la jornada de verano intensiva de 6,5 horas con carácter general, y desde cuándo disfrutan de jornada intensiva los empleados con hijos de hasta 12 años por conciliación?",
+  "explicacion": "Nota: jornada de verano entre el 16/06 y el 15/09; con hijos hasta 12 años o discapacidad ≥33 %, del 1/06 al 30/09.",
+  "n": 16,
+  "opciones": [
+    "16/06 a 15/09; del 1/06 al 30/09",
+    "1/06 a 30/09; del 16/06 al 15/09",
+    "16/06 a 15/09; del 1/06 al 15/10",
+    "1/07 a 31/08; del 16/06 al 15/09"
+  ],
+  "tema": "B1-T4.1"
+}

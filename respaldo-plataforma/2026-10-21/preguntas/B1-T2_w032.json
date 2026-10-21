@@ -1,0 +1,16 @@
+{
+  "apartado": "El Defensor del Pueblo",
+  "correcta": 1,
+  "enunciado": "¿Qué requisitos exige la nota para ser Defensor del Pueblo y por cuánto tiempo es elegido?",
+  "explicacion": "El Defensor es elegido por las Cortes Generales para 5 años y basta ser español mayor de edad en pleno disfrute de sus derechos civiles y políticos. El requisito de 15 años de ejercicio corresponde a los miembros del Tribunal Constitucional, y los 9 años a su mandato.",
+  "lote": 1792504590395,
+  "n": 32,
+  "opciones": [
+    "Español mayor de edad en pleno disfrute de sus derechos civiles y políticos; 9 años",
+    "Español mayor de edad en pleno disfrute de sus derechos civiles y políticos; 5 años",
+    "Español mayor de edad, Diputado o Senador en activo; 4 años",
+    "Jurista de reconocida competencia con más de 15 años de ejercicio profesional; 5 años"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "Tabla resumen: Preámbulo, Título Preliminar y Título I completo",
+  "correcta": 3,
+  "enunciado": "¿En qué ámbitos prohíbe el artículo 26 los Tribunales de Honor?",
+  "explicacion": "El artículo 26 prohíbe los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales. Los distractores cambian uno de los dos ámbitos por otras instituciones del Título Preliminar o del Título I (partidos, sindicatos, asociaciones empresariales).",
+  "lote": 1792487818082,
+  "n": 46,
+  "opciones": [
+    "En el ámbito de la Administración civil y de las asociaciones empresariales",
+    "En el ámbito de la Administración civil y de los partidos políticos",
+    "En el ámbito de las organizaciones profesionales y de los sindicatos",
+    "En el ámbito de la Administración civil y de las organizaciones profesionales"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Ámbito de aplicación",
+  "correcta": 2,
+  "enunciado": "¿Qué personal del siguiente listado se rige por el TREBEP solo cuando así lo disponga su legislación específica?",
+  "explicacion": "Nota: el personal del CNI figura entre el personal con legislación específica propia. Entidades locales, Universidades y personal laboral de la AGE entran en el ámbito.",
+  "n": 33,
+  "opciones": [
+    "El personal funcionario de las entidades locales",
+    "El personal de las Universidades Públicas",
+    "El personal del Centro Nacional de Inteligencia",
+    "El personal laboral de la AGE"
+  ],
+  "tema": "B1-T4.1"
+}

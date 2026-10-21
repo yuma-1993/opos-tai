@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 1,
+  "enunciado": "Respecto a la sanción de traslado forzoso, ¿durante cuánto tiempo no se podrá regresar a la localidad si la falta fue muy grave y si fue grave?",
+  "explicacion": "Nota: no se podrá regresar a la localidad durante 3 años si la falta fue muy grave y 1 año si fue grave.",
+  "n": 28,
+  "opciones": [
+    "5 años si fue muy grave; 2 años si fue grave",
+    "3 años si fue muy grave; 1 año si fue grave",
+    "3 años si fue muy grave; 2 años si fue grave",
+    "2 años si fue muy grave; 1 año si fue grave"
+  ],
+  "tema": "B1-T4.1"
+}

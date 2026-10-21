@@ -1,0 +1,14 @@
+{
+  "apartado": "Jubilación",
+  "correcta": 1,
+  "enunciado": "Un funcionario al que le faltan menos de 5 años para la jubilación forzosa solicita la cesación progresiva de actividades con una reducción de jornada al 50 %. ¿Qué porcentaje de las retribuciones básicas y de los complementos de destino y específico percibirá?",
+  "explicacion": "Nota: reducción al 66 % de jornada → 80 % de retribuciones; reducción al 50 % → 60 %.",
+  "n": 5,
+  "opciones": [
+    "50 %",
+    "60 %",
+    "66 %",
+    "80 %"
+  ],
+  "tema": "B1-T4.1"
+}

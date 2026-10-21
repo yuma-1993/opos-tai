@@ -1,0 +1,137 @@
+{
+  "bloques": [
+    {
+      "md": "Las vacaciones son como una **cuenta corriente que empieza en 22 días hábiles** y que va creciendo con los años de servicio: cuanta más antigüedad, más días extra. Los asuntos propios son una **segunda bolsa aparte** de días sueltos. Y los permisos de formación funcionan como una **escalera de tres peldaños**: cuanto más largo el permiso, menos se cobra, hasta llegar al que no se cobra nada.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Partimos de la regla general:\n\n- **22 días hábiles** al año.\n- Se disfrutan **hasta el 31/01** (del año siguiente).\n- Se toman en periodos mínimos de **5 días hábiles consecutivos**.\n- Pero **5 días hábiles al año** pueden disfrutarse sueltos.\n- Al menos **la mitad** de las vacaciones debe disfrutarse **entre el 16/06 y el 15/09**, salvo que el calendario laboral determine otros periodos.",
+      "t": "explica",
+      "titulo": "Paso 1: las vacaciones base y cómo se disfrutan"
+    },
+    {
+      "md": "Sobre los 22 días base se suman días según los años de antigüedad:\n\n| Antigüedad | Días adicionales | Total de vacaciones |\n|---|---|---|\n| 15 años | +1 | 23 |\n| 20 años | +2 | 24 |\n| 25 años | +3 | 25 |\n| 30 años o más | +4 | 26 |\n\nLos totales son la suma de 22 más los adicionales de la nota. Un detalle importante: el tramo se aplica al **cumplir** los años indicados (15, 20, 25, 30).",
+      "t": "explica",
+      "titulo": "Paso 2: los días adicionales por antigüedad"
+    },
+    {
+      "md": "Los **asuntos propios** son una bolsa distinta de las vacaciones:\n\n- Hasta **6 días** por asuntos propios.\n- **No son acumulables** a los periodos de vacaciones.\n- Se pueden disfrutar **hasta el 15/01 del año siguiente** si por motivos de trabajo no se pudieron disfrutar en el año.\n\nDías especiales:\n\n- El **24 y el 31 de diciembre** permanecen cerradas las oficinas públicas (excepto servicios de información, registro general y otros).\n- Si esos días caen en **festivo, sábado o día no laborable**, hay **2 días de permiso adicionales**.\n- **2 días más desde el sexto trienio**.\n- **1 día más por trienio a partir del octavo trienio**.",
+      "t": "explica",
+      "titulo": "Paso 3: asuntos propios y días de Navidad"
+    },
+    {
+      "md": "La formación dentro del horario laboral **se considera tiempo de trabajo**. Para facilitar la formación y el desarrollo profesional existen tres permisos:\n\n1. **Exámenes** para obtener un título académico o profesional reconocido: permiso **retribuido**.\n2. **Cursos de perfeccionamiento profesional**: permiso **percibiendo solo retribuciones básicas**, hasta **40 horas al año**.\n3. **Otros cursos de perfeccionamiento profesional**: permiso **no retribuido**, de **máximo tres meses**.",
+      "t": "explica",
+      "titulo": "Paso 4: tiempo para la formación"
+    },
+    {
+      "md": "**Pregunta:** ¿cuántos días hábiles de vacaciones anuales corresponden a un empleado público con 25 años de antigüedad?\n\n1. Base: **22 días hábiles**.\n2. Con 25 años, adicionales: **+3 días**.\n3. Total: 22 + 3 = **25 días hábiles**.\n\nOtros casos: con 16 años, como ya cumplió 15 y no llega a 20, tiene +1, es decir 23. Con 32 años, +4, es decir 26.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto 1: vacaciones con 25 años"
+    },
+    {
+      "md": "Una persona con 22 días hábiles. ¿Cuántos debe disfrutar como mínimo entre el 16/06 y el 15/09? **La mitad: 11 días**, salvo que el calendario laboral fije otros periodos. ¿Puede cogerlos de 1 en 1? Solo **5 días hábiles** al año pueden ir sueltos; el resto, en bloques de al menos 5 días hábiles consecutivos.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto 2: distribución de las vacaciones"
+    },
+    {
+      "md": "**Pregunta:** ¿cuál es la duración máxima del permiso no retribuido para la asistencia a otros cursos de perfeccionamiento profesional?\n\n- Es el permiso **no retribuido** (el tercer peldaño).\n- Su duración máxima es de **tres meses**.\n- No confundir con las **40 horas al año**, que corresponden al permiso que cobra retribuciones básicas.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto 3: la pregunta de formación"
+    },
+    {
+      "md": "- **Vacaciones: 22 + (1, 2, 3, 4)** en los años **15, 20, 25, 30**. Los días extra suben de uno en uno cada 5 años. Con 25 años: 22 + 3 = **25**, ¡coincide con los años!\n- **Escalera de la formación:** **Cobro todo** (exámenes) → **Cobro básicas** (40 horas) → **No cobro** (3 meses). A menos retribución, más duración.\n- **Fechas:** vacaciones hasta **31/01**; asuntos propios hasta **15/01**. Las vacaciones tienen el último día más tarde (31 > 15).\n- **Verano:** 16/06 a 15/09, la mitad de las vacaciones.\n- **Trienios:** el **6.º** da 2 días; del **8.º** en adelante, 1 día por trienio.",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "**Vacaciones**\n\n- **22 días hábiles** al año, a disfrutar hasta el 31/01, en periodos mínimos de 5 días hábiles consecutivos (5 días hábiles al año pueden disfrutarse sueltos).\n- Al menos la mitad entre el 16/06 y el 15/09, salvo que el calendario laboral determine otros periodos.\n\n| Antigüedad | Días adicionales |\n|---|---|\n| 15 años | +1 día |\n| 20 años | +2 días |\n| 25 años | +3 días |\n| 30 años o más | +4 días |\n\n**Asuntos propios**\n\n- Hasta **6 días**, no acumulables a los periodos de vacaciones, disfrutables hasta el 15/01 del año siguiente si por motivos de trabajo no se pudieron disfrutar en el año.\n- 24 y 31 de diciembre: oficinas públicas cerradas (excepto servicios de información, registro general y otros); si caen en festivo, sábado o día no laborable, **2 días de permiso adicionales**.\n- **2 días más desde el sexto trienio**, y **1 día más por trienio a partir del octavo trienio**.\n\n**Formación**\n\n| Permiso | Retribución | Límite |\n|---|---|---|\n| Exámenes para título académico o profesional reconocido | Retribuido | (sin límite en la nota) |\n| Cursos de perfeccionamiento profesional | Solo retribuciones básicas | Hasta 40 horas al año |\n| Otros cursos de perfeccionamiento profesional | No retribuido | Máximo tres meses |\n\nLa formación dentro del horario laboral se considera tiempo de trabajo.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    },
+    {
+      "md": "Los totales de la tabla de vacaciones (23, 24, 25 y 26 días) son la suma aritmética de los 22 días base y los adicionales indicados en la nota. (conocimiento general, no viene de tus notas) Estas reglas corresponden al desarrollo del TREBEP en el ámbito de la Administración General del Estado; otras administraciones pueden tener normas propias, por lo que conviene comprobar siempre la pregunta concreta y su referencia normativa.",
+      "t": "ampliacion",
+      "titulo": "Contexto adicional"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "Una empleada pública con 30 años de antigüedad, ¿cuántos días hábiles de vacaciones anuales tiene?",
+      "explicacion": "Se parte de 22 días hábiles y con 30 años o más se suman 4 días adicionales: 22 + 4 = 26.",
+      "opciones": [
+        "22 días hábiles",
+        "26 días hábiles",
+        "25 días hábiles",
+        "30 días hábiles"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Con 15 años de antigüedad cumplidos, ¿cuántos días adicionales de vacaciones corresponden sobre los 22 base?",
+      "explicacion": "A los 15 años de antigüedad corresponde +1 día; 20 años +2, 25 años +3 y 30 años o más +4.",
+      "opciones": [
+        "3 días",
+        "2 días",
+        "1 día",
+        "Ninguno"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuántas horas al año de permiso, percibiendo solo retribuciones básicas, se prevén para cursos de perfeccionamiento profesional?",
+      "explicacion": "La nota fija hasta 40 horas al año, con solo retribuciones básicas, para cursos de perfeccionamiento profesional.",
+      "opciones": [
+        "20 horas",
+        "60 horas",
+        "30 horas",
+        "40 horas"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Respecto a los días por asuntos propios, ¿qué afirmación es correcta?",
+      "explicacion": "La nota indica hasta 6 días, no acumulables a los periodos de vacaciones, con disfrute hasta el 15/01 del año siguiente si por motivos de trabajo no se pudieron disfrutar en el año.",
+      "opciones": [
+        "Son hasta 6 días, no acumulables a las vacaciones, y pueden disfrutarse hasta el 15/01 del año siguiente si por motivos de trabajo no se pudieron disfrutar en el año",
+        "Son hasta 6 días y son acumulables a las vacaciones",
+        "Son hasta 6 días y deben disfrutarse obligatoriamente entre el 16/06 y el 15/09",
+        "Son hasta 22 días y se disfrutan hasta el 31/01"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué permiso corresponde a concurrir a exámenes para obtener un título académico o profesional reconocido?",
+      "explicacion": "Para concurrir a exámenes para la obtención de un título académico o profesional reconocido existe un permiso retribuido.",
+      "opciones": [
+        "Solo retribuciones básicas, hasta 40 horas al año",
+        "Retribuido",
+        "No retribuido, máximo tres meses",
+        "No existe permiso específico"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "22 días hábiles de vacaciones al año, con adicionales: 15 años +1, 20 años +2, 25 años +3, 30 años o más +4",
+      "Hasta 6 días por asuntos propios, no acumulables a las vacaciones, disfrutables hasta el 15/01 del año siguiente",
+      "Permiso retribuido para concurrir a exámenes para obtener un título académico o profesional reconocido",
+      "Permiso con solo retribuciones básicas, hasta 40 horas al año, para cursos de perfeccionamiento profesional",
+      "Permiso no retribuido, de máximo tres meses, para la asistencia a otros cursos de perfeccionamiento profesional"
+    ],
+    "consigna": "Explica con tus palabras cómo se calculan las vacaciones anuales según la antigüedad, cómo funcionan los días por asuntos propios y cuáles son los tres permisos para formación, indicando cuánto dura el no retribuido."
+  },
+  "modulo": "M5",
+  "moduloTitulo": "Jornada, vacaciones y permisos",
+  "objetivo": "Calcular los días de vacaciones según la antigüedad (22 días hábiles base más los adicionales), conocer las reglas de disfrute, los días por asuntos propios y los permisos para formación, incluida la duración máxima del permiso no retribuido (tres meses).",
+  "orden": 23,
+  "preguntasBanco": [
+    17,
+    23
+  ],
+  "resumen": "Las vacaciones son 22 días hábiles al año más adicionales por antigüedad (15 años +1, 20 años +2, 25 años +3, 30 años o más +4); con 25 años son 25 días. Además hay hasta 6 días por asuntos propios, no acumulables a las vacaciones. Para formación: permiso retribuido para exámenes de títulos, solo retribuciones básicas hasta 40 horas al año para cursos de perfeccionamiento, y permiso no retribuido de máximo tres meses para otros cursos de perfeccionamiento.",
+  "tema": "B1-T4.1",
+  "titulo": "Vacaciones, asuntos propios y formación"
+}

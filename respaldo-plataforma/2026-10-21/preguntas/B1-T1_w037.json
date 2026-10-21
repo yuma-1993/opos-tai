@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tutor",
+  "correcta": 2,
+  "enunciado": "El abuelo del Rey menor de edad, ascendiente directo, ejerce la Regencia. ¿Puede ser además su tutor?",
+  "explicacion": "La nota establece que no pueden acumularse Regente y Tutor en una persona, excepto si es el padre, la madre o ascendientes directos. Un abuelo es ascendiente directo. Los distractores niegan la excepción, la limitan a los padres o inventan una autorización de las Cortes.",
+  "lote": 1792487818082,
+  "n": 37,
+  "opciones": [
+    "No, Regente y Tutor nunca pueden acumularse en una misma persona",
+    "No, salvo que las Cortes lo autoricen expresamente por mayoría absoluta",
+    "Sí, porque la acumulación se admite cuando es el padre, la madre o un ascendiente directo",
+    "Sí, pero solo si fuese el padre o la madre del Rey"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy bien: las cuatro fechas son correctas y están en el orden adecuado, con el 87% del referéndum y la entrada en vigor el mismo día de la publicación en el BOE. También explicas bien que es la Norma Fundamental porque ciudadanos y poderes públicos están sujetos a ella, y la tabla de poderes (Ejecutivo-Gobierno, Legislativo-Cortes, Judicial-Tribunales) es correcta. Para rematar, añade que también se la llama «Ley de leyes», que lo dice expresamente el artículo 9.1 y que este reparto sigue el dis",
+    "ok": true,
+    "ts": 1792497689554
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792497574011
+    }
+  ],
+  "leccion": "B1-T1_L01",
+  "mejorPct": 100,
+  "primeraPct": 100,
+  "repasos": [],
+  "superadaTs": 1792497694505,
+  "tema": "B1-T1"
+}

@@ -1,0 +1,27 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "5/5 ideas clave",
+    "ok": true,
+    "ts": 1792568683339
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 3,
+      "total": 5,
+      "ts": 1792568292527
+    },
+    {
+      "aciertos": 10,
+      "total": 10,
+      "ts": 1792568417734
+    }
+  ],
+  "leccion": "B2-T1_L07",
+  "mejorPct": 100,
+  "primeraPct": 60,
+  "repasos": [],
+  "superadaTs": 1792568690299,
+  "tema": "B2-T1"
+}

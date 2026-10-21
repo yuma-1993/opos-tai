@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes conductas está tipificada por el TREBEP como falta muy grave?",
+  "explicacion": "Nota: el abandono del servicio figura entre las faltas muy graves del TREBEP. Las demás opciones son faltas graves o leves.",
+  "n": 27,
+  "opciones": [
+    "La grave desconsideración con los superiores, compañeros o subordinados",
+    "El incumplimiento injustificado de la jornada de trabajo que, acumulado, suponga un mínimo de diez horas al mes",
+    "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones encomendadas",
+    "La falta de asistencia injustificada por un día"
+  ],
+  "tema": "B1-T4.1"
+}

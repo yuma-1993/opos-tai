@@ -1,0 +1,16 @@
+{
+  "apartado": "El Defensor del Pueblo",
+  "correcta": 2,
+  "enunciado": "¿Cuál de las siguientes circunstancias NO figura entre las causas de cese del Defensor del Pueblo?",
+  "explicacion": "Las causas de cese son renuncia, expiración del plazo, muerte o incapacidad sobrevenida, notoria negligencia y condena firme por delito doloso. Como designan las Cortes, la confianza del Gobierno no es causa de cese; el distractor mezcla la idea con una institución dependiente del Ejecutivo.",
+  "lote": 1792504590395,
+  "n": 33,
+  "opciones": [
+    "Expiración del plazo",
+    "Renuncia",
+    "Pérdida de la confianza del Gobierno",
+    "Notoria negligencia"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

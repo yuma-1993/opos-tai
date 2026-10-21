@@ -1,0 +1,14 @@
+{
+  "apartado": "Coma flotante IEEE 754",
+  "correcta": 3,
+  "enunciado": "¿Cómo se reparten los 64 bits de la precisión doble de IEEE 754 (signo + exponente + mantisa)?",
+  "explicacion": "Nota: precisión simple 32 bits = 1 + 8 + 23; precisión doble 64 bits = 1 + 11 + 52.",
+  "n": 23,
+  "opciones": [
+    "1 + 8 + 23",
+    "1 + 10 + 53",
+    "1 + 11 + 53",
+    "1 + 11 + 52"
+  ],
+  "tema": "B2-T1"
+}

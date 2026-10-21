@@ -1,0 +1,16 @@
+{
+  "apartado": "La elaboración de las leyes (procedimiento legislativo) > Tramitación y aprobación",
+  "correcta": 1,
+  "enunciado": "Tras recibir un texto del Congreso, el Senado dispone de un plazo para deliberar. ¿Cuál es, y qué mayoría requiere el Senado para vetarlo?",
+  "explicacion": "El Senado tiene 2 meses, o 20 días si es urgente, y veta por mayoría absoluta. Aprobar y enmendar se hace por mayoría simple, lo que alimenta el distractor de mayoría simple. El tercero invierte los plazos.",
+  "lote": 1792504590395,
+  "n": 16,
+  "opciones": [
+    "15 días (20 días si es urgente); mayoría simple",
+    "2 meses (20 días si es urgente); mayoría absoluta",
+    "20 días (2 meses si es urgente); mayoría absoluta",
+    "2 meses (20 días si es urgente); mayoría simple"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

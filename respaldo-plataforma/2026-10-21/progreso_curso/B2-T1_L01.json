@@ -1,0 +1,27 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy bien: explicas con claridad que el bit es la unidad mínima (0 o 1), que los bits se agrupan en crumb (2), nibble (4) y byte (8), y que KB y KiB se distinguen por el sistema de potencias: 1 KB = 1000 bytes en el SI (potencias de 10) y 1 KiB = 1024 bytes en ISO/IEC 80000-13 (potencias de 2). Como detalle para pulir, di que el 1024 era lo que antes se llamaba KB y que hoy se escribe KiB, y que no son lo mismo (KB ≠ KiB). Si quieres afianzarlo, intenta decir en qué se nota la diferencia con un G",
+    "ok": true,
+    "ts": 1792421638048
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 2,
+      "total": 5,
+      "ts": 1792421392865
+    },
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792421443935
+    }
+  ],
+  "leccion": "B2-T1_L01",
+  "mejorPct": 100,
+  "primeraPct": 40,
+  "repasos": [],
+  "superadaTs": 1792421640924,
+  "tema": "B2-T1"
+}

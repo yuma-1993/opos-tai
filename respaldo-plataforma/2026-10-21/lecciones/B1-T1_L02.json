@@ -1,0 +1,117 @@
+{
+  "bloques": [
+    {
+      "md": "La Constitución es como un **edificio con cuatro zonas**: los cimientos y valores (parte dogmática), la maquinaria que hace funcionar el Estado (parte orgánica), el mecanismo para cambiar el edificio (parte modificativa) y los anexos de cierre (parte final). Saber en qué zona está cada Título te permite colocar cualquier artículo al instante.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "La Constitución se organiza en **un Título Preliminar y diez Títulos numerados (I a X)**, más una parte final con disposiciones.\n\nCada Título agrupa artículos sobre un mismo tema. Si sabes el tema y el rango de artículos, puedes ubicar cualquier artículo.\n\n- **Preliminar**: principios básicos, arts. 1 al 9.\n- **Título I**: derechos y deberes fundamentales, arts. 10 al 55.\n- **Título II**: la Corona, arts. 56 a 65.\n- **Título III**: las Cortes Generales, arts. 66 a 96.\n- **Título IV**: el Gobierno y la Administración, arts. 97 a 107.\n- **Título V**: relaciones entre el Gobierno y las Cortes Generales, arts. 108 a 116.\n- **Título VI**: el poder judicial, arts. 117 a 127.\n- **Título VII**: Economía y Hacienda, arts. 128 a 136.\n- **Título VIII**: organización territorial del Estado, arts. 137 a 158.\n- **Título IX**: el Tribunal Constitucional, arts. 159 a 165.\n- **Título X**: la Reforma Constitucional, arts. 166 a 169.",
+      "t": "explica",
+      "titulo": "Paso 1: el mapa general"
+    },
+    {
+      "md": "Los Títulos se reparten en partes según su función:\n\n1. **Parte dogmática**: Título Preliminar y Título I. Recoge los principios, valores y derechos.\n2. **Parte orgánica**: Títulos II a IX. Recoge las instituciones y su organización: Corona, Cortes, Gobierno, relaciones Gobierno-Cortes, poder judicial, Economía y Hacienda, organización territorial y Tribunal Constitucional.\n3. **Parte modificativa**: Título X. Regula la reforma de la Constitución.\n4. **Parte final**: 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.\n\n**Punto clave (y fallo frecuente):** el Título IX (Tribunal Constitucional, arts. 159 a 165) es el **último de la parte orgánica**. La parte orgánica llega hasta el IX, no hasta el VIII.",
+      "t": "explica",
+      "titulo": "Paso 2: las cuatro partes"
+    },
+    {
+      "md": "La parte final **no está formada por Títulos**, sino por **disposiciones**. Son 4 tipos, con este reparto:\n\n| Tipo de disposición | Cantidad |\n|---|---|\n| Adicionales | 4 |\n| Transitorias | 9 |\n| Derogatoria | 1 |\n| Final | 1 |\n\nEn total son 15 disposiciones (4 + 9 + 1 + 1), dato que se deduce de la suma.",
+      "t": "explica",
+      "titulo": "Paso 3: la parte final, con detalle"
+    },
+    {
+      "md": "**Ejemplo 1.** ¿En qué parte está el art. 56 (el Rey)? Está en el Título II (arts. 56 a 65), y los Títulos II a IX son parte **orgánica**.\n\n**Ejemplo 2.** ¿Qué artículos comprende el Título dedicado al Tribunal Constitucional? Es el Título IX: **159 a 165**.\n\n**Ejemplo 3.** ¿En qué parte está el art. 14? Está en el Título I (arts. 10 al 55), que es parte **dogmática**.\n\n**Ejemplo 4.** ¿Y el art. 167? Está en el Título X (166 a 169), parte **modificativa**.\n\n**Ejemplo 5.** Pregunta tipo test: «La parte final está formada por…» → 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final. No son Títulos ni artículos.",
+      "t": "ejemplo",
+      "titulo": "Ejemplos resueltos"
+    },
+    {
+      "md": "- **Dogmática = DO**: los **DO**cumentos de los derechos: Preliminar + I (los «cimientos»).\n- **Orgánica = II a IX**: las instituciones, del Rey (II) al Tribunal Constitucional (IX).\n- **Modificativa = X**: la X marca el sitio donde «se cambia» la Constitución. Un solo Título.\n- **Parte final = 4-9-1-1**: «cuatro, nueve, uno, uno».\n- **Título IX = 159 a 165**: son 7 artículos; piensa «el 9 empieza en 159 (1+5+9...)», o recuerda que el VIII termina en 158 y el IX empieza justo en el siguiente, 159.\n- Para el rango del VIII: 137 a 158, y el IX continúa: 159 a 165, y el X sigue: 166 a 169.",
+      "t": "truco",
+      "titulo": "Trucos para memorizar"
+    },
+    {
+      "md": "| Título | Contenido | Artículos |\n|---|---|---|\n| Preliminar | Principios básicos | 1 al 9 |\n| I | De los derechos y deberes fundamentales | 10 al 55 |\n| II | De la Corona | 56 a 65 |\n| III | De las Cortes Generales | 66 a 96 |\n| IV | Del Gobierno y de la Administración | 97 a 107 |\n| V | De las relaciones entre el Gobierno y las Cortes Generales | 108 a 116 |\n| VI | Del poder judicial | 117 a 127 |\n| VII | Economía y Hacienda | 128 a 136 |\n| VIII | De la organización territorial del Estado | 137 a 158 |\n| IX | Del Tribunal Constitucional | 159 a 165 |\n| X | La Reforma Constitucional | 166 a 169 |\n\n- **Parte dogmática**: Título Preliminar y Título I.\n- **Parte orgánica**: Títulos II a IX.\n- **Parte modificativa**: Título X.\n- **Parte final**: 4 disposiciones adicionales, 9 transitorias, 1 derogatoria, 1 final.\n- Art. 105.b (Título IV): acceso a archivos y registros administrativos, desarrollado por la Ley de Transparencia.",
+      "t": "nota",
+      "titulo": "Datos para memorizar (literales de tu nota)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué Títulos forman la parte orgánica de la Constitución?",
+      "explicacion": "La parte orgánica comprende los Títulos II a IX, es decir, desde la Corona hasta el Tribunal Constitucional.",
+      "opciones": [
+        "Del II al IX",
+        "Del II al VIII",
+        "Del Preliminar al I",
+        "Del III al X"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué materia regula el Título que comprende los artículos 137 a 158?",
+      "explicacion": "El Título VIII, de la organización territorial del Estado, abarca los arts. 137 a 158.",
+      "opciones": [
+        "Economía y Hacienda",
+        "El Tribunal Constitucional",
+        "El poder judicial",
+        "La organización territorial del Estado"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuántas disposiciones transitorias tiene la parte final de la Constitución?",
+      "explicacion": "La parte final tiene 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.",
+      "opciones": [
+        "15",
+        "1",
+        "9",
+        "4"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "El artículo 167, sobre reforma constitucional, pertenece a:",
+      "explicacion": "El Título X (arts. 166 a 169) es la parte modificativa, y el 167 está dentro de ese rango.",
+      "opciones": [
+        "La parte final",
+        "La parte modificativa",
+        "La parte dogmática",
+        "La parte orgánica"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué Título trata del poder judicial y qué artículos abarca?",
+      "explicacion": "El Título VI, Del poder judicial, va de los arts. 117 a 127. El VII es Economía y Hacienda, el V las relaciones Gobierno-Cortes y el IX el Tribunal Constitucional.",
+      "opciones": [
+        "Título IX, arts. 159 a 165",
+        "Título V, arts. 108 a 116",
+        "Título VI, arts. 117 a 127",
+        "Título VII, arts. 128 a 136"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Título IX: Del Tribunal Constitucional, arts. 159 a 165",
+      "Parte dogmática: Título Preliminar y Título I",
+      "Parte orgánica: Títulos II a IX",
+      "Parte modificativa: Título X",
+      "Parte final: 4 disposiciones adicionales, 9 transitorias, 1 derogatoria, 1 final"
+    ],
+    "consigna": "Explica con tus palabras cómo se organiza la Constitución: qué Títulos tiene, en qué partes se agrupan y de qué se compone la parte final. No olvides indicar qué artículos tiene el Título IX."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "La Constitución: origen, naturaleza y estructura",
+  "objetivo": "Situar cada Título de la Constitución con sus artículos (incluido el Título IX, arts. 159 a 165) y distinguir las partes dogmática, orgánica, modificativa y final.",
+  "orden": 2,
+  "preguntasBanco": [
+    16,
+    27
+  ],
+  "resumen": "La Constitución tiene un Título Preliminar y diez Títulos (I a X). La parte dogmática es el Preliminar y el I; la orgánica, del II al IX (el IX, Tribunal Constitucional, arts. 159 a 165); la modificativa, el X. La parte final no son Títulos: 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.",
+  "tema": "B1-T1",
+  "titulo": "Títulos y partes de la Constitución"
+}

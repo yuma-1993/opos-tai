@@ -1,0 +1,184 @@
+{
+  "bloques": [
+    {
+      "md": "Al guardar o enviar datos, un bit puede cambiar por una interferencia. Para defenderse hay tres tipos de técnicas:\n\n- Las que **detectan** que algo cambió.\n- Las que además lo **corrigen**.\n- Las que **aseguran la integridad**: comprueban que el dato llegó sin alterarse.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Se añade **1 bit al final** (se pasa de 7 a 8 bits) para que el número total de unos sea **par** o **impar**, según la estrategia elegida. Si al llegar el recuento ya no cuadra, hubo un error.",
+      "t": "explica",
+      "titulo": "El bit de paridad, la técnica más sencilla"
+    },
+    {
+      "md": "Datos de 7 bits: `1011001`. Tiene cuatro unos (1, 1, 1, 1): ya es par, así que el bit de paridad es `0` y queda `10110010`. Con paridad impar habría que añadir un `1`. (El ejemplo es un cálculo para entender la regla, no viene en tus notas.)",
+      "t": "ejemplo",
+      "titulo": "Paridad par con un ejemplo"
+    },
+    {
+      "md": "| Técnica | Qué hace |\n|---|---|\n| **Bit de paridad** | Estrategia par o impar; pasa de 7 a 8 bits |\n| **CRC** | Verificación por redundancia cíclica |\n| **Golay**, **Reed-Solomon**, **Hadamard**, **Hamming** | Detección y corrección de errores |\n| **Gray** | Detección y corrección. Dos datos consecutivos solo se diferencian en **1 bit** |\n| **Checksum** | Suma de verificación para detectar errores en una transmisión. **Asegura la integridad** |\n| **Hash** | Convierte un bloque de datos en una serie de caracteres de **longitud fija**. **Asegura la integridad** |",
+      "t": "explica",
+      "titulo": "El mapa de técnicas"
+    },
+    {
+      "md": "Contando de 0 a 3 en Gray: 00, 01, 11, 10. Entre cada número y el siguiente cambia un solo bit. No viene de tus notas; sirve para ver la idea de «consecutivos con 1 bit de diferencia».",
+      "t": "ampliacion",
+      "titulo": "Un ejemplo de código Gray (conocimiento general)"
+    },
+    {
+      "md": "Comprimir es guardar lo mismo en menos espacio. En la compresión **sin pérdida** al descomprimir se recupera el dato exacto. El **código Huffman** se usa en la creación de ficheros **gzip**.",
+      "t": "explica",
+      "titulo": "Compresión sin pérdida"
+    },
+    {
+      "md": "Agrupa por frase: «Hamming, Golay, Reed-Solomon, Hadamard y Gray **detectan y corrigen**». «Checksum y hash **aseguran integridad**». «Paridad y CRC **verifican**».",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Paridad: par o impar, de 7 a 8 bits.\n- Detectan y corrigen: Golay, Gray, Reed-Solomon, Hadamard, Hamming.\n- Gray: dos datos consecutivos se diferencian en **1 bit**.\n- Checksum y hash: aseguran la **integridad**. Hash = longitud fija.\n- Huffman: compresión sin pérdida, ficheros gzip.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué hace el bit de paridad?",
+      "explicacion": "Pasa de 7 a 8 bits y fija la paridad del total de unos.",
+      "opciones": [
+        "Comprime el dato",
+        "Cifra el dato",
+        "Corrige cualquier error",
+        "Añade un bit para que el número de unos sea par o impar"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué código se basa en que dos datos consecutivos difieren en 1 bit?",
+      "explicacion": "Esa es la característica del código Gray.",
+      "opciones": [
+        "Gray",
+        "CRC",
+        "Checksum",
+        "Huffman"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué técnica produce una serie de caracteres de longitud fija y asegura la integridad?",
+      "explicacion": "El hash transforma un bloque de datos en una serie de longitud fija.",
+      "opciones": [
+        "Bit de paridad",
+        "Hamming",
+        "Hash",
+        "Reed-Solomon"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Para qué se usa el código Huffman según tu nota?",
+      "explicacion": "Huffman es compresión sin pérdida usada en gzip.",
+      "opciones": [
+        "Detectar errores de transmisión",
+        "Comprimir sin pérdida, por ejemplo ficheros gzip",
+        "Codificar caracteres",
+        "Cifrar contraseñas"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué par de técnicas asegura la integridad?",
+      "explicacion": "Checksum y hash aseguran la integridad.",
+      "opciones": [
+        "Gray y Hamming",
+        "CRC y paridad",
+        "Checksum y hash",
+        "Golay y Hadamard"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Un dato de 7 bits pasa a ocupar 8 bits al añadirle un bit de paridad. ¿Dónde se coloca ese bit adicional según tu material?",
+      "explicacion": "El material indica que se añade 1 bit al final, de modo que se pasa de 7 a 8 bits. No se sustituye ningún bit del dato original.",
+      "opciones": [
+        "Al final del dato",
+        "Se sustituye el último bit del dato original",
+        "En el centro, separando los bits en dos mitades",
+        "Al principio del dato, para que se compruebe antes"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de las siguientes técnicas está agrupada en tus notas entre las que detectan y además corrigen errores?",
+      "explicacion": "Reed-Solomon pertenece al grupo que detecta y corrige (Golay, Gray, Reed-Solomon, Hadamard, Hamming). CRC y paridad verifican, y el checksum asegura la integridad.",
+      "opciones": [
+        "Checksum",
+        "Reed-Solomon",
+        "Bit de paridad",
+        "CRC"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué significan las siglas CRC según el mapa de técnicas de la lección?",
+      "explicacion": "En la tabla, CRC se define como verificación por redundancia cíclica. La suma de verificación corresponde al checksum.",
+      "opciones": [
+        "Compresión por repetición de caracteres",
+        "Suma de verificación de caracteres",
+        "Verificación por redundancia cíclica",
+        "Código de recuperación y corrección"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Al descomprimir un fichero que se comprimió con una técnica de compresión sin pérdida, ¿qué ocurre?",
+      "explicacion": "En la compresión sin pérdida, al descomprimir se recupera el dato exacto. La longitud fija es propia del hash, y la corrección de bits corresponde a otras técnicas.",
+      "opciones": [
+        "Se recupera el dato exacto",
+        "Se recupera una versión aproximada del dato original",
+        "Se corrigen los bits que hubieran cambiado en la transmisión",
+        "Se obtiene una serie de caracteres de longitud fija"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de estas afirmaciones sobre el checksum es correcta según tus notas?",
+      "explicacion": "El checksum es una suma de verificación que detecta errores en una transmisión y asegura la integridad. La longitud fija es del hash, el 1 bit de diferencia es de Gray y el bit final es de la paridad.",
+      "opciones": [
+        "Convierte un bloque de datos en una serie de caracteres de longitud fija",
+        "Añade un bit al final para que el número de unos sea par o impar",
+        "Se basa en que dos datos consecutivos difieren en 1 bit",
+        "Es una suma de verificación para detectar errores en una transmisión y asegura la integridad"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El bit de paridad añade 1 bit (de 7 a 8) para que el número de unos sea par o impar",
+      "Hamming, Golay, Reed-Solomon, Hadamard y Gray detectan y corrigen errores",
+      "Gray se basa en que dos datos consecutivos se diferencian en 1 bit",
+      "Checksum y hash aseguran la integridad; el hash da una serie de longitud fija",
+      "Huffman es compresión sin pérdida usada en gzip"
+    ],
+    "consigna": "Explícame qué hace el bit de paridad, cuáles son las técnicas que detectan y corrigen errores y qué aseguran el checksum y el hash.",
+    "preguntas": [
+      "¿Para qué sirve el bit de paridad, cuántos bits añade a los datos y qué condición busca que cumpla el número de unos?",
+      "¿Qué diferencia hay entre las técnicas que solo detectan errores y las que además los corrigen? Enumera cuáles de las técnicas de tu lección pertenecen al segundo grupo.",
+      "¿En qué se basa el código Gray? Explica qué relación hay entre dos datos consecutivos.",
+      "¿Qué tienen en común el checksum y el hash en cuanto a su función y qué característica tiene el resultado que genera un hash?",
+      "¿Qué significa que una compresión sea «sin pérdida» y en qué tipo de ficheros se usa el código Huffman?"
+    ]
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Distinguir las técnicas que detectan errores, las que también los corrigen y las que aseguran la integridad.",
+  "orden": 7,
+  "preguntasBanco": [
+    25,
+    26
+  ],
+  "resumen": "Paridad: +1 bit par/impar. Detectan y corrigen: Hamming, Golay, Reed-Solomon, Hadamard, Gray (1 bit entre consecutivos). Integridad: checksum y hash (longitud fija). Huffman: compresión sin pérdida en gzip.",
+  "tema": "B2-T1",
+  "titulo": "Detectar errores, integridad y compresión"
+}

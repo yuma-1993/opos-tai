@@ -1,0 +1,114 @@
+{
+  "bloques": [
+    {
+      "md": "El **funcionario de carrera** es quien tiene con la Administración un «contrato» especial que no se pacta, sino que viene fijado por la ley: un **estatuto**. Es como pertenecer a un club con reglas ya escritas: no negocias las condiciones, entras y te rigen las normas del club (el derecho administrativo). Además, hay tareas del club que solo pueden hacer los socios de carrera.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "La definición tiene cuatro piezas. Para ser funcionario de carrera hace falta:\n\n1. **Nombramiento legal**: se accede por nombramiento, no por contrato.\n2. **Vinculación con una Administración Pública** mediante una **relación estatutaria**: la relación viene regulada por un estatuto y no por acuerdo entre las partes.\n3. **Regulada por el derecho administrativo**: es el derecho que les afecta.\n4. **Servicios profesionales retribuidos de carácter permanente**: desempeñan su trabajo de forma remunerada y con vocación de permanencia.\n\nEn resumen: vinculados a la Administración por un estatuto, les afecta el derecho administrativo y tienen servicios retribuidos con carácter permanente.",
+      "t": "explica",
+      "titulo": "Qué es un funcionario de carrera, paso a paso"
+    },
+    {
+      "md": "No todo puesto de la Administración puede ocuparlo cualquier tipo de personal. El ejercicio de funciones que impliquen, **directa o indirectamente**:\n\n- el ejercicio de **potestades públicas**, o\n- la **salvaguardia de los intereses generales** del Estado y de las Administraciones Públicas,\n\ncorresponde **exclusivamente a los funcionarios públicos**.\n\nFíjate en dos detalles: basta con que la función implique estas materias de forma *indirecta*, y la reserva es **exclusiva** (no compartida con otro personal).",
+      "t": "explica",
+      "titulo": "Funciones reservadas a los funcionarios"
+    },
+    {
+      "md": "**Caso:** Una Administración quiere cubrir un puesto cuya tarea principal es dictar resoluciones que afectan a los ciudadanos (ejercicio de potestades públicas). ¿Puede ocuparlo cualquier tipo de personal?\n\n**Resolución:** No. Como la función implica el ejercicio de potestades públicas, corresponde exclusivamente a los funcionarios públicos. Y, si en cambio el puesto solo implicara apoyo que no toca potestades públicas ni intereses generales, esta reserva no se aplicaría de la misma forma.\n\nNota: el ejemplo es ilustrativo y no está en tus notas; lo que sí está en ellas es la regla que se aplica.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Las 4 letras de **N-E-D-P**: **N**ombramiento legal, **E**statutaria, **D**erecho administrativo, **P**ermanente (y retribuido).\n\nPara las funciones reservadas: **P**otestades públicas + **I**ntereses generales = **PI**, y solo para funcionarios: «el PI es de funcionario».",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "**Funcionario de carrera:** aquellos que, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el derecho administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.\n\n**Funciones reservadas:** el ejercicio de funciones que impliquen directa o indirectamente el ejercicio de potestades públicas o la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponde exclusivamente a los funcionarios públicos.\n\n| Elemento | Funcionario de carrera |\n|---|---|\n| Origen | Nombramiento legal |\n| Relación | Estatutaria |\n| Derecho aplicable | Administrativo |\n| Servicios | Profesionales, retribuidos, de carácter permanente |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "Tus notas distinguen dos clases de funcionarios: de carrera e interino. La nota subraya el carácter **permanente** del funcionario de carrera; el interino, en cambio, se nombra por razones expresamente justificadas de necesidad y urgencia (se estudia en la Lección 5). (Esta nota de contexto procede del mismo material, pero se desarrolla en la siguiente lección.)",
+      "t": "ampliacion",
+      "titulo": "Contexto: carrera frente a interino"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál es el origen de la vinculación de un funcionario de carrera con la Administración?",
+      "explicacion": "Según la nota, los funcionarios de carrera lo son «en virtud de nombramiento legal».",
+      "opciones": [
+        "Un convenio colectivo",
+        "Una prestación voluntaria no retribuida",
+        "Un nombramiento legal",
+        "Un contrato mercantil"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué tipo de relación une al funcionario de carrera con la Administración Pública?",
+      "explicacion": "La nota habla de una relación estatutaria regulada por el derecho administrativo.",
+      "opciones": [
+        "Civil, regulada por el Código Civil",
+        "Mercantil, regulada por pacto entre las partes",
+        "Contractual, regulada por el derecho laboral",
+        "Estatutaria, regulada por el derecho administrativo"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué carácter tienen los servicios profesionales del funcionario de carrera?",
+      "explicacion": "La definición indica «servicios profesionales retribuidos de carácter permanente».",
+      "opciones": [
+        "Sin retribución fija y por obra",
+        "Retribuidos y de carácter permanente",
+        "Retribuidos y de carácter temporal",
+        "Gratuitos y ocasionales"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿A quién corresponde el ejercicio de funciones que impliquen directa o indirectamente el ejercicio de potestades públicas?",
+      "explicacion": "La nota establece que estas funciones corresponden exclusivamente a los funcionarios públicos.",
+      "opciones": [
+        "Preferentemente al personal laboral",
+        "A cualquier empleado público",
+        "A cualquier persona contratada por la Administración",
+        "Exclusivamente a los funcionarios públicos"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Además de las potestades públicas, ¿qué otra materia da lugar a funciones reservadas a funcionarios?",
+      "explicacion": "La reserva alcanza a las funciones que impliquen, directa o indirectamente, la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
+      "opciones": [
+        "La salvaguardia de los intereses generales del Estado y de las Administraciones Públicas",
+        "La gestión de contratos de servicios",
+        "La docencia en cursos de formación",
+        "La atención telefónica al ciudadano"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "en virtud de nombramiento legal",
+      "relación estatutaria regulada por el derecho administrativo",
+      "servicios profesionales retribuidos de carácter permanente",
+      "potestades públicas o la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas",
+      "corresponde exclusivamente a los funcionarios públicos"
+    ],
+    "consigna": "Explica con tus palabras qué es un funcionario de carrera, cuáles son los elementos de su definición y qué funciones corresponden exclusivamente a los funcionarios públicos."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Ámbito de aplicación y clases de personal",
+  "objetivo": "Definir al funcionario de carrera (nombramiento legal, relación estatutaria, derecho administrativo, servicios retribuidos de carácter permanente) y saber qué funciones están reservadas exclusivamente a los funcionarios públicos.",
+  "orden": 4,
+  "preguntasBanco": [],
+  "resumen": "El funcionario de carrera está vinculado a una Administración Pública por nombramiento legal y una relación estatutaria regulada por el derecho administrativo, para desempeñar servicios profesionales retribuidos de carácter permanente. Las funciones que impliquen directa o indirectamente potestades públicas o la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos.",
+  "tema": "B1-T4.1",
+  "titulo": "El funcionario de carrera"
+}

@@ -1,0 +1,126 @@
+{
+  "bloques": [
+    {
+      "md": "La suspensión de funciones es como **apartar a un jugador del partido**. Si se le aparta mientras el árbitro revisa la jugada, es **provisional** (medida cautelar). Si se le aparta porque ya se ha decidido la sanción y es definitiva, es **firme**. En ambos casos, si el apartamiento **excede de seis meses**, se pierde el puesto de trabajo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Lo primero y más general:\n\n- La suspensión determina **la pérdida del puesto de trabajo cuando exceda de seis meses**.\n\nEsta es la idea que une a las dos modalidades. A partir de aquí solo hay que distinguir cuál es cuál.",
+      "t": "explica",
+      "titulo": "Paso 1: la regla común de los seis meses"
+    },
+    {
+      "md": "- **Naturaleza:** medida cautelar. Se adopta mientras el procedimiento disciplinario sigue en marcha, antes de que haya una sanción firme.\n- **Duración máxima:** 6 meses, salvo que el procedimiento se paralice por causa imputable al interesado (en ese caso el límite no juega igual).\n- **Retribuciones:** durante la suspensión provisional se perciben las **retribuciones básicas** y las **prestaciones familiares por hijo a cargo**.\n- **Si la suspensión deviene definitiva:** el funcionario **debe devolver lo percibido** durante la suspensión provisional.",
+      "t": "explica",
+      "titulo": "Paso 2: suspensión provisional"
+    },
+    {
+      "md": "- **Naturaleza:** es la **consecuencia de una sanción disciplinaria firme**.\n- **Duración:** si **excede de 6 meses**, supone la **pérdida del puesto**.\n- **Reingreso:** debe **solicitarse 1 mes antes de terminar** el periodo de suspensión.",
+      "t": "explica",
+      "titulo": "Paso 3: suspensión firme"
+    },
+    {
+      "md": "Dentro del procedimiento disciplinario hay dos plazos que no hay que confundir, porque cada uno corre para una persona distinta:\n\n1. **El instructor** dispone de **un mes (ampliable)**, a partir de la **incoación** del procedimiento, para presentar el **pliego de cargos**.\n2. **El inculpado** tiene **diez días** para presentar alegaciones, aportar documentos de interés y proponer la práctica de las pruebas necesarias.\n\nOrden cronológico: incoación → (1 mes, ampliable) pliego de cargos → (10 días) alegaciones, documentos y proposición de pruebas.",
+      "t": "explica",
+      "titulo": "Paso 4: el pliego de cargos y sus plazos (pregunta fallada)"
+    },
+    {
+      "md": "Se incoa un procedimiento disciplinario el **3 de marzo**.\n\n- ¿Cuánto tiene el instructor para presentar el pliego de cargos? **Un mes** desde la incoación (ampliable), es decir, en principio hasta el 3 de abril.\n- Una vez notificado el pliego, ¿cuánto tiene el inculpado? **Diez días** para alegaciones, documentos y proposición de pruebas.\n\nLa trampa típica: poner \"diez días\" para el instructor o \"un mes\" para el inculpado. Es al revés.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto 1: pliego de cargos"
+    },
+    {
+      "md": "**Caso A.** A un funcionario se le suspende mientras se tramita su expediente, sin sanción todavía. Es **provisional**: medida cautelar, cobra retribuciones básicas y prestaciones familiares por hijo a cargo. Si luego la suspensión deviene definitiva, **devuelve** lo percibido.\n\n**Caso B.** A otro funcionario se le impone una sanción disciplinaria que ya es firme y consiste en suspensión. Es **firme**. Si excede de 6 meses, pierde el puesto. Para volver, debe **solicitar el reingreso 1 mes antes** de que termine la suspensión.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto 2: provisional frente a firme"
+    },
+    {
+      "md": "- **6 meses** = el número mágico: sobrepasarlo implica perder el puesto.\n- **Provisional = Precaución** (medida cautelar). **Firme = Fin de la sanción** (consecuencia de sanción firme).\n- **Instructor = Mes; Inculpado = Diez días.** Piensa: \"el que investiga tiene más tiempo (mes), el que se defiende, menos (10 días)\".\n- **Reingreso = 1 mes antes**: pide la vuelta un mes antes de que acabe.\n- **Provisional cobra \"B+F\"**: Básicas + Familiares (prestaciones por hijo a cargo).",
+      "t": "truco",
+      "titulo": "Trucos para no fallar"
+    },
+    {
+      "md": "La suspensión determina la pérdida del puesto de trabajo cuando exceda de seis meses.\n\n| | Suspensión provisional | Suspensión firme |\n|---|---|---|\n| Naturaleza | Medida cautelar | Consecuencia de sanción disciplinaria firme |\n| Duración máxima | 6 meses (salvo paralización del procedimiento imputable al interesado) | Supone pérdida del puesto si excede de 6 meses |\n| Retribuciones durante la suspensión | Básicas + prestaciones familiares por hijo a cargo | — |\n| Si la suspensión deviene definitiva | Debe devolver lo percibido durante la suspensión provisional | — |\n| Reingreso | — | Debe solicitarse 1 mes antes de terminar el periodo de suspensión |\n\n- El instructor dispone de **un mes (ampliable)**, a partir de la incoación del procedimiento, para presentar el pliego de cargos.\n- El inculpado tendrá **diez días** para presentar alegaciones, aportar documentos de interés y proponer la práctica de las pruebas necesarias.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es la naturaleza de la suspensión provisional de funciones?",
+      "explicacion": "La suspensión provisional es una medida cautelar. La que es consecuencia de una sanción disciplinaria firme es la suspensión firme.",
+      "opciones": [
+        "Una forma de pérdida de la condición de funcionario",
+        "Medida cautelar",
+        "Consecuencia de una sanción disciplinaria firme",
+        "Una situación de excedencia voluntaria"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué retribuciones se perciben durante la suspensión provisional?",
+      "explicacion": "Durante la suspensión provisional se perciben las retribuciones básicas y las prestaciones familiares por hijo a cargo.",
+      "opciones": [
+        "Las básicas y las prestaciones familiares por hijo a cargo",
+        "Todas las retribuciones del puesto",
+        "Solo las complementarias",
+        "Ninguna retribución"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario que cumple una suspensión firme quiere reincorporarse. ¿Cuándo debe solicitar el reingreso?",
+      "explicacion": "El reingreso debe solicitarse 1 mes antes de terminar el periodo de suspensión.",
+      "opciones": [
+        "Seis meses antes de terminar la suspensión",
+        "El mismo día en que termina la suspensión",
+        "1 mes antes de terminar el periodo de suspensión",
+        "Diez días después de terminar la suspensión"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Se incoa un procedimiento disciplinario. ¿De qué plazo dispone el instructor para presentar el pliego de cargos?",
+      "explicacion": "El instructor dispone de un mes (ampliable) a partir de la incoación del procedimiento para presentar el pliego de cargos.",
+      "opciones": [
+        "Seis meses desde la incoación",
+        "Un mes, no ampliable, desde las alegaciones",
+        "Diez días, no ampliables",
+        "Un mes, ampliable, desde la incoación"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué puede hacer el inculpado en los diez días de que dispone tras el pliego de cargos?",
+      "explicacion": "En esos diez días el inculpado puede presentar alegaciones, aportar documentos de interés y proponer la práctica de las pruebas necesarias.",
+      "opciones": [
+        "Presentar alegaciones, aportar documentos de interés y proponer la práctica de las pruebas necesarias",
+        "Solo presentar alegaciones",
+        "Solicitar el reingreso en el puesto",
+        "Únicamente recusar al instructor"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La suspensión determina la pérdida del puesto de trabajo cuando exceda de seis meses",
+      "La suspensión provisional es una medida cautelar y la firme es consecuencia de sanción disciplinaria firme",
+      "En la suspensión provisional se perciben retribuciones básicas y prestaciones familiares por hijo a cargo, y si deviene definitiva debe devolverse lo percibido",
+      "El reingreso tras la suspensión firme debe solicitarse 1 mes antes de terminar el periodo de suspensión",
+      "El instructor dispone de un mes (ampliable) desde la incoación para presentar el pliego de cargos, y el inculpado tiene diez días para alegaciones, documentos y pruebas"
+    ],
+    "consigna": "Explica con tus palabras la diferencia entre la suspensión provisional y la firme, y describe los plazos del procedimiento disciplinario relativos al pliego de cargos y a las alegaciones del inculpado."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "Condición de funcionario y situaciones administrativas",
+  "objetivo": "Diferenciar la suspensión provisional (medida cautelar) de la suspensión firme (consecuencia de una sanción disciplinaria firme) y conocer los plazos del pliego de cargos: un mes ampliable para que lo presente el instructor y diez días para las alegaciones del inculpado.",
+  "orden": 12,
+  "preguntasBanco": [
+    37
+  ],
+  "resumen": "La suspensión de funciones determina la pérdida del puesto si excede de seis meses. La provisional es una medida cautelar (cobra básicas y prestaciones familiares por hijo a cargo, y se devuelve si deviene definitiva); la firme es consecuencia de sanción firme y el reingreso se pide 1 mes antes de terminar. El instructor tiene un mes (ampliable) desde la incoación para el pliego de cargos y el inculpado diez días para alegaciones, documentos y pruebas.",
+  "tema": "B1-T4.1",
+  "titulo": "Suspensión de funciones"
+}

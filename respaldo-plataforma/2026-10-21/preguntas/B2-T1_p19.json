@@ -1,0 +1,14 @@
+{
+  "apartado": "Base64",
+  "correcta": 3,
+  "enunciado": "¿Cómo se codifica «Ma» en Base64?",
+  "explicacion": "Nota (ejemplo del PDF): M = 77, a = 97 → 010011 010110 0001+00 → sextetos 19, 22, 4 → T, W, E y un = de relleno.",
+  "n": 19,
+  "opciones": [
+    "TWE",
+    "TWFh",
+    "TQ==",
+    "TWE="
+  ],
+  "tema": "B2-T1"
+}

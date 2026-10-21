@@ -1,0 +1,14 @@
+{
+  "apartado": "Carrera y promoción interna",
+  "correcta": 1,
+  "enunciado": "En la promoción interna vertical, ¿qué afirmación es correcta?",
+  "explicacion": "Nota: promoción interna vertical = ascenso a un subgrupo inmediatamente superior (ej. C2 → C1) superando el proceso selectivo; sí cambia de subgrupo.",
+  "n": 42,
+  "opciones": [
+    "No cambia de grupo ni de subgrupo y no exige prueba selectiva",
+    "Se produce el ascenso desde un cuerpo o escala de un subgrupo a otro inmediatamente superior, superando el proceso selectivo correspondiente",
+    "Consiste en el acceso a cuerpos o escalas del mismo subgrupo con funciones análogas",
+    "Se realiza mediante concurso o libre designación, sin cambiar de subgrupo"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Cubos y operaciones OLAP",
+  "correcta": 1,
+  "enunciado": "¿Qué operación OLAP cambia qué dimensiones van en filas y columnas para ver el informe desde otro ángulo?",
+  "explicacion": "Nota: Pivot (rotar) cambia qué dimensiones van en filas/columnas. Drill down da más detalle; Roll up, menos.",
+  "n": 10,
+  "opciones": [
+    "Drill down",
+    "Pivot",
+    "Roll up",
+    "Slice"
+  ],
+  "tema": "B2-T1"
+}

@@ -1,0 +1,14 @@
+{
+  "apartado": "Suspensión de funciones",
+  "correcta": 0,
+  "enunciado": "¿Cuál es el plazo que tiene el instructor para presentar el pliego de cargos desde la incoación del procedimiento disciplinario, y de cuántos días dispone el inculpado para presentar alegaciones?",
+  "explicacion": "Nota: el instructor dispone de un mes (ampliable) para el pliego de cargos; el inculpado tiene diez días para alegaciones, documentos y proponer pruebas.",
+  "n": 37,
+  "opciones": [
+    "1 mes (ampliable); 10 días",
+    "15 días; 10 días",
+    "1 mes (ampliable); 5 días",
+    "2 meses; 15 días"
+  ],
+  "tema": "B1-T4.1"
+}

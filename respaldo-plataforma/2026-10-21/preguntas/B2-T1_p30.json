@@ -1,0 +1,14 @@
+{
+  "apartado": "CPU, registros y ciclo",
+  "correcta": 1,
+  "enunciado": "¿Qué componente de la CPU busca instrucciones, las decodifica y coordina qué hace cada parte, pero no calcula nada?",
+  "explicacion": "Nota: la UC es el «director de orquesta»: busca, decodifica y coordina; no calcula. La ALU es la «calculadora».",
+  "n": 30,
+  "opciones": [
+    "ALU",
+    "Unidad de Control",
+    "Decodificador",
+    "Secuenciador"
+  ],
+  "tema": "B2-T1"
+}

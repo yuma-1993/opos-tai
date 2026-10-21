@@ -1,0 +1,14 @@
+{
+  "apartado": "Detección de errores e integridad",
+  "correcta": 2,
+  "enunciado": "¿Qué código se basa en que dos datos consecutivos solo se diferencian en 1 bit?",
+  "explicacion": "Nota: Gray se basa en que dos datos consecutivos solo difieren en 1 bit.",
+  "n": 25,
+  "opciones": [
+    "Hamming",
+    "CRC",
+    "Gray",
+    "Checksum"
+  ],
+  "tema": "B2-T1"
+}

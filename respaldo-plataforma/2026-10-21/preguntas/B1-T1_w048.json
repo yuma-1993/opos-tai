@@ -1,0 +1,16 @@
+{
+  "apartado": "Estados de alarma, excepción y sitio",
+  "correcta": 3,
+  "enunciado": "Ante una crisis sanitaria grave, se declara el estado de alarma. ¿Cuál de las siguientes afirmaciones describe correctamente esa declaración?",
+  "explicacion": "El estado de alarma lo declara el Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso; dura máximo 15 días, es prorrogable y no suspende ningún derecho. El distractor más tentador es el segundo, que mezcla la autorización previa propia del estado de excepción.",
+  "lote": 1792487818082,
+  "n": 48,
+  "opciones": [
+    "Lo declara el Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso; dura como máximo 30 días y suspende el derecho de reunión",
+    "Lo declara el Gobierno mediante decreto, previa autorización del Congreso; dura como máximo 15 días y no suspende derechos",
+    "Lo declara el Congreso por mayoría absoluta a propuesta del Gobierno; dura como máximo 15 días y no suspende derechos",
+    "Lo declara el Gobierno mediante decreto acordado en Consejo de Ministros, dando cuenta al Congreso; dura como máximo 15 días y no suspende derechos"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

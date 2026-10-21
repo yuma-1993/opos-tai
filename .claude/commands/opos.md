@@ -177,6 +177,9 @@ a partir de `notas/<id>`, igual que haría `opos-curso`, y lo guarda en
 ### Cola de la web
 La plataforma permite registrar repasos y añadir o resolver dudas. Esos cambios llegan a `opos_cola`; al empezar `/opos`, vuelca esa cola a `_repasos.md`/`_dudas.md` (ver `opos-repaso`, «Cola de cambios hechos desde la web») antes de calcular la agenda.
 
+### Respaldo de la plataforma
+Lo que solo vive en la base de datos de la web (banco de preguntas, intentos, cursos, lecciones, progreso del curso y simulacros) se copia a `respaldo-plataforma/<AAAA-MM-DD>/` con `ArtifactData` (`list` con `query.limit` 1000 y `out_dir`, una colección cada vez: `preguntas`, `intentos`, `lecciones`, `cursos`, `progreso_curso`, `simulacros`). No hace falta copiar `notas` (es copia de la bóveda) ni `opos_*` (espejo de los `.md`). Al empezar `/opos`, si el respaldo más reciente tiene más de 7 días, avisa al usuario y ofrécele hacerlo. Para restaurar tras una pérdida: `node .claude/scripts/opos_restaurar.mjs respaldo-plataforma/<fecha>` genera lotes `writes_N.json` para `ArtifactData` `batch`. El respaldo se commitea a git.
+
 ## Paso 4 — Cierre
 
 Al terminar, resume en 2-3 líneas qué se hizo (no repitas el detalle

@@ -1,0 +1,14 @@
+{
+  "apartado": "Memoria",
+  "correcta": 3,
+  "enunciado": "En la política de actualización de caché «write back» (escritura diferida):",
+  "explicacion": "Nota: write through = modifica caché y memoria principal a la vez; write back = solo cuando el bloque va a salir de caché.",
+  "n": 43,
+  "opciones": [
+    "Se modifica la caché y la memoria principal a la vez",
+    "Nunca se escribe en la memoria principal",
+    "Se escribe en la memoria principal al leer el bloque",
+    "Se escribe en la memoria principal solo cuando el bloque va a salir de la caché"
+  ],
+  "tema": "B2-T1"
+}

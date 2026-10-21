@@ -1,0 +1,144 @@
+{
+  "bloques": [
+    {
+      "md": "El TREBEP funciona como una **carta de menú de permisos**: cada situación de la vida (un fallecimiento, un hijo recién nacido, una mudanza) tiene su \"plato\" con una duración concreta. Esta lección tiene tres piezas clave: **fallecimiento/enfermedad grave** (depende del grado y de la localidad), **lactancia** (derecho individual, no transferible) y **nacimiento** (19 semanas repartidas en tres tramos).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Un mismo permiso cubre cuatro hechos: **fallecimiento, accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización con reposo domiciliario** de un familiar. Los días dependen de dos variables: el **grado** de parentesco y si el familiar está en la **misma localidad o en otra**.\n\n| Grado | Misma localidad | Distinta localidad |\n|---|---|---|\n| 1º grado | 3 días hábiles | 5 días hábiles |\n| 2º grado (consanguinidad o afinidad) | 2 días hábiles | 4 días hábiles |\n\nPaso a paso: 1) identifica el grado; 2) mira si es la misma localidad o distinta; 3) cruza en la tabla. Son **días hábiles**.",
+      "t": "explica",
+      "titulo": "Paso 1: Fallecimiento, enfermedad grave, hospitalización e intervención"
+    },
+    {
+      "md": "Un funcionario pierde a su **abuelo** (2º grado) que vivía en **otra localidad**. Grado 2º + distinta localidad = **4 días hábiles**.\n\nSi el abuelo viviera en la misma localidad: **2 días hábiles**.\n\nSi fuera su **padre** (1º grado) en otra localidad: **5 días hábiles**; en la misma localidad: **3**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: fallecimiento"
+    },
+    {
+      "md": "**1º grado: 3 y 5. 2º grado: 2 y 4.** Primero la misma localidad (la cifra menor), luego la distinta (+2 días). Al bajar de grado se resta 1 día; al cambiar de localidad se suman 2.",
+      "t": "truco",
+      "titulo": "Truco: la regla del 3-5 / 2-4"
+    },
+    {
+      "md": "Es un permiso para el cuidado del hijo menor de **12 meses**. Se puede disfrutar de estas formas:\n\n- **1 hora diaria de ausencia** del trabajo.\n- Reducción de jornada de **media hora al inicio y media al final**.\n- Reducción de **1 hora al inicio o al fin** de la jornada.\n\nAdemás:\n\n- Se **incrementa proporcionalmente en partos múltiples**.\n- Es un **derecho individual del funcionario, no transferible**.\n- Puede **acumularse en jornadas completas** al finalizar otros permisos de nacimiento.",
+      "t": "explica",
+      "titulo": "Paso 2: Lactancia de un hijo menor de 12 meses"
+    },
+    {
+      "md": "Una funcionaria tiene un bebé de 8 meses. Puede salir 1 hora antes, entrar 1 hora más tarde o hacer media hora al principio y media al final. Si su pareja también es funcionaria, **no puede cederle** su permiso: cada uno tiene su derecho individual. Si el bebé tuviera 13 meses, ya no procedería (el límite es menor de 12 meses).",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: lactancia"
+    },
+    {
+      "md": "**\"1 hora, 12 meses, derecho propio\"**: 1 hora diaria (en una o dos mitades), hijo menor de 12 meses, individual e intransferible.",
+      "t": "truco",
+      "titulo": "Truco: lactancia"
+    },
+    {
+      "md": "Se reparte en tres tramos:\n\n1. **6 semanas** inmediatas al parto: **completas e ininterrumpidas** (obligatorias).\n2. **11 semanas** siguientes: **a voluntad, interrumpidas por semanas completas**, hasta que el recién nacido cumpla **12 meses**. Preaviso de **15 días**.\n3. **2 semanas** más: interrumpidas por semanas completas, hasta que el hijo cumpla **8 años**. Preaviso de **15 días**.\n\nTotal: 6 + 11 + 2 = **19 semanas**. Se puede disfrutar a jornada completa o a tiempo parcial cuando las necesidades del servicio lo permitan, en los términos que reglamentariamente se determinen.",
+      "t": "explica",
+      "titulo": "Paso 3: Permiso por nacimiento (19 semanas)"
+    },
+    {
+      "md": "- **Parto múltiple**: 1 semana más por hijo a partir del segundo, para cada progenitor.\n- **Hijo con discapacidad**: 2 semanas más.\n- **Fallece la madre**: el otro progenitor puede usar el permiso, o el restante.\n- **Parto prematuro u hospitalización tras el parto**: se amplía mientras dure la hospitalización, con un máximo de **13 semanas adicionales**.\n- **Familia monoparental**: **32 semanas**.\n- **Fallece el hijo o hija**: el permiso no se reduce; tras las 6 semanas obligatorias se puede solicitar la reincorporación.\n- **Cursos de formación**: se puede participar, tras el descanso obligatorio de 6 semanas.\n- **Adopción internacional** con desplazamiento: puede iniciarse hasta **4 semanas antes** de la resolución que constituye la adopción; además, permiso de hasta **2 meses** percibiendo solo las retribuciones básicas.",
+      "t": "explica",
+      "titulo": "Paso 4: Ampliaciones y casos especiales del nacimiento"
+    },
+    {
+      "md": "Nace un bebé de parto único. El progenitor disfruta las **6 semanas** seguidas tras el parto. Después, con 15 días de preaviso, coge las **11 semanas** en bloques de semanas completas, todas antes de que el bebé cumpla 12 meses. Las **2 semanas** restantes las puede coger en semanas completas hasta que el niño cumpla 8 años. Si fueran gemelos: 1 semana más por el segundo hijo, para cada progenitor.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto: reparto del nacimiento"
+    },
+    {
+      "md": "**\"6 de golpe, 11 al año, 2 a los 8\"**: 6 seguidas, 11 hasta los 12 meses, 2 hasta los 8 años. Suman 19.",
+      "t": "truco",
+      "titulo": "Truco: 6-11-2"
+    },
+    {
+      "md": "**Catálogo (resumen)**\n\n| Permiso | Derecho |\n|---|---|\n| Fallecimiento, etc. 1º grado | 3 días hábiles misma localidad; 5 distinta |\n| Ídem 2º grado | 2 días hábiles misma localidad; 4 distinta |\n| Traslado de domicilio sin cambio de residencia | 1 día |\n| Exámenes finales en Centros oficiales | Durante los días de su celebración |\n| Exámenes prenatales, preparación al parto, fecundación asistida | Tiempo indispensable, previa justificación |\n| Lactancia hijo menor de 12 meses | 1 hora diaria; incremento proporcional en partos múltiples; individual, no transferible; acumulable al finalizar otros permisos de nacimiento |\n| Hijos prematuros u hospitalizados | Hasta 2 h diarias con retribuciones íntegras, o reducir jornada hasta 2 horas con reducción de retribuciones |\n| Cuidado de familiar de primer grado por enfermedad muy grave | Reducción hasta 50% de la jornada, máximo un mes, retribuido; si 2 funcionarios lo piden, se prorratea |\n| Asuntos particulares | 6 días al año |\n| Matrimonio | 15 días naturales |\n| Licencia por asuntos propios | Sin retribuir, hasta tres meses cada 2 años |\n\n**Nacimiento**: 19 semanas (6 ininterrumpidas + 11 hasta los 12 meses + 2 hasta los 8 años); +1 semana por hijo desde el segundo en parto múltiple, para cada progenitor; +2 semanas por discapacidad; hasta 13 semanas adicionales por hospitalización; monoparental 32 semanas.\n\n**Otros permisos**\n\n- **Violencia de género o sexual**: faltas justificadas según servicios sociales o de salud; reducción de jornada (con disminución proporcional) o reordenación del tiempo; si la reducción es de 1/3 o menos, retribuciones íntegras.\n- **Hijo menor con cáncer u otra enfermedad grave**: ambos progenitores trabajan; reducción de al menos la mitad de la jornada con retribuciones íntegras, hasta los 18 años; requiere informe sanitario; si ambos lo solicitan, el primero cobra íntegras y el segundo con reducción de retribuciones.\n- **Terrorismo**: reducción de jornada con disminución proporcional de retribuciones, o reordenación del tiempo de trabajo.",
+      "t": "nota",
+      "titulo": "Datos duros de la nota"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario sufre el fallecimiento de su padre, que residía en otra localidad. ¿Cuántos días hábiles de permiso le corresponden?",
+      "explicacion": "El padre es familiar de 1º grado y la localidad es distinta: 5 días hábiles (3 si fuera la misma localidad).",
+      "opciones": [
+        "2 días hábiles",
+        "4 días hábiles",
+        "5 días hábiles",
+        "3 días hábiles"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "En relación con el permiso por lactancia de un hijo menor de 12 meses, es correcto que:",
+      "explicacion": "La nota indica que es un derecho individual del funcionario, no transferible, para hijos menores de 12 meses.",
+      "opciones": [
+        "Puede cederse libremente al otro progenitor",
+        "Es un derecho individual del funcionario, no transferible",
+        "Solo se disfruta como reducción de 2 horas al inicio de la jornada",
+        "Se extingue al cumplir el hijo 8 años"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En el permiso por nacimiento de 19 semanas, las 11 semanas que siguen a las 6 obligatorias:",
+      "explicacion": "Son a voluntad, interrumpidas por semanas completas, hasta los 12 meses del recién nacido, con preaviso de 15 días.",
+      "opciones": [
+        "Se disfrutan hasta que el hijo cumpla 8 años",
+        "No requieren preaviso alguno",
+        "Deben disfrutarse seguidas con las 6 primeras",
+        "Se disfrutan por semanas completas, interrumpidas, hasta que el recién nacido cumpla 12 meses"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es la duración del permiso por nacimiento en una familia monoparental?",
+      "explicacion": "La nota establece que en caso de familia monoparental el permiso será de 32 semanas.",
+      "opciones": [
+        "13 semanas",
+        "32 semanas",
+        "21 semanas",
+        "19 semanas"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Si el hijo fallece durante el permiso por nacimiento, ¿qué ocurre?",
+      "explicacion": "Según la tabla, el permiso no se ve reducido y, tras las 6 semanas obligatorias, puede solicitarse la reincorporación.",
+      "opciones": [
+        "El permiso no se reduce; tras las 6 semanas obligatorias se puede solicitar la reincorporación",
+        "El permiso se reduce a las 6 semanas obligatorias",
+        "El permiso pasa a ser de 2 semanas",
+        "El permiso se extingue inmediatamente"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "2º grado: 2 días hábiles en la misma localidad y 4 en distinta localidad",
+      "1º grado: 3 días hábiles en la misma localidad y 5 en distinta localidad",
+      "Lactancia: 1 hora diaria para hijo menor de 12 meses; derecho individual, no transferible",
+      "Nacimiento: 19 semanas; las 6 primeras completas e ininterrumpidas",
+      "11 semanas siguientes hasta que el recién nacido cumpla 12 meses y 2 semanas más hasta que el hijo cumpla 8 años",
+      "Familia monoparental: 32 semanas; parto prematuro u hospitalización: hasta 13 semanas adicionales"
+    ],
+    "consigna": "Explica con tus palabras cuántos días de permiso corresponden por el fallecimiento de un familiar de 1º y 2º grado, cómo funciona la lactancia y cómo se reparten las 19 semanas del permiso por nacimiento."
+  },
+  "modulo": "M5",
+  "moduloTitulo": "Jornada, vacaciones y permisos",
+  "objetivo": "Aplicar los permisos por fallecimiento y lactancia y describir el reparto del permiso por nacimiento.",
+  "orden": 24,
+  "preguntasBanco": [
+    18,
+    19,
+    40
+  ],
+  "resumen": "Por fallecimiento o enfermedad grave: 1º grado 3 días hábiles (5 si es otra localidad) y 2º grado 2 días hábiles (4 si es otra localidad). La lactancia (hijo menor de 12 meses) es 1 hora diaria, derecho individual e intransferible. El permiso por nacimiento son 19 semanas: 6 ininterrumpidas, 11 hasta los 12 meses y 2 hasta los 8 años, con ampliaciones (parto múltiple, discapacidad, hospitalización) y 32 semanas en familia monoparental.",
+  "tema": "B1-T4.1",
+  "titulo": "Catálogo de permisos y permiso por nacimiento"
+}

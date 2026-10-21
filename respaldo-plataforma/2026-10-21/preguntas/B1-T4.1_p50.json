@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 1,
+  "enunciado": "¿Cuál de las siguientes faltas es grave según el Reglamento Disciplinario recogido en la nota?",
+  "explicacion": "Nota: el incumplimiento injustificado de jornada acumulado de diez horas al mes es falta grave. La desobediencia abierta es muy grave; el resto son leves.",
+  "n": 50,
+  "opciones": [
+    "La falta de asistencia injustificada por un día",
+    "El incumplimiento injustificado de la jornada de trabajo que, acumulado, suponga un mínimo de diez horas al mes",
+    "La desobediencia abierta a las órdenes o instrucciones de un superior",
+    "El descuido o negligencia"
+  ],
+  "tema": "B1-T4.1"
+}

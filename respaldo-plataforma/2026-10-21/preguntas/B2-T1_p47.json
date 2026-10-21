@@ -1,0 +1,14 @@
+{
+  "apartado": "Arquitecturas y rendimiento",
+  "correcta": 3,
+  "enunciado": "¿Qué diferencia hay entre las arquitecturas Von Neumann y Harvard?",
+  "explicacion": "Nota: Von Neumann = una única memoria; Harvard = memoria separada para instrucciones y datos (mejor seguridad y rendimiento).",
+  "n": 47,
+  "opciones": [
+    "Von Neumann tiene memoria separada para instrucciones y datos; Harvard, una sola",
+    "Harvard tiene una única memoria para instrucciones y datos",
+    "Ambas usan una única memoria",
+    "Von Neumann usa una única memoria para instrucciones y datos; Harvard las separa"
+  ],
+  "tema": "B2-T1"
+}

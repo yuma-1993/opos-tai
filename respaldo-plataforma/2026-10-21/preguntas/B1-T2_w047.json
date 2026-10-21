@@ -1,0 +1,16 @@
+{
+  "apartado": "Las fuentes del Derecho > La Ley",
+  "correcta": 2,
+  "enunciado": "Se tramita un proyecto de Ley Orgánica. ¿Qué mayorías exige su aprobación en cada Cámara?",
+  "explicacion": "La tabla de la Ley establece para las leyes orgánicas mayoría absoluta del Congreso sobre la totalidad y mayoría simple en el Senado. El distractor de mayoría absoluta en ambas Cámaras extiende la exigencia al Senado; la mayoría de 3/5 es la del nombramiento de miembros del TC.",
+  "lote": 1792504590395,
+  "n": 47,
+  "opciones": [
+    "Mayoría absoluta en el Congreso y mayoría absoluta en el Senado",
+    "Mayoría simple en el Congreso y mayoría absoluta en el Senado",
+    "Mayoría absoluta del Congreso en votación sobre la totalidad del proyecto y mayoría simple en el Senado",
+    "Mayoría de 3/5 en el Congreso y mayoría simple en el Senado"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

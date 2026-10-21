@@ -1,0 +1,109 @@
+{
+  "bloques": [
+    {
+      "md": "Una empresa necesita sistemas distintos según **quién** los usa: no necesita lo mismo la cajera que el director. Se organizan en una pirámide por el nivel al que sirven. Se explica de abajo a arriba, que es como suben los datos: se van agregando.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Nivel | Sistema | Qué hace |\n|---|---|---|\n| Base (operativo) | **TPS** (Transaction Processing System) | Registra transacciones del día a día: ventas, nóminas, pedidos, entradas y salidas de almacén. Volumen alto, datos muy detallados y en tiempo real. Ej.: el TPV de un supermercado |\n| Mandos intermedios | **MIS** (Management Information System) | Convierte los datos del TPS en **informes periódicos y estructurados** (ventas del mes, stock semanal). Preguntas predefinidas. Power BI encaja aquí |\n| Táctico | **DSS** (Decision Support System) | Decisiones menos estructuradas. Aquí entra **OLAP** (drill-down, roll-up…). Responde a «¿qué pasaría si...?». Corto plazo |\n| Cúpula (alta dirección) | **EIS** (Executive Information System) | Datos muy resumidos: cuadros de mando (dashboards), KPIs. Puede entrar Machine Learning para predicciones a largo plazo. «¿Hacia dónde va la empresa?» |",
+      "t": "explica",
+      "titulo": "De abajo arriba"
+    },
+    {
+      "md": "- **TPS**: la caja registra cada venta.\n- **MIS**: el informe de ventas del mes.\n- **DSS**: ¿qué pasaría con las ventas si bajamos el precio de un producto en una región?\n- **EIS**: el cuadro de mando del director con los indicadores de la empresa.\n\nEs un ejemplo para entenderlo; solo el TPV viene en tu nota.",
+      "t": "ejemplo",
+      "titulo": "Un supermercado en la pirámide"
+    },
+    {
+      "md": "T-M-D-E: **T**ransacciones, **M**ensual (informes), **D**ecidir (qué pasaría si), **E**jecutivos (dashboards). Al subir: **baja el volumen, sube la abstracción**.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "A medida que subes (TPS → MIS → DSS → EIS): **baja el volumen de datos** pero **sube el nivel de agregación y abstracción**, y se pasa de operaciones repetitivas a decisiones estratégicas poco estructuradas.\n\nEIS estratégico (largo/medio plazo; ML, estadística, cuadros de mando). DSS táctico (corto plazo; también OLAP). MIS informes (Power BI). TPS transacciones diarias.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué sistema registra ventas, nóminas y pedidos con datos muy detallados?",
+      "explicacion": "El TPS es la base operativa de la pirámide.",
+      "opciones": [
+        "EIS",
+        "DSS",
+        "TPS",
+        "MIS"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué sistema genera informes periódicos y estructurados (por ejemplo con Power BI)?",
+      "explicacion": "El MIS convierte los datos del TPS en informes periódicos.",
+      "opciones": [
+        "MIS",
+        "TPS",
+        "EIS",
+        "DSS"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué sistema usa OLAP y responde a preguntas del tipo «¿qué pasaría si...?»?",
+      "explicacion": "El DSS es táctico y es donde entra OLAP.",
+      "opciones": [
+        "TPS",
+        "MIS",
+        "DSS",
+        "EIS"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué sistema usa cuadros de mando y KPIs para la alta dirección?",
+      "explicacion": "El EIS está en la cúspide, con datos muy resumidos.",
+      "opciones": [
+        "DSS",
+        "EIS",
+        "TPS",
+        "MIS"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué ocurre al subir en la pirámide?",
+      "explicacion": "Baja el volumen de datos y sube la agregación y la abstracción.",
+      "opciones": [
+        "Sube el volumen y baja la abstracción",
+        "Baja el volumen y sube la agregación y la abstracción",
+        "Baja el volumen y baja la abstracción",
+        "No cambia el volumen"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "TPS: transacciones del día a día, volumen alto, datos detallados y en tiempo real",
+      "MIS: informes periódicos y estructurados con preguntas predefinidas (Power BI)",
+      "DSS: nivel táctico, usa OLAP y responde a preguntas «¿qué pasaría si...?»",
+      "EIS: alta dirección, datos muy resumidos, cuadros de mando y KPIs, puede usar Machine Learning",
+      "Al subir baja el volumen de datos y sube el nivel de agregación y abstracción"
+    ],
+    "consigna": "Explícame qué hace cada nivel de la pirámide de sistemas de información y qué pasa con el volumen y la abstracción al subir."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Sistemas de información y BI",
+  "objetivo": "Saber qué hace cada nivel de la pirámide y cómo cambian los datos al subir.",
+  "orden": 16,
+  "preguntasBanco": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "resumen": "TPS (transacciones) → MIS (informes) → DSS (OLAP, qué pasaría si) → EIS (dashboards, ML). Al subir baja el volumen y sube la abstracción.",
+  "tema": "B2-T1",
+  "titulo": "La pirámide de sistemas de información: TPS, MIS, DSS y EIS"
+}

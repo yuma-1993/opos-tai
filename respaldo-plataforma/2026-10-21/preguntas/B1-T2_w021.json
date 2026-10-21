@@ -1,0 +1,16 @@
+{
+  "apartado": "Los conflictos de competencias",
+  "correcta": 0,
+  "enunciado": "Dos órganos de distintas administraciones se declaran ambos competentes para resolver el mismo asunto. ¿Cómo se denomina este conflicto y de qué plazo se dispone?",
+  "explicacion": "En el conflicto positivo dos órganos consideran que tienen la competencia; el plazo es de 2 meses desde la publicación. El negativo es cuando ninguno se considera competente; el de 3 meses confunde con el recurso de inconstitucionalidad.",
+  "lote": 1792504590395,
+  "n": 21,
+  "opciones": [
+    "Conflicto positivo; 2 meses desde la publicación",
+    "Conflicto positivo; 3 meses desde la publicación",
+    "Conflicto negativo; 20 días desde la publicación",
+    "Conflicto negativo; 2 meses desde la publicación"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

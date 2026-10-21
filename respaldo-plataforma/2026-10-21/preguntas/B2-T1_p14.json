@@ -1,0 +1,14 @@
+{
+  "apartado": "Códigos para dígitos decimales",
+  "correcta": 1,
+  "enunciado": "En el código Exceso a 3 (XS-3), ¿cómo se representa el dígito decimal 8?",
+  "explicacion": "Nota: cada dígito se codifica con 4 bits más 3. El 8 = 1000 + 0011 = 1011.",
+  "n": 14,
+  "opciones": [
+    "1000",
+    "1011",
+    "0011",
+    "1110"
+  ],
+  "tema": "B2-T1"
+}

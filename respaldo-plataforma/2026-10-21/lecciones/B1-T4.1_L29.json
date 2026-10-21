@@ -1,0 +1,125 @@
+{
+  "bloques": [
+    {
+      "md": "El TREBEP es como el **manual de vida laboral del empleado público**: dice a quién se aplica, cómo entras, qué situaciones puedes vivir, qué derechos y deberes tienes, cómo te sancionan y cómo sales. Esta lección es la **chuleta de una página** de todo el tema.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "**Ámbito del TREBEP:** personal funcionario y, en lo que proceda, laboral de AGE, CCAA, Ceuta/Melilla, entidades locales, organismos públicos y Universidades Públicas. Tiene **carácter supletorio** para el resto.\n\n**Personal con legislación específica propia:** Cortes/asambleas, otros Órganos Constitucionales, Justicia, FFAA, Fuerzas y Cuerpos de Seguridad, Notarios, CNI, Banco de España/FGD.\n\n**Funcionario de carrera:** relación estatutaria de derecho administrativo, servicios retribuidos permanentes.\n\n**Funcionario interino:** por necesidad y urgencia:\n- Vacante.\n- Sustitución transitoria: máx. 3 años +12.\n- Exceso de tareas: máx. 9 meses en 18.",
+      "t": "explica",
+      "titulo": "1. Quién entra y qué tipo de personal hay"
+    },
+    {
+      "md": "**Adquisición de la condición:**\n1. Superación del proceso selectivo.\n2. Nombramiento y publicación.\n3. Acatamiento de la CE/Estatuto.\n4. Toma de posesión (normalmente 1 mes).\n\nNombra el Secretario de Estado de la Función Pública. Concurso: 2 meses de plazo de resolución.\n\n**Pérdida:** renuncia, pérdida de nacionalidad, jubilación, sanción de separación firme, pena de inhabilitación firme (absoluta o especial).\n\n**Jubilación forzosa** a los 65, prorrogable hasta los 70: solicitud con 2 meses de antelación, resolución en 1 mes, silencio positivo si faltan 15 días.",
+      "t": "explica",
+      "titulo": "2. Entrar y salir"
+    },
+    {
+      "md": "**Situaciones:** servicio activo, servicios especiales (altos cargos siempre), servicio en otras Administraciones Públicas, excedencia, suspensión de funciones.\n\n**Excedencias:**\n\n| Tipo | Requisitos / duración | ¿Computa? | Reserva |\n|---|---|---|---|\n| Interés particular | 5 años previos, mín. 2 años | NO | — |\n| Agrupación familiar | 2-15 años | NO | — |\n| Cuidado de familiares | máx. 3 años | SÍ | reserva de puesto |\n| Violencia de género | sin mínimos | SÍ | 6+3 meses hasta 18 |\n\n**Suspensión:** provisional máx. 6 meses (medida cautelar); firme, pérdida del puesto si excede 6 meses.\n\n**Provisión:** concurso (norma general, méritos) o libre designación (discrecional). Comisiones de servicio sin indemnización, duración máx. 1 año prorrogable.",
+      "t": "explica",
+      "titulo": "3. Situaciones administrativas y provisión de puestos"
+    },
+    {
+      "md": "**Derechos:** individuales, colectivos (sindicación, negociación colectiva, huelga, conflictos colectivos, reunión, representación, participación institucional) y retributivos (básicas: sueldo/trienios; complementarias: puesto/carrera/desempeño).\n\n**Carrera:** horizontal (grados, sin cambio de puesto) vs vertical (cambio de puesto, mayor responsabilidad). **Promoción interna:** horizontal (mismo subgrupo) vs vertical (cambia de grupo/subgrupo).\n\n**Jornada y permisos:**\n- Jornada mínima: 35 h semanales (1.533 h/año).\n- Jornada de verano: 16/06-15/09, 6,5 h.\n- Vacaciones: 22 días hábiles + días por antigüedad (15/20/25/30 años → +1/+2/+3/+4).\n- 6 días de asuntos propios.\n- Permiso por nacimiento: 19 semanas (6 obligatorias + 11 + 2), +2 por discapacidad o parto múltiple, hasta 32 semanas en familia monoparental.",
+      "t": "explica",
+      "titulo": "4. Derechos, carrera y condiciones de trabajo"
+    },
+    {
+      "md": "**Código de conducta:** principios éticos (lealtad, abstención en conflicto de intereses, secreto) y principios de conducta (trato, información, rechazo de regalos).\n\n**Faltas:** muy graves (TREBEP, uniformes), graves (Ley de FP o convenio + Reglamento Disciplinario), leves (residuales).\n\n**Sanciones:** separación del servicio, despido disciplinario, suspensión firme (máx. 6 años), traslado forzoso, demérito, apercibimiento.\n\n**Prescripción (falta/sanción):** muy graves 3/3 años, graves 2/2 años, leves 6 meses/1 año (única asimetría).\n\n**Incompatibilidades:** docencia universitaria a tiempo parcial compatible; tope retributivo por ambos puestos A1 30% / A2 35% / C1 40% / C2 45% / Agrup. 50%.",
+      "t": "explica",
+      "titulo": "5. Conducta, disciplina e incompatibilidades"
+    },
+    {
+      "md": "Una funcionaria de carrera A2 pide excedencia para cuidar a su madre durante 2 años. ¿Computa a efectos de antigüedad y tiene reserva?\n\n1. Es excedencia por **cuidado de familiares** (máx. 3 años).\n2. En esta modalidad **SÍ computa** el tiempo.\n3. Tiene **reserva de puesto**.\n\nSi fuera por interés particular, NO computaría y exigiría 5 años previos y mínimo 2 años de excedencia.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**Excedencias: «Cuidar y Violencia suman; Interés y Agrupación restan».** Las dos de cuidado/violencia computan; las dos de interés particular/agrupación familiar no.\n\n**Topes de incompatibilidad:** de A1 a Agrupaciones suben de 5 en 5 hasta el final: 30-35-40-45-50.",
+      "t": "truco",
+      "titulo": "Truco mnemotécnico"
+    },
+    {
+      "md": "- Interino: sustitución máx. 3 años +12; exceso de tareas máx. 9 meses en 18.\n- Toma de posesión: normalmente 1 mes. Concurso: 2 meses de resolución.\n- Jubilación forzosa 65, prórroga hasta 70 (2 meses antelación, 1 mes resolución, silencio positivo si faltan 15 días).\n- Suspensión provisional máx. 6 meses; suspensión firme máx. 6 años.\n- Comisión de servicios sin indemnización: máx. 1 año prorrogable.\n- Jornada 35 h semanales (1.533 h/año); verano 16/06-15/09, 6,5 h.\n- Vacaciones 22 días hábiles; +1/+2/+3/+4 a 15/20/25/30 años. 6 días de asuntos propios.\n- Nacimiento: 19 semanas (6+11+2), +2 por discapacidad o parto múltiple, hasta 32 en monoparental.\n\n| Grupo | Niveles | Tope retributivo (incompatibilidades) |\n|---|---|---|\n| A1 | 22-30 | 30% |\n| A2 | 18-26 | 35% |\n| C1 | 15-22 | 40% |\n| C2 | 14-18 | 45% |\n| Agrupaciones | 13-14 | 50% |\n\n- Grado personal: 2 años continuados o 3 con interrupción.\n- Prescripción faltas/sanciones: muy graves 3/3, graves 2/2, leves 6 meses/1 año.",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué excedencia computa a efectos de antigüedad y conlleva reserva de puesto con una duración máxima de 3 años?",
+      "explicacion": "La excedencia por cuidado de familiares tiene un máximo de 3 años, SÍ computa y conlleva reserva de puesto. Interés particular y agrupación familiar NO computan.",
+      "opciones": [
+        "Excedencia por agrupación familiar",
+        "Excedencia por servicio en otras Administraciones",
+        "Excedencia por interés particular",
+        "Excedencia por cuidado de familiares"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Un funcionario solicita la prórroga de su jubilación forzosa. Según la nota, ¿cuál es el plazo de antelación de la solicitud y hasta qué edad puede prorrogarse?",
+      "explicacion": "La jubilación forzosa es a los 65, prorrogable hasta los 70, con solicitud con 2 meses de antelación y resolución en 1 mes.",
+      "opciones": [
+        "1 mes de antelación; hasta los 67",
+        "15 días de antelación; hasta los 70",
+        "2 meses de antelación; hasta los 70",
+        "3 meses de antelación; hasta los 68"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es el tope retributivo por ambos puestos en compatibilidad para el grupo C1?",
+      "explicacion": "Los topes son A1 30%, A2 35%, C1 40%, C2 45% y Agrupaciones 50%.",
+      "opciones": [
+        "30%",
+        "40%",
+        "45%",
+        "35%"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué falta disciplinaria presenta una asimetría entre el plazo de prescripción de la falta y el de la sanción?",
+      "explicacion": "Las leves prescriben a los 6 meses (falta) y 1 año (sanción), la única asimetría. Muy graves 3/3 y graves 2/2.",
+      "opciones": [
+        "Ninguna, todas son simétricas",
+        "Las leves",
+        "Las muy graves",
+        "Las graves"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Para el funcionario interino por exceso o acumulación de tareas, ¿cuál es la duración máxima?",
+      "explicacion": "El exceso de tareas permite un máximo de 9 meses en 18. Los 3 años +12 corresponden a la sustitución transitoria.",
+      "opciones": [
+        "9 meses dentro de un periodo de 18",
+        "6 meses dentro de un periodo de 12",
+        "1 año prorrogable",
+        "3 años más 12 meses"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Adquisición: superación del proceso selectivo, nombramiento y publicación, acatamiento de la CE/Estatuto y toma de posesión (normalmente 1 mes)",
+      "Situaciones administrativas: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones",
+      "Jubilación forzosa a los 65, prorrogable hasta los 70",
+      "Jornada mínima: 35 h semanales; vacaciones: 22 días hábiles y 6 días de asuntos propios",
+      "Prescripción: muy graves 3/3 años, graves 2/2 años, leves 6 meses/1 año",
+      "Pérdida de la condición: renuncia, pérdida de nacionalidad, jubilación, sanción de separación firme, pena de inhabilitación firme"
+    ],
+    "consigna": "Explica con tus palabras el recorrido completo de un funcionario según el TREBEP: cómo entra, qué situaciones puede vivir, qué condiciones de trabajo tiene, cómo se le puede sancionar y cómo sale."
+  },
+  "modulo": "M7",
+  "moduloTitulo": "Repaso final",
+  "objetivo": "Repasar de un vistazo los datos clave de todo el tema TREBEP: ámbito, tipos de personal, adquisición y pérdida de la condición de funcionario, situaciones administrativas, provisión de puestos, derechos, jornada y permisos, conducta, régimen disciplinario e incompatibilidades.",
+  "orden": 29,
+  "preguntasBanco": [],
+  "resumen": "El TREBEP regula todo el ciclo del empleado público: ámbito y tipos de personal, acceso (proceso selectivo, nombramiento, acatamiento y toma de posesión), situaciones administrativas, provisión de puestos, derechos, jornada y permisos, código de conducta, régimen disciplinario con sus prescripciones e incompatibilidades. Memoriza las cifras clave: jubilación 65-70, jornada 35 h, vacaciones 22 días, permiso de nacimiento 19 semanas, prescripciones 3/3, 2/2 y 6 meses/1 año, y topes de incompatibilidad del 30% al 50%.",
+  "tema": "B1-T4.1",
+  "titulo": "Resumen ultra-rápido"
+}

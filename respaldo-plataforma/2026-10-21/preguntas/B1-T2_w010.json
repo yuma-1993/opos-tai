@@ -1,0 +1,16 @@
+{
+  "apartado": "El recurso de amparo",
+  "correcta": 1,
+  "enunciado": "¿Cuáles son los plazos para interponer el recurso de amparo según el origen de la decisión impugnada?",
+  "explicacion": "La nota fija 20 días (administrativas), 30 días (judiciales) y 3 meses (parlamentarias). Los distractores invierten el orden o cambian cifras; el 2 meses recuerda al plazo de los conflictos de competencias.",
+  "lote": 1792504590395,
+  "n": 10,
+  "opciones": [
+    "20 días para decisiones administrativas, 30 días para decisiones judiciales y 2 meses para decisiones parlamentarias",
+    "20 días para decisiones administrativas, 30 días para decisiones judiciales y 3 meses para decisiones parlamentarias",
+    "3 meses para decisiones administrativas, 30 días para decisiones judiciales y 20 días para decisiones parlamentarias",
+    "30 días para decisiones administrativas, 20 días para decisiones judiciales y 3 meses para decisiones parlamentarias"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

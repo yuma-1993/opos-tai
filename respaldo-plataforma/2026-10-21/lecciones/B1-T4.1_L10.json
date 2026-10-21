@@ -1,0 +1,119 @@
+{
+  "bloques": [
+    {
+      "md": "Un funcionario **transferido** es como un trabajador que su empresa «presta» a otra de forma estable porque las competencias se han traspasado. Sigue siendo de su Administración de origen a efectos de derechos, pero trabaja en la de destino. Si la de destino lo adopta como personal propio por ley, el cambio queda **integrado**, y se le respetan el grupo y los derechos económicos.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Se trata de la situación administrativa de **servicio en otras Administraciones Públicas**. Los funcionarios transferidos quedan, respecto de su Administración de origen, en esta situación.\n\nSe **mantienen** en ella en el caso de que, **por disposición legal de la Administración a la que acceden**, se integren como **personal propio** de ésta.",
+      "t": "explica",
+      "titulo": "Paso 1: cuándo se está en esta situación"
+    },
+    {
+      "md": "Cuando las CCAA integran a los funcionarios transferidos como **funcionarios propios**, deben respetar:\n\n- El **Grupo o Subgrupo** del cuerpo o escala de procedencia.\n- Los **derechos económicos inherentes a la posición en la carrera** que tuviesen reconocidos.",
+      "t": "explica",
+      "titulo": "Paso 2: qué respetan las CCAA al integrarlos"
+    },
+    {
+      "md": "Los funcionarios transferidos **mantienen todos sus derechos** en la Administración Pública de origen **como si se hallaran en servicio activo**, de acuerdo con lo establecido en los respectivos **Estatutos de Autonomía**.",
+      "t": "explica",
+      "titulo": "Paso 3: derechos respecto a la Administración de origen"
+    },
+    {
+      "md": "En los supuestos de **remoción** o **supresión** del puesto de trabajo obtenido por concurso:\n\n1. **Permanecen en la Administración de destino**, no vuelven a la de origen.\n2. Esa Administración **debe asignarles un puesto** conforme a los sistemas de carrera y provisión de puestos vigentes en ella.",
+      "t": "explica",
+      "titulo": "Paso 4: si pierden el puesto obtenido por concurso"
+    },
+    {
+      "md": "Una funcionaria del Subgrupo A1 de un cuerpo estatal es transferida a una Comunidad Autónoma. La CCAA aprueba una ley que la integra como personal propio.\n\n- Respecto al Estado (origen): conserva sus derechos como si estuviera en servicio activo, según el Estatuto de Autonomía.\n- La CCAA debe respetarle el **Subgrupo A1** y los **derechos económicos** de su posición en la carrera.\n- Si suprimen el puesto que obtuvo por concurso, **sigue en la CCAA**, que debe asignarle un puesto según sus propios sistemas de carrera y provisión.\n\n(Ejemplo ilustrativo elaborado para la lección; no viene de tus notas.)",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**«Origen: como activo. Destino: me quedo y me colocan.»**\n\n- Origen → derechos **como en servicio activo**.\n- Integración → respeto de **Grupo/Subgrupo + derechos económicos**.\n- Pierdo el puesto → **permanezco en destino** y me asignan otro.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Se mantienen en esta situación si, **por disposición legal de la Administración a la que acceden**, se integran como **personal propio**.\n- Las CCAA, al integrar a los transferidos como funcionarios propios, respetan el **Grupo o Subgrupo** del cuerpo o escala de procedencia y los **derechos económicos inherentes a la posición en la carrera** reconocidos.\n- Mantienen **todos sus derechos en la Administración de origen como si estuvieran en servicio activo**, según los respectivos **Estatutos de Autonomía**.\n- Respecto de la Administración de origen: situación de **servicio en otras Administraciones Públicas**.\n- **Remoción o supresión** del puesto obtenido por concurso: **permanecen en la Administración de destino**, que **debe asignarles un puesto** conforme a los sistemas de carrera y provisión de puestos vigentes en ella.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿En qué situación quedan los funcionarios transferidos respecto de su Administración de origen?",
+      "explicacion": "Según la nota, quedan respecto de su Administración de origen en situación de servicio en otras Administraciones Públicas.",
+      "opciones": [
+        "Servicio activo ordinario",
+        "Servicio en otras Administraciones Públicas",
+        "Excedencia voluntaria",
+        "Servicios especiales"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué deben respetar las CCAA al integrar a los funcionarios transferidos como propios?",
+      "explicacion": "La nota indica que respetarán el Grupo o Subgrupo de procedencia y los derechos económicos inherentes a la posición en la carrera reconocidos.",
+      "opciones": [
+        "El Grupo o Subgrupo del cuerpo o escala de procedencia y los derechos económicos inherentes a la posición en la carrera",
+        "Nada, pueden reclasificarlos libremente",
+        "Únicamente la antigüedad, sin derechos económicos",
+        "Solo el puesto de trabajo concreto que ocupaban"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué ocurre si se suprime el puesto que un funcionario transferido obtuvo por concurso?",
+      "explicacion": "En caso de remoción o supresión, permanecen en la Administración de destino, que debe asignarles puesto conforme a sus sistemas de carrera y provisión.",
+      "opciones": [
+        "Queda a disposición del Estado sin destino",
+        "Permanece en la Administración de destino, que debe asignarle un puesto",
+        "Vuelve automáticamente a la Administración de origen",
+        "Pasa a excedencia forzosa"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cómo se consideran los derechos de los funcionarios transferidos en su Administración de origen?",
+      "explicacion": "La nota dice que mantienen todos sus derechos en la Administración de origen como si se hallaran en servicio activo, según los Estatutos de Autonomía.",
+      "opciones": [
+        "Se reducen a los derechos económicos",
+        "Quedan suspendidos mientras dure el traslado",
+        "Se mantienen todos como si estuvieran en servicio activo",
+        "Se pierden al integrarse en la de destino"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué condición hace que se mantengan en la situación de servicio en otras Administraciones Públicas al integrarse?",
+      "explicacion": "La nota establece que se mantienen en esta situación cuando, por disposición legal de la Administración de destino, se integran como personal propio de ésta.",
+      "opciones": [
+        "Que superen un nuevo proceso selectivo",
+        "Que lo decida la Administración de origen",
+        "Que lo solicite el funcionario por escrito",
+        "Que, por disposición legal de la Administración a la que acceden, se integren como personal propio"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Se mantienen en esta situación si, por disposición legal de la Administración a la que acceden, se integran como personal propio",
+      "Las CCAA respetan el Grupo o Subgrupo del cuerpo o escala de procedencia",
+      "Respetan los derechos económicos inherentes a la posición en la carrera",
+      "Mantienen todos sus derechos en la Administración de origen como si estuvieran en servicio activo, según los Estatutos de Autonomía",
+      "En caso de remoción o supresión del puesto obtenido por concurso, permanecen en la Administración de destino, que debe asignarles un puesto"
+    ],
+    "consigna": "Explica con tus palabras qué le pasa a un funcionario transferido a otra Administración: en qué situación queda respecto a la de origen, qué respeta la CCAA si lo integra y qué ocurre si pierde su puesto obtenido por concurso."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "Condición de funcionario y situaciones administrativas",
+  "objetivo": "Explicar el régimen de los funcionarios transferidos y su integración en otra Administración: cuándo se mantienen en servicio en otras Administraciones Públicas, qué respetan las CCAA al integrarlos como propios, qué derechos conservan en la Administración de origen y qué ocurre si pierden el puesto obtenido por concurso.",
+  "orden": 10,
+  "preguntasBanco": [],
+  "resumen": "Los funcionarios transferidos quedan respecto de su Administración de origen en servicio en otras Administraciones Públicas y conservan allí todos sus derechos como si estuvieran en servicio activo, según los Estatutos de Autonomía. Si la Administración de destino los integra por ley como personal propio, las CCAA respetan su Grupo o Subgrupo y sus derechos económicos de carrera. Si pierden por remoción o supresión el puesto obtenido por concurso, permanecen en destino, que debe asignarles otro puesto.",
+  "tema": "B1-T4.1",
+  "titulo": "Servicio en otras Administraciones Públicas"
+}

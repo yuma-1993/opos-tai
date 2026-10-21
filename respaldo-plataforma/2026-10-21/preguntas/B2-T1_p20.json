@@ -1,0 +1,14 @@
+{
+  "apartado": "Representación del signo",
+  "correcta": 0,
+  "enunciado": "¿Cuál es el rango de valores de un número de 4 bits en complemento a 2?",
+  "explicacion": "Nota: CA2 se calcula como CA1 + 1; rango de 7 a −8 con 4 bits, y un solo cero. CA1 va de 7 a −7.",
+  "n": 20,
+  "opciones": [
+    "7 a −8",
+    "7 a −7",
+    "8 a −7",
+    "8 a −8"
+  ],
+  "tema": "B2-T1"
+}

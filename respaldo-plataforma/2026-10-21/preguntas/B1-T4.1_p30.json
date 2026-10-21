@@ -1,0 +1,14 @@
+{
+  "apartado": "Régimen disciplinario",
+  "correcta": 1,
+  "enunciado": "¿En qué plazo prescriben las sanciones impuestas por faltas leves, y en cuál prescriben las propias faltas leves?",
+  "explicacion": "Nota (tabla de prescripción): leves, falta 6 meses y sanción 1 año. Es la única categoría donde los plazos no coinciden.",
+  "n": 30,
+  "opciones": [
+    "Sanción: 6 meses; falta: 6 meses",
+    "Sanción: 1 año; falta: 6 meses",
+    "Sanción: 6 meses; falta: 1 año",
+    "Sanción: 2 años; falta: 6 meses"
+  ],
+  "tema": "B1-T4.1"
+}

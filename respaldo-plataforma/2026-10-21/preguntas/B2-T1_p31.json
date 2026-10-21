@@ -1,0 +1,14 @@
+{
+  "apartado": "CPU, registros y ciclo",
+  "correcta": 3,
+  "enunciado": "¿Cuál es el orden del ciclo de ejecución de una instrucción?",
+  "explicacion": "Nota: Fetch (la instrucción llega al IR) → Decode → Execute (con ALU si hace falta) → Store (opcional).",
+  "n": 31,
+  "opciones": [
+    "Decode → Fetch → Execute → Store",
+    "Fetch → Execute → Decode → Store",
+    "Fetch → Store → Decode → Execute",
+    "Fetch → Decode → Execute → (Store)"
+  ],
+  "tema": "B2-T1"
+}

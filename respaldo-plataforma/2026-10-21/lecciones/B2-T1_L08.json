@@ -1,0 +1,185 @@
+{
+  "bloques": [
+    {
+      "md": "Para guardar texto, cada carácter se asocia a un número y ese número se guarda en bits. La **tabla** que dice qué número corresponde a cada carácter es una **codificación**. Hay varias y no son compatibles entre sí del todo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Código | Características |\n|---|---|\n| **ASCII** | 7 bits + 1 de paridad. 32–126 imprimibles; 0–31 y 127 no imprimibles. Sin €, sin Ñ y sin tildes. **A = 65** |\n| **EBCDIC** | 8 bits. Mainframe de IBM. Cada país tenía su tabla; cada tabla es una *codepage* |\n| **ISO 8859-1 (Latin-1)** | 8 bits. Tiene Ñ y tildes pero **no €**. **ISO-8859-15** incorpora el €. A = 65 |\n| **UTF-8** | Longitud variable de **1 a 4 bytes**. Los de 1 byte coinciden con ASCII |\n| **UTF-16** | Longitud variable de **2 a 4 bytes**: 1 o 2 palabras de 16 bits |\n\n**ISO 10646** es el Conjunto de Caracteres Universal (UCS). En Windows, Latin-1 es el **Windows-1252**.",
+      "t": "explica",
+      "titulo": "De la más antigua a la más moderna"
+    },
+    {
+      "md": "Un carácter de ASCII ocupa en UTF-8 un solo byte y se escribe igual. Los caracteres menos comunes ocupan más bytes (hasta 4). Por eso el texto en ASCII sigue siendo válido en UTF-8.",
+      "t": "explica",
+      "titulo": "Por qué UTF-8 convence"
+    },
+    {
+      "md": "| A | B | AND | OR | XOR |\n|---|---|---|---|---|\n| 0 | 0 | 0 | 0 | 0 |\n| 0 | 1 | 0 | 1 | 1 |\n| 1 | 0 | 0 | 1 | 1 |\n| 1 | 1 | 1 | 1 | 0 |\n\n- **AND**: 1 solo si los dos son 1.\n- **OR**: 1 si alguno es 1.\n- **XOR**: 1 si los dos son **distintos**.",
+      "t": "explica",
+      "titulo": "Operaciones lógicas"
+    },
+    {
+      "md": "Formato internacional para fechas (**año-mes-día**) y horas (**horas-minutos-segundos**).\n\n- **Z**: hora UTC (Tiempo Universal Coordinado).\n- **W**: semana.\n- **T**: hora local, según el PDF de tu nota.",
+      "t": "explica",
+      "titulo": "ISO 8601: fecha y hora"
+    },
+    {
+      "md": "En `2026-10-19T14:30:00Z`, la **T** separa la fecha de la hora y la **Z** indica que la hora es UTC. No viene del PDF; tu nota lo recoge como ampliación.",
+      "t": "ampliacion",
+      "titulo": "Un ejemplo con T y Z (conocimiento general)"
+    },
+    {
+      "md": "ASCII = 7 bits, A = 65, sin €. Latin-1 = con Ñ pero sin €; el 15 trae el €. UTF-8 = 1–4 bytes y compatible con ASCII.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- ASCII: 7 + 1 de paridad, A = 65, sin €/Ñ/tildes.\n- EBCDIC: 8 bits, IBM, codepages.\n- ISO 8859-1 sin €; ISO-8859-15 con €.\n- UTF-8: 1–4 bytes. UTF-16: 2–4 bytes.\n- ISO 8601: **Z** = UTC, **W** = semana.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué valor tiene la letra A en ASCII?",
+      "explicacion": "En ASCII A = 65.",
+      "opciones": [
+        "64",
+        "65",
+        "97",
+        "32"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué codificación de 8 bits tiene Ñ y tildes pero NO el símbolo €?",
+      "explicacion": "Latin-1 no tiene €; ISO-8859-15 lo incorpora.",
+      "opciones": [
+        "ISO 8859-1 (Latin-1)",
+        "ISO-8859-15",
+        "ASCII",
+        "UTF-8"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué longitud tiene UTF-16?",
+      "explicacion": "UTF-16 es variable de 2 a 4 bytes (1 o 2 palabras de 16 bits).",
+      "opciones": [
+        "Fija de 2 bytes",
+        "Fija de 4 bytes",
+        "Variable de 2 a 4 bytes",
+        "Variable de 1 a 4 bytes"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuándo da 1 la operación XOR?",
+      "explicacion": "XOR = 1 si los dos bits son distintos.",
+      "opciones": [
+        "Cuando los dos bits son 1",
+        "Cuando alguno de los bits es 1",
+        "Cuando los dos bits son 0",
+        "Cuando los dos bits son distintos"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "En ISO 8601, ¿qué carácter indica hora UTC?",
+      "explicacion": "Z = hora UTC; W = semana.",
+      "opciones": [
+        "W",
+        "U",
+        "Z",
+        "S"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuántos bits de información de carácter usa ASCII, además del bit de paridad?",
+      "explicacion": "ASCII usa 7 bits más 1 de paridad. Los 8 bits son los de ISO 8859-1 y EBCDIC; la longitud variable de 1 a 4 bytes es de UTF-8.",
+      "opciones": [
+        "7 bits",
+        "16 bits",
+        "De 1 a 4 bytes, según el carácter",
+        "8 bits"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué codificación incorpora el símbolo € a la familia de Latin-1?",
+      "explicacion": "ISO-8859-15 es la variante que incorpora el €. ISO 8859-1 no lo tiene, ASCII tampoco, y EBCDIC es la codificación de los mainframes de IBM.",
+      "opciones": [
+        "EBCDIC",
+        "ISO-8859-15",
+        "ISO 8859-1",
+        "ASCII"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuántos bytes puede ocupar como máximo un carácter en UTF-8?",
+      "explicacion": "UTF-8 es de longitud variable, de 1 a 4 bytes. Los caracteres menos comunes ocupan más bytes, hasta un máximo de 4.",
+      "opciones": [
+        "2 bytes",
+        "1 byte",
+        "8 bytes",
+        "4 bytes"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Por qué un texto escrito solo con caracteres ASCII sigue siendo válido en UTF-8?",
+      "explicacion": "Un carácter de ASCII ocupa en UTF-8 un solo byte y se escribe igual, por eso el texto ASCII sigue siendo válido en UTF-8.",
+      "opciones": [
+        "Porque UTF-8 y UTF-16 tienen la misma longitud",
+        "Porque UTF-8 incluye las codepages de EBCDIC",
+        "Porque los caracteres de 1 byte de UTF-8 coinciden con ASCII",
+        "Porque UTF-8 usa siempre 7 bits más 1 de paridad"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Con los bits A = 1 y B = 1, ¿qué operaciones lógicas dan como resultado 1?",
+      "explicacion": "AND da 1 solo si los dos son 1 y OR da 1 si alguno es 1, así que ambas dan 1. XOR da 1 solo si los bits son distintos, y aquí son iguales, por lo que da 0.",
+      "opciones": [
+        "Solo AND y OR",
+        "AND, OR y XOR",
+        "Solo OR y XOR",
+        "Solo AND y XOR"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "ASCII usa 7 bits más 1 de paridad, A = 65 y no tiene €, Ñ ni tildes",
+      "ISO 8859-1 tiene Ñ y tildes pero no €; ISO-8859-15 incorpora el €",
+      "UTF-8 es de longitud variable de 1 a 4 bytes y los de 1 byte coinciden con ASCII",
+      "UTF-16 es de longitud variable de 2 a 4 bytes",
+      "XOR da 1 cuando los dos bits son distintos; AND solo con dos 1; OR si alguno es 1"
+    ],
+    "consigna": "Explícame las diferencias entre ASCII, ISO 8859-1/15, UTF-8 y UTF-16, y qué hace XOR frente a AND y OR.",
+    "preguntas": [
+      "¿Cuántos bits usa ASCII para cada carácter y para qué sirve el bit extra? Además, ¿qué número corresponde a la letra A y qué caracteres propios del español no puede representar?",
+      "¿En qué se diferencian ISO 8859-1 e ISO-8859-15 respecto a los caracteres que pueden representar? Indica qué incluye cada una y qué le falta a la primera.",
+      "¿Cuántos bytes puede ocupar un carácter en UTF-8 y qué ocurre con los caracteres que ocupan un solo byte respecto a ASCII?",
+      "¿Qué significa que UTF-16 sea de longitud variable y cuál es el mínimo y el máximo de bytes que puede ocupar un carácter?",
+      "Explica con tus palabras cuándo da 1 como resultado cada una de estas operaciones entre dos bits: AND, OR y XOR."
+    ]
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Representar la información: del bit al carácter",
+  "objetivo": "Saber cómo se codifican los caracteres, comparar las codificaciones y manejar las operaciones lógicas básicas.",
+  "orden": 8,
+  "preguntasBanco": [
+    27,
+    28,
+    29
+  ],
+  "resumen": "ASCII 7+1 bits, A = 65, sin €. Latin-1 sin €, -15 con €. UTF-8 1–4 bytes (1 byte = ASCII). UTF-16 2–4. EBCDIC = IBM. XOR = distintos. ISO 8601: Z = UTC, W = semana.",
+  "tema": "B2-T1",
+  "titulo": "Texto, lógica y fechas: ASCII, UTF-8, AND/OR/XOR e ISO 8601"
+}

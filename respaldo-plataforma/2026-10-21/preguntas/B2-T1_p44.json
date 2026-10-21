@@ -1,0 +1,14 @@
+{
+  "apartado": "Memoria",
+  "correcta": 0,
+  "enunciado": "¿Qué diferencia hay entre SRAM y DRAM?",
+  "explicacion": "Nota: SRAM no necesita refresco, ahorra ciclos de reloj y es más rápida (la caché es SRAM). DRAM es dinámica y necesita refresco.",
+  "n": 44,
+  "opciones": [
+    "La SRAM no necesita refresco de voltaje y es más rápida; la DRAM sí lo necesita",
+    "La SRAM necesita refresco y es más lenta",
+    "Ambas necesitan refresco",
+    "La DRAM es más rápida porque no necesita refresco"
+  ],
+  "tema": "B2-T1"
+}

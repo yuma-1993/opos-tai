@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 1,
+  "enunciado": "¿Cuál es el plazo máximo en el que debe resolverse un concurso de provisión de puestos, salvo que la convocatoria establezca otro?",
+  "explicacion": "Nota: el plazo de resolución de un concurso es de 2 meses, salvo que la propia convocatoria establezca otro.",
+  "n": 48,
+  "opciones": [
+    "1 mes",
+    "2 meses",
+    "3 meses",
+    "6 meses"
+  ],
+  "tema": "B1-T4.1"
+}

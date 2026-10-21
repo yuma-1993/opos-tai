@@ -1,0 +1,14 @@
+{
+  "apartado": "Funcionarios de carrera e interinos",
+  "correcta": 1,
+  "enunciado": "Según la nota, ¿cuál es el plazo máximo de duración de un programa de carácter temporal por el que se nombra a un funcionario interino?",
+  "explicacion": "Nota: los programas de carácter temporal no podrán exceder los 3 años, ampliable hasta 12 meses más por las leyes de Función Pública.",
+  "n": 2,
+  "opciones": [
+    "2 años, ampliable hasta 12 meses más",
+    "3 años, ampliable hasta 12 meses más",
+    "3 años, ampliable hasta 6 meses más",
+    "4 años, sin posibilidad de ampliación"
+  ],
+  "tema": "B1-T4.1"
+}

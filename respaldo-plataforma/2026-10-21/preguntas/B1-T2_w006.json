@@ -1,0 +1,16 @@
+{
+  "apartado": "Causas de inelegibilidad e incompatibilidad (artículo 70 CE)",
+  "correcta": 0,
+  "enunciado": "¿Cuál de las siguientes personas o cargos NO figura en la lista de causas de inelegibilidad e incompatibilidad del artículo 70 CE?",
+  "explicacion": "Los miembros del Gobierno están exceptuados de la causa referida a altos cargos. El Defensor del Pueblo (c), las Juntas Electorales (f) y los miembros del TC (a) sí figuran en la lista.",
+  "lote": 1792504590395,
+  "n": 6,
+  "opciones": [
+    "Los miembros del Gobierno, en cuanto altos cargos de la Administración del Estado",
+    "Los miembros de las Juntas Electorales",
+    "El Defensor del Pueblo",
+    "Los componentes del Tribunal Constitucional"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

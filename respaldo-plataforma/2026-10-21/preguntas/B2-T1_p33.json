@@ -1,0 +1,14 @@
+{
+  "apartado": "Buses y reloj",
+  "correcta": 2,
+  "enunciado": "¿Qué bus indica a qué dirección de RAM se accede?",
+  "explicacion": "Nota: control dice si es lectura o escritura; direcciones dice dónde; datos transporta qué (la instrucción o el dato).",
+  "n": 33,
+  "opciones": [
+    "De datos",
+    "De control",
+    "De direcciones",
+    "El FSB"
+  ],
+  "tema": "B2-T1"
+}

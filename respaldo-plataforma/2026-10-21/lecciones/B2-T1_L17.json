@@ -1,0 +1,112 @@
+{
+  "bloques": [
+    {
+      "md": "Los datos de la empresa nacen en los sistemas del día a día (TPS). Para sacarles provecho hay que **llevarlos a un almacén común**, ordenarlos y analizarlos. De eso tratan estas piezas.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "- **BI (Business Intelligence)**: conjunto de estrategias y herramientas para transformar datos en **conocimiento útil** para decidir. Es el **paraguas** que engloba todo lo demás.\n- **Data Mining (minería de datos)**: una técnica **concreta** para extraer patrones y conocimiento oculto de grandes volúmenes de datos, con redes neuronales, árboles de decisión, clustering, estadística…\n- **Data Warehouse (DWH)**: el origen habitual de los datos. Almacén de datos **históricos, integrados y orientados a análisis**, a diferencia de las bases transaccionales, orientadas a operación.\n- **Power BI** se conecta al DWH, entiende su estructura (normalmente modelo en estrella o copo de nieve) y genera informes y cuadros de mando.",
+      "t": "explica",
+      "titulo": "Las piezas"
+    },
+    {
+      "md": "El DWH recibe y consolida los datos de los TPS con herramientas **ETL** (*Extract, Transform and Load*: extraer, transformar y cargar).\n\n- En Java: **Kettle**, integrado en la suite **Pentaho Data Integration (PDI)**.\n- En Microsoft: **SQL Server Integration Services (SSIS)**.\n\nFlujo completo: **TPS → ETL → DWH → (cubos OLAP / Data Mining / BI) → informes**.",
+      "t": "explica",
+      "titulo": "ETL: cómo llegan los datos al DWH"
+    },
+    {
+      "md": "Las cajas del supermercado (TPS) vuelcan sus ventas mediante un proceso ETL a un almacén histórico (DWH). De ahí se sacan cubos, se buscan patrones (Data Mining) y se dibujan informes (BI). Ejemplo para entender el flujo, no viene como tal en tu nota.",
+      "t": "ejemplo",
+      "titulo": "El flujo en una frase"
+    },
+    {
+      "md": "**BI** es el **paraguas**; **Data Mining** es una **herramienta bajo el paraguas**. **ETL** = los «camiones» que llevan los datos del TPS al DWH.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- BI = paraguas. Data Mining = técnica de extracción de patrones. DWH = origen de los datos.\n- ETL (Extract, Transform, Load) lleva los datos de los TPS al DWH. Kettle/PDI (Java), SSIS (Microsoft).\n- Power BI: modelo en estrella o copo de nieve.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué es BI respecto a Data Mining?",
+      "explicacion": "BI es el paraguas; Data Mining extrae patrones ocultos.",
+      "opciones": [
+        "Una técnica concreta, Data Mining es el paraguas",
+        "El paraguas que engloba todo; Data Mining es una técnica concreta",
+        "Lo mismo con otro nombre",
+        "Una base de datos transaccional"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué almacena un Data Warehouse?",
+      "explicacion": "Es el origen habitual de los datos, a diferencia de las BBDD transaccionales.",
+      "opciones": [
+        "Solo las transacciones del día",
+        "Datos históricos, integrados y orientados a análisis",
+        "Solo informes ya hechos",
+        "Programas ejecutables"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué significa ETL?",
+      "explicacion": "ETL = Extract, Transform and Load.",
+      "opciones": [
+        "Evaluate, Test, Launch",
+        "Extract, Transform and Load",
+        "Execute, Transfer, Link",
+        "Extract, Translate, Log"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué ETL es el de Microsoft?",
+      "explicacion": "SSIS = SQL Server Integration Services. Kettle es el de Pentaho (Java).",
+      "opciones": [
+        "Kettle",
+        "Pentaho",
+        "SSIS",
+        "MDX"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es el flujo completo de los datos?",
+      "explicacion": "Los datos salen del TPS, pasan por ETL al DWH y de ahí al análisis.",
+      "opciones": [
+        "DWH → ETL → TPS → informes",
+        "TPS → ETL → DWH → (OLAP / Data Mining / BI) → informes",
+        "ETL → TPS → informes → DWH",
+        "TPS → informes → ETL → DWH"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "BI es el conjunto de estrategias y herramientas para convertir datos en conocimiento; es el paraguas",
+      "Data Mining es una técnica concreta para extraer patrones ocultos (redes neuronales, árboles de decisión, clustering, estadística)",
+      "El Data Warehouse almacena datos históricos, integrados y orientados a análisis",
+      "ETL (Extract, Transform, Load) lleva los datos de los TPS al DWH; Kettle/PDI en Java y SSIS en Microsoft"
+    ],
+    "consigna": "Explícame la diferencia entre BI y Data Mining, qué es un Data Warehouse y cómo llegan los datos hasta él."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Sistemas de información y BI",
+  "objetivo": "Diferenciar BI de Data Mining, saber qué es el Data Warehouse y cómo llegan los datos hasta él con ETL.",
+  "orden": 17,
+  "preguntasBanco": [
+    5,
+    6,
+    11
+  ],
+  "resumen": "BI = paraguas; Data Mining = técnica de patrones; DWH = almacén histórico. ETL lleva TPS → DWH (Kettle/PDI, SSIS).",
+  "tema": "B2-T1",
+  "titulo": "BI, Data Mining, Data Warehouse y ETL"
+}

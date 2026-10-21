@@ -1,0 +1,178 @@
+{
+  "bloques": [
+    {
+      "md": "Hay dos filosofías para diseñar un procesador:\n\n- **CISC**: instrucciones potentes, cada una hace mucho (pero tarda varios ciclos).\n- **RISC**: instrucciones muy simples y rápidas, que se combinan para hacer cosas complejas.\n\nEs como tener pocas herramientas multiuso (CISC) o muchas herramientas sencillas que se usan muy deprisa (RISC).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| | CISC | RISC |\n|---|---|---|\n| Instrucciones | Complejas, varios ciclos de reloj | Simples, 1 ciclo de reloj |\n| Lógica | Programada (microcódigo) | Cableada (hardware) |\n| Modos de direccionamiento | Muchos | Pocos |\n| Tamaño de instrucción | Variable | Fijo |\n| Consumo/temperatura | Mayor | Menor |\n| Ejemplo | Intel (x86) | ARM |\n\n**RISC-V** es un estándar RISC **abierto**: cualquiera puede diseñar su procesador sin pagar licencias. **Arduino** es hardware y software libre (licencia GPL); no es lo mismo que RISC-V, pero comparte la filosofía de abierto/libre.",
+      "t": "explica",
+      "titulo": "Comparación"
+    },
+    {
+      "md": "- **SoC** (System on a Chip): todo integrado en un solo chip: CPU, GPU, RAM, controladores… Es lo típico de los móviles.\n- **APU**: un caso más concreto, solo **CPU + GPU** en el mismo chip (típico de AMD).\n\nEl SoC es más amplio que la APU.",
+      "t": "explica",
+      "titulo": "SoC y APU"
+    },
+    {
+      "md": "El **Fetch** (ir a buscar a memoria) es el paso más lento del ciclo. Solución: trabajar en cadena, como una fábrica. Mientras una instrucción se ejecuta, la siguiente ya se decodifica y la siguiente ya se busca.\n\nEs muy típico en **RISC**: al ser las instrucciones simples y de tamaño fijo, es más fácil solapar las fases.",
+      "t": "explica",
+      "titulo": "Pipeline (segmentación)"
+    },
+    {
+      "md": "En un mismo instante:\n\n- Instrucción 1: **Execute**.\n- Instrucción 2: **Decode**.\n- Instrucción 3: **Fetch**.\n\nNo se espera a terminar una para empezar la siguiente.",
+      "t": "ejemplo",
+      "titulo": "Tres instrucciones en cadena"
+    },
+    {
+      "md": "CISC = complejo / microcódigo / Intel. RISC = simple / cableado / ARM / pipeline. SoC ⊃ APU.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- CISC hace más en una sola instrucción; RISC simplifica cada instrucción y se apoya en ejecutar muchas, muy rápido, por eso combina bien con pipeline.\n- RISC-V: RISC abierto, sin licencias. Arduino: hardware/software libre, GPL.\n- SoC: todo en un chip. APU: CPU + GPU.\n- Pipeline: solapar Fetch, Decode y Execute como una cadena.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuál de estas características es de RISC?",
+      "explicacion": "RISC = simples, 1 ciclo, tamaño fijo, lógica cableada, pocos modos, menor consumo.",
+      "opciones": [
+        "Instrucciones simples de un ciclo y tamaño fijo",
+        "Lógica programada con microcódigo",
+        "Muchos modos de direccionamiento",
+        "Mayor consumo y temperatura"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué tipo de procesador es típico de Intel x86?",
+      "explicacion": "Intel (x86) es el ejemplo de CISC; ARM lo es de RISC.",
+      "opciones": [
+        "RISC",
+        "SoC",
+        "CISC",
+        "APU"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué integra una APU?",
+      "explicacion": "La APU es CPU + GPU; el SoC es el que integra todo.",
+      "opciones": [
+        "Todo: CPU, GPU, RAM y controladores",
+        "Solo CPU y GPU en el mismo chip",
+        "Solo la RAM y la GPU",
+        "Solo CPU y chipset"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Por qué el pipeline funciona especialmente bien con RISC?",
+      "explicacion": "Instrucciones simples y de tamaño fijo hacen fácil solapar fases.",
+      "opciones": [
+        "Porque RISC usa microcódigo",
+        "Porque RISC tiene muchos modos de direccionamiento",
+        "Porque RISC elimina el Fetch",
+        "Porque sus instrucciones simples y de tamaño fijo facilitan solapar fases"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué es RISC-V?",
+      "explicacion": "RISC-V es abierto. Arduino es la plataforma libre con GPL, que no es lo mismo.",
+      "opciones": [
+        "Un estándar RISC abierto, sin licencias",
+        "Un procesador de Intel",
+        "Una memoria caché",
+        "Una placa de hardware libre con licencia GPL"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cómo se implementa la lógica de control en un procesador CISC, según tus notas?",
+      "explicacion": "En CISC la lógica es programada (microcódigo). La lógica cableada es propia de RISC, y el tamaño fijo de instrucción también es una característica RISC, no CISC.",
+      "opciones": [
+        "Mediante microcódigo (lógica programada)",
+        "Mediante lógica cableada en hardware",
+        "Mediante un pipeline de tres fases únicamente",
+        "Mediante instrucciones de tamaño fijo"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué relación hay entre SoC y APU?",
+      "explicacion": "El SoC integra todo en un solo chip (CPU, GPU, RAM, controladores…), mientras que la APU es un caso más concreto: solo CPU + GPU. Por eso SoC ⊃ APU.",
+      "opciones": [
+        "La APU es más amplia que el SoC porque incluye también la RAM y los controladores",
+        "No tienen relación: el SoC es propio de AMD y la APU de los móviles",
+        "El SoC es más amplio: integra todo en un chip, y la APU es un caso concreto con solo CPU + GPU",
+        "Son sinónimos: ambos integran exactamente los mismos componentes"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En un instante concreto de un pipeline de tres fases, la instrucción 1 está en Execute. ¿Dónde están las instrucciones 2 y 3?",
+      "explicacion": "Mientras la instrucción 1 se ejecuta, la 2 ya se decodifica y la 3 ya se busca en memoria. No se espera a terminar una para empezar la siguiente.",
+      "opciones": [
+        "La 2 en Fetch y la 3 en Decode",
+        "Ambas esperan, porque no se empieza una instrucción hasta terminar la anterior",
+        "Ambas en Execute, porque se ejecutan a la vez",
+        "La 2 en Decode y la 3 en Fetch"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué fase del ciclo de instrucción es la más lenta, según tus notas, y es la que motiva el uso del pipeline?",
+      "explicacion": "Fetch, que consiste en ir a buscar la instrucción a memoria, es el paso más lento. La solución es trabajar en cadena, solapando las fases como en una fábrica.",
+      "opciones": [
+        "Fetch",
+        "Todas tardan lo mismo",
+        "Execute",
+        "Decode"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de estas afirmaciones sobre Arduino y RISC-V es correcta según tus notas?",
+      "explicacion": "Arduino es hardware y software libre (licencia GPL), mientras que RISC-V es un estándar RISC abierto sin licencias. No son lo mismo, pero comparten la filosofía de abierto/libre.",
+      "opciones": [
+        "Son lo mismo: Arduino es la implementación oficial de RISC-V",
+        "Arduino es hardware y software libre (GPL); no es lo mismo que RISC-V, aunque comparten la filosofía de abierto/libre",
+        "RISC-V es hardware y software libre con licencia GPL, y Arduino es un estándar RISC",
+        "Arduino es un procesador CISC de código abierto"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "CISC: instrucciones complejas de varios ciclos, microcódigo, muchos modos de direccionamiento, tamaño variable, Intel",
+      "RISC: instrucciones simples de 1 ciclo, tamaño fijo, lógica cableada, pocos modos, menor consumo, ARM",
+      "SoC integra todo en un chip; APU solo CPU + GPU",
+      "El pipeline solapa las fases del ciclo; con instrucciones simples y de tamaño fijo es más fácil"
+    ],
+    "consigna": "Explícame las diferencias entre CISC y RISC, entre SoC y APU y por qué el pipeline combina tan bien con RISC.",
+    "preguntas": [
+      "¿Qué caracteriza a un procesador CISC? Menciona al menos tres rasgos, por ejemplo cómo son sus instrucciones, cómo se controla su lógica y qué tamaño tienen.",
+      "¿En qué se diferencia un procesador RISC de uno CISC en cuanto al tipo de instrucciones, su tamaño, el tipo de lógica y el consumo?",
+      "¿En qué se diferencia un SoC de una APU y cuál de los dos es el concepto más amplio?",
+      "¿Qué es el pipeline y por qué resulta más fácil de aplicar en un procesador RISC que en uno CISC?"
+    ]
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Comparar CISC y RISC, distinguir SoC de APU y entender por qué el pipeline acelera la CPU.",
+  "orden": 11,
+  "preguntasBanco": [
+    35,
+    36,
+    37
+  ],
+  "resumen": "CISC = complejo/microcódigo/Intel. RISC = simple/cableado/ARM, ideal para pipeline. RISC-V = RISC abierto. SoC = todo en un chip; APU = CPU + GPU. Pipeline = solapar fases.",
+  "tema": "B2-T1",
+  "titulo": "Diseños de procesador: CISC, RISC, SoC/APU y pipeline"
+}

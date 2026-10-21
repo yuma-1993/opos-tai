@@ -1,0 +1,119 @@
+{
+  "bloques": [
+    {
+      "md": "Tener derechos no basta: hace falta algo que los defienda. El **Capítulo IV** es el \"sistema de seguridad\" de los derechos del Título I. Es como la alarma de una casa: los derechos son lo que hay dentro y las garantías son lo que te permite reclamar si alguien intenta vulnerarlos. En esta lección vemos dos garantías: el **recurso de amparo** (art. 53) y el **Defensor del Pueblo** (art. 54).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El Capítulo IV se titula **«Garantías de las libertades y derechos fundamentales»** y, según la nota, contiene dos artículos que nos interesan:\n\n1. **Artículo 53**: el recurso de amparo.\n2. **Artículo 54**: el Defensor del Pueblo.\n\nPrimero va la vía para reclamar tu derecho (amparo) y después una institución que vigila (Defensor del Pueblo).",
+      "t": "explica",
+      "titulo": "Qué recoge el Capítulo IV"
+    },
+    {
+      "md": "Según la nota, **cualquier ciudadano** podrá recabar la tutela de las libertades y derechos reconocidos en:\n\n- El **artículo 14** (igualdad ante la ley).\n- La **Sección primera del Capítulo II** (derechos fundamentales y libertades públicas).\n- El **artículo 30.2** (objeción de conciencia).\n\nLa tutela se pide **ante los Tribunales**.\n\nLo importante es saber qué derechos entran en el amparo: el art. 14, la Sección 1ª y la objeción de conciencia del art. 30.2. Quedan fuera los demás, que no aparecen en esta lista de la nota.",
+      "t": "explica",
+      "titulo": "El recurso de amparo (art. 53)"
+    },
+    {
+      "md": "El artículo 54 establece que **una ley orgánica** regulará la institución del Defensor del Pueblo, como **alto comisionado de las Cortes Generales**.\n\nEs decir:\n\n- Se regula mediante **ley orgánica** (no una ley cualquiera).\n- Es un **alto comisionado**: actúa por encargo de las **Cortes Generales**.",
+      "t": "explica",
+      "titulo": "El Defensor del Pueblo (art. 54)"
+    },
+    {
+      "md": "**Pregunta tipo test:** ¿Qué derecho de los siguientes se puede proteger mediante el recurso de amparo según el art. 53?\n\n- a) Un derecho que no esté en el art. 14, la Sección 1ª del Capítulo II ni en el art. 30.2.\n- b) La igualdad ante la ley (art. 14).\n\n**Resolución:** la respuesta es **b**. La igualdad ante la ley es el art. 14, que está expresamente en la lista. La opción a describe justo lo que queda fuera de la lista.\n\n**Pregunta tipo test:** ¿Cómo se regula el Defensor del Pueblo? Con **ley orgánica** (art. 54).",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**Amparo = 14 + Sección 1ª + 30.2** → \"**14, Sección 1ª y objeción**\".\n\n**Art. 53 → amparo; art. 54 → Defensor.** Se ordenan como el 3 y el 4 de \"53\" y \"54\": primero tú reclamas (amparo), luego alguien vigila (Defensor).\n\n**Defensor = Ley Orgánica + Cortes**: \"el Defensor lo regula una LO y trabaja para las Cortes\".",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "**Capítulo IV — Garantías de las libertades y derechos fundamentales**\n\n| Artículo | Contenido |\n|---|---|\n| **53** (Recurso de amparo) | Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el **art. 14** (igualdad ante la ley), la **Sección primera del Capítulo II** (derechos fundamentales y libertades públicas) **ante los Tribunales** y el **art. 30.2** (objeción de conciencia). |\n| **54** | Una **ley orgánica** regulará la institución del **Defensor del Pueblo**, como **alto comisionado de las Cortes Generales**. |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "- El artículo 53.2 de la Constitución prevé además un procedimiento preferente y sumario ante los tribunales ordinarios y, en su caso, el recurso de amparo ante el **Tribunal Constitucional**. En la nota, la mención es más breve; en la L07 verás los niveles de protección judicial del art. 53.\n- La ley orgánica que desarrolla el art. 54 es la LO 3/1981, del Defensor del Pueblo.",
+      "t": "ampliacion",
+      "titulo": "Ampliación (conocimiento general, no viene de tus notas)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué artículo de la Constitución se refiere al recurso de amparo, según la nota?",
+      "explicacion": "El artículo 53 recoge el recurso de amparo. El 14 es la igualdad ante la ley, el 30.2 la objeción de conciencia y el 54 el Defensor del Pueblo.",
+      "opciones": [
+        "Artículo 53",
+        "Artículo 14",
+        "Artículo 30.2",
+        "Artículo 54"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Quién puede recabar la tutela de las libertades y derechos según el art. 53?",
+      "explicacion": "El art. 53 dice que cualquier ciudadano podrá recabar la tutela de las libertades y derechos.",
+      "opciones": [
+        "Únicamente las Cortes Generales",
+        "Solo los funcionarios públicos",
+        "Solo el Defensor del Pueblo",
+        "Cualquier ciudadano"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de estos conjuntos de derechos queda protegido por el recurso de amparo según la nota?",
+      "explicacion": "La nota enumera tres bloques: el art. 14 (igualdad ante la ley), la Sección primera del Capítulo II y el art. 30.2 (objeción de conciencia).",
+      "opciones": [
+        "Todos los artículos del Título I sin excepción",
+        "Art. 54 y art. 30.2",
+        "Art. 14, Sección primera del Capítulo II y art. 30.2",
+        "Solo la Sección primera del Capítulo II"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Mediante qué tipo de norma se regula la institución del Defensor del Pueblo?",
+      "explicacion": "El art. 54 establece que una ley orgánica regulará la institución del Defensor del Pueblo.",
+      "opciones": [
+        "Mediante un reglamento de las Cortes",
+        "Mediante una ley orgánica",
+        "Mediante un real decreto",
+        "Mediante una ley ordinaria"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cómo define el art. 54 al Defensor del Pueblo?",
+      "explicacion": "El art. 54 lo define como alto comisionado de las Cortes Generales.",
+      "opciones": [
+        "Asesor del Rey",
+        "Delegado del Gobierno",
+        "Alto comisionado de las Cortes Generales",
+        "Órgano del Poder Judicial"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Capítulo IV — Garantías de las libertades y derechos fundamentales",
+      "Artículo 53 (recurso de amparo): cualquier ciudadano podrá recabar la tutela",
+      "art. 14 (igualdad ante la ley), Sección primera del Capítulo II y art. 30.2 (objeción de conciencia)",
+      "Artículo 54: una ley orgánica regulará la institución del Defensor del Pueblo",
+      "Defensor del Pueblo: alto comisionado de las Cortes Generales"
+    ],
+    "consigna": "Explica con tus palabras qué garantías recoge el Capítulo IV: qué derechos se pueden proteger con el recurso de amparo del art. 53 y qué es el Defensor del Pueblo del art. 54."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Garantías y suspensión de los derechos",
+  "objetivo": "Explicar las garantías del Capítulo IV de la Constitución: el recurso de amparo del artículo 53 y la figura del Defensor del Pueblo del artículo 54.",
+  "orden": 8,
+  "preguntasBanco": [],
+  "resumen": "El Capítulo IV recoge las garantías de los derechos. El art. 53 permite a cualquier ciudadano recabar la tutela (recurso de amparo) del art. 14, la Sección primera del Capítulo II y el art. 30.2 (objeción de conciencia) ante los Tribunales. El art. 54 prevé que una ley orgánica regule el Defensor del Pueblo, alto comisionado de las Cortes Generales.",
+  "tema": "B1-T1",
+  "titulo": "Garantías: amparo y Defensor del Pueblo"
+}

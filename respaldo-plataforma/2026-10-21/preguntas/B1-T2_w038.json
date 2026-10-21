@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional > Legitimación activa",
+  "correcta": 1,
+  "enunciado": "El órgano colegiado ejecutivo de una Comunidad Autónoma pretende acudir al Tribunal Constitucional. ¿Qué vía tiene reconocida según la legitimación activa del recurso de inconstitucionalidad?",
+  "explicacion": "La nota agrupa ambos recursos en una misma fila, con legitimados: Presidente del Gobierno, Defensor del Pueblo, 50 Diputados, 50 Senadores, órganos colegiados ejecutivos de las CCAA y, en su caso, sus Asambleas. El distractor del control de tratados confunde esta fila con la de Gobierno, Congreso y Senado.",
+  "lote": 1792504590395,
+  "n": 38,
+  "opciones": [
+    "Está legitimado únicamente para el control previo de tratados internacionales",
+    "Está legitimado para el recurso previo de inconstitucionalidad y para el recurso de inconstitucionalidad",
+    "Solo está legitimado para el recurso de amparo, como persona jurídica de interés legítimo",
+    "Solo está legitimado para el recurso de inconstitucionalidad, no para el recurso previo"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

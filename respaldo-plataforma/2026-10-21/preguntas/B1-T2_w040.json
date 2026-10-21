@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional > El control de constitucionalidad de las normas con fuerza de ley",
+  "correcta": 2,
+  "enunciado": "El Gobierno impugna ante el Tribunal Constitucional una ley aprobada por una Comunidad Autónoma. ¿Qué efecto produce la impugnación y de qué plazo dispone el Tribunal para pronunciarse?",
+  "explicacion": "La nota dice que la impugnación del Gobierno produce la suspensión de la ley y que el TC se pronuncia en un máximo de 5 meses. El distractor de 3 meses mezcla este plazo con el del recurso de inconstitucionalidad.",
+  "lote": 1792504590395,
+  "n": 40,
+  "opciones": [
+    "No suspende la ley, y el Tribunal debe pronunciarse en un máximo de 3 días",
+    "No suspende la ley, y el Tribunal debe pronunciarse en un máximo de 5 meses",
+    "Suspende la ley, y el Tribunal debe pronunciarse en un máximo de 5 meses",
+    "Suspende la ley, y el Tribunal debe pronunciarse en un máximo de 3 meses"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

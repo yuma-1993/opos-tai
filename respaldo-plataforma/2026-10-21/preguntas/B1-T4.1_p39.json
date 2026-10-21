@@ -1,0 +1,14 @@
+{
+  "apartado": "Jornada y vacaciones",
+  "correcta": 1,
+  "enunciado": "¿Cuántas horas semanales se establecen en el régimen de especial dedicación (sin contar el aumento por necesidades del servicio)?",
+  "explicacion": "Nota: jornada en régimen de especial dedicación: 40 h/semana, sin perjuicio del aumento de horario preciso por necesidades del servicio.",
+  "n": 39,
+  "opciones": [
+    "37,5 horas",
+    "40 horas",
+    "42,5 horas",
+    "45 horas"
+  ],
+  "tema": "B1-T4.1"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución (artículos 166 a 169)",
+  "correcta": 2,
+  "enunciado": "En el procedimiento agravado, una vez celebradas las elecciones tras la disolución, ¿qué mayoría deben alcanzar las nuevas Cámaras para ratificar la decisión de reformar?",
+  "explicacion": "La nota indica que las nuevas Cámaras ratifican el cambio mediante mayoría simple. La mayoría de 2/3 se exige después para aprobar el texto, y de ahí viene la confusión.",
+  "lote": 1792487818082,
+  "n": 22,
+  "opciones": [
+    "3/5 de cada Cámara",
+    "2/3 de cada Cámara",
+    "Mayoría simple",
+    "Mayoría absoluta"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

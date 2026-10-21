@@ -1,0 +1,14 @@
+{
+  "apartado": "Situaciones administrativas",
+  "correcta": 1,
+  "enunciado": "¿Quién es el competente para declarar la situación de servicios especiales, de oficio o a instancia del interesado, en la AGE, y en qué plazo debe solicitar el reingreso al servicio activo quien pierda esa condición para no pasar a excedencia voluntaria?",
+  "explicacion": "Nota: se declara por el Subsecretario del Ministerio donde esté destinado; quien pierda la condición debe solicitar el reingreso en 1 mes o pasa a excedencia voluntaria.",
+  "n": 6,
+  "opciones": [
+    "El Secretario de Estado de la Función Pública; 15 días",
+    "El Subsecretario del Ministerio donde se encuentre destinado; 1 mes",
+    "El Subsecretario del Ministerio donde se encuentre destinado; 2 meses",
+    "El Ministro de Hacienda y Función Pública; 1 mes"
+  ],
+  "tema": "B1-T4.1"
+}

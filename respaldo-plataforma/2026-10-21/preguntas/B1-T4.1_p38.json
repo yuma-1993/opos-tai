@@ -1,0 +1,14 @@
+{
+  "apartado": "Excedencias",
+  "correcta": 0,
+  "enunciado": "En la excedencia por razón de violencia de género, ¿cuál es el plazo de reserva del puesto de trabajo y su prórroga máxima total?",
+  "explicacion": "Nota (tabla de excedencias): reserva de puesto 6 meses, prorrogable por 3 meses hasta un máximo de 18 en total.",
+  "n": 38,
+  "opciones": [
+    "6 meses, prorrogable por 3 meses hasta un máximo de 18 en total",
+    "6 meses, prorrogable por 6 meses hasta un máximo de 12 en total",
+    "1 año, prorrogable hasta un máximo de 3 años",
+    "3 meses, prorrogable por 3 meses hasta un máximo de 9 en total"
+  ],
+  "tema": "B1-T4.1"
+}

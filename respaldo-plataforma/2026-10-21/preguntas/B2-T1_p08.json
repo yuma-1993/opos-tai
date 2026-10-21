@@ -1,0 +1,14 @@
+{
+  "apartado": "Cubos y operaciones OLAP",
+  "correcta": 0,
+  "enunciado": "¿Qué variante de OLAP trabaja con datos geográficos?",
+  "explicacion": "Nota: SOLAP = espacial (datos geográficos). HOLAP es híbrido, WOLAP web y DOLAP desktop.",
+  "n": 8,
+  "opciones": [
+    "SOLAP",
+    "HOLAP",
+    "WOLAP",
+    "DOLAP"
+  ],
+  "tema": "B2-T1"
+}

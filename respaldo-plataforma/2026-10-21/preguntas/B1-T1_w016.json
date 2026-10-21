@@ -1,0 +1,16 @@
+{
+  "apartado": "Estructura de la Constitución",
+  "correcta": 0,
+  "enunciado": "La parte final de la Constitución está formada por:",
+  "explicacion": "La nota indica 4 adicionales, 9 transitorias, 1 derogatoria y 1 final. La primera opción es la tentadora porque invierte las cifras de adicionales y transitorias.",
+  "lote": 1792487818082,
+  "n": 16,
+  "opciones": [
+    "4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final",
+    "4 disposiciones adicionales, 9 transitorias, 2 derogatorias y 1 final",
+    "9 disposiciones adicionales, 4 transitorias, 1 derogatoria y 1 final",
+    "4 disposiciones adicionales, 4 transitorias, 1 derogatoria y 2 finales"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

@@ -1,0 +1,126 @@
+{
+  "bloques": [
+    {
+      "md": "El **funcionario interino** es como un **refuerzo de emergencia**: la Administración lo llama cuando hay una necesidad urgente que los funcionarios de carrera no pueden cubrir en ese momento. Solo se le nombra por **razones expresamente justificadas de necesidad y urgencia**, y solo en **cuatro situaciones** concretas.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Para nombrar a un interino no basta con querer. Hacen falta dos cosas a la vez:\n\n1. Que haya **necesidad y urgencia**.\n2. Que estén **expresamente justificadas**.\n\nSi se cumplen, el nombramiento solo es posible en uno de los **cuatro supuestos** que vemos a continuación.",
+      "t": "explica",
+      "titulo": "Paso 1: la regla general"
+    },
+    {
+      "md": "1. **Plazas vacantes** que no se pueden cubrir por funcionarios de carrera.\n2. **Sustitución transitoria** de los titulares.\n3. **Programas de carácter temporal**.\n4. **Exceso o acumulación de tareas**.\n\nDe estos cuatro, **dos tienen plazo máximo fijado en la nota** (el 3 y el 4). El 1 tiene una regla sobre la oferta de empleo. El 2 no trae plazo en la nota.",
+      "t": "explica",
+      "titulo": "Paso 2: los cuatro supuestos"
+    },
+    {
+      "md": "**Vacantes.** Las plazas vacantes desempeñadas por interinos deben incluirse en la **oferta de empleo del ejercicio en que se produce el nombramiento**. Si no fuera posible, en **la siguiente**. La excepción es que se decida su **amortización**.\n\n**Sustitución transitoria.** Se cubre al titular que no está desempeñando su plaza de forma temporal.\n\n**Programa temporal.** No puede exceder de **3 años**, ampliable hasta **12 meses más** por las leyes de Función Pública dictadas en desarrollo del TREBEP. Es decir, hasta **4 años** como máximo en total.\n\n**Exceso o acumulación de tareas.** Plazo máximo de **nueve meses**, dentro de un periodo de **dieciocho meses**.",
+      "t": "explica",
+      "titulo": "Paso 3: los detalles de cada supuesto"
+    },
+    {
+      "md": "Los fallos típicos con las cifras son estos:\n\n- **Programa temporal: 3 años**, no 9 meses ni 18 meses.\n- La ampliación del programa es de **hasta 12 meses más**, y la concretan las **leyes de Función Pública de desarrollo del TREBEP**, no el propio TREBEP.\n- **9 meses** es el plazo del exceso de tareas y **18 meses** es el periodo dentro del cual se cuenta ese plazo. No son dos plazos distintos.\n- Las cifras **no se mezclan**: 3 años y 12 meses van con el programa; 9 y 18 meses van con el exceso de tareas.",
+      "t": "explica",
+      "titulo": "Paso 4: dónde se suele fallar"
+    },
+    {
+      "md": "**Caso A.** Una Administración pone en marcha un programa temporal de digitalización de archivos. Nombra a un interino para ejecutarlo.\n\n- Supuesto: programa de carácter temporal.\n- Plazo máximo: **3 años**.\n- Si la ley de Función Pública de desarrollo lo permite, puede ampliarse hasta **12 meses más**, es decir, 4 años en total.\n\n**Caso B.** Un servicio sufre un pico de trabajo y se nombra a un interino por exceso de tareas.\n\n- Supuesto: exceso o acumulación de tareas.\n- Plazo: máximo **9 meses**, dentro de un periodo de **18 meses**.\n- Si lleva 9 meses nombrado en ese periodo, ya no se puede seguir con ese supuesto dentro de los 18 meses.\n\n**Caso C.** Hay una plaza vacante y no se puede cubrir con funcionarios de carrera. Se nombra interino en 2025.\n\n- La plaza debe incluirse en la oferta de empleo de **2025**.\n- Si no fuera posible, en la de **2026**.\n- Salvo que se decida **amortizarla**.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Los cuatro supuestos: **V-S-P-E**, \"**V**amos **S**iempre **P**or **E**mergencias\":\n\n- **V**acantes\n- **S**ustitución\n- **P**rogramas\n- **E**xceso de tareas\n\nPara las cifras:\n\n- **P**rograma = **3** años (+12 meses). Piensa: \"P de Proyecto, 3 de tres años\".\n- **E**xceso = **9 de 18**: la mitad del periodo. Piensa: \"nueve de dieciocho, justo la mitad\".",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "**Concepto:** los funcionarios interinos son nombrados por razones expresamente justificadas de necesidad y urgencia, cuando:\n\n| Supuesto | Dato clave |\n|---|---|\n| Plazas vacantes | Cuando no sea posible su cobertura por funcionarios de carrera. Deben incluirse en la oferta de empleo del ejercicio en que se produce el nombramiento y, si no fuera posible, en la siguiente, salvo que se decida su amortización |\n| Sustitución transitoria de los titulares | Sin plazo indicado en la nota |\n| Programas de carácter temporal | No podrán exceder los **3 años**, ampliable hasta **12 meses más** por las leyes de Función Pública dictadas en desarrollo del TREBEP |\n| Exceso o acumulación de tareas | Plazo máximo de **nueve meses**, dentro de un periodo de **dieciocho meses** |",
+      "t": "nota",
+      "titulo": "Datos duros de la nota"
+    },
+    {
+      "md": "(conocimiento general, no viene de tus notas) En el texto del TREBEP los cuatro supuestos figuran en el artículo 10, y el nombramiento de interinos exige que los procesos de selección respeten los principios de igualdad, mérito, capacidad y publicidad. Conviene contrastarlo con la norma vigente antes del examen, porque este artículo ha tenido reformas recientes.",
+      "t": "ampliacion",
+      "titulo": "Contexto adicional"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Hasta cuánto puede ampliarse la duración de un programa temporal que ejecuta un interino, según la nota?",
+      "explicacion": "El programa no puede exceder de 3 años, ampliable hasta 12 meses más por las leyes de Función Pública dictadas en desarrollo del TREBEP.",
+      "opciones": [
+        "Hasta 12 meses más",
+        "Hasta 9 meses más",
+        "Hasta 18 meses más",
+        "Hasta 6 meses más"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Un interino es nombrado por exceso de tareas. ¿Cuál es el límite correcto?",
+      "explicacion": "La nota fija un plazo máximo de nueve meses, dentro de un periodo de dieciocho meses.",
+      "opciones": [
+        "Tres años dentro de un periodo de cuatro",
+        "Nueve meses dentro de un periodo de dieciocho meses",
+        "Doce meses dentro de un periodo de veinticuatro",
+        "Dieciocho meses dentro de un periodo de nueve meses"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Una plaza vacante está desempeñada por un interino nombrado este ejercicio. ¿Dónde debe incluirse la plaza, según la nota?",
+      "explicacion": "Las plazas vacantes desempeñadas por interinos se incluyen en la oferta del ejercicio del nombramiento y, si no es posible, en la siguiente, salvo que se decida su amortización.",
+      "opciones": [
+        "Solo en la oferta del ejercicio siguiente",
+        "En ninguna oferta mientras la ocupe el interino",
+        "En la oferta de empleo de dos ejercicios después",
+        "En la oferta de empleo del ejercicio del nombramiento y, si no fuera posible, en la siguiente, salvo amortización"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de los siguientes NO es uno de los cuatro supuestos de nombramiento de interinos recogidos en la nota?",
+      "explicacion": "Los cuatro supuestos son vacantes, sustitución transitoria, programas temporales y exceso o acumulación de tareas. Las funciones de confianza o asesoramiento no figuran entre ellos.",
+      "opciones": [
+        "Ejecución de programas de carácter temporal",
+        "Plazas vacantes que no puedan cubrirse por funcionarios de carrera",
+        "Realización de funciones de confianza o asesoramiento especial",
+        "Sustitución transitoria de los titulares"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué requisito general debe concurrir para nombrar a un funcionario interino?",
+      "explicacion": "La nota define al interino como el nombrado por razones expresamente justificadas de necesidad y urgencia en alguno de los cuatro supuestos.",
+      "opciones": [
+        "Que el nombramiento se limite siempre a nueve meses",
+        "Que no haya ningún funcionario de carrera en la Administración",
+        "Razones expresamente justificadas de necesidad y urgencia",
+        "Que el puesto lleve al menos tres años vacante"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Nombramiento por razones expresamente justificadas de necesidad y urgencia",
+      "Cuatro supuestos: plazas vacantes, sustitución transitoria, programas temporales y exceso o acumulación de tareas",
+      "Programas de carácter temporal: no pueden exceder los 3 años, ampliable hasta 12 meses más por las leyes de Función Pública de desarrollo del TREBEP",
+      "Exceso o acumulación de tareas: máximo nueve meses dentro de un periodo de dieciocho meses",
+      "Las vacantes ocupadas por interinos se incluyen en la oferta de empleo del ejercicio del nombramiento o, si no es posible, en la siguiente, salvo amortización"
+    ],
+    "consigna": "Explica con tus palabras cuándo se puede nombrar a un funcionario interino: cuáles son los cuatro supuestos y qué plazos máximos tienen los que los llevan."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Ámbito de aplicación y clases de personal",
+  "objetivo": "Enumerar los cuatro supuestos de nombramiento de funcionarios interinos con sus plazos máximos: vacante, sustitución transitoria, programa temporal (3 años, ampliable hasta 12 meses más) y exceso o acumulación de tareas (9 meses dentro de un periodo de 18).",
+  "orden": 5,
+  "preguntasBanco": [
+    2
+  ],
+  "resumen": "El funcionario interino se nombra por razones expresamente justificadas de necesidad y urgencia en cuatro supuestos: plazas vacantes, sustitución transitoria de titulares, programas temporales y exceso o acumulación de tareas. El programa temporal no puede exceder de 3 años, ampliable hasta 12 meses más, y el exceso de tareas dura como máximo 9 meses dentro de un periodo de 18.",
+  "tema": "B1-T4.1",
+  "titulo": "El funcionario interino"
+}

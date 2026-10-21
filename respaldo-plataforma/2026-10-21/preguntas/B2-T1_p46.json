@@ -1,0 +1,14 @@
+{
+  "apartado": "Memoria",
+  "correcta": 1,
+  "enunciado": "Una memoria DDR-400 con bus de 200 MHz y 64 bits, ¿qué capacidad de transferencia tiene y cómo se llama comercialmente?",
+  "explicacion": "Nota: 200 × 2 (subida y bajada) × 8 B = 3200 MB/s, de ahí PC-3200.",
+  "n": 46,
+  "opciones": [
+    "1600 MB/s; PC-1600",
+    "3200 MB/s; PC-3200",
+    "6400 MB/s; PC-6400",
+    "3200 MB/s; PC-400"
+  ],
+  "tema": "B2-T1"
+}

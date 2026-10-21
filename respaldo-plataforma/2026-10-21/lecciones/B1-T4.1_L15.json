@@ -1,0 +1,117 @@
+{
+  "bloques": [
+    {
+      "md": "Una **permuta** es un intercambio de puestos entre dos empleados públicos: tú te quedas con el puesto de otra persona y ella con el tuyo. Es como intercambiar dos asientos en un aula: solo se puede si los asientos son equivalentes y si el profesor (la Administración) da el visto bueno. Por eso la norma pone **requisitos** (para poder hacerla) y **límites** (para que no se abuse de ella).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Para que una permuta sea posible, tienen que cumplirse tres cosas a la vez:\n\n1. **Los puestos deben ser de igual naturaleza y de idéntica forma de provisión.** Es decir, los dos puestos han de ser del mismo tipo y haberse cubierto por el mismo sistema.\n2. **Los años de servicio de los permutantes no pueden diferir en más de cinco.** Se comparan los años de servicio de uno y otro: la diferencia entre ambos no puede superar cinco años.\n3. **Informe favorable** de los Jefes de los solicitantes y de los Subsecretarios/Subcomisiones.\n\nSi falta uno solo, no hay permuta.",
+      "t": "explica",
+      "titulo": "Paso 1: requisitos para poder permutar"
+    },
+    {
+      "md": "Aunque se cumplan los requisitos, hay dos límites que bloquean la permuta:\n\n- **Límite de repetición:** en **10 años** (**5 para laborales**) no se autorizará una nueva permuta.\n- **Límite de cercanía a la jubilación:** no se autoriza cuando a alguno de los permutantes le falten **10 años** (**5 para laborales**) para la **jubilación forzosa**.\n\nFíjate en que la cifra es la misma en ambos límites: **10 años** para funcionarios y **5** para laborales.",
+      "t": "explica",
+      "titulo": "Paso 2: límites en el tiempo"
+    },
+    {
+      "md": "Aunque la permuta se haya concedido, se **anulará** si se produce la **jubilación voluntaria** de alguno de los permutantes **en los dos años siguientes** a la permuta.\n\nEs decir: la jubilación voluntaria en ese plazo de dos años deshace la permuta. Esto evita usar la permuta como paso previo a jubilarse.",
+      "t": "explica",
+      "titulo": "Paso 3: la anulación"
+    },
+    {
+      "md": "**Caso A.** Ana tiene 20 años de servicio y Luis 24. Sus puestos son de igual naturaleza y de idéntica forma de provisión, y los Jefes y los Subsecretarios/Subcomisiones informan favorablemente. Diferencia: 4 años, no más de cinco. Ninguno está cerca de la jubilación forzosa ni ha permutado en los últimos 10 años. **Se puede.**\n\n**Caso B.** Ana (20 años de servicio) y Marta (27 años). Diferencia: 7 años, que es más de cinco. **No se puede**, aunque todo lo demás sea correcto.\n\n**Caso C.** Ana y Luis permutan (Caso A). Un año y medio después, Luis pide la jubilación voluntaria. Está dentro de los dos años siguientes, así que **la permuta se anula**.\n\n**Caso D.** Un funcionario permutó hace 6 años y quiere hacerlo de nuevo. Como no han pasado 10 años, **no se autoriza**. Si fuera personal laboral, con 6 años sí habrían transcurrido los 5 exigidos, así que no se aplicaría este límite.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**«Igual, 5, Informe»** para los requisitos: puestos **igual**es, diferencia máxima de **5** años, **informe** favorable.\n\nPara los límites: **«10 y 5, laborales la mitad»**. Los 10 años (funcionarios) se reducen a **5** para laborales, tanto en la repetición como en la cercanía a la jubilación forzosa.\n\nPara la anulación: **«voluntaria, 2 años, se cae»**.",
+      "t": "truco",
+      "titulo": "Truco para memorizar"
+    },
+    {
+      "md": "| Aspecto | Dato |\n|---|---|\n| Puestos | Igual naturaleza e idéntica forma de provisión |\n| Años de servicio | No difieran en más de **cinco** |\n| Informes | Favorable de los Jefes de los solicitantes y de los Subsecretarios/Subcomisiones |\n| Nueva permuta | No se autoriza en **10 años** (**5** laborales) |\n| Cercanía a jubilación forzosa | No se autoriza si a alguno le faltan **10 años** (**5** laborales) |\n| Anulación | Jubilación voluntaria de alguno de los permutantes en los **dos años** siguientes |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "Dos funcionarios con 12 y 19 años de servicio quieren permutar sus puestos, que cumplen el resto de requisitos. ¿Qué ocurre?",
+      "explicacion": "La diferencia es de 7 años (19-12), y los años de servicio de los permutantes no pueden diferir en más de cinco.",
+      "opciones": [
+        "Se puede autorizar, porque la diferencia es de cinco años",
+        "Se puede solo si ambos son laborales",
+        "No se puede, porque deben tener los mismos años de servicio",
+        "No se puede, porque la diferencia supera los cinco años"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Quién debe emitir informe favorable para autorizar una permuta?",
+      "explicacion": "Se exige informe favorable de los Jefes de los solicitantes y de los Subsecretarios/Subcomisiones.",
+      "opciones": [
+        "Solo el Jefe de cada solicitante",
+        "Los Jefes de los solicitantes y los Subsecretarios/Subcomisiones",
+        "Ninguno, basta con la solicitud de los permutantes",
+        "Exclusivamente los Subsecretarios/Subcomisiones"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Una persona laboral permutó hace 6 años. ¿Puede autorizársele una nueva permuta atendiendo solo a este límite?",
+      "explicacion": "Para laborales el plazo es de 5 años (10 para funcionarios), y ya han transcurrido 6.",
+      "opciones": [
+        "Sí, porque para laborales el plazo es de 5 años",
+        "No, porque nunca puede repetirse",
+        "No, porque deben pasar 10 años",
+        "Sí, porque el plazo es de 2 años"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "A un funcionario le faltan 8 años para la jubilación forzosa y su compañero está lejos de ella. ¿Qué dice la norma sobre la permuta?",
+      "explicacion": "La nota establece que no se autoriza la permuta cuando a alguno de los permutantes le falten 10 años (5 laborales) para la jubilación forzosa.",
+      "opciones": [
+        "Se autoriza sin problema",
+        "Se anula a los dos años",
+        "No se autoriza, porque a alguno le faltan 10 años o menos... en concreto, no se autoriza cuando le falten 10 años para la jubilación forzosa",
+        "Se autoriza si el compañero tiene más años de servicio"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Se concede una permuta y a los 18 meses uno de los permutantes se jubila voluntariamente. ¿Qué consecuencia tiene?",
+      "explicacion": "Se anulan las permutas cuando se produce la jubilación voluntaria de alguno de los permutantes en los dos años siguientes a la permuta; 18 meses está dentro de ese plazo.",
+      "opciones": [
+        "Se anula la permuta, por producirse la jubilación voluntaria en los dos años siguientes",
+        "No pasa nada, la permuta se mantiene",
+        "Solo se anula si es personal laboral",
+        "Se anula únicamente si la jubilación es forzosa"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Los puestos deben ser de igual naturaleza y de idéntica forma de provisión",
+      "Los años de servicio de los permutantes no difieren en más de cinco",
+      "Informe favorable de los Jefes de los solicitantes y de los Subsecretarios/Subcomisiones",
+      "En 10 años (5 para laborales) no se autorizará una nueva permuta, ni cuando a alguno le falten 10 años (5 laborales) para la jubilación forzosa",
+      "Se anulan si hay jubilación voluntaria de alguno de los permutantes en los dos años siguientes"
+    ],
+    "consigna": "Explica con tus palabras qué requisitos debe cumplir una permuta, qué límites temporales existen (distinguiendo funcionarios y laborales) y cuándo se anula una permuta ya concedida."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Provisión de puestos de trabajo",
+  "objetivo": "Enumerar los requisitos y límites de las permutas: igualdad de puestos, diferencia máxima de cinco años de servicio, informes favorables, plazos de 10 años (5 para laborales) y anulación por jubilación voluntaria en los dos años siguientes.",
+  "orden": 15,
+  "preguntasBanco": [
+    10,
+    43
+  ],
+  "resumen": "Para permutar hacen falta puestos de igual naturaleza e idéntica forma de provisión, una diferencia de servicio de no más de cinco años e informe favorable de los Jefes y de los Subsecretarios/Subcomisiones. No se autoriza una nueva permuta en 10 años (5 laborales), ni si a alguno le faltan 10 años (5 laborales) para la jubilación forzosa; y se anula si hay jubilación voluntaria en los dos años siguientes.",
+  "tema": "B1-T4.1",
+  "titulo": "Permutas"
+}

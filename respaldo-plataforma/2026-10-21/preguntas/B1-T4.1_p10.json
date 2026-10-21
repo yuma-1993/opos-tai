@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 1,
+  "enunciado": "En el régimen de permutas, ¿cuál es el requisito sobre los años de servicio de los permutantes?",
+  "explicacion": "Nota (permutas): los años de servicio de los permutantes no difieren en más de cinco.",
+  "n": 10,
+  "opciones": [
+    "No deben diferir en más de 3 años",
+    "No deben diferir en más de 5 años",
+    "No deben diferir en más de 10 años",
+    "Ambos deben tener al menos 5 años de servicio, sin límite de diferencia"
+  ],
+  "tema": "B1-T4.1"
+}

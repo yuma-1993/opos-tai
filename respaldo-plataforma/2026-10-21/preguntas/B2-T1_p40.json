@@ -1,0 +1,14 @@
+{
+  "apartado": "Placa base",
+  "correcta": 0,
+  "enunciado": "¿Qué función tienen los chipsets Northbridge y Southbridge?",
+  "explicacion": "Nota: Northbridge = cosas rápidas (memoria); Southbridge = cosas lentas (E/S).",
+  "n": 40,
+  "opciones": [
+    "Norte: cosas rápidas como el acceso a memoria; Sur: cosas lentas como la E/S",
+    "Norte: cosas lentas como la E/S; Sur: cosas rápidas como la memoria",
+    "Norte: solo E/S; Sur: solo gráficos",
+    "Ambos gestionan únicamente la E/S"
+  ],
+  "tema": "B2-T1"
+}

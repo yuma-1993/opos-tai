@@ -1,0 +1,145 @@
+{
+  "bloques": [
+    {
+      "md": "Tres preguntas cierran la parte del computador: cómo se organiza su memoria (Von Neumann o Harvard), cómo se mide lo rápido que es (MIPS y MFLOPS) y cómo se traducen las direcciones que ve un programa (MMU). Después, los ejercicios de cálculo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Arquitectura | Memoria |\n|---|---|\n| **Von Neumann** | **Una única memoria** para instrucciones y datos |\n| **Harvard** | **Memoria separada** para instrucciones y datos. Mejor seguridad y rendimiento |\n\nAdemás: el **bit** es la unidad básica de la computación **clásica**; el **cúbit** (bit cuántico), de la **cuántica**.",
+      "t": "explica",
+      "titulo": "Von Neumann frente a Harvard"
+    },
+    {
+      "md": "| Medida | Significado | Qué indica |\n|---|---|---|\n| **MIPS** | Millones de Instrucciones Por Segundo | **Potencia** del procesador |\n| **MFLOPS** | Millones de Operaciones en Coma Flotante Por Segundo | **Rendimiento** del procesador |",
+      "t": "explica",
+      "titulo": "Medir el rendimiento"
+    },
+    {
+      "md": "MIPS cuenta cualquier instrucción y no todas hacen el mismo trabajo, así que no es comparable entre CISC y RISC. MFLOPS solo cuenta operaciones en coma flotante: es más comparable, pero solo vale para cargas de cálculo. Ninguna es la frecuencia de reloj (GHz). No viene del PDF.",
+      "t": "ampliacion",
+      "titulo": "Matices de MIPS y MFLOPS (conocimiento general)"
+    },
+    {
+      "md": "- **Flinn** clasifica los computadores según instrucciones (I) y datos (D): **SISD, SIMD, MISD, MIMD**.\n- **MMU** (gestor de memoria): traduce las direcciones **virtuales** en **físicas**. La **TLB** es la tabla de traducción que usa.\n- Virtualización a nivel de CPU: **Intel VT-x** y **AMD-V**.",
+      "t": "explica",
+      "titulo": "Taxonomía de Flinn y virtualización"
+    },
+    {
+      "md": "S = *Single*, M = *Multiple*. SISD: una instrucción sobre un dato (CPU secuencial clásica). SIMD: una instrucción sobre muchos datos (vectorial, GPU). MISD: varias instrucciones sobre un mismo dato (rara). MIMD: varias instrucciones sobre varios datos (multinúcleo, clústeres). No viene del PDF.",
+      "t": "ampliacion",
+      "titulo": "Qué significan las siglas de Flinn (conocimiento general)"
+    },
+    {
+      "md": "*¿Capacidad en KB de una memoria con 1024 posiciones y palabras de 16 bits?*\n\n1. 1024 posiciones → bus de direcciones de **10 bits**.\n2. En cada posición se guarda una palabra de 16 bits = 2 bytes.\n3. 1024 × 2 bytes = 2048 bytes = **2 KB**.",
+      "t": "ejemplo",
+      "titulo": "Ejercicio 1: capacidad de una memoria"
+    },
+    {
+      "md": "*36 Kpalabras de memoria, palabras de 32 bits. ¿Cuántos caracteres de 8 bits caben?*\n\nCaracteres = (36K × 32) / 8 = 36K × 4 = **144K** = 147 456 (con K = 1024). El cálculo final no está resuelto en el PDF; está completado en tu nota.",
+      "t": "ejemplo",
+      "titulo": "Ejercicio 2: cuántos caracteres caben"
+    },
+    {
+      "md": "*Bloques de 4 KB, dirección de bloque de 64 bits; cada inodo tiene 12 punteros directos, 1 indirecto simple y 1 indirecto doble.*\n\n1. Dirección = 64 bits = 8 bytes. Entradas por bloque de índices = 4 KB / 8 B = 2¹² / 2³ = 2⁹ = **512**.\n2. Tamaño máximo = 12×4 KB + 512×4 KB + 512×512×4 KB = 12×4 KB + 2²¹ + 2³⁰ ≈ **1 GB**.",
+      "t": "ejemplo",
+      "titulo": "Ejercicio 3: tamaño máximo de fichero con inodos"
+    },
+    {
+      "md": "*Computador de 32 bits, páginas de 16 KB, memoria principal de 1 GB.*\n\nUna página de 16 KB = 2¹⁴ bytes → **14 bits** de desplazamiento.\n\n- a) Dirección virtual: nº de página (**18** bits) + desplazamiento (**14** bits).\n- b) Nº máximo de páginas: 2¹⁸.\n- c) Nº de marcos de página: 2³⁰ / 2¹⁴ = **2¹⁶**.\n- d) Bloque transferido en un fallo de página: **16 KB** (una página).\n- e) Genera el fallo de página y lo trata: la **MMU**.",
+      "t": "ejemplo",
+      "titulo": "Ejercicio 4: memoria virtual"
+    },
+    {
+      "md": "Von Neumann = **una** memoria. Harvard = **separada** (datos e instrucciones). MIPS = instrucciones (potencia). MFLOPS = coma flotante (rendimiento). Memoria virtual: las páginas se parten en nº de página + desplazamiento.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Von Neumann: memoria única. Harvard: separada, mejor seguridad y rendimiento.\n- MIPS = potencia; MFLOPS = rendimiento.\n- MMU: virtual → física (TLB). VT-x (Intel) y AMD-V.\n- Ejercicio 1: 2 KB. Ejercicio 4: marcos = 2¹⁶.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué arquitectura tiene memoria separada para instrucciones y datos?",
+      "explicacion": "Harvard separa; Von Neumann usa una única memoria.",
+      "opciones": [
+        "Von Neumann",
+        "Harvard",
+        "Flinn",
+        "Ambas"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué mide MIPS?",
+      "explicacion": "MIPS = millones de instrucciones por segundo; MFLOPS = operaciones en coma flotante.",
+      "opciones": [
+        "Operaciones en coma flotante por segundo",
+        "Millones de instrucciones por segundo, la potencia del procesador",
+        "La frecuencia de reloj",
+        "La capacidad de la caché"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué traduce direcciones virtuales en direcciones físicas?",
+      "explicacion": "La MMU traduce virtual → física; la TLB es su tabla de traducción.",
+      "opciones": [
+        "La ALU",
+        "El decodificador",
+        "El secuenciador",
+        "La MMU"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Capacidad de una memoria con 2048 posiciones y palabras de 16 bits?",
+      "explicacion": "2048 × 2 bytes = 4096 bytes = 4 KB (mismo método que el ejercicio 1).",
+      "opciones": [
+        "2 KB",
+        "4 KB",
+        "8 KB",
+        "16 KB"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En el ejercicio de memoria virtual, ¿cuántos bits de desplazamiento hay con páginas de 16 KB?",
+      "explicacion": "16 KB = 2¹⁴, así que el desplazamiento es de 14 bits (y 18 de número de página en 32 bits).",
+      "opciones": [
+        "10",
+        "12",
+        "18",
+        "14"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Von Neumann: una única memoria para instrucciones y datos; Harvard: separada",
+      "MIPS = millones de instrucciones por segundo (potencia); MFLOPS = operaciones en coma flotante por segundo (rendimiento)",
+      "La MMU traduce direcciones virtuales en físicas y usa la TLB",
+      "1024 posiciones × 2 bytes = 2048 bytes = 2 KB",
+      "Marcos de página = 2^30 / 2^14 = 2^16"
+    ],
+    "consigna": "Explícame la diferencia entre Von Neumann y Harvard, qué miden MIPS y MFLOPS, qué hace la MMU y cómo se resuelve el ejercicio de la memoria con 1024 posiciones y palabras de 16 bits."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "n": 15,
+  "objetivo": "Distinguir Von Neumann de Harvard, entender MIPS y MFLOPS, la MMU y resolver los ejercicios de memoria del tema.",
+  "orden": 15,
+  "preguntasBanco": [
+    47,
+    48,
+    49,
+    50
+  ],
+  "resumen": "Von Neumann = una memoria; Harvard = separada. MIPS = potencia; MFLOPS = rendimiento. MMU virtual→física (TLB). Ejercicios: 2 KB; 144K caracteres; ≈1 GB; 18+14 bits y 2¹⁶ marcos.",
+  "tema": "B2-T1",
+  "titulo": "Arquitecturas, rendimiento y ejercicios resueltos"
+}

@@ -1,0 +1,16 @@
+{
+  "apartado": "Estructura de la Constitución",
+  "correcta": 1,
+  "enunciado": "Teniendo en cuenta las disposiciones que forman la parte final de la Constitución, ¿cuántas disposiciones hay en total entre adicionales, transitorias, derogatoria y final?",
+  "explicacion": "La parte final se compone de 4 adicionales, 9 transitorias, 1 derogatoria y 1 final: 4+9+1+1 = 15. El distractor más tentador es 13, que resulta de sumar solo adicionales y transitorias (4+9) y olvidar la derogatoria y la final.",
+  "lote": 1792487818082,
+  "n": 39,
+  "opciones": [
+    "16",
+    "15",
+    "13",
+    "14"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

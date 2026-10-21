@@ -1,0 +1,14 @@
+{
+  "apartado": "Cubos y operaciones OLAP",
+  "correcta": 2,
+  "enunciado": "¿Cuál es la diferencia correcta entre Slice y Dice?",
+  "explicacion": "Nota: Slice selecciona una dimensión (un subcubo, una «loncha»); Dice selecciona 2 o más dimensiones. Truco: Slice = 1 corte, Dice = varios cortes.",
+  "n": 9,
+  "opciones": [
+    "Slice filtra por varias dimensiones y Dice fija una sola",
+    "Slice cambia filas por columnas y Dice cambia la jerarquía",
+    "Slice fija un valor de una dimensión y da un subcubo; Dice filtra por 2 o más dimensiones y da un subcubo más pequeño",
+    "Slice y Dice son sinónimos"
+  ],
+  "tema": "B2-T1"
+}

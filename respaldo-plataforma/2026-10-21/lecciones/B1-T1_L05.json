@@ -1,0 +1,179 @@
+{
+  "bloques": [
+    {
+      "md": "El Capítulo I del Título I responde a una pregunta básica: **¿quién es español y a partir de cuándo puede actuar por sí mismo?** Piensa en la nacionalidad como un carné de socio que, si naciste siendo socio (**español de origen**), nadie puede quitarte. La mayoría de edad es el momento en que ese socio tiene plenos derechos, aunque a los 16 ya puede hacer algunas cosas importantes.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El Capítulo I se titula **«De los españoles y los extranjeros»** y comprende los **artículos 11 al 13**. De la nota se desprenden dos reglas concretas:\n\n1. La protección de la nacionalidad de los españoles de origen.\n2. La mayoría de edad y las excepciones a los 16 años.",
+      "t": "explica",
+      "titulo": "Paso 1: de qué trata el capítulo"
+    },
+    {
+      "md": "**Ningún español de origen podrá ser privado de su nacionalidad.**\n\n- La garantía protege al **español de origen**.\n- Significa que ni una ley ni una autoridad pueden retirársela.\n- La nota no desarrolla qué ocurre con quien ha adquirido la nacionalidad después; no lo des por supuesto en el examen.",
+      "t": "explica",
+      "titulo": "Paso 2: la nacionalidad"
+    },
+    {
+      "md": "Los españoles son **mayores de edad a los dieciocho años**.\n\nAun así, con **16 años** se puede:\n\n- **Formalizar contratos de trabajo.**\n- **Presentarse a las pruebas de acceso a la Función Pública.**\n\n**Excepción:** los **Cuerpos y Fuerzas de Seguridad del Estado**. Ahí la excepción a los 16 años no se aplica.",
+      "t": "explica",
+      "titulo": "Paso 3: la mayoría de edad"
+    },
+    {
+      "md": "El capítulo se titula también «De los españoles y los extranjeros», y el objetivo de la lección incluye los derechos de los extranjeros. **Tu nota no recoge contenido sobre ellos**, así que no hay datos duros que memorizar de este punto. Más abajo, en la ampliación, tienes contexto general marcado como tal.",
+      "t": "explica",
+      "titulo": "Paso 4: los extranjeros"
+    },
+    {
+      "md": "**Caso A:** Lucía tiene 16 años y le ofrecen un contrato de trabajo. ¿Puede formalizarlo? **Sí**, a los 16 años se pueden formalizar contratos de trabajo aunque la mayoría de edad sea a los 18.\n\n**Caso B:** Pablo tiene 16 años y quiere presentarse a las pruebas de acceso a la Policía. ¿Puede? **No**, porque los Cuerpos y Fuerzas de Seguridad del Estado son la excepción.\n\n**Caso C:** Marta es española de origen y una norma pretende retirarle la nacionalidad. **No es posible**: ningún español de origen puede ser privado de ella.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**18 = mayor de edad; 16 = trabajar y opositar (menos con uniforme de seguridad).**\n\nY recuerda: **«De origen, no se quita.»**",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Capítulo I, **arts. 11 a 13**: «De los españoles y los extranjeros».\n- **Ningún español de origen podrá ser privado de su nacionalidad.**\n- Los españoles son **mayores de edad a los dieciocho años**.\n- Con **16 años** podrán **formalizar contratos de trabajo** y **presentarse a las pruebas de acceso a la Función Pública**.\n- **Excepción:** los **Cuerpos y Fuerzas de Seguridad del Estado**.\n\n| Edad | Qué se puede |\n|---|---|\n| 16 años | Contratos de trabajo; pruebas de acceso a la Función Pública (salvo Cuerpos y Fuerzas de Seguridad del Estado) |\n| 18 años | Mayoría de edad |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "(conocimiento general, no viene de tus notas) El art. 13 CE es el que se ocupa de los extranjeros: disfrutan en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley. Conviene que lo contrastes con tu temario oficial antes de memorizarlo, porque no figura en tus notas.",
+      "t": "ampliacion",
+      "titulo": "Contexto sobre los extranjeros"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "Según la nota, ¿quién no puede ser privado de su nacionalidad?",
+      "explicacion": "La nota dice literalmente que ningún español de origen podrá ser privado de su nacionalidad.",
+      "opciones": [
+        "Todo español, incluso nacionalizado, sin excepción",
+        "Solo los mayores de 18 años",
+        "Ningún español de origen",
+        "Cualquier residente en España"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿A qué edad son mayores de edad los españoles?",
+      "explicacion": "Los españoles son mayores de edad a los dieciocho años.",
+      "opciones": [
+        "18 años",
+        "16 años",
+        "25 años",
+        "21 años"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Un joven de 16 años quiere firmar un contrato de trabajo. ¿Qué indica la nota?",
+      "explicacion": "A los 16 años se pueden formalizar contratos de trabajo, aunque la mayoría de edad sea a los 18.",
+      "opciones": [
+        "Puede formalizarlo",
+        "Solo si es en los Cuerpos de Seguridad",
+        "Solo si es para la Función Pública",
+        "No puede hasta los 18"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál es la excepción a poder presentarse a pruebas de acceso a la Función Pública con 16 años?",
+      "explicacion": "La nota exceptúa expresamente a los Cuerpos y Fuerzas de Seguridad del Estado.",
+      "opciones": [
+        "Los cuerpos docentes",
+        "La Administración local",
+        "Las Cortes Generales",
+        "Los Cuerpos y Fuerzas de Seguridad del Estado"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué artículos componen el Capítulo I «De los españoles y los extranjeros»?",
+      "explicacion": "El Capítulo I comprende los artículos 11 al 13.",
+      "opciones": [
+        "Arts. 53 a 55",
+        "Arts. 11 a 13",
+        "Arts. 1 a 5",
+        "Arts. 14 a 29"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Pablo tiene 16 años y quiere presentarse a las pruebas de acceso a la Policía. Según la nota, ¿qué ocurre?",
+      "explicacion": "Con 16 años se puede acceder a las pruebas de la Función Pública, salvo en los Cuerpos y Fuerzas de Seguridad del Estado, que son la excepción. Por eso Pablo no puede presentarse.",
+      "opciones": [
+        "No puede, porque los Cuerpos y Fuerzas de Seguridad del Estado son la excepción a los 16 años",
+        "Sí puede, pero solo con autorización de sus padres",
+        "Sí puede, porque a los 16 años se puede acceder a cualquier prueba de la Función Pública",
+        "No puede, porque la mayoría de edad se alcanza a los 16 años en la Función Pública y él aún no la ha cumplido"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Marta es española de origen y una norma pretende retirarle la nacionalidad. Según la nota, ¿qué se puede afirmar?",
+      "explicacion": "La nota establece que ningún español de origen podrá ser privado de su nacionalidad, sin condiciones adicionales de edad, residencia ni intervención judicial.",
+      "opciones": [
+        "Es posible si lo decide una autoridad judicial",
+        "No es posible: ningún español de origen puede ser privado de su nacionalidad",
+        "No es posible solo si Marta es mayor de 18 años",
+        "Es posible si Marta vive largo tiempo en el extranjero"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué edad marca la mayoría de edad de los españoles según la nota?",
+      "explicacion": "Los españoles son mayores de edad a los dieciocho años. Los 16 años solo habilitan actuaciones concretas: contratos de trabajo y pruebas de acceso a la Función Pública (con la excepción indicada).",
+      "opciones": [
+        "18 años, aunque a los 16 se puedan hacer algunas cosas concretas",
+        "16 años, porque ya se puede trabajar y opositar",
+        "16 años para trabajar y 18 para opositar, y ambas son mayoría de edad",
+        "21 años, para poder acceder a la Función Pública"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre los 16 años es correcta según la nota?",
+      "explicacion": "La nota recoge ambas facultades a los 16 años (contratos de trabajo y pruebas de acceso a la Función Pública) y una única excepción: los Cuerpos y Fuerzas de Seguridad del Estado.",
+      "opciones": [
+        "A los 16 años se puede acceder a todos los cuerpos de la Función Pública sin excepción",
+        "A los 16 años solo se pueden formalizar contratos de trabajo, no presentarse a pruebas de acceso",
+        "A los 16 años se alcanza la mayoría de edad plena",
+        "A los 16 años se pueden formalizar contratos de trabajo y presentarse a pruebas de acceso a la Función Pública, salvo en Cuerpos y Fuerzas de Seguridad del Estado"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Sobre el contenido relativo a los extranjeros dentro del Capítulo I, ¿qué dice la nota de la lección?",
+      "explicacion": "La nota indica expresamente que no recoge contenido sobre los extranjeros. Lo que aparece en la ampliación es conocimiento general que conviene contrastar con el temario oficial.",
+      "opciones": [
+        "Que los extranjeros no pueden formalizar contratos de trabajo",
+        "Que los extranjeros tienen los mismos derechos que los españoles de origen",
+        "Que no recoge contenido sobre ellos, por lo que no hay datos que memorizar de ese punto",
+        "Que solo pueden acceder a la Función Pública a los 18 años"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Ningún español de origen podrá ser privado de su nacionalidad",
+      "Los españoles son mayores de edad a los dieciocho años",
+      "Con 16 años se pueden formalizar contratos de trabajo",
+      "Con 16 años se puede acceder a las pruebas de acceso a la Función Pública",
+      "Excepción: Cuerpos y Fuerzas de Seguridad del Estado"
+    ],
+    "consigna": "Explica con tus propias palabras qué protege la Constitución respecto a la nacionalidad de los españoles, cuándo se alcanza la mayoría de edad y qué se puede hacer a los 16 años, incluyendo la excepción."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Título I: derechos y deberes fundamentales",
+  "objetivo": "Explicar la nacionalidad, la mayoría de edad y los derechos de los extranjeros según los arts. 11 a 13 de la Constitución, con los datos de la nota: nadie que sea español de origen puede perder su nacionalidad, y la mayoría de edad se fija a los 18 años con excepciones a los 16.",
+  "orden": 5,
+  "preguntasBanco": [],
+  "resumen": "El Capítulo I (arts. 11 a 13) trata de españoles y extranjeros. Ningún español de origen puede ser privado de su nacionalidad, y la mayoría de edad se alcanza a los 18 años, si bien a los 16 se pueden formalizar contratos de trabajo y presentarse a pruebas de acceso a la Función Pública, salvo en los Cuerpos y Fuerzas de Seguridad del Estado.",
+  "tema": "B1-T1",
+  "titulo": "Españoles y extranjeros (arts. 11 a 13)"
+}

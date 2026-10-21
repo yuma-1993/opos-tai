@@ -1,0 +1,16 @@
+{
+  "apartado": "Las fuentes del Derecho > Disposiciones del ejecutivo con fuerza de ley",
+  "correcta": 3,
+  "enunciado": "El Gobierno dicta un Decreto-Ley por extraordinaria y urgente necesidad. ¿Cuál es su régimen de entrada en vigor y convalidación?",
+  "explicacion": "La nota indica vigencia desde la publicación en el BOE, a expensas de convalidación por el Congreso, con 30 días hábiles y sin enmiendas. El distractor de la convalidación previa invierte el orden entre vigencia y convalidación.",
+  "lote": 1792504590395,
+  "n": 45,
+  "opciones": [
+    "Entra en vigor desde su publicación en el BOE, y el Senado tiene 30 días naturales para convalidarlo",
+    "Entra en vigor tras su convalidación por el Congreso, que dispone de 30 días hábiles para hacerlo con enmiendas",
+    "Entra en vigor a los 20 días de su publicación, y el Congreso tiene 2 meses para convalidarlo sin enmiendas",
+    "Entra en vigor desde su publicación en el BOE, y el Congreso tiene 30 días hábiles para convalidarlo en su totalidad, sin enmiendas"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

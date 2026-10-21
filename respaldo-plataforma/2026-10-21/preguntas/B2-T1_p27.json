@@ -1,0 +1,14 @@
+{
+  "apartado": "Codificación de caracteres",
+  "correcta": 3,
+  "enunciado": "¿Qué afirmación sobre ASCII es correcta?",
+  "explicacion": "Nota: ASCII = 7 bits + 1 de paridad; 32–126 imprimibles; no tiene €, Ñ ni tildes; A = 65.",
+  "n": 27,
+  "opciones": [
+    "Usa 8 bits sin paridad e incluye la Ñ",
+    "Usa 7 bits + 1 de paridad e incluye el €",
+    "Usa 8 bits y no incluye tildes",
+    "Usa 7 bits + 1 de paridad; no tiene €, ni Ñ, ni letras con tilde"
+  ],
+  "tema": "B2-T1"
+}

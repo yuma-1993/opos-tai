@@ -1,0 +1,14 @@
+{
+  "apartado": "Promoción profesional (niveles y grado)",
+  "correcta": 1,
+  "enunciado": "¿Cuál es el intervalo de niveles de los cuerpos o escalas del Subgrupo A2?",
+  "explicacion": "Nota (intervalos de niveles): A1 22-30, A2 18-26, C1 15-22, C2 14-18, Agrupaciones profesionales 13-14.",
+  "n": 25,
+  "opciones": [
+    "20-28",
+    "18-26",
+    "22-30",
+    "15-22"
+  ],
+  "tema": "B1-T4.1"
+}

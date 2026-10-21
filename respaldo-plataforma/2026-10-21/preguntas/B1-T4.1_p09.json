@@ -1,0 +1,14 @@
+{
+  "apartado": "Provisión de puestos",
+  "correcta": 1,
+  "enunciado": "En una comisión de servicios que implica cambio de residencia, ¿qué plazo se dispone para el cese y la toma de posesión?",
+  "explicacion": "Nota: sin cambio de residencia, 3 días; con cambio de residencia, 8 días (voluntarias) y 30 días (forzosas).",
+  "n": 9,
+  "opciones": [
+    "3 días en las voluntarias y 8 días en las forzosas",
+    "8 días en las voluntarias y 30 días en las forzosas",
+    "8 días en las voluntarias y 15 días en las forzosas",
+    "3 días en cualquier caso"
+  ],
+  "tema": "B1-T4.1"
+}

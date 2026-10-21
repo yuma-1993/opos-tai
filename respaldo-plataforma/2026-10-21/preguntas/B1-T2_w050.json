@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional",
+  "correcta": 0,
+  "enunciado": "Un Magistrado del Tribunal Constitucional fue nombrado en la última renovación parcial del Tribunal. ¿Cuánto dura su mandato y con qué periodicidad se renueva el Tribunal?",
+  "explicacion": "La nota indica mandato de 9 años, renovado por terceras partes cada 3 años. Un distractor tentador confunde el mandato con el de 3 años del Presidente del TC, y otro altera la fracción de renovación.",
+  "lote": 1792504590395,
+  "n": 50,
+  "opciones": [
+    "9 años; se renueva por terceras partes cada 3 años",
+    "3 años; se renueva por terceras partes cada año",
+    "6 años; se renueva por terceras partes cada 2 años",
+    "9 años; se renueva por mitades cada 4 años y medio"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

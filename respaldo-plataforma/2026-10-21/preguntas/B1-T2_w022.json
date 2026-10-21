@@ -1,0 +1,16 @@
+{
+  "apartado": "Los conflictos de competencias",
+  "correcta": 1,
+  "enunciado": "Ningún órgano de dos administraciones se considera competente para tramitar un determinado asunto. ¿Qué tipo de conflicto es?",
+  "explicacion": "La negativa se da cuando ningún órgano se considera competente. La positiva es el caso contrario, que es el distractor más tentador. Los otros dos son conflictos distintos del listado de competencias del TC.",
+  "lote": 1792504590395,
+  "n": 22,
+  "opciones": [
+    "Conflicto positivo de competencia",
+    "Conflicto negativo de competencia",
+    "Conflicto en defensa de la autonomía local",
+    "Conflicto entre órganos constitucionales del Estado"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

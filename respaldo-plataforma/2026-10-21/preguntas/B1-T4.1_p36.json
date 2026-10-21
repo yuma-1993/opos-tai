@@ -1,0 +1,14 @@
+{
+  "apartado": "Situaciones administrativas",
+  "correcta": 0,
+  "enunciado": "¿Cuál de los siguientes supuestos da lugar a la situación de servicios especiales?",
+  "explicacion": "Nota: los altos cargos siempre son servicios especiales, entre ellos Subsecretarios, Secretarios Generales Técnicos y Directores Generales.",
+  "n": 36,
+  "opciones": [
+    "Ser nombrado Subsecretario, Secretario General Técnico o Director General",
+    "Disfrutar de una excedencia por cuidado de familiares",
+    "Estar sujeto a suspensión provisional de funciones",
+    "Desempeñar un puesto por comisión de servicios con carácter forzoso"
+  ],
+  "tema": "B1-T4.1"
+}

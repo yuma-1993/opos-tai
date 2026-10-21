@@ -1,0 +1,115 @@
+{
+  "bloques": [
+    {
+      "md": "La Regencia es como un **suplente que conduce el coche mientras el conductor titular no puede**: no es el dueño del coche ni pasa a ser el conductor oficial, solo lo lleva hasta que el titular pueda volver a conducir (o llegue a poder hacerlo).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "La Regencia procede cuando el Rey se encuentra **inhabilitado para reinar**. Hay dos causas:\n\n- Ser **menor de edad**.\n- Estar **incapacitado física o mentalmente**.\n\nEs decir, el Rey sigue siendo Rey, pero no puede ejercer sus funciones, y alguien debe hacerlo por él.",
+      "t": "explica",
+      "titulo": "¿Cuándo procede la Regencia?"
+    },
+    {
+      "md": "Se distingue entre una **primera forma** (la persona viene prevista de antemano) y una **segunda forma** (la eligen las Cortes).\n\n**Primera forma**, con dos supuestos:\n\n1. **Minoría de edad del Rey** (Regencia necesaria o legítima): se encomienda al **padre o madre** del Rey o al **pariente siguiente en la sucesión**.\n2. **Incapacidad** del Rey (Regencia por inhabilitación), **reconocida por las Cortes**: corresponde al **Príncipe heredero**, o al **padre o madre**, o al **pariente siguiente en la sucesión**.\n\n**Segunda forma**: es la **electiva**. La designan las **Cortes** cuando **no se puede aplicar la primera forma**. Puede ser:\n\n- **Individual**, o\n- **Colectiva o dativa** (**una, tres o cinco personas**).",
+      "t": "explica",
+      "titulo": "Las dos formas de Regencia"
+    },
+    {
+      "md": "- Se ejerce **siempre con los mismos poderes** que la Constitución encomienda al Rey.\n- **Solo se suple interinamente** al Rey, **no se le sustituye**.\n- Se ejerce **siempre en nombre del Rey**.\n- **Cesa cuando desaparece la causa** que la originó.\n- **Revocación**: es posible revocar a un Regente **nombrado por las Cortes**, pero **no al Regente legítimo**, por ser una previsión constitucional.\n- Requisitos: **ser español y mayor de edad**.",
+      "t": "explica",
+      "titulo": "Naturaleza de la Regencia"
+    },
+    {
+      "md": "**Caso 1:** el Rey es menor de edad y su madre vive. Es Regencia necesaria o legítima (primera forma): se encomienda al padre o madre, o al pariente siguiente en la sucesión. Aquí, a la madre.\n\n**Caso 2:** el Rey es menor y no hay padre, madre ni pariente siguiente en la sucesión que pueda ejercerla. No se puede aplicar la primera forma, así que las Cortes designan una regencia electiva: una persona, o tres, o cinco si es colectiva.\n\n**Caso 3:** el Rey alcanza la mayoría de edad. Desaparece la causa y la Regencia cesa. Mientras duró, el Regente actuó en nombre del Rey y con sus mismos poderes.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**\"1ª = de familia, 2ª = de Cortes\"**: en la primera forma la persona viene dada por la sucesión; en la segunda, la elige el Parlamento.\n\nPara la naturaleza: **\"Suple, no sustituye; en nombre del Rey; cesa con la causa\"**.\n\nPara el número de regentes colectivos: **1, 3 o 5** (siempre impares).",
+      "t": "truco",
+      "titulo": "Truco para recordar"
+    },
+    {
+      "md": "**Procede** cuando el Rey está inhabilitado por **minoría de edad** o por **incapacidad física o mental**.\n\n| Forma | Supuesto | Quién ejerce |\n|---|---|---|\n| **Primera** | Minoría de edad (Regencia necesaria o legítima) | Padre o madre del Rey, o pariente siguiente en la sucesión |\n| **Primera** | Incapacidad (Regencia por inhabilitación), reconocida por las Cortes | Príncipe heredero, o padre o madre, o pariente siguiente en la sucesión |\n| **Segunda** | Cuando no se puede aplicar la primera (electiva) | Designada por las Cortes: individual, o colectiva o dativa (una, tres o cinco personas) |\n\n**Naturaleza:**\n- Mismos poderes que la Constitución encomienda al Rey.\n- Solo se suple interinamente al Rey, no se le sustituye.\n- Siempre en nombre del Rey.\n- Cesa cuando desaparece la causa que la originó.\n- Revocable el Regente nombrado por las Cortes; no el Regente legítimo (previsión constitucional).\n- Es preciso ser español y mayor de edad.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿En cuál de estos supuestos procede la Regencia?",
+      "explicacion": "La Regencia procede cuando el Rey está inhabilitado para reinar por ser menor de edad o por incapacidad física o mental.",
+      "opciones": [
+        "Cuando el Rey está de viaje oficial en el extranjero",
+        "Cuando las Cortes se disuelven",
+        "Cuando el Rey no está de acuerdo con una ley",
+        "Cuando el Rey es menor de edad o está incapacitado física o mentalmente"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En la Regencia por inhabilitación (incapacidad del Rey), ¿quién puede ejercerla según la primera forma?",
+      "explicacion": "En la incapacidad, reconocida por las Cortes, la ejerce el Príncipe heredero, o el padre o madre, o el pariente siguiente en la sucesión.",
+      "opciones": [
+        "Tres personas elegidas por el pueblo",
+        "Solo el Presidente del Gobierno",
+        "Únicamente el Presidente del Congreso",
+        "El Príncipe heredero, o el padre o madre, o el pariente siguiente en la sucesión"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuántas personas puede tener una regencia colectiva o dativa?",
+      "explicacion": "La regencia electiva puede ser individual o colectiva o dativa, de una, tres o cinco personas.",
+      "opciones": [
+        "Cualquier número que decidan las Cortes",
+        "Dos o cuatro",
+        "Una, tres o cinco",
+        "Solo tres"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué Regente NO puede ser revocado?",
+      "explicacion": "Se puede revocar al Regente nombrado por las Cortes, pero no al legítimo, porque su figura es una previsión constitucional.",
+      "opciones": [
+        "El Regente legítimo, por ser una previsión constitucional",
+        "Ninguno puede ser revocado",
+        "El nombrado por las Cortes",
+        "El Regente colectivo"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de estas afirmaciones sobre la naturaleza de la Regencia es correcta?",
+      "explicacion": "Solo se suple interinamente al Rey, no se le sustituye; se ejerce siempre en su nombre con los mismos poderes y cesa cuando desaparece la causa. Además, el Regente debe ser español y mayor de edad.",
+      "opciones": [
+        "El Regente actúa en nombre propio con poderes reducidos",
+        "El Regente suple interinamente al Rey, actúa en su nombre y la Regencia cesa al desaparecer la causa",
+        "El Regente puede ser extranjero si es mayor de edad",
+        "El Regente sustituye definitivamente al Rey"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Procederá cuando el Rey se encuentre inhabilitado para reinar por ser menor de edad o por estar incapacitado física o mentalmente",
+      "Primera forma: Regencia necesaria o legítima (minoría de edad) y Regencia por inhabilitación (incapacidad reconocida por las Cortes)",
+      "Segunda forma: electiva, designada por las Cortes cuando no se puede aplicar la primera; individual, o colectiva o dativa (una, tres o cinco personas)",
+      "Solo se suple interinamente al Rey, no se le sustituye; se ejerce siempre en nombre del Rey y cesa cuando desaparece la causa que la originó",
+      "Es posible la revocación de un Regente nombrado por las Cortes, pero no la del Regente legítimo, por ser una previsión constitucional",
+      "Es preciso ser español y mayor de edad"
+    ],
+    "consigna": "Explica con tus palabras qué es la Regencia: cuándo procede, qué formas tiene y cuál es su naturaleza (poderes, carácter, cese, revocación y requisitos del Regente)."
+  },
+  "modulo": "M6",
+  "moduloTitulo": "La Corona: Rey, Regencia y Tutela",
+  "objetivo": "Diferenciar las formas de Regencia (necesaria o legítima, por inhabilitación y electiva) y comprender su naturaleza: poderes, carácter interino, ejercicio en nombre del Rey, cese, revocabilidad y requisitos del Regente.",
+  "orden": 15,
+  "preguntasBanco": [],
+  "resumen": "La Regencia procede cuando el Rey está inhabilitado por minoría de edad o incapacidad física o mental. Tiene una primera forma (necesaria o legítima, o por inhabilitación, con personas previstas en la sucesión) y una segunda electiva, designada por las Cortes (una, tres o cinco personas). El Regente suple interinamente al Rey con sus mismos poderes y en su nombre, cesa al desaparecer la causa, solo es revocable si lo nombraron las Cortes y ha de ser español y mayor de edad.",
+  "tema": "B1-T1",
+  "titulo": "La Regencia"
+}

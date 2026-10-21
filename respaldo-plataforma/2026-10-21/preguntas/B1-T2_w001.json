@@ -1,0 +1,16 @@
+{
+  "apartado": "Composición del Tribunal Constitucional",
+  "correcta": 2,
+  "enunciado": "En la composición del Tribunal Constitucional, los dos miembros que no proceden de las Cámaras ni del Gobierno son propuestos por el Consejo General del Poder Judicial. ¿Con qué mayoría se aprueba esa propuesta?",
+  "explicacion": "La nota indica que 2 miembros son a propuesta del CGPJ, por mayoría de 3/5 de sus miembros. El distractor más tentador es el del Consejo de Ministros, que es el procedimiento de los 2 miembros propuestos por el Gobierno.",
+  "lote": 1792504590395,
+  "n": 1,
+  "opciones": [
+    "Mayoría absoluta de los miembros del Consejo General del Poder Judicial",
+    "Mayoría de 2/3 de los miembros del Consejo General del Poder Judicial",
+    "Mayoría de 3/5 de los miembros del Consejo General del Poder Judicial",
+    "Acuerdo del Consejo de Ministros a la vista del informe del Consejo General del Poder Judicial"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

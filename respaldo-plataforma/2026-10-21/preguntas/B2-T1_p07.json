@@ -1,0 +1,14 @@
+{
+  "apartado": "Cubos y operaciones OLAP",
+  "correcta": 3,
+  "enunciado": "En un cubo OLAP, ¿qué contiene la tabla de hechos?",
+  "explicacion": "Nota: la tabla de hechos contiene los datos numéricos/medibles; las tablas de dimensión son los ejes por los que se corta.",
+  "n": 7,
+  "opciones": [
+    "Los ejes por los que se corta la información, como tiempo o geografía",
+    "Las consultas MDX del cubo",
+    "Las reglas de transformación del ETL",
+    "Los datos numéricos o medibles (ventas, importes)"
+  ],
+  "tema": "B2-T1"
+}

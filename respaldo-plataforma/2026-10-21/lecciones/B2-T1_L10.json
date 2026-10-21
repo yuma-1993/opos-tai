@@ -1,0 +1,172 @@
+{
+  "bloques": [
+    {
+      "md": "Dos cosas hacen falta para que la CPU trabaje con el resto del equipo: un **ritmo común** (el reloj) y unas **carreteras** por donde viajan los datos (los buses).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Todo va **síncrono**, a golpe de reloj, como una orquesta que sigue el compás.\n\n- **Reloj externo**: sincroniza la CPU con la placa base (bus, RAM…).\n- **Reloj interno**: más rápido; es un **múltiplo del externo** (el factor multiplicador).\n\n**Overclocking**: subir ese factor multiplicador. La CPU va más rápido, pero genera más calor e inestabilidad.",
+      "t": "explica",
+      "titulo": "El reloj"
+    },
+    {
+      "md": "| Bus | Función |\n|---|---|\n| **Control** | Dice si es lectura o escritura |\n| **Direcciones** | Dice **dónde** (qué dirección de RAM) |\n| **Datos** | Transporta **qué** (la instrucción o el dato en sí) |\n\nPiensa en enviar una carta: el bus de direcciones es la dirección del buzón, el de datos es el contenido de la carta y el de control indica si vas a recoger o a depositar.",
+      "t": "explica",
+      "titulo": "Los tres buses"
+    },
+    {
+      "md": "La CPU quiere leer lo que hay en una posición de la RAM:\n\n1. Bus de **control**: «lectura».\n2. Bus de **direcciones**: la dirección de esa posición.\n3. Bus de **datos**: devuelve el contenido.\n\nEs un ejemplo para entenderlo; no viene como tal en tus notas.",
+      "t": "ejemplo",
+      "titulo": "Una lectura de memoria"
+    },
+    {
+      "md": "**Direcciones = dónde. Datos = qué. Control = leer o escribir.**",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Reloj externo: CPU ↔ placa base. Reloj interno: múltiplo del externo.\n- Overclocking: subir el factor multiplicador (más calor/inestabilidad).\n- Control: lectura o escritura. Direcciones: dónde. Datos: qué.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué bus indica la dirección de RAM a la que se accede?",
+      "explicacion": "El bus de direcciones dice dónde.",
+      "opciones": [
+        "Datos",
+        "Control",
+        "Direcciones",
+        "Reloj"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué bus indica si la operación es de lectura o de escritura?",
+      "explicacion": "El bus de control marca lectura o escritura.",
+      "opciones": [
+        "Control",
+        "Direcciones",
+        "Datos",
+        "Ninguno de ellos"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "El reloj interno de la CPU es:",
+      "explicacion": "Es más rápido y múltiplo del externo (factor multiplicador).",
+      "opciones": [
+        "El mismo que el externo",
+        "Más lento que el externo",
+        "Un múltiplo del externo",
+        "Independiente del externo"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿En qué consiste el overclocking?",
+      "explicacion": "La CPU va más rápido a costa de calor e inestabilidad.",
+      "opciones": [
+        "En bajar el factor multiplicador para ahorrar calor",
+        "En ampliar la RAM",
+        "En cambiar la placa base",
+        "En subir el factor multiplicador, con más calor e inestabilidad"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué transporta el bus de datos?",
+      "explicacion": "Datos = qué (la instrucción o el dato).",
+      "opciones": [
+        "La instrucción o el dato en sí",
+        "La dirección de memoria",
+        "La orden de lectura o escritura",
+        "La señal de reloj"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué sincroniza el reloj externo de la CPU?",
+      "explicacion": "Según tus notas, el reloj externo sincroniza la CPU con la placa base (bus, RAM…). El reloj interno es el más rápido y es un múltiplo del externo.",
+      "opciones": [
+        "La CPU con el disco duro únicamente",
+        "Solo los núcleos internos de la CPU entre sí",
+        "La fuente de alimentación con la placa base",
+        "La CPU con la placa base (bus, RAM…)"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es la relación entre el reloj interno y el reloj externo?",
+      "explicacion": "El reloj interno es más rápido y es un múltiplo del externo; ese múltiplo es el factor multiplicador.",
+      "opciones": [
+        "El interno es más lento que el externo",
+        "El interno es un múltiplo del externo",
+        "El interno es independiente del externo",
+        "Ambos son siempre exactamente iguales"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué consecuencia negativa se asocia al overclocking según la lección?",
+      "explicacion": "Al subir el factor multiplicador la CPU va más rápido, pero genera más calor e inestabilidad.",
+      "opciones": [
+        "Reducción del número de buses de la placa",
+        "Menor velocidad del reloj externo de forma automática",
+        "Más calor e inestabilidad",
+        "Pérdida de la memoria RAM instalada"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "En el ejemplo de una lectura de memoria, ¿qué bus devuelve el contenido de la posición de RAM solicitada?",
+      "explicacion": "El bus de datos transporta el «qué»: en una lectura devuelve el contenido de esa posición. El de direcciones indica la posición y el de control indica que es una lectura.",
+      "opciones": [
+        "El bus de datos",
+        "El bus de direcciones",
+        "El reloj externo",
+        "El bus de control"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Siguiendo la analogía de enviar una carta, ¿a qué equivale el bus de direcciones?",
+      "explicacion": "En la analogía, el bus de direcciones es la dirección del buzón (dónde), el de datos es el contenido de la carta (qué) y el de control indica si se recoge o se deposita.",
+      "opciones": [
+        "A la dirección del buzón",
+        "Al contenido de la carta",
+        "A la decisión de recoger o depositar",
+        "Al sello que marca el ritmo de envío"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El reloj externo sincroniza la CPU con la placa base y el interno es un múltiplo del externo",
+      "El overclocking sube el factor multiplicador: más velocidad pero más calor e inestabilidad",
+      "El bus de control indica lectura o escritura",
+      "El bus de direcciones indica dónde (la dirección de RAM) y el de datos transporta qué"
+    ],
+    "consigna": "Explícame la diferencia entre el reloj externo y el interno, qué es el overclocking y qué transporta cada uno de los tres buses.",
+    "preguntas": [
+      "¿Para qué sirve el reloj externo y qué relación tiene con él el reloj interno de la CPU?",
+      "¿Qué es el overclocking, qué se modifica exactamente para hacerlo y qué ventaja y qué inconvenientes tiene?",
+      "¿Qué información transmite el bus de control durante una operación con la memoria?",
+      "¿En qué se diferencian el bus de direcciones y el bus de datos, es decir, qué transporta cada uno?"
+    ]
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Entender cómo se sincroniza la CPU, qué es el overclocking y qué transporta cada bus.",
+  "orden": 10,
+  "preguntasBanco": [
+    33,
+    34
+  ],
+  "resumen": "Reloj externo (CPU↔placa), interno = múltiplo. Overclocking = subir el multiplicador. Buses: control (leer/escribir), direcciones (dónde), datos (qué).",
+  "tema": "B2-T1",
+  "titulo": "Reloj y buses"
+}

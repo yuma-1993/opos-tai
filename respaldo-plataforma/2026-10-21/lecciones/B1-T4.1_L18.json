@@ -1,0 +1,120 @@
+{
+  "bloques": [
+    {
+      "md": "Piensa en un edificio. **Carrera horizontal**: subes de nivel de sueldo y reconocimiento, pero sigues en tu misma oficina. **Carrera vertical**: te cambias a una oficina de un piso superior mediante concurso o libre designación. **Promoción interna**: para pasar a otro cuerpo o escala hay que superar una **prueba selectiva**. Puede ser en el mismo subgrupo (horizontal) o hacia el subgrupo inmediatamente superior (vertical).",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El TREBEP recoge dos grandes vías de progresión:\n\n1. **Carrera profesional**: horizontal o vertical. **No exige superar una prueba selectiva**.\n2. **Promoción interna**: horizontal o vertical. **Siempre con prueba selectiva**.\n\nLos derechos de carrera profesional, promoción interna y retribuciones producirán efectos a partir de la ley de función pública que los desarrolle.",
+      "t": "explica",
+      "titulo": "Paso 1: dos vías de progresión"
+    },
+    {
+      "md": "- **Horizontal**: progresión de tramo (grado, categoría, escalón u otros conceptos análogos), **sin cambiar de puesto de trabajo**. Se selecciona presentando méritos, cursos y evaluación del desempeño, y se revisa cada cierto número de años. No cambia de Grupo ni de Subgrupo; se reconoce un grado.\n- **Vertical**: ascenso en la estructura de puestos mediante los procedimientos de provisión (**concurso o libre designación**), accediendo a un puesto de nivel superior. Hay cambio de puesto, a uno de mayor responsabilidad. No cambia de Grupo ni de Subgrupo.",
+      "t": "explica",
+      "titulo": "Paso 2: carrera horizontal frente a vertical"
+    },
+    {
+      "md": "- **Horizontal**: acceso a cuerpos o escalas del **mismo Subgrupo** (o Grupo, si no tiene subgrupos), con funciones análogas en contenido y nivel técnico. Se accede por oposición, concurso-oposición o, extraordinariamente, concurso. Cambia de puesto superando una prueba, pero **no cambia** de grupo o subgrupo.\n- **Vertical**: ascenso desde un cuerpo o escala de un Subgrupo a otro **inmediatamente superior**, del mismo o distinto itinerario profesional. Se accede superando el proceso selectivo correspondiente. Cambia de puesto superando una prueba y **sí cambia** de grupo o subgrupo.",
+      "t": "explica",
+      "titulo": "Paso 3: promoción interna horizontal frente a vertical"
+    },
+    {
+      "md": "Estas posibilidades de promoción profesional deben ser desarrolladas por las leyes de función pública de cada Comunidad Autónoma y del Estado para su personal. **No vienen establecidas de manera obligatoria**: pueden establecerlas o no. Se están adoptando y se fija la necesidad de establecer criterios de evaluación, que deberán regirse por criterios de transparencia, de neutralidad, etc.\n\n**Evaluación del desempeño**: procedimiento mediante el cual se mide y se valora la conducta profesional, el rendimiento y el logro de resultados.",
+      "t": "explica",
+      "titulo": "Paso 4: carácter no obligatorio y evaluación del desempeño"
+    },
+    {
+      "md": "**Caso 1.** Una funcionaria del Subgrupo C1 acumula méritos y cursos, y supera la evaluación del desempeño. Se le reconoce un grado superior y sigue en su mismo puesto. → **Carrera horizontal**: no hay cambio de puesto ni de subgrupo, y no hay prueba selectiva.\n\n**Caso 2.** Un funcionario gana un concurso y pasa a un puesto de mayor responsabilidad, sin cambiar de subgrupo. → **Carrera vertical**: cambia de puesto por provisión, sin prueba selectiva.\n\n**Caso 3.** Un funcionario del C2 supera un proceso selectivo para acceder a un cuerpo del C1. → **Promoción interna vertical**: cambia de subgrupo, al inmediatamente superior.\n\n**Caso 4.** Un funcionario supera una oposición para pasar a otro cuerpo del mismo Subgrupo con funciones análogas. → **Promoción interna horizontal**: cambia de puesto con prueba, pero no de subgrupo.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Carrera = sin prueba. Promoción interna = con prueba.**\n- Solo cambia de subgrupo la **promoción interna vertical**. En las otras tres, el subgrupo se mantiene.\n- Carrera horizontal: es el único caso **sin cambio de puesto**; solo se reconoce un grado.\n- Vertical = vas hacia arriba (puesto de nivel superior, o subgrupo inmediatamente superior).",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "**Carrera profesional (sin prueba selectiva)**\n\n| | Horizontal | Vertical |\n|---|---|---|\n| Definición | Progresión de tramo (grado, categoría, escalón u otros conceptos análogos), sin cambiar de puesto | Ascenso en la estructura de puestos mediante provisión, a un puesto de nivel superior |\n| Selección | Méritos, cursos y evaluación del desempeño; se revisa cada cierto número de años | Concurso o libre designación |\n| Cambio de puesto | No | Sí, a mayor responsabilidad |\n| Grupo/Subgrupo | No cambia; se reconoce un grado | No cambia |\n\n**Promoción interna (siempre con prueba selectiva)**\n\n| | Horizontal | Vertical |\n|---|---|---|\n| Definición | Acceso a cuerpos o escalas del mismo Subgrupo (o Grupo, si no tiene subgrupos), con funciones análogas en contenido y nivel técnico | Ascenso de un Subgrupo a otro inmediatamente superior, del mismo o distinto itinerario profesional (ej.: C2 → C1) |\n| Selección | Oposición, concurso-oposición o, extraordinariamente, concurso | Superando el proceso selectivo correspondiente |\n| Cambio de puesto | Sí, superando una prueba | Sí, superando una prueba |\n| Grupo/Subgrupo | No cambia | Sí cambia |\n\n- Las leyes de función pública de cada Comunidad Autónoma y del Estado deben desarrollar estas posibilidades; no son obligatorias, pueden establecerlas o no.\n- Criterios de evaluación: transparencia, neutralidad, etc.\n- Evaluación del desempeño: procedimiento mediante el cual se mide y se valora la conducta profesional, el rendimiento y el logro de resultados.",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "Un funcionario cambia a un puesto de mayor responsabilidad por concurso, sin cambiar de Subgrupo. ¿De qué se trata?",
+      "explicacion": "La carrera vertical es el ascenso en la estructura de puestos mediante provisión (concurso o libre designación), con cambio a un puesto de nivel superior y sin cambio de Grupo ni Subgrupo.",
+      "opciones": [
+        "Carrera vertical",
+        "Carrera horizontal",
+        "Promoción interna vertical",
+        "Promoción interna horizontal"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de las siguientes modalidades implica cambio de Grupo o Subgrupo?",
+      "explicacion": "Solo la promoción interna vertical cambia de Grupo o Subgrupo, pues es el ascenso a un Subgrupo inmediatamente superior (ej.: C2 → C1).",
+      "opciones": [
+        "Carrera vertical",
+        "Promoción interna vertical",
+        "Promoción interna horizontal",
+        "Carrera horizontal"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué se tiene en cuenta para progresar en la carrera horizontal?",
+      "explicacion": "La carrera horizontal se basa en méritos, cursos y evaluación del desempeño, y se revisa cada cierto número de años. No exige prueba selectiva ni cambio de puesto.",
+      "opciones": [
+        "Presentar méritos, cursos y evaluación del desempeño, con revisión cada cierto número de años",
+        "Ganar una libre designación a un puesto superior",
+        "Superar una oposición a un cuerpo del mismo Subgrupo",
+        "Superar el proceso selectivo para un Subgrupo superior"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de estas afirmaciones sobre la promoción interna horizontal es correcta?",
+      "explicacion": "La promoción interna horizontal es el acceso a cuerpos o escalas del mismo Subgrupo (o Grupo, si no tiene subgrupos) con funciones análogas en contenido y nivel técnico, siempre con prueba selectiva.",
+      "opciones": [
+        "Se realiza únicamente por libre designación",
+        "No exige prueba selectiva",
+        "Supone el ascenso al Subgrupo inmediatamente superior",
+        "Da acceso a cuerpos o escalas del mismo Subgrupo con funciones análogas en contenido y nivel técnico"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "Respecto al desarrollo de la carrera profesional y la promoción interna, ¿qué establece la nota?",
+      "explicacion": "Las leyes de función pública de cada Comunidad Autónoma y del Estado deben desarrollarlas para su personal, pero no vienen establecidas de manera obligatoria: pueden establecerlas o no.",
+      "opciones": [
+        "Son obligatorias para todas las Administraciones desde la entrada en vigor del TREBEP",
+        "Solo el Estado puede establecerlas",
+        "Deben ser desarrolladas por las leyes de función pública de las CCAA y del Estado, pero no son obligatorias: pueden establecerlas o no",
+        "Quedan prohibidas si no hay evaluación del desempeño"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "La carrera horizontal es progresión de tramo (grado, categoría, escalón) sin cambiar de puesto de trabajo",
+      "La carrera vertical es ascenso a un puesto de nivel superior mediante concurso o libre designación",
+      "La carrera profesional no exige superar una prueba selectiva, mientras que la promoción interna siempre se hace con prueba selectiva",
+      "La promoción interna horizontal es el acceso a cuerpos o escalas del mismo Subgrupo, con funciones análogas, y no cambia de grupo o subgrupo",
+      "La promoción interna vertical es el ascenso a un Subgrupo inmediatamente superior (ej.: C2 → C1) y sí cambia de grupo o subgrupo",
+      "Las leyes de función pública de las CCAA y del Estado desarrollan estas posibilidades, que no son obligatorias"
+    ],
+    "consigna": "Explica con tus palabras la diferencia entre carrera horizontal, carrera vertical, promoción interna horizontal y promoción interna vertical, indicando en cada caso si hay cambio de puesto, si cambia el subgrupo y si hay prueba selectiva."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Derechos, retribuciones y promoción",
+  "objetivo": "Diferenciar carrera horizontal y vertical y promoción interna horizontal y vertical.",
+  "orden": 18,
+  "preguntasBanco": [],
+  "resumen": "La carrera profesional (horizontal: progresión de tramo sin cambiar de puesto; vertical: ascenso a un puesto superior por concurso o libre designación) no exige prueba selectiva y no cambia de Grupo ni de Subgrupo. La promoción interna siempre exige prueba selectiva: la horizontal es dentro del mismo Subgrupo y la vertical es al Subgrupo inmediatamente superior (ej.: C2 → C1). Su desarrollo corresponde a las leyes de función pública y no es obligatorio.",
+  "tema": "B1-T4.1",
+  "titulo": "Carrera profesional y promoción interna"
+}

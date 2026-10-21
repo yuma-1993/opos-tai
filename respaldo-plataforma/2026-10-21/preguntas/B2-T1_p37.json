@@ -1,0 +1,14 @@
+{
+  "apartado": "CISC, RISC, SoC y pipeline",
+  "correcta": 2,
+  "enunciado": "¿Por qué el pipeline combina especialmente bien con RISC?",
+  "explicacion": "Nota: el Fetch es el paso más lento; con instrucciones simples y de tamaño fijo es más fácil solapar fases como en una cadena de fábrica.",
+  "n": 37,
+  "opciones": [
+    "Porque RISC usa microcódigo",
+    "Porque RISC tiene muchos modos de direccionamiento",
+    "Porque sus instrucciones simples y de tamaño fijo facilitan solapar las fases",
+    "Porque RISC elimina la fase de Fetch"
+  ],
+  "tema": "B2-T1"
+}

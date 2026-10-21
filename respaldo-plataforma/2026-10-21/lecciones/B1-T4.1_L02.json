@@ -1,0 +1,117 @@
+{
+  "bloques": [
+    {
+      "md": "Piensa en el TREBEP como el **reglamento general de un edificio**. Casi todos los vecinos lo cumplen, pero hay unos cuantos con **estatuto propio** (jueces, militares, policías...). Para ellos el reglamento general solo vale **si su propia norma lo dice**. Es decir, no se les aplica por defecto: se aplica solo cuando lo dispone su legislación específica.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "1. El TREBEP se aplica a los empleados públicos en general.\n2. Hay un grupo de personal con **legislación específica propia**.\n3. A ese grupo el TREBEP **solo se aplica directamente cuando así lo disponga esa legislación específica**.\n\nEn la pregunta del listado, la clave es detectar qué opciones pertenecen a este grupo.",
+      "t": "explica",
+      "titulo": "Paso 1: la regla general y la excepción"
+    },
+    {
+      "md": "Para memorizarlos, agrúpalos por familias:\n\n**A) Poderes legislativos y órganos constitucionales o estatutarios**\n- Personal funcionario de las **Cortes Generales** y de las **asambleas legislativas de las CCAA**.\n- Personal funcionario de los **demás Órganos Constitucionales del Estado** (los dependientes de las Cortes, como el Defensor del Pueblo, CGPJ, Tribunal de Cuentas) y de los **órganos estatutarios de las CCAA**.\n\n**B) Justicia**\n- **Jueces, Magistrados, Fiscales** y demás personal funcionario al servicio de la **Administración de Justicia**.\n\n**C) Defensa, seguridad e inteligencia**\n- Personal **militar** de las Fuerzas Armadas.\n- Personal de las **Fuerzas y Cuerpos de Seguridad**.\n- Personal del **Centro Nacional de Inteligencia**.\n\n**D) Otros**\n- Personal **retribuido por arancel** (Notarios).\n- Personal del **Banco de España** y del **Fondo de Garantía de Depósitos de Entidades de Crédito**.",
+      "t": "explica",
+      "titulo": "Paso 2: los ocho grupos, agrupados para entenderlos"
+    },
+    {
+      "md": "El personal de la **Sociedad Estatal Correos y Telégrafos** no está en la lista anterior porque tiene un régimen distinto:\n- Se rige por **sus normas específicas** y **supletoriamente por el TREBEP**.\n- Su **personal laboral** se rige por la **legislación laboral** y demás normas **convencionalmente aplicables**.\n\nDiferencia clave: en la lista, el TREBEP se aplica **solo si lo dispone** la legislación específica; en Correos, el TREBEP actúa **como norma supletoria**.",
+      "t": "explica",
+      "titulo": "Paso 3: el caso especial de Correos"
+    },
+    {
+      "md": "**Pregunta tipo:** ¿Qué personal se rige por el TREBEP solo cuando así lo disponga su legislación específica?\n\nOpciones: a) Un notario; b) Un funcionario de un ayuntamiento; c) Un fiscal; d) Un miembro del CNI.\n\n**Razonamiento:**\n- Notario: retribuido por arancel → **está en la lista**.\n- Funcionario de ayuntamiento: no aparece en la lista → no es este supuesto.\n- Fiscal: **está en la lista** (Jueces, Magistrados, Fiscales).\n- CNI: **está en la lista**.\n\nSi la pregunta pide la opción que sí pertenece, elige la que aparezca en los ocho grupos. Si el listado mezcla varias, comprueba cada una contra la lista.\n\n**Otro ejemplo:** un funcionario del Tribunal de Cuentas. Es órgano dependiente de las Cortes, es decir, Órgano Constitucional del Estado → **está en la lista**. Un funcionario del Defensor del Pueblo, lo mismo.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "Recuerda **«CÓ-JU-MI-PO-IN-NO-BA»**, o mejor, una frase: **«Las Cortes y sus órganos juzgan, defienden, vigilan, espían, notarizan y guardan el dinero»**.\n\n- **Cortes y órganos** (constitucionales/estatutarios)\n- **Juzgan**: Jueces, Magistrados, Fiscales, Justicia\n- **Defienden**: Militares\n- **Vigilan**: Fuerzas y Cuerpos de Seguridad\n- **Espían**: CNI\n- **Notarizan**: Notarios (arancel)\n- **Guardan el dinero**: Banco de España y Fondo de Garantía de Depósitos\n\nY aparte, **Correos = «supletorio»**: el TREBEP llega solo de refuerzo.",
+      "t": "truco",
+      "titulo": "Truco mnemotécnico"
+    },
+    {
+      "md": "Las disposiciones del TREBEP solo se aplicarán directamente cuando así lo disponga su legislación específica al siguiente personal:\n\n- Personal funcionario de las **Cortes Generales** y de las **asambleas legislativas de las CCAA**.\n- Personal funcionario de los **demás Órganos Constitucionales del Estado** (los dependientes de las Cortes, como el Defensor del Pueblo, CGPJ, Tribunal de Cuentas) y de los **órganos estatutarios de las CCAA**.\n- **Jueces, Magistrados, Fiscales** y demás personal funcionario al servicio de la **Administración de Justicia**.\n- Personal **militar** de las Fuerzas Armadas.\n- Personal de las **Fuerzas y Cuerpos de Seguridad**.\n- Personal retribuido por **arancel (Notarios)**.\n- Personal del **Centro Nacional de Inteligencia**.\n- Personal del **Banco de España** y del **Fondo de Garantía de Depósitos de Entidades de Crédito**.\n\n| Personal | Régimen |\n|---|---|\n| Los ocho grupos anteriores | TREBEP solo si lo dispone su legislación específica |\n| Sociedad Estatal Correos y Telégrafos | Normas específicas y **supletoriamente** el TREBEP |\n| Personal laboral de Correos | Legislación laboral y demás normas convencionalmente aplicables |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál de los siguientes colectivos se rige por el TREBEP solo cuando así lo disponga su legislación específica?",
+      "explicacion": "El personal funcionario de las Cortes Generales y de las asambleas legislativas de las CCAA figura en la lista de personal con legislación específica propia. Los demás no aparecen en ella.",
+      "opciones": [
+        "Personal funcionario de la Administración General del Estado",
+        "Personal funcionario de las asambleas legislativas de las CCAA",
+        "Personal funcionario de las entidades locales",
+        "Personal funcionario interino de una consejería"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Respecto al personal de la Sociedad Estatal Correos y Telégrafos, ¿qué es correcto?",
+      "explicacion": "La nota indica que el personal de Correos se rige por sus normas específicas y supletoriamente por el TREBEP; su personal laboral, por la legislación laboral y demás normas convencionalmente aplicables.",
+      "opciones": [
+        "Se rige solo por la legislación laboral, sin TREBEP en ningún caso",
+        "Se rige solo por el TREBEP",
+        "Se rige por el TREBEP solo si lo dispone su legislación específica, igual que los militares",
+        "Se rige por sus normas específicas y supletoriamente por el TREBEP"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Cuál de estos órganos se cita como ejemplo de Órgano Constitucional del Estado dependiente de las Cortes?",
+      "explicacion": "La nota cita como ejemplos de órganos constitucionales dependientes de las Cortes al Defensor del Pueblo, CGPJ y Tribunal de Cuentas. Los otros son colectivos distintos de la lista.",
+      "opciones": [
+        "Centro Nacional de Inteligencia",
+        "Fondo de Garantía de Depósitos de Entidades de Crédito",
+        "Defensor del Pueblo",
+        "Banco de España"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Los Notarios están incluidos en el grupo de personal con legislación específica propia por ser:",
+      "explicacion": "La nota los menciona como personal retribuido por arancel (Notarios).",
+      "opciones": [
+        "Personal retribuido por arancel",
+        "Personal militar",
+        "Personal del Banco de España",
+        "Personal funcionario de las Cortes Generales"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Cuál de los siguientes colectivos NO aparece en la lista de personal al que el TREBEP solo se aplica cuando lo disponga su legislación específica?",
+      "explicacion": "Fiscales, personal del CNI y de las Fuerzas y Cuerpos de Seguridad están en la lista. El personal de una universidad pública no figura en ella.",
+      "opciones": [
+        "Fiscales",
+        "Personal de las Fuerzas y Cuerpos de Seguridad",
+        "Personal del Centro Nacional de Inteligencia",
+        "Personal de una universidad pública"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Las disposiciones del TREBEP solo se aplicarán directamente cuando así lo disponga su legislación específica",
+      "Personal funcionario de las Cortes Generales y de las asambleas legislativas de las CCAA",
+      "Jueces, Magistrados, Fiscales y demás personal funcionario al servicio de la Administración de Justicia",
+      "Personal militar de las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad, Centro Nacional de Inteligencia",
+      "Personal retribuido por arancel (Notarios), Banco de España y Fondo de Garantía de Depósitos de Entidades de Crédito",
+      "Correos y Telégrafos se rige por sus normas específicas y supletoriamente por el TREBEP"
+    ],
+    "consigna": "Explica con tus palabras a qué personal se aplica el TREBEP solo cuando lo disponga su legislación específica, da varios ejemplos y señala en qué se diferencia el caso de Correos y Telégrafos."
+  },
+  "modulo": "M1",
+  "moduloTitulo": "Ámbito de aplicación y clases de personal",
+  "objetivo": "Distinguir el personal al que el TREBEP solo se aplica directamente cuando lo disponga su legislación específica, e identificar el caso especial de Correos y Telégrafos.",
+  "orden": 2,
+  "preguntasBanco": [
+    33
+  ],
+  "resumen": "El TREBEP solo se aplica directamente cuando lo disponga su legislación específica a ocho grupos: personal funcionario de las Cortes y asambleas legislativas de las CCAA, de los demás órganos constitucionales y estatutarios, Justicia (jueces, magistrados, fiscales y demás personal), militares, Fuerzas y Cuerpos de Seguridad, notarios (arancel), CNI y Banco de España y Fondo de Garantía de Depósitos. Correos y Telégrafos se rige por sus normas específicas y supletoriamente por el TREBEP; su personal laboral, por la legislación laboral y normas convencionales.",
+  "tema": "B1-T4.1",
+  "titulo": "Personal con legislación específica propia"
+}

@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy bien: tu explicación recoge las cinco ideas con precisión. Indicas el alfabeto de 64 caracteres, los grupos de 6 bits desde la izquierda, el 33 % de aumento, el papel del = como relleno (1 o 2 como máximo, equivalente a 00) y el vínculo con PEM. Para afianzarlo más, intenta explicar con tus palabras por qué sale ese 33 % (3 bytes se convierten en 4 caracteres) y practica con el ejemplo «Ma» → TWE=.",
+    "ok": true,
+    "ts": 1792505474762
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 5,
+      "total": 5,
+      "ts": 1792505007753
+    }
+  ],
+  "leccion": "B2-T1_L04",
+  "mejorPct": 100,
+  "primeraPct": 100,
+  "repasos": [],
+  "superadaTs": 1792505476550,
+  "tema": "B2-T1"
+}

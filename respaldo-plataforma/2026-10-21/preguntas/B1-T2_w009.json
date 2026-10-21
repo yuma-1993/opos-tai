@@ -1,0 +1,16 @@
+{
+  "apartado": "Las Cortes Generales: Congreso y Senado",
+  "correcta": 2,
+  "enunciado": "Sobre la naturaleza de ambas Cámaras de las Cortes Generales, ¿cuál es la afirmación correcta?",
+  "explicacion": "La nota indica que la CE no atribuye naturaleza territorial al Congreso (representación popular) y que el Senado es la Cámara de representación territorial. El distractor tentador invierte las funciones de ambas Cámaras.",
+  "lote": 1792504590395,
+  "n": 9,
+  "opciones": [
+    "El Congreso representa al territorio con número fijo por provincia, y el Senado representa a la población con reparto proporcional",
+    "El Congreso tiene naturaleza territorial por su circunscripción provincial, y el Senado representa a las Comunidades Autónomas exclusivamente",
+    "El Congreso representa a la población, con circunscripción provincial y reparto proporcional, y el Senado representa al territorio con un número fijo por provincia o isla más una cuota por Comunidad Autónoma",
+    "Ambas Cámaras representan a la población, aunque el Senado lo hace con un número fijo por provincia"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

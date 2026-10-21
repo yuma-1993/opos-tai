@@ -1,0 +1,16 @@
+{
+  "apartado": "El Defensor del Pueblo",
+  "correcta": 0,
+  "enunciado": "¿Cuál es el único órgano que, según la nota, está legitimado tanto para interponer el recurso de inconstitucionalidad como el recurso de amparo?",
+  "explicacion": "Según la tabla de legitimación, el Defensor del Pueblo figura en ambos recursos. El Ministerio Fiscal solo está en el amparo, y el Presidente del Gobierno y los 50 Diputados solo en el de inconstitucionalidad.",
+  "lote": 1792504590395,
+  "n": 34,
+  "opciones": [
+    "El Defensor del Pueblo",
+    "El Ministerio Fiscal",
+    "El Presidente del Gobierno",
+    "Cualquier grupo de 50 Diputados"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

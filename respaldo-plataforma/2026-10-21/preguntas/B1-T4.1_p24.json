@@ -1,0 +1,14 @@
+{
+  "apartado": "Código de conducta",
+  "correcta": 1,
+  "enunciado": "Entre los principios éticos del Código de Conducta de los empleados públicos, ¿cuál de las siguientes conductas se incluye entre ellos?",
+  "explicacion": "Nota: la abstención ante interés personal o conflicto de intereses es un principio ético. Rechazar regalos, formación actualizada y atención en lengua oficial son principios de conducta.",
+  "n": 24,
+  "opciones": [
+    "Rechazar cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales",
+    "Abstenerse en los asuntos en los que se tenga un interés personal, así como de toda actividad que pueda suponer un conflicto de intereses",
+    "Mantener actualizada su formación y cualificación",
+    "Garantizar la atención al ciudadano en la lengua que lo solicite, si es oficial en el territorio"
+  ],
+  "tema": "B1-T4.1"
+}

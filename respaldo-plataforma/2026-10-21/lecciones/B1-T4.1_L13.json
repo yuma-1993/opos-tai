@@ -1,0 +1,119 @@
+{
+  "bloques": [
+    {
+      "md": "Cubrir un puesto de trabajo en la Administración es como adjudicar una plaza de garaje. Lo **normal** es un sorteo con reglas claras para todos (el **concurso**). Solo en casos especiales alguien elige directamente a quien quiere (la **libre designación**). Además hay vías de emergencia o de ajuste: comisiones de servicios, permutas y reasignación de efectivos.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "Los puestos se proveen por:\n\n1. **Concurso**, que es el **sistema normal**.\n2. **Libre designación**.\n\nCuál se aplica a cada puesto lo **determinan las relaciones de puestos de trabajo (RPT)**.\n\nAdemás existen la **redistribución de efectivos** y la **reasignación de efectivos** como consecuencia de un **Plan de Empleo**.",
+      "t": "explica",
+      "titulo": "Paso 1: los dos sistemas de provisión"
+    },
+    {
+      "md": "- En el **concurso** se valoran **méritos objetivos y baremables** (antigüedad, formación, experiencia en puestos similares).\n- En la **libre designación** el órgano competente aprecia **discrecionalmente la idoneidad** del candidato, **sin baremo de méritos tasado**.\n\nPor eso la libre designación se reserva normalmente a puestos directivos o de especial confianza, y el concurso es la vía por defecto.",
+      "t": "explica",
+      "titulo": "Paso 2: la diferencia de fondo (conocimiento general, no viene de tus notas)"
+    },
+    {
+      "md": "**Comisiones de servicios (sin indemnización)**\n\n- Un puesto vacante puede cubrirse así en caso de **urgente e inaplazable necesidad**.\n- Si la vacante se declara **desierta** y es urgente, puede destinarse con carácter **forzoso** al funcionario que preste servicios en el **mismo Departamento**, en el **municipio más próximo**, con **menores cargas familiares** y, en igualdad de condiciones, al de **menor antigüedad**.\n- Duración máxima de **un año**, prorrogable por **otro** si no se ha cubierto el puesto con carácter definitivo.\n\n**Permutas**: intercambio de puestos entre dos funcionarios, con los requisitos de la nota.\n\n**Reasignación de efectivos**: se activa cuando se suprime un puesto por un Plan de Empleo y avanza por fases.",
+      "t": "explica",
+      "titulo": "Paso 3: vías relacionadas con la provisión"
+    },
+    {
+      "md": "Un puesto queda vacante en un Departamento y se declara desierto, pero es urgente cubrirlo. ¿A quién se destina de forma forzosa?\n\n1. Al funcionario que preste servicios en el **mismo Departamento**.\n2. En el **municipio más próximo**.\n3. Con **menores cargas familiares**.\n4. Si hay igualdad en todo lo anterior, al de **menor antigüedad**.\n\nOtro caso: una comisión de servicios no implica cambio de residencia. El cese y la toma de posesión se hacen en **tres días** desde la notificación. Si hubiera cambio de residencia, serían **ocho días** si es voluntaria y **treinta** si es forzosa.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "- **Concurso = Concursar con méritos** (lo normal). **Libre designación = Libre elección**.\n- Plazos de comisión con cambio de residencia: **8 voluntaria, 30 forzosa** (de menos a más: lo forzoso lleva más tiempo).\n- Fases de reasignación: **6 meses, 3 meses, 1 año, indefinida**.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "**Provisión**\n\n- Por **concurso** (sistema normal) o por **libre designación**, según determinen las relaciones de puestos de trabajo.\n- También existe la redistribución de efectivos y la reasignación de efectivos como consecuencia de un Plan de Empleo.\n\n**Comisiones de servicios (sin indemnización)**\n\n- Duración máxima de un año, prorrogable por otro si no se ha cubierto el puesto con carácter definitivo.\n- Sin cambio de residencia: cese y toma de posesión en tres días desde la notificación.\n- Con cambio de residencia: ocho días (voluntarias) y treinta (forzosas).\n\n**Permutas**\n\n- Puestos de igual naturaleza e idéntica forma de provisión.\n- Años de servicio de los permutantes: no difieren en más de cinco.\n- Informe favorable de los Jefes de los solicitantes y de los Subsecretarios/Subcomisiones.\n- En 10 años (5 para laborales) no se autoriza nueva permuta, ni cuando a alguno le falten 10 años (5 laborales) para la jubilación forzosa.\n- Se anulan si se produce la jubilación voluntaria de alguno de los permutantes en los dos años siguientes.\n\n**Reasignación de efectivos**\n\n| | 1ª fase | 2ª fase | Expectativa de destino | Excedencia forzosa |\n|---|---|---|---|---|\n| Inicio | Supresión del puesto por Plan de Empleo | A los seis meses desde la supresión | Al finalizar la segunda fase | Al finalizar la expectativa o incumplir sus obligaciones |\n| Duración | Seis meses desde la supresión | Tres meses desde el final de la primera | Un año, mientras cumpla obligaciones y no haya reasignación | Indefinida |\n| Ámbito | Mismo Ministerio y sus OOAA (Subsecretario) | Cualquier Ministerio, por Hacienda y FP | Cualquier Ministerio, por Hacienda y FP | Cualquier ámbito, por Hacienda y FP |\n| Obligatoria | Misma localidad | Misma localidad | Misma provincia | Cualquier puesto del Cuerpo o Escala |\n| Voluntaria | Distinta localidad | Distinta localidad | Distinta provincia | — |\n| Retribuciones | Todas las del puesto suprimido | Todas las del puesto suprimido | Básicas, complemento de destino del grado y 50% del específico | Básicas y prestaciones por hijo a cargo |\n| Obligaciones | Funciones adecuadas a su Cuerpo o Escala | Funciones adecuadas a su Cuerpo o Escala | Aceptar cualquier destino en la provincia; participar en concursos con puesto en la provincia; participar en cursos | No puede desempeñar puesto en el sector público. Incumplimiento: excedencia voluntaria |",
+      "t": "nota",
+      "titulo": "Datos duros para memorizar"
+    },
+    {
+      "md": "(conocimiento general, no viene de tus notas) La regla práctica: el **concurso** es la vía por defecto y se rige por méritos baremados; la **libre designación** se basa en la apreciación discrecional de la idoneidad y se reserva a puestos directivos o de especial confianza. Qué sistema se aplica a cada puesto figura en la RPT.",
+      "t": "ampliacion",
+      "titulo": "Contexto externo"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué sistema de provisión de puestos se considera el normal?",
+      "explicacion": "Según la nota, los puestos se proveen por concurso (sistema normal) o por libre designación, según determinen las relaciones de puestos de trabajo.",
+      "opciones": [
+        "El concurso",
+        "La libre designación",
+        "La comisión de servicios",
+        "La permuta"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué instrumento determina si un puesto se cubre por concurso o por libre designación?",
+      "explicacion": "La nota indica que se provee por concurso o libre designación «según determinen las relaciones de puestos de trabajo».",
+      "opciones": [
+        "La orden de comisión de servicios",
+        "El informe de los Subsecretarios",
+        "Las relaciones de puestos de trabajo",
+        "El Plan de Empleo"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "Una comisión de servicios forzosa implica cambio de residencia. ¿Qué plazo hay para el cese y la toma de posesión?",
+      "explicacion": "Con cambio de residencia el plazo es de ocho días en las voluntarias y de treinta en las forzosas. Sin cambio de residencia son tres días.",
+      "opciones": [
+        "Treinta días",
+        "Ocho días",
+        "Un año",
+        "Tres días"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Si una vacante urgente se declara desierta y se destina a un funcionario con carácter forzoso, ¿qué criterio se aplica en igualdad de condiciones?",
+      "explicacion": "La nota dice que, en igualdad de condiciones, se destina al de menor antigüedad, tras valorar mismo Departamento, municipio más próximo y menores cargas familiares.",
+      "opciones": [
+        "El de más cargas familiares",
+        "El de mayor antigüedad",
+        "El que elija el Subsecretario",
+        "El de menor antigüedad"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuál es la duración máxima de una comisión de servicios según la nota?",
+      "explicacion": "La duración máxima es de un año, prorrogable por otro en caso de no haberse cubierto el puesto con carácter definitivo.",
+      "opciones": [
+        "Dos años, prorrogables por otros dos",
+        "Un año, prorrogable por otro si no se ha cubierto el puesto con carácter definitivo",
+        "Indefinida mientras exista la vacante",
+        "Seis meses, sin prórroga"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Por concurso (sistema normal) o por libre designación, según determinen las relaciones de puestos de trabajo",
+      "También existe la redistribución de efectivos y la reasignación de efectivos como consecuencia de un Plan de Empleo",
+      "Comisión de servicios: duración máxima de un año, prorrogable por otro",
+      "Con cambio de residencia: ocho días (voluntarias) y treinta (forzosas)",
+      "Reasignación: primera fase seis meses, segunda fase tres meses, expectativa de destino un año y excedencia forzosa indefinida"
+    ],
+    "consigna": "Explica con tus palabras cómo se proveen los puestos de trabajo: qué dos sistemas existen, cuál es el normal y quién decide cuál se aplica a cada puesto. Después, resume cómo funcionan las comisiones de servicios y las fases de la reasignación de efectivos."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Provisión de puestos de trabajo",
+  "objetivo": "Distinguir los sistemas de provisión de puestos de trabajo (concurso y libre designación) y sus diferencias de fondo, y situarlos frente a otras vías de ocupación de puestos como las comisiones de servicios, las permutas y la reasignación de efectivos.",
+  "orden": 13,
+  "preguntasBanco": [],
+  "resumen": "Los puestos se proveen por concurso (sistema normal) o por libre designación, según determinen las RPT; además existen la redistribución y la reasignación de efectivos por Plan de Empleo. El concurso valora méritos objetivos y la libre designación la idoneidad apreciada discrecionalmente (conocimiento general). Las comisiones de servicios duran un año prorrogable por otro, con plazos de 3, 8 o 30 días según haya o no cambio de residencia y sea voluntaria o forzosa.",
+  "tema": "B1-T4.1",
+  "titulo": "Concurso y libre designación"
+}

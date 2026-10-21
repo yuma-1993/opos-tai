@@ -1,0 +1,14 @@
+{
+  "apartado": "Representación del signo",
+  "correcta": 1,
+  "enunciado": "¿Con qué representación del signo se guardan internamente los números en Java?",
+  "explicacion": "Nota: los números en Java se representan internamente con complemento a 2 (CA2).",
+  "n": 22,
+  "opciones": [
+    "Complemento a 1",
+    "Complemento a 2",
+    "Signo-módulo",
+    "Exceso a 127"
+  ],
+  "tema": "B2-T1"
+}

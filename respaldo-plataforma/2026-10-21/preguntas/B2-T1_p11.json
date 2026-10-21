@@ -1,0 +1,14 @@
+{
+  "apartado": "ETL",
+  "correcta": 3,
+  "enunciado": "¿Qué herramienta ETL, hecha en Java, está integrada en la suite Pentaho Data Integration (PDI)?",
+  "explicacion": "Nota: Kettle es el ETL en Java integrado en PDI. SSIS (SQL Server Integration Services) es el ETL de Microsoft.",
+  "n": 11,
+  "opciones": [
+    "SSIS",
+    "MDX",
+    "Power BI",
+    "Kettle"
+  ],
+  "tema": "B2-T1"
+}

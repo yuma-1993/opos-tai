@@ -1,0 +1,14 @@
+{
+  "apartado": "Representación del signo",
+  "correcta": 2,
+  "enunciado": "¿Qué ocurre con el cero en complemento a 1?",
+  "explicacion": "Nota: en CA1 el cero tiene doble valor (0000 y 1111); en CA2 hay un único cero.",
+  "n": 21,
+  "opciones": [
+    "Tiene un único valor, 0000",
+    "Se representa como 0000 y 1000",
+    "Tiene doble valor: 0000 y 1111",
+    "No se puede representar"
+  ],
+  "tema": "B2-T1"
+}

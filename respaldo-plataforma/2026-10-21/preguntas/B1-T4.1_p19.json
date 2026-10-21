@@ -1,0 +1,14 @@
+{
+  "apartado": "Permisos",
+  "correcta": 1,
+  "enunciado": "Respecto al permiso por nacimiento, ¿cuál es su duración básica y cómo se reparte?",
+  "explicacion": "Nota: 19 semanas. Las 6 primeras completas e ininterrumpidas; 11 semanas hasta que el recién nacido cumpla 12 meses; 2 semanas más hasta que el hijo cumpla 8 años.",
+  "n": 19,
+  "opciones": [
+    "16 semanas: 6 ininterrumpidas + 10 interrumpidas hasta los 12 meses del bebé",
+    "19 semanas: 6 ininterrumpidas + 11 interrumpidas hasta los 12 meses del bebé + 2 interrumpidas hasta que el hijo cumpla 8 años",
+    "19 semanas: 6 ininterrumpidas + 11 interrumpidas hasta los 8 años + 2 interrumpidas hasta los 12 meses",
+    "19 semanas: todas ininterrumpidas e inmediatas al parto"
+  ],
+  "tema": "B1-T4.1"
+}

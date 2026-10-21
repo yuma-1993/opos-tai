@@ -1,0 +1,14 @@
+{
+  "apartado": "Pirámide de sistemas de información",
+  "correcta": 1,
+  "enunciado": "¿Qué sistema de la pirámide registra las transacciones del día a día (ventas, nóminas, pedidos) con alto volumen y datos muy detallados?",
+  "explicacion": "Nota: el TPS es la base de la pirámide, nivel operativo; registra transacciones con volumen alto y datos muy detallados en tiempo real.",
+  "n": 1,
+  "opciones": [
+    "MIS",
+    "TPS",
+    "DSS",
+    "EIS"
+  ],
+  "tema": "B2-T1"
+}

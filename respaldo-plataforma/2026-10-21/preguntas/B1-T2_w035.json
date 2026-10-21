@@ -1,0 +1,16 @@
+{
+  "apartado": "Senado",
+  "correcta": 3,
+  "enunciado": "Si el examen se corrige con el material del PDF, ¿cuál es la cifra esperada de Senadores y cómo se descompone?",
+  "explicacion": "La nota indica que, con el PDF, la cifra esperada es 266 (208 + 58); el 267 (209 + 58) es la cifra legal vigente tras la reforma de 2026 que da senador propio a Formentera. La opción de 267 es la más tentadora por mezclar ambas versiones.",
+  "lote": 1792504590395,
+  "n": 35,
+  "opciones": [
+    "266: 209 de elección directa y 57 designados por las CCAA",
+    "267: 208 de elección directa y 59 designados por las CCAA",
+    "267: 209 de elección directa y 58 designados por las CCAA",
+    "266: 208 de elección directa y 58 designados por las CCAA"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

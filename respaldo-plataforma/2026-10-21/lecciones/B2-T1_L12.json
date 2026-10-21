@@ -1,0 +1,171 @@
+{
+  "bloques": [
+    {
+      "md": "Una instrucción necesita un dato para trabajar. El **modo de direccionamiento** es la forma en que le dice a la CPU **dónde está ese dato** o cómo conseguirlo.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "| Modo | ¿Dónde está el dato? | Ejemplo |\n|---|---|---|\n| **Implícito** | Ya se sabe por la propia operación (p. ej. un pop de una pila) | `top()` |\n| **Inmediato** | **Dentro** de la instrucción, no hay que buscarlo | `MOV AX, 12` |\n| **Directo/Absoluto** | La instrucción da la **dirección de memoria** donde está el dato | `MOV A, 17H` |\n| **Indirecto** | La instrucción da una dirección y **en esa dirección hay otra dirección** donde está el dato real | doble salto |",
+      "t": "explica",
+      "titulo": "Los cuatro modos"
+    },
+    {
+      "md": "Cada modo añade un salto más:\n\n- **Inmediato**: 0 saltos. El dato ya está ahí.\n- **Directo**: 1 salto. Voy a la dirección y ahí está el dato.\n- **Indirecto**: 2 saltos. Voy a la dirección, ahí hay otra dirección y ahí está el dato.\n\nSirve una analogía con una carta: la carta con el dato dentro (inmediato); una nota con la dirección del armario donde está (directo); una nota que dice «mira la nota del armario 3» (indirecto).",
+      "t": "explica",
+      "titulo": "Contar saltos hasta el dato"
+    },
+    {
+      "md": "Cuantos más modos soporta un procesador, más flexible es al acceder a memoria, pero su circuitería es más compleja. Por eso **CISC suele tener muchos modos y RISC muy pocos**.",
+      "t": "explica",
+      "titulo": "Por qué importa"
+    },
+    {
+      "md": "Inmediato = 0 saltos. Directo = 1 salto. Indirecto = 2 saltos. Implícito = ni se menciona, lo sabe la operación.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Implícito, inmediato, directo (o absoluto) e indirecto.\n- Inmediato: `MOV AX, 12`. Directo: `MOV A, 17H`.\n- Indirecto: la instrucción apunta a una dirección que contiene otra dirección.\n- CISC: muchos modos; RISC: pocos.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿En qué modo el dato viene dentro de la propia instrucción?",
+      "explicacion": "En el inmediato no hay que ir a buscar el dato, ej. MOV AX, 12.",
+      "opciones": [
+        "Directo",
+        "Indirecto",
+        "Inmediato",
+        "Implícito"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿En qué modo la instrucción da la dirección de memoria donde está el dato?",
+      "explicacion": "Directo/absoluto: la instrucción da la dirección, ej. MOV A, 17H.",
+      "opciones": [
+        "Directo o absoluto",
+        "Inmediato",
+        "Indirecto",
+        "Implícito"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "En el modo indirecto, ¿cuántos saltos hay hasta el dato real?",
+      "explicacion": "Voy a una dirección, ahí hay otra dirección y ahí está el dato: 2 saltos.",
+      "opciones": [
+        "0",
+        "1",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué modo se cumple cuando la propia operación ya sabe de dónde sacar el dato (p. ej. pop de una pila)?",
+      "explicacion": "En el implícito el código de operación ya deja claro de dónde sacar el dato.",
+      "opciones": [
+        "Implícito",
+        "Inmediato",
+        "Directo",
+        "Indirecto"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué procesadores suelen tener muchos modos de direccionamiento?",
+      "explicacion": "CISC suele tener muchos modos y RISC muy pocos.",
+      "opciones": [
+        "RISC",
+        "CISC",
+        "Los SoC solamente",
+        "Ninguno"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué es el modo de direccionamiento de una instrucción?",
+      "explicacion": "El modo de direccionamiento es la forma en que la instrucción le dice a la CPU dónde está el dato o cómo conseguirlo. No tiene que ver con la velocidad, con el número de registros ni con el tamaño de la instrucción.",
+      "opciones": [
+        "El número de registros que tiene el procesador",
+        "La velocidad a la que la CPU ejecuta la instrucción",
+        "La forma en que la instrucción indica dónde está el dato o cómo conseguirlo",
+        "El tamaño en bits de la instrucción"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cuántos saltos hay hasta el dato en el modo inmediato?",
+      "explicacion": "En el modo inmediato el dato ya está dentro de la instrucción, así que no hay que ir a buscarlo: 0 saltos. El directo tiene 1 salto y el indirecto 2.",
+      "opciones": [
+        "2 saltos",
+        "0 saltos",
+        "Depende de la operación, ya que no se menciona",
+        "1 salto"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué modo de direccionamiento usa la instrucción MOV AX, 12 según tus notas?",
+      "explicacion": "En MOV AX, 12 el valor 12 va dentro de la propia instrucción, por eso es inmediato. El ejemplo de directo en tus notas es MOV A, 17H, donde 17H es una dirección de memoria.",
+      "opciones": [
+        "Inmediato",
+        "Implícito",
+        "Indirecto",
+        "Directo"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cuántos saltos hay hasta el dato en el modo directo (o absoluto)?",
+      "explicacion": "En el modo directo la instrucción da la dirección de memoria y en ella está el dato: 1 salto. Con 0 saltos sería inmediato, con 2 sería indirecto, y 'ninguno porque lo sabe la operación' describe el implícito.",
+      "opciones": [
+        "1 salto: se va a la dirección y ahí está el dato",
+        "2 saltos: la dirección apunta a otra dirección",
+        "Ninguno, porque lo sabe la operación",
+        "0 saltos, porque el dato está en la instrucción"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "Según la lección, ¿por qué un procesador RISC suele tener pocos modos de direccionamiento?",
+      "explicacion": "Cuantos más modos soporta un procesador, más flexible es al acceder a memoria, pero su circuitería es más compleja. Por eso CISC suele tener muchos modos y RISC muy pocos. RISC sí tiene modos, solo que pocos.",
+      "opciones": [
+        "Porque los modos de direccionamiento solo existen en CISC",
+        "Porque no puede acceder a memoria",
+        "Porque solo admite el modo implícito",
+        "Porque más modos dan más flexibilidad pero exigen una circuitería más compleja"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "El modo de direccionamiento indica dónde está el dato (el operando) que usa la instrucción",
+      "Inmediato: el dato va dentro de la instrucción",
+      "Directo: la instrucción da la dirección de memoria donde está el dato",
+      "Indirecto: la instrucción apunta a una dirección que contiene otra dirección con el dato real"
+    ],
+    "consigna": "Explícame qué es un modo de direccionamiento y en qué se diferencian el inmediato, el directo y el indirecto.",
+    "preguntas": [
+      "¿Para qué sirve el modo de direccionamiento de una instrucción?",
+      "¿Qué es el direccionamiento inmediato y dónde se encuentra el dato en ese caso?",
+      "¿En qué consiste el direccionamiento directo y qué información da la instrucción?",
+      "¿En qué se diferencia el direccionamiento indirecto del directo?"
+    ]
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Saber de dónde saca el dato una instrucción y distinguir implícito, inmediato, directo e indirecto.",
+  "orden": 12,
+  "preguntasBanco": [
+    38
+  ],
+  "resumen": "Implícito (lo sabe la operación), inmediato (dato en la instrucción, 0 saltos), directo (1 salto), indirecto (2 saltos). CISC muchos modos, RISC pocos.",
+  "tema": "B2-T1",
+  "titulo": "Modos de direccionamiento"
+}

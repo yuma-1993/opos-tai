@@ -1,0 +1,16 @@
+{
+  "apartado": "Título X — Reforma de la Constitución (artículos 166 a 169)",
+  "correcta": 3,
+  "enunciado": "Aprobada una reforma por el procedimiento ordinario, ¿qué requisito permite que se someta además a referéndum popular?",
+  "explicacion": "La nota fija que el referéndum se celebra tras la aprobación si lo solicita 1/10 de los miembros de cualquiera de las Cámaras. Los distractores cambian la cifra o el órgano.",
+  "lote": 1792487818082,
+  "n": 18,
+  "opciones": [
+    "Que lo acuerde la mayoría absoluta del Senado",
+    "Que lo solicite 1/3 de los miembros del Congreso",
+    "Que lo solicite 1/5 de los miembros de ambas Cámaras conjuntamente",
+    "Que lo solicite 1/10 de los miembros de cualquiera de las Cámaras"
+  ],
+  "origen": "web",
+  "tema": "B1-T1"
+}

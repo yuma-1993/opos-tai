@@ -1,0 +1,14 @@
+{
+  "apartado": "Sistemas de numeración",
+  "correcta": 3,
+  "enunciado": "¿Cuál es el valor decimal de 238₈?",
+  "explicacion": "Nota: el octal solo usa los dígitos 0–7, así que 238₈ es un error.",
+  "n": 15,
+  "opciones": [
+    "160",
+    "158",
+    "152",
+    "Error: el dígito 8 no existe en octal"
+  ],
+  "tema": "B2-T1"
+}

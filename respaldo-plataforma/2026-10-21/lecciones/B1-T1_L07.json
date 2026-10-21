@@ -1,0 +1,126 @@
+{
+  "bloques": [
+    {
+      "md": "El art. 53 funciona como un **sistema de seguridad con tres niveles**, como un edificio con zonas de acceso distinto: unas puertas se abren con tu propia llave (alegas el derecho directamente ante el juez), otras necesitan pasar por la ley que las desarrolla, y otras son solo principios que orientan.\n\nCuanto más fundamental es el derecho, **más protección judicial tiene**. Lo que debes saber es en qué nivel está cada grupo de derechos y cuál es su cauce.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "El Título I, Capítulo II y III se divide en grupos, y a cada uno le corresponde un nivel de protección:\n\n- **Art. 14** (igualdad).\n- **Sección I (arts. 15-29)**: derechos fundamentales y libertades públicas.\n- **Sección II (arts. 30-38)**: derechos y deberes de los ciudadanos.\n- **Capítulo III (arts. 39-52)**: principios rectores de la política social y económica.\n\nLos tres niveles del art. 53 son:\n\n1. **Nivel MEDIO (art. 53.1)**: vincula a los poderes públicos; solo por ley puede regularse el ejercicio de los derechos.\n2. **Nivel ALTO (art. 53.2)**: tutela ante los tribunales ordinarios con un procedimiento preferente y sumario, y recurso de amparo.\n3. **Nivel BAJO (art. 53.3)**: los principios informan la legislación, la práctica judicial y la actuación de los poderes públicos.",
+      "t": "explica",
+      "titulo": "Paso 1: los grupos de derechos y los tres niveles"
+    },
+    {
+      "md": "**Art. 14**: tiene nivel medio (vinculado a todos los poderes públicos) y nivel alto (recabar la tutela ante los Tribunales ordinarios). No tiene nivel bajo.\n\n**Sección I (arts. 15-29)**: nivel medio (solo por ley podrá regularse su ejercicio) y nivel alto (procedimiento basado en los principios de preferencia y sumariedad, y recurso de amparo; el cuadro añade el art. 30.2). Es el grupo más protegido.\n\n**Sección II (arts. 30-38)**: solo nivel medio. Se tutelan **de acuerdo con lo previsto en el art. 161.1.a)**, es decir, mediante el **recurso de inconstitucionalidad**. No tienen nivel alto: no hay amparo ni procedimiento preferente y sumario.\n\n**Capítulo III (arts. 39-52)**: solo nivel bajo. Son principios orientadores de los poderes públicos.",
+      "t": "explica",
+      "titulo": "Paso 2: qué protección tiene cada grupo"
+    },
+    {
+      "md": "Otra forma de verlo es cómo se invoca el derecho ante un juez y qué tipo de norma lo desarrolla:\n\n| Grupo | Aplicabilidad | Desarrollo |\n|---|---|---|\n| Art. 14 | Alegación directa | Por Ley |\n| Sección I (15-29) | Alegación directa | Ley orgánica |\n| Sección II (30-38) | Alegar la ley que lo desarrolla | Por Ley |\n| Capítulo III (39-52) | Alegar la ley que lo desarrolla | Por Ley |\n\nLa idea clave: en el art. 14 y la Sección I puedes invocar el derecho **directamente**. En la Sección II y el Capítulo III debes **alegar la ley que los desarrolla**.",
+      "t": "explica",
+      "titulo": "Paso 3: aplicabilidad y desarrollo normativo"
+    },
+    {
+      "md": "Pregunta: un ciudadano considera vulnerado un derecho de la Sección II (arts. 30-38). ¿Cómo se tutela?\n\n**Respuesta**: de acuerdo con el art. 161.1.a), es decir, mediante el **recurso de inconstitucionalidad**. No mediante recurso de amparo (reservado a la Sección I, con el art. 14) ni como simple principio orientador (Capítulo III).\n\nError típico: pensar que al ser «derechos» de un ciudadano tienen amparo. El amparo es del nivel alto, y la Sección II solo llega al nivel medio. En la práctica, el ciudadano alega la ley que desarrolla el derecho.",
+      "t": "explica",
+      "titulo": "Paso 4: la pregunta que fallaste, la Sección II"
+    },
+    {
+      "md": "Casos y su protección:\n\n1. Una persona sufre discriminación por razón de nacimiento (art. 14). Puede **alegar directamente** el derecho y recabar tutela ante los **Tribunales ordinarios** (nivel alto), además del nivel medio.\n2. Se vulnera un derecho de la Sección I (arts. 15-29). Procedimiento **preferente y sumario** y **recurso de amparo**; la ley que lo regula es **orgánica**.\n3. Se vulnera un derecho de la Sección II (arts. 30-38). Se tutela según el art. 161.1.a): **recurso de inconstitucionalidad**. Se alega la ley que lo desarrolla (ley ordinaria).\n4. Se invoca un principio del Capítulo III (arts. 39-52). Solo **informa** la legislación, la práctica judicial y la actuación de los poderes públicos (nivel bajo); se alega la ley que lo desarrolla.",
+      "t": "ejemplo",
+      "titulo": "Ejemplo resuelto"
+    },
+    {
+      "md": "**«14 y 15-29: ALTO y directo; 30-38: el 161; 39-52: solo orientan»**\n\n- **Alto** = Art. 14 + Sección I (los únicos con tutela preferente y sumaria y amparo).\n- **Sección II = «30-38» → el «161»**: la Sección II se tutela por el art. 161.1.a).\n- **Capítulo III = principios** que «informan».\n\nOtra regla: **cuanto más bajo el número del artículo, más protección**. Y la Sección I (15-29) se desarrolla por **Ley orgánica**; el resto, **por Ley**.",
+      "t": "truco",
+      "titulo": "Truco mnemotécnico"
+    },
+    {
+      "md": "| | Nivel MEDIO (53.1) | Nivel ALTO (53.2) | Nivel BAJO (53.3) | Aplicabilidad | Desarrollo |\n|---|---|---|---|---|---|\n| **Art. 14** | Vinculado a todos los poderes públicos | Recabar la tutela ante los Tribunales ordinarios | — | Alegación directa | Por Ley |\n| **Sección I (15-29)** | Solo por Ley podrá regularse el ejercicio | Procedimiento basado en preferencia y sumariedad, recurso de amparo + art. 30.2 | — | Alegación directa | Ley orgánica |\n| **Sección II (30-38)** | Tutelarán de acuerdo con el art. 161.1.a): recurso de inconstitucionalidad | — | — | Alegar la ley que lo desarrolla | Por Ley |\n| **Capítulo III (39-52)** | — | — | Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Principios orientadores de los poderes públicos | Alegar la ley que lo desarrolla | Por Ley |",
+      "t": "nota",
+      "titulo": "Datos para memorizar"
+    },
+    {
+      "md": "(conocimiento general, no viene de tus notas) El art. 53 CE se ubica en el Capítulo IV, «De las garantías de las libertades y derechos fundamentales». El recurso de amparo se estudia en la Lección 8 y la suspensión de derechos en la Lección 9.",
+      "t": "ampliacion",
+      "titulo": "Contexto adicional"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué cauce de tutela corresponde a los derechos de la Sección 2ª del Capítulo II (arts. 30-38)?",
+      "explicacion": "La Sección II se tutela de acuerdo con el art. 161.1.a), es decir, por el recurso de inconstitucionalidad. El amparo y el procedimiento preferente y sumario son del nivel alto.",
+      "opciones": [
+        "Procedimiento preferente y sumario ante los tribunales ordinarios",
+        "Recurso de amparo",
+        "Solo informan la práctica judicial",
+        "Recurso de inconstitucionalidad, según el art. 161.1.a)"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué grupo de derechos solo tiene protección de nivel bajo (art. 53.3)?",
+      "explicacion": "El Capítulo III (arts. 39-52) solo tiene nivel bajo: sus principios informan la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+      "opciones": [
+        "Sección I (arts. 15-29)",
+        "Art. 14",
+        "Capítulo III (arts. 39-52)",
+        "Sección II (arts. 30-38)"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué norma desarrolla los derechos de la Sección I (arts. 15-29) según el cuadro?",
+      "explicacion": "La Sección I se desarrolla por Ley orgánica; el art. 14, la Sección II y el Capítulo III, por Ley.",
+      "opciones": [
+        "Ley orgánica",
+        "Ley ordinaria, sin más",
+        "No requieren desarrollo normativo",
+        "Reglamento"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Cómo se invocan en la práctica los derechos de la Sección II (arts. 30-38)?",
+      "explicacion": "Según la nota, la aplicabilidad de la Sección II es «alegar la ley que lo desarrolla»; la alegación directa es propia del art. 14 y la Sección I.",
+      "opciones": [
+        "Mediante recurso de amparo",
+        "Alegando la ley que los desarrolla",
+        "No pueden invocarse",
+        "Por alegación directa del derecho"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué grupos de derechos tienen a la vez nivel medio y nivel alto de protección?",
+      "explicacion": "El art. 14 y la Sección I (arts. 15-29) tienen nivel medio (53.1) y alto (53.2). La Sección II solo tiene el medio y el Capítulo III solo el bajo.",
+      "opciones": [
+        "Sección I y Sección II",
+        "Sección II y Capítulo III",
+        "Art. 14 y Sección I",
+        "Solo el Capítulo III"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Nivel medio (art. 53.1): vinculado a todos los poderes públicos; solo por Ley podrá regularse el ejercicio",
+      "Nivel alto (art. 53.2): procedimiento basado en los principios de preferencia y sumariedad, recurso de amparo",
+      "Sección II (arts. 30-38): se tutela de acuerdo con el artículo 161.1.a), recurso de inconstitucionalidad",
+      "Nivel bajo (art. 53.3): los principios del Capítulo III informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos",
+      "Sección I (arts. 15-29): alegación directa y desarrollo por Ley orgánica"
+    ],
+    "consigna": "Explica con tus palabras los tres niveles de protección del art. 53 y a qué grupo de derechos corresponde cada uno, indicando cómo se tutela un derecho de la Sección II (arts. 30-38)."
+  },
+  "modulo": "M4",
+  "moduloTitulo": "Garantías y suspensión de los derechos",
+  "objetivo": "Determinar qué protección judicial corresponde a cada grupo de derechos de la Constitución según el art. 53 (nivel medio, alto y bajo), incluido el cauce de tutela de la Sección 2ª (arts. 30 a 38), que se hace a través del recurso de inconstitucionalidad (art. 161.1.a).",
+  "orden": 7,
+  "preguntasBanco": [
+    8
+  ],
+  "resumen": "El art. 53 establece tres niveles: el alto (tutela ante tribunales ordinarios con preferencia y sumariedad, y amparo) para el art. 14 y la Sección I; el medio (vinculación de los poderes públicos y reserva de ley) y, en la Sección II (arts. 30-38), tutela por el art. 161.1.a), recurso de inconstitucionalidad; y el bajo para el Capítulo III, cuyos principios solo informan la legislación, la práctica judicial y la actuación de los poderes públicos.",
+  "tema": "B1-T1",
+  "titulo": "Los tres niveles de protección judicial (art. 53)"
+}

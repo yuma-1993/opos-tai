@@ -1,0 +1,22 @@
+{
+  "checkOk": true,
+  "estado": "aprendiendo",
+  "explicacion": {
+    "feedback": "Muy buen trabajo: colocas bien todos los Títulos con sus artículos, incluido el Título IX (Tribunal Constitucional, arts. 159 a 165), y las cuatro partes quedan correctamente agrupadas. La parte final también es correcta: 4 adicionales, 9 transitorias, 1 derogatoria y 1 final. Solo unos detalles de redacción para repasar: la parte del Título X se llama «modificativa» (no «modificado»), y conviene aclarar que la parte final son disposiciones, no Títulos ni artículos.",
+    "ok": true,
+    "ts": 1792503790625
+  },
+  "intentosCheck": [
+    {
+      "aciertos": 4,
+      "total": 5,
+      "ts": 1792503383177
+    }
+  ],
+  "leccion": "B1-T1_L02",
+  "mejorPct": 80,
+  "primeraPct": 80,
+  "repasos": [],
+  "superadaTs": 1792503792615,
+  "tema": "B1-T1"
+}

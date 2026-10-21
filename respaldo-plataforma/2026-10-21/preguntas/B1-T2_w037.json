@@ -1,0 +1,16 @@
+{
+  "apartado": "El Tribunal Constitucional > Legitimación activa",
+  "correcta": 0,
+  "enunciado": "Una asociación de ámbito estatal y el Ministerio Fiscal valoran acudir al Tribunal Constitucional. ¿Cuál de las siguientes afirmaciones sobre la legitimación del Ministerio Fiscal es correcta?",
+  "explicacion": "La tabla de legitimación recoge al Ministerio Fiscal solo en el recurso de amparo (junto con toda persona natural o jurídica con interés legítimo y el Defensor del Pueblo); no figura entre los legitimados para el recurso de inconstitucionalidad. El distractor más tentador es el que lo equipara al Defensor del Pueblo, que sí tiene doble legitimación.",
+  "lote": 1792504590395,
+  "n": 37,
+  "opciones": [
+    "Puede interponer recurso de amparo, pero no recurso de inconstitucionalidad",
+    "Puede interponer tanto recurso de amparo como recurso de inconstitucionalidad",
+    "Solo puede interponer el recurso previo de inconstitucionalidad y el control previo de tratados",
+    "Puede interponer recurso de inconstitucionalidad, pero no recurso de amparo"
+  ],
+  "origen": "web",
+  "tema": "B1-T2"
+}

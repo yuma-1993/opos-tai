@@ -1,0 +1,14 @@
+{
+  "apartado": "Retribuciones",
+  "correcta": 2,
+  "enunciado": "Según la nota, las asistencias por concurrencia a reuniones o por participación en tribunales no podrán superar, para el conjunto de los tres tipos de asistencias, un importe por año natural superior a:",
+  "explicacion": "Nota: topes por tipo del 40 % (órganos colegiados), 25 % (cursos) y 20 % (tribunales), y para el conjunto un máximo del 50 % de las retribuciones anuales, excluidos los trienios.",
+  "n": 44,
+  "opciones": [
+    "El 25 % de las retribuciones anuales, excluidos los trienios",
+    "El 40 % de las retribuciones anuales, excluidos los trienios",
+    "El 50 % de las retribuciones anuales, excluidos los trienios",
+    "El 20 % de las retribuciones anuales, incluidos los trienios"
+  ],
+  "tema": "B1-T4.1"
+}

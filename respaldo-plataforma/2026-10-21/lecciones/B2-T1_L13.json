@@ -1,0 +1,126 @@
+{
+  "bloques": [
+    {
+      "md": "La memoria rápida es cara y pequeña; la barata es lenta y grande. Por eso un ordenador usa **varios niveles**: lo que más se necesita va en la memoria más rápida, cerca de la CPU. Es como tener en la mesa lo que usas ahora, en un cajón lo de hoy y en el archivo lo demás.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "**Registros → Caché → Memoria principal → Resto.**\n\nLa **caché** es de tipo **SRAM** y trabaja a nivel de **bloque**, no de celda. Su estructura: etiqueta, bloque y metadatos.\n\nNiveles de caché:\n\n- **L1**: dentro de la CPU, dividida en dos (datos e instrucciones).\n- **L1 y L2**: una por cada núcleo.\n- **L3**: **compartida** por todos los núcleos.",
+      "t": "explica",
+      "titulo": "La jerarquía (de más a menos rápida)"
+    },
+    {
+      "md": "- **Asignación** (dónde va cada bloque): directa (función mod), asociativa (recorre el bloque preguntando) o mixta.\n- **Política de sustitución** (qué sacar cuando se llena): FIFO, LRU, LFU, etc.\n- **Política de actualización**:\n  - *Write through* (escritura directa): al modificar la caché se modifica **también** la memoria principal.\n  - *Write back* (escritura diferida): se escribe en memoria principal **solo cuando el bloque va a salir** de la caché, para no perder la información.",
+      "t": "explica",
+      "titulo": "Reglas de la caché"
+    },
+    {
+      "md": "| Tipo | Descripción |\n|---|---|\n| ROM | Solo lectura |\n| EPROM | Se actualiza con luz UV |\n| EEPROM | Se borra eléctricamente |\n| SRAM | No necesita refresco de voltaje: más rápida (ahorra ciclos de reloj) |\n| DRAM | Dinámica: necesita refresco de voltaje |\n| SDRAM | DRAM síncrona; es la habitual |\n| DDR SDRAM | Double Data Rate: escribe en ciclos de subida y de bajada, doblando la velocidad |\n| NVRAM | RAM no volátil, alimentada por una batería |\n| GDDR | Para la tarjeta gráfica |\n| LPDDR | Para móviles (Low Power) |\n\nEncapsulado: **DIMM** (contactos separados a ambos lados) y **SO-DIMM** (para portátiles).",
+      "t": "explica",
+      "titulo": "Tipos de memoria"
+    },
+    {
+      "md": "Bus de 200 MHz × 2 (subida y bajada) × 8 bytes (64 bits) = **3200 MB/s**. Por eso su nombre comercial es **PC-3200**: el número es la máxima capacidad de transferencia.",
+      "t": "ejemplo",
+      "titulo": "Por qué DDR-400 se llama PC-3200"
+    },
+    {
+      "md": "| Latencia | Qué mide |\n|---|---|\n| RAS | Tiempo en colocarse sobre una fila |\n| CAS | Tiempo en colocarse sobre una columna o celda |\n| ACTIVE | Tiempo en activar un tablero |\n| PRECHARGE | Tiempo en desactivar un tablero |\n\nLo que importa para el examen es el total hasta obtener el dato: **ACTIVE + RAS + CAS** (PRECHARGE no entra).",
+      "t": "explica",
+      "titulo": "Latencias de la RAM"
+    },
+    {
+      "md": "Write **through** = **a través**, escribe a la vez en los dos sitios. Write **back** = **de vuelta**, lo deja pendiente y lo devuelve al salir. Y SRAM = sin refresco = rápida (la caché).",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Jerarquía: Registros > Caché > Memoria Principal > Resto.\n- Caché: SRAM, por bloque. L1 y L2 por núcleo, L3 compartida; L1 dividida en datos e instrucciones.\n- Write through = inmediato. Write back = diferido (al salir de caché).\n- Latencia total = ACTIVE + RAS + CAS.\n- DDR-400: 200 × 2 × 8 = 3200 MB/s → PC-3200.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué diferencia a la SRAM de la DRAM?",
+      "explicacion": "SRAM no necesita refresco de voltaje y ahorra ciclos de reloj; la caché es SRAM.",
+      "opciones": [
+        "La SRAM no necesita refresco y es más rápida",
+        "La SRAM necesita refresco y es más lenta",
+        "Ambas necesitan refresco",
+        "La DRAM es más rápida"
+      ]
+    },
+    {
+      "correcta": 2,
+      "enunciado": "En la política write back:",
+      "explicacion": "Write back es la escritura diferida: al salir el bloque de la caché.",
+      "opciones": [
+        "Se escribe en memoria principal a la vez que en caché",
+        "Nunca se escribe en memoria principal",
+        "Se escribe solo cuando el bloque va a salir de la caché",
+        "Se escribe cada vez que se lee"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué caché está compartida por todos los núcleos?",
+      "explicacion": "L1 y L2 son por cada núcleo; la L3 es compartida.",
+      "opciones": [
+        "L1",
+        "L2",
+        "Ninguna",
+        "L3"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Cómo se calcula el tiempo total que tarda la RAM en dar el dato?",
+      "explicacion": "El total es la suma de ACTIVE + RAS + CAS.",
+      "opciones": [
+        "ACTIVE + RAS + CAS",
+        "RAS + CAS",
+        "ACTIVE + PRECHARGE",
+        "RAS + PRECHARGE"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Por qué una DDR-400 se llama PC-3200?",
+      "explicacion": "200 MHz × 2 × 8 B = 3200 MB/s.",
+      "opciones": [
+        "Porque tiene 3200 MHz",
+        "Porque transfiere como máximo 3200 MB/s (200 × 2 × 8 B)",
+        "Porque tiene 3200 celdas",
+        "Porque funciona a 3,2 V"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Jerarquía de más a menos rápida: registros, caché, memoria principal y el resto",
+      "La caché es SRAM, trabaja por bloques; L1 y L2 son por núcleo y L3 compartida",
+      "Write through modifica caché y memoria principal a la vez; write back solo al salir el bloque de la caché",
+      "SRAM no necesita refresco y es más rápida; DRAM sí lo necesita",
+      "La latencia total es ACTIVE + RAS + CAS",
+      "DDR-400: 200 MHz × 2 × 8 B = 3200 MB/s, PC-3200"
+    ],
+    "consigna": "Explícame la jerarquía de memorias, cómo funciona la caché (niveles y políticas de actualización), la diferencia entre SRAM y DRAM y cómo se calcula la latencia total."
+  },
+  "modulo": "M2",
+  "moduloTitulo": "El computador por dentro",
+  "objetivo": "Entender por qué hay varios niveles de memoria, cómo trabaja la caché y distinguir los tipos de RAM y sus latencias.",
+  "orden": 13,
+  "preguntasBanco": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "resumen": "Registros > caché (SRAM, bloques; L1/L2 por núcleo, L3 compartida) > principal > resto. Write through = a la vez; write back = al salir. Latencia = ACTIVE + RAS + CAS. DDR-400 = PC-3200.",
+  "tema": "B2-T1",
+  "titulo": "La memoria: jerarquía, caché, tipos y latencias"
+}

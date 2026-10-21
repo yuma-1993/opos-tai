@@ -1,0 +1,124 @@
+{
+  "bloques": [
+    {
+      "md": "Un **cubo OLAP** es una forma de guardar los datos pensada para analizarlos **desde varios ángulos a la vez**: por producto, por región, por tiempo… Imagina un cubo de Rubik: cada eje es un criterio y cada casilla es una cifra.",
+      "t": "idea",
+      "titulo": "La idea"
+    },
+    {
+      "md": "- **Tabla de hechos**: los datos numéricos y medibles (ventas, importes). La «foto» resumen.\n- **Tablas de dimensión**: los ejes por los que se corta esa foto (tiempo, geografía, cliente, producto…).",
+      "t": "explica",
+      "titulo": "Hechos y dimensiones"
+    },
+    {
+      "md": "| Tipo | Significado |\n|---|---|\n| MOLAP | Multidimensional (cubos precalculados, muy rápido) |\n| ROLAP | Relacional (usa una BBDD relacional por debajo) |\n| HOLAP | Híbrido (mezcla de los dos anteriores) |\n| WOLAP | Web (acceso vía navegador) |\n| RTOLAP | Real Time |\n| SOLAP | Espacial (datos geográficos) |\n| DOLAP | Desktop (local, para un usuario) |",
+      "t": "explica",
+      "titulo": "Variantes de OLAP"
+    },
+    {
+      "md": "**MDX** es el lenguaje para consultar cubos OLAP, igual que SQL consulta tablas relacionales, pero pensado para moverse por varias dimensiones a la vez.",
+      "t": "explica",
+      "titulo": "MDX"
+    },
+    {
+      "md": "- **Drill down** ↓: más detalle (año → trimestre → mes).\n- **Drill up / Roll up** ↑: menos detalle (se agrega hacia arriba).\n- **Slice**: fijas un valor de **una** dimensión y obtienes un subcubo (una «loncha»).\n- **Dice**: filtras por **2 o más** dimensiones a la vez: un subcubo más pequeño y específico.\n- **Pivot (rotar)**: cambias qué dimensiones van en filas y columnas para ver el informe desde otro ángulo.",
+      "t": "explica",
+      "titulo": "Operaciones OLAP"
+    },
+    {
+      "md": "Cubo con dimensiones producto, región y tiempo:\n\n- **Slice**: me quedo solo con el año 2025 (una dimensión fijada).\n- **Dice**: me quedo con el año 2025, la región Norte y el producto A (varias dimensiones filtradas).\n\nEs un ejemplo para entenderlo; no viene como tal en tu nota.",
+      "t": "ejemplo",
+      "titulo": "Slice y Dice sobre un cubo de ventas"
+    },
+    {
+      "md": "**Slice = 1 corte** (una dimensión). **Dice = varios cortes**, como los dados, que tienen varias caras. Drill **down** = bajar a más detalle. Roll **up** = subir a menos detalle.",
+      "t": "truco",
+      "titulo": "Truco"
+    },
+    {
+      "md": "- Tabla de hechos = datos medibles; tablas de dimensión = ejes.\n- MOLAP multidimensional, ROLAP relacional, HOLAP híbrido, WOLAP web, RTOLAP real time, SOLAP espacial, DOLAP desktop.\n- Slice: una dimensión. Dice: 2 o más dimensiones. Pivot: rotar filas y columnas.\n- MDX consulta cubos como SQL consulta tablas.",
+      "t": "nota",
+      "titulo": "Lo que dice tu nota (memorízalo)"
+    }
+  ],
+  "check": [
+    {
+      "correcta": 2,
+      "enunciado": "¿Qué contiene la tabla de hechos?",
+      "explicacion": "Las dimensiones son los ejes; los hechos son lo que se mide.",
+      "opciones": [
+        "Los ejes de corte del cubo",
+        "Las consultas MDX",
+        "Los datos numéricos o medibles, como ventas o importes",
+        "Las reglas del ETL"
+      ]
+    },
+    {
+      "correcta": 0,
+      "enunciado": "¿Qué variante de OLAP trabaja con datos geográficos?",
+      "explicacion": "SOLAP = espacial.",
+      "opciones": [
+        "SOLAP",
+        "DOLAP",
+        "HOLAP",
+        "WOLAP"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "¿Qué diferencia hay entre Slice y Dice?",
+      "explicacion": "Slice = una dimensión; Dice = 2 o más.",
+      "opciones": [
+        "Slice usa varias dimensiones y Dice una",
+        "Slice fija una dimensión; Dice filtra por 2 o más",
+        "Son lo mismo",
+        "Slice rota el cubo y Dice lo agrega"
+      ]
+    },
+    {
+      "correcta": 3,
+      "enunciado": "¿Qué operación cambia las dimensiones de filas y columnas?",
+      "explicacion": "Pivot (rotar) cambia qué dimensiones van en filas y columnas.",
+      "opciones": [
+        "Drill down",
+        "Roll up",
+        "Slice",
+        "Pivot"
+      ]
+    },
+    {
+      "correcta": 1,
+      "enunciado": "Pasar de año a trimestre y a mes es una operación de:",
+      "explicacion": "Drill down = más detalle (año → trimestre → mes).",
+      "opciones": [
+        "Roll up",
+        "Drill down",
+        "Dice",
+        "Pivot"
+      ]
+    }
+  ],
+  "explicaTe": {
+    "claves": [
+      "Un cubo OLAP representa los datos de forma multidimensional para analizarlos rápido",
+      "La tabla de hechos contiene los datos numéricos medibles y las tablas de dimensión los ejes de corte",
+      "Slice fija una dimensión y da un subcubo; Dice filtra por 2 o más dimensiones",
+      "Drill down da más detalle y roll up menos; pivot cambia filas y columnas",
+      "MDX es el lenguaje para consultar cubos OLAP"
+    ],
+    "consigna": "Explícame qué es un cubo OLAP, la diferencia entre tabla de hechos y de dimensión y qué hacen slice, dice, drill down y pivot."
+  },
+  "modulo": "M3",
+  "moduloTitulo": "Sistemas de información y BI",
+  "objetivo": "Entender qué es un cubo, sus variantes y las operaciones slice, dice, drill y pivot.",
+  "orden": 18,
+  "preguntasBanco": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "resumen": "Cubo = hechos (medibles) + dimensiones (ejes). Variantes: MOLAP, ROLAP, HOLAP, WOLAP, RTOLAP, SOLAP, DOLAP. MDX consulta cubos. Slice 1 dimensión, Dice 2 o más, drill down/up, pivot.",
+  "tema": "B2-T1",
+  "titulo": "Cubos OLAP, MDX y sus operaciones"
+}
